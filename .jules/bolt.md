@@ -17,3 +17,7 @@
 ## 2024-06-25 - [Hash Map Optimization in Search Initialization]
 **Learning:** Initializing the search filter cache (`buildPubIndex`) with a nested loop that calls `array.find()` to map DOM elements back to pre-created cache objects results in an O(n²) time complexity. As the number of DOM elements (publications) grows, this becomes a severe blocking bottleneck on the main thread during initialization.
 **Action:** Replace `O(n)` array searches inside loops with `O(1)` Map lookups (`new Map()`), effectively reducing the initialization phase complexity from `O(n²)` to `O(n)`.
+
+## 2025-02-17 - Pre-render DOM elements to eliminate client-side construction
+**Learning:** Constructing complex and repetitive DOM elements (like copy buttons and wrappers) via client-side JavaScript (`document.createElement`) significantly bloats main-thread execution time and causes layout thrashing, even when batched.
+**Action:** Shift the construction of these elements to the build phase (SSR-like behavior) by updating the generation script to output the complete HTML structures, completely eliminating the need for initialization scripts on the client.
