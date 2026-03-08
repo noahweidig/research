@@ -28,3 +28,7 @@
 ## 2025-02-17 - Eliminate redundant client-side DOM node recreation in dynamic components
 **Learning:** Reconstructing the DOM dynamically with `document.createElement`, `document.createTextNode`, and `.appendChild` over and over again for dynamic UI feedback (like a changing "No results" search query text and a static button) causes unnecessary main-thread overhead, repeated memory allocations for identical elements, and potential layout thrashing.
 **Action:** Pre-render the HTML structure of the dynamic component and use JavaScript solely to update its display state and the text content of its specific changing parts (like an inner `<span>`), completely avoiding DOM node recreation.
+
+## 2025-02-18 - Prevent layout thrashing on static UI nodes during search
+**Learning:** Unconditionally updating `.textContent` and `.style.display` on static DOM nodes (like search query display strings) during frequent events like debounced search input causes redundant layout invalidations and thrashing. Additionally, continually fetching static UI nodes via `document.getElementById` within the function runs unnecessary DOM lookups.
+**Action:** Cache static UI nodes outside of the function scope and explicitly verify the current element state against the target state before applying updates (e.g., `if (cachedNode.textContent !== query) { ... }`).

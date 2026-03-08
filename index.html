@@ -1262,27 +1262,39 @@ For fire managers in the southern region, this study supports the use of prescri
       });
 
       // 3. Show/hide "No results" and announce search count
-      const noResults = document.getElementById('search-no-results');
-      const announcer = document.getElementById('search-announcer');
-
       if (totalVisible > 0) {
-        if (noResults) noResults.style.display = 'none';
-        if (announcer) {
-          if (query) {
-            announcer.textContent = `${totalVisible} publication${totalVisible === 1 ? '' : 's'} found.`;
-          } else {
-            announcer.textContent = '';
+        if (cachedNoResults && cachedNoResults.style.display !== 'none') {
+          cachedNoResults.style.display = 'none';
+        }
+        if (cachedAnnouncer) {
+          const targetAnnounce = query ? `${totalVisible} publication${totalVisible === 1 ? '' : 's'} found.` : '';
+          if (cachedAnnouncer.textContent !== targetAnnounce) {
+            cachedAnnouncer.textContent = targetAnnounce;
           }
         }
       } else {
-        if (announcer) announcer.textContent = query ? '0 publications found.' : '';
-        if (noResults) {
-          noResults.style.display = 'block';
-          const queryDisplay = document.getElementById('search-query-display');
-          if (queryDisplay) queryDisplay.textContent = query;
+        if (cachedAnnouncer) {
+          const targetAnnounce = query ? '0 publications found.' : '';
+          if (cachedAnnouncer.textContent !== targetAnnounce) {
+            cachedAnnouncer.textContent = targetAnnounce;
+          }
+        }
+        if (cachedNoResults) {
+          if (cachedNoResults.style.display !== 'block') {
+            cachedNoResults.style.display = 'block';
+          }
+          if (cachedQueryDisplay && cachedQueryDisplay.textContent !== query) {
+            cachedQueryDisplay.textContent = query;
+          }
         }
       }
     }
+
+    // PERFORMANCE: Cache UI elements outside the filter function to eliminate
+    // redundant O(n) document.getElementById lookups during frequent search events.
+    const cachedNoResults = document.getElementById('search-no-results');
+    const cachedAnnouncer = document.getElementById('search-announcer');
+    const cachedQueryDisplay = document.getElementById('search-query-display');
 
     searchToggle.addEventListener('click', () => {
       searchOverlay.style.display = 'flex';
