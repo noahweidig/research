@@ -17,3 +17,8 @@
 **Vulnerability:** Inline styles from Zotero could contain URLs that execute JavaScript.
 **Learning:** `sanitize-html` does not block `url()` from inline CSS values unless explicitly filtered.
 **Prevention:** Filter out `url()` and expressions from allowed style attributes or use strict regex.
+
+## 2025-03-08 - [HIGH] XSS in Inline Styles via CSS Parsing Laxity
+**Vulnerability:** The HTML sanitization configuration in `scripts/sanitize.js` allowed specific inline CSS properties (`line-height`, `padding-left`, etc.) and attempted to prevent XSS payloads by using a negative lookahead regex: `/^(?!.*(?:url|expression)\s*\().*$/i`. However, browsers are extremely lax when parsing CSS, allowing attackers to easily bypass this regex using techniques such as hex escapes (e.g., `\75\72\6c(javascript:alert(1))`), escaped parentheses (e.g., `url\(...`), or tab characters between "url" and "(". This allowed CSS-based XSS vectors.
+**Learning:** Negative lookahead regexes designed to block specific blacklisted strings (like `url` or `expression`) in CSS are almost always insufficient due to the myriad of ways attackers can obfuscate the strings while still having them evaluated by the browser's CSS engine.
+**Prevention:** Always use a strict allowlist regex (e.g., `/^[a-zA-Z0-9\-\. !]+$/`) that only permits explicitly allowed characters for the specific CSS property, entirely blocking structural characters like `(`, `)`, `\`, `"`, `'`, etc.
