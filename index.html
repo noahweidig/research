@@ -955,9 +955,9 @@
 
   <!-- Search Overlay -->
   <div id="search-overlay" class="search-overlay">
-    <button id="search-close" class="search-close" aria-label="Close search" title="Close search">&times;</button>
+    <button id="search-close" class="search-close" aria-label="Close search" title="Close search (Esc)">&times;</button>
     <div class="search-wrapper">
-      <input type="text" id="search-input" class="search-input" placeholder="Search publications..." aria-label="Search publications">
+      <input type="text" id="search-input" class="search-input" placeholder="Search publications..." aria-label="Search publications" autocomplete="off" spellcheck="false">
       <button id="search-clear" class="search-clear" aria-label="Clear search" title="Clear search" hidden>&times;</button>
     </div>
   </div>
@@ -1253,7 +1253,7 @@ For fire managers in the southern region, this study supports the use of prescri
           }
         }
       } else {
-        if (announcer) announcer.textContent = '';
+        if (announcer) announcer.textContent = query ? '0 publications found.' : '';
         if (noResults) {
           noResults.style.display = 'block';
           const queryDisplay = document.getElementById('search-query-display');
