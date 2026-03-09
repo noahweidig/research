@@ -14,11 +14,12 @@ export function sanitizeHtml(html) {
     allowedStyles: {
       '*': {
         // Allow specific properties used by CSL styles, preventing XSS via url() or expression()
-        'line-height': [/^(?!.*(?:url|expression)\s*\().*$/i],
-        'padding-left': [/^(?!.*(?:url|expression)\s*\().*$/i],
-        'text-indent': [/^(?!.*(?:url|expression)\s*\().*$/i],
-        'font-style': [/^(?!.*(?:url|expression)\s*\().*$/i],
-        'font-weight': [/^(?!.*(?:url|expression)\s*\().*$/i]
+        // SENTINEL: Use a strict allowlist regex to prevent CSS-based XSS via obfuscated url() payloads (e.g. \75rl(), url\(), url&Tab;())
+        'line-height': [/^[a-zA-Z0-9\-\. %!]+$/],
+        'padding-left': [/^[a-zA-Z0-9\-\. %!]+$/],
+        'text-indent': [/^[a-zA-Z0-9\-\. %!]+$/],
+        'font-style': [/^[a-zA-Z0-9\-\. %!]+$/],
+        'font-weight': [/^[a-zA-Z0-9\-\. %!]+$/]
       }
     },
     allowedSchemes: [ 'http', 'https', 'mailto' ],
