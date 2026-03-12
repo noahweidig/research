@@ -19,6 +19,7 @@
       --text-faint: #586880;
 
       --accent-primary: #518afc;
+      --accent-primary-glow: rgba(81, 138, 252, 0.4);
       --accent-secondary: #01ccb6;
       --accent-tertiary: #155dfc;
 
@@ -44,6 +45,7 @@
       --text-faint: #94a3b8;
 
       --accent-primary: #4f39f6;
+      --accent-primary-glow: rgba(79, 57, 246, 0.4);
       --accent-secondary: #077a70;
       --accent-tertiary: #ea580c;
 
@@ -607,6 +609,12 @@
     #expand-toggle {
       font-family: inherit;
       appearance: none;
+      animation: focus-pulse 3s infinite cubic-bezier(0.66, 0, 0.34, 1);
+    }
+
+    #expand-toggle:hover,
+    #expand-toggle:focus-visible {
+      animation: none;
     }
 
     summary::-webkit-details-marker { display: none; }
@@ -714,6 +722,12 @@
     @keyframes fadeIn {
       from { opacity: 0; transform: translateY(-3px); }
       to { opacity: 1; transform: translateY(0); }
+    }
+
+    @keyframes focus-pulse {
+      0% { box-shadow: 0 0 0 0 var(--accent-primary-glow); border-color: var(--card-border); }
+      50% { box-shadow: 0 0 0 4px rgba(0, 0, 0, 0); border-color: var(--accent-primary); }
+      100% { box-shadow: 0 0 0 0 rgba(0, 0, 0, 0); border-color: var(--card-border); }
     }
 
     /* ── Footer ── */
