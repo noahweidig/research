@@ -31,3 +31,7 @@
 ## 2025-05-18 - Keyboard Accessible Menus
 **Learning:** Custom interactive elements like a mobile hamburger menu must handle the `Escape` key to close themselves. Additionally, when closed via keyboard, focus must be returned to the toggle button to maintain a coherent tab sequence.
 **Action:** Whenever building or modifying a custom toggle menu, verify that pressing `Escape` closes the menu and focus explicitly returns to the trigger element (`trigger.focus()`).
+
+## 2025-05-18 - Discoverability of Keyboard Shortcuts
+**Learning:** Invisible keyboard interactions (like Cmd+K for search) are great for power users, but if they aren't surfaced in the UI, they remain hidden features. A subtle `<kbd>` hint integrated into the existing trigger button provides excellent discoverability without clutter.
+**Action:** When a global keyboard shortcut exists, always provide a visual affordance (like a `<kbd>` tag inside the relevant button) visible on desktop viewports.
