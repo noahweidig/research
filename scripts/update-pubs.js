@@ -93,6 +93,12 @@ function linkify(t) {
     .replace(urlRegex, (match, p1) => `<a href="${p1}" target="_blank" rel="noopener noreferrer">${p1}</a>`);
 }
 
+function stripInlineUrls(bib) {
+  // Remove anchor tags whose visible text is a raw URL (e.g. long PDF schedule links),
+  // so presentation citations only show the "View Online" button instead.
+  return bib.replace(/\s*<a\b[^>]*>\s*https?:\/\/[^<]+<\/a>\s*/gi, " ").replace(/\s{2,}/g, " ").trim();
+}
+
 function categorize(it) {
   const t = it.data.itemType;
   const webinarText = [it.data.title, it.data.event, it.data.genre, it.bib]
@@ -127,7 +133,7 @@ items.forEach(it => {
   const safeBib = sanitizeHtml(linkedBib);
   grouped[type].push({
     year: extractYear(it.data.date),
-    bib: safeBib,
+    bib: type === "Presentations" ? stripInlineUrls(safeBib) : safeBib,
     abs: escapeHtml(it.data.abstractNote),
     link: safeBib.match(hrefRegex)?.[1] || "",
     title: escapeHtml(it.data.title || ""),
