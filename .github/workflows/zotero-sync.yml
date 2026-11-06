@@ -32,10 +32,7 @@ jobs:
           ZOTERO_LIBRARY_ID: ${{ secrets.ZOTERO_LIBRARY_ID }}
           ZOTERO_LIBRARY_TYPE: ${{ vars.ZOTERO_LIBRARY_TYPE || 'user' }}
           UNPAYWALL_EMAIL: ${{ secrets.UNPAYWALL_EMAIL }}
-        run: python scripts/zotero_sync.py ${{ inputs.full && '--full' || '' }} ${{ inputs.retry_missing && '--retry-missing' || '' }}
+        run: python scripts/zotero_sync.py --checkpoint-every 50 --checkpoint-cmd scripts/checkpoint.sh ${{ inputs.full && '--full' || '' }} ${{ inputs.retry_missing && '--retry-missing' || '' }}
       - name: Commit
-        run: |
-          git config user.name "zotero-sync[bot]"
-          git config user.email "zotero-sync@users.noreply.github.com"
-          git add -A papers .state
-          git diff --cached --quiet || (git commit -m "Zotero sync $(date -u +%F)" && git push)
+        if: always()
+        run: scripts/checkpoint.sh
