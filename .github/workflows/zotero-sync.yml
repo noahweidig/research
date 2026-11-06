@@ -32,7 +32,6 @@ jobs:
           ZOTERO_LIBRARY_ID: ${{ secrets.ZOTERO_LIBRARY_ID }}
           ZOTERO_LIBRARY_TYPE: ${{ vars.ZOTERO_LIBRARY_TYPE || 'user' }}
           UNPAYWALL_EMAIL: ${{ secrets.UNPAYWALL_EMAIL }}
-          ALLOW_ZOTERO_ATTACHMENTS: ${{ vars.ALLOW_ZOTERO_ATTACHMENTS || '0' }}
         run: python scripts/zotero_sync.py ${{ inputs.full && '--full' || '' }} ${{ inputs.retry_missing && '--retry-missing' || '' }}
       - name: Commit
         run: |

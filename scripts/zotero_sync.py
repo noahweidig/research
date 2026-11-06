@@ -171,12 +171,10 @@ def jats_to_md(xml):
     return "\n".join(out)
 
 
-def get_fulltext(meta, zot_attach_pdfs):
+def get_fulltext(meta):
     """Return (markdown|None, source|None, license_note)."""
     doi = meta["doi"]
     cands = []
-    if zot_attach_pdfs:
-        cands += [(u, "zotero") for u in meta.get("_attach", [])]
     if doi:
         if os.environ.get("UNPAYWALL_EMAIL"):
             cands += src_unpaywall(doi)
@@ -190,10 +188,7 @@ def get_fulltext(meta, zot_attach_pdfs):
             continue
         seen.add(url)
         try:
-            if src == "zotero":
-                r = get(url, headers=zot_headers())
-                md = pdf_to_md(r.content) if r is not None and r.status_code == 200 else None
-            elif src == "europepmc":
+            if src == "europepmc":
                 r = get(url)
                 md = jats_to_md(r.text) if r is not None and r.status_code == 200 else None
             else:
@@ -251,18 +246,12 @@ def main():
             sys.exit(f"missing env {k}")
     if not os.environ.get("UNPAYWALL_EMAIL"):
         log("warn: UNPAYWALL_EMAIL unset; Unpaywall skipped")
-    attach_ok = os.environ.get("ALLOW_ZOTERO_ATTACHMENTS") == "1"
     PAPERS.mkdir(exist_ok=True)
     state = json.loads(STATE.read_text()) if STATE.exists() else {"version": 0, "items": {}}
     since = 0 if a.full else state["version"]
     items, new_ver = zot_fetch_items(since)
     log(f"{len(items)} changed items since v{since}")
     top = {i["key"]: i for i in items if i["data"]["itemType"] not in ("attachment", "note", "annotation")}
-    kids = {}
-    for i in items:
-        d = i["data"]
-        if d["itemType"] == "attachment" and d.get("parentItem") and d.get("contentType") == "application/pdf":
-            kids.setdefault(d["parentItem"], []).append(f"{zot_base()}/items/{i['key']}/file")
     if a.retry_missing:
         for k, v in state["items"].items():
             if v["status"] == "metadata-only" and k not in top:
@@ -295,7 +284,7 @@ def main():
             "url": d.get("url") or (f"https://doi.org/{doi}" if doi else None),
             "source_url": None, "fulltext_status": "metadata-only",
             "synced": time.strftime("%Y-%m-%d"),
-            "_abstract": d.get("abstractNote"), "_attach": kids.get(key, []),
+            "_abstract": d.get("abstractNote"),
         }
         body = None
         if prev and prev["status"] == "fulltext" and not a.full and (ROOT / prev["path"]).exists():
@@ -305,7 +294,7 @@ def main():
             meta["fulltext_status"] = "fulltext" if body else "metadata-only"
         elif not a.no_fulltext:
             log(f"[{n}] fulltext: {title[:70]}")
-            body, src = get_fulltext(meta, attach_ok)
+            body, src = get_fulltext(meta)
             if body:
                 meta["fulltext_status"], meta["source_url"] = "fulltext", src
         if prev and prev["path"] != rel and (ROOT / prev["path"]).exists():
