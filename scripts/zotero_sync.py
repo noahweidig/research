@@ -1,8 +1,13 @@
 #!/usr/bin/env python3
 """Incremental Zotero -> markdown sync with open-access fulltext lookup."""
-import argparse, json, os, re, sys, time, io
+import argparse, json, os, re, sys, time, io, threading, random
+import subprocess
+from concurrent.futures import ThreadPoolExecutor, ProcessPoolExecutor, as_completed
 from pathlib import Path
+from urllib.parse import urlparse
+import multiprocessing as mp
 import requests, yaml
+from requests.adapters import HTTPAdapter
 
 ROOT = Path(__file__).resolve().parent.parent
 PAPERS = ROOT / "papers"
@@ -10,7 +15,26 @@ STATE = ROOT / ".state" / "state.json"
 TOPICS = yaml.safe_load((ROOT / "config" / "topics.yml").read_text())
 UA = "research-kb/0.1 (mailto:{})"
 S = requests.Session()
+S.mount("https://", HTTPAdapter(pool_connections=32, pool_maxsize=64))
+S.mount("http://", HTTPAdapter(pool_connections=32, pool_maxsize=64))
 MIN_CHARS = 3000
+# min seconds between requests per host (Unpaywall cap is 100k/day; S2 unauthenticated ~1 rps)
+HOST_GAP = {"api.zotero.org": 0.1, "api.unpaywall.org": 0.1, "www.ebi.ac.uk": 0.1,
+            "api.semanticscholar.org": 1.0}
+DEFAULT_GAP = 0.25
+_next, _lock = {}, threading.Lock()
+_pool = None
+
+
+def throttle(url):
+    host = urlparse(url).netloc
+    gap = HOST_GAP.get(host, DEFAULT_GAP)
+    with _lock:
+        now = time.monotonic()
+        t = max(now, _next.get(host, 0))
+        _next[host] = t + gap
+    if t > now:
+        time.sleep(t - now)
 
 
 def log(*a):
@@ -19,13 +43,17 @@ def log(*a):
 
 def get(url, retries=3, **kw):
     kw.setdefault("timeout", 60)
+    if "api.semanticscholar.org" in url and os.environ.get("SEMANTIC_SCHOLAR_API_KEY"):
+        kw["headers"] = {**kw.get("headers", {}), "x-api-key": os.environ["SEMANTIC_SCHOLAR_API_KEY"]}
     for i in range(retries):
+        throttle(url)
         try:
             r = S.get(url, **kw)
         except requests.RequestException as e:
-            log("  net err", url, e); time.sleep(2 ** i); continue
+            log("  net err", url, e); time.sleep(2 ** i + random.random()); continue
         if r.status_code in (429, 503):
-            time.sleep(int(r.headers.get("Retry-After", 2 ** (i + 1)))); continue
+            ra = r.headers.get("Retry-After", "")
+            time.sleep(int(ra) if ra.isdigit() else 2 ** (i + 1) + random.random()); continue
         return r
     return None
 
@@ -39,25 +67,36 @@ def zot_headers():
     return {"Zotero-API-Key": os.environ["ZOTERO_API_KEY"], "Zotero-API-Version": "3"}
 
 
-def zot_fetch_items(since):
-    """Yield (items, library_version). Top-level + child attachments."""
-    items, start, ver = [], 0, since
-    while True:
-        r = get(f"{zot_base()}/items", headers=zot_headers(),
+def zot_fetch_items(since, workers=8):
+    """Return (items, library_version). Top-level items only; pages after the first fetched in parallel."""
+    def page(start):
+        r = get(f"{zot_base()}/items/top", headers=zot_headers(),
                 params={"since": since, "limit": 100, "start": start, "format": "json"})
         if r is None or r.status_code != 200:
             sys.exit(f"Zotero error: {r.status_code if r is not None else 'net'} {getattr(r, 'text', '')[:200]}")
-        batch = r.json()
-        ver = int(r.headers.get("Last-Modified-Version", ver))
-        items += batch
-        if len(batch) < 100:
-            return items, ver
-        start += 100
+        return r
+    r0 = page(0)
+    ver = int(r0.headers.get("Last-Modified-Version", since))
+    total = int(r0.headers.get("Total-Results", len(r0.json())))
+    items = r0.json()
+    starts = list(range(100, total, 100))
+    if starts:
+        with ThreadPoolExecutor(min(workers, len(starts))) as ex:
+            for r in ex.map(page, starts):
+                items += r.json()
+    return items, ver
 
 
 def zot_deleted(since):
     r = get(f"{zot_base()}/deleted", headers=zot_headers(), params={"since": since})
     return r.json().get("items", []) if r is not None and r.status_code == 200 else []
+
+
+def atomic_write(path, text):
+    path.parent.mkdir(parents=True, exist_ok=True)
+    tmp = path.with_name(f".{path.name}.{os.getpid()}.tmp")
+    tmp.write_text(text)
+    os.replace(tmp, path)
 
 
 def slug(s, n=50):
@@ -91,10 +130,16 @@ def authors_of(creators):
 
 
 # ---------- fulltext ----------
-def pdf_to_md(data):
+def _pdf_to_md(data):
     import pymupdf4llm, pymupdf
     doc = pymupdf.open(stream=data, filetype="pdf")
     return pymupdf4llm.to_markdown(doc)
+
+
+def pdf_to_md(data):
+    if _pool is None:
+        return _pdf_to_md(data)
+    return _pool.submit(_pdf_to_md, data).result()
 
 
 def html_to_md(html):
@@ -228,10 +273,19 @@ def build_index(state):
             t = str(fm.get("title", "")).replace("|", "/")
             lines.append(f"| {fm.get('year')} | [{t}]({rel}) | {str(fm.get('journal') or '').replace('|', '/')} | {fm.get('fulltext_status')} |")
         lines.append("")
-    (PAPERS / "INDEX.md").write_text("\n".join(lines))
-    (PAPERS / "index.json").write_text(json.dumps(
+    atomic_write(PAPERS / "INDEX.md", "\n".join(lines))
+    atomic_write(PAPERS / "index.json", json.dumps(
         [dict(fm, path=p.relative_to(PAPERS).as_posix()) for v in rows.values() for p, fm in v],
         indent=1, default=str))
+
+
+def checkpoint(cmd):
+    if not cmd:
+        return
+    try:
+        subprocess.run(cmd, shell=True, check=True, cwd=ROOT)
+    except Exception as e:
+        log("  checkpoint failed:", e)
 
 
 def main():
@@ -240,6 +294,12 @@ def main():
     ap.add_argument("--limit", type=int, help="max items to process (testing)")
     ap.add_argument("--retry-missing", action="store_true", help="retry fulltext for metadata-only items")
     ap.add_argument("--no-fulltext", action="store_true")
+    ap.add_argument("--checkpoint-every", type=int, default=0, help="run --checkpoint-cmd every N finished items")
+    ap.add_argument("--checkpoint-cmd", help="shell command to persist progress (e.g. git commit+push)")
+    ap.add_argument("--workers", type=int, default=int(os.environ.get("SYNC_WORKERS", 16)),
+                    help="concurrent item threads")
+    ap.add_argument("--pdf-procs", type=int, default=os.cpu_count() or 1,
+                    help="processes for PDF->markdown (1 = in-process)")
     a = ap.parse_args()
     for k in ("ZOTERO_API_KEY", "ZOTERO_LIBRARY_ID"):
         if not os.environ.get(k):
@@ -262,11 +322,13 @@ def main():
         old = state["items"].pop(k, None)
         if old and (ROOT / old["path"]).exists():
             (ROOT / old["path"]).unlink()
-    n = 0
-    for key, it in top.items():
-        if a.limit and n >= a.limit:
-            break
-        n += 1
+    keys = sorted(top)
+    if a.limit:
+        keys = keys[:a.limit]
+    today = time.strftime("%Y-%m-%d")
+
+    def process(n, key):
+        it = top[key]
         d = it["data"]
         title = d.get("title") or "Untitled"
         tags = [t["tag"] for t in d.get("tags", [])]
@@ -283,29 +345,81 @@ def main():
             "doi": doi, "tags": tags, "zotero_key": key, "item_type": d["itemType"],
             "url": d.get("url") or (f"https://doi.org/{doi}" if doi else None),
             "source_url": None, "fulltext_status": "metadata-only",
-            "synced": time.strftime("%Y-%m-%d"),
+            "synced": today,
             "_abstract": d.get("abstractNote"),
         }
         body = None
-        if prev and prev["status"] == "fulltext" and not a.full and (ROOT / prev["path"]).exists():
-            old = (ROOT / prev["path"]).read_text()
+        pp = ROOT / prev["path"] if prev else None
+        if (prev and not a.full and pp.exists() and prev.get("zver") == it.get("version")
+                and prev["path"] == rel and prev.get("doi", "?") == doi
+                and (prev["status"] == "fulltext" or not a.retry_missing)):
+            return key, None, None, None  # already resolved (resume / unchanged)
+        if prev and prev["status"] == "fulltext" and not a.full and pp.exists():
+            old = pp.read_text()
             body = old.split("## Full text\n\n", 1)[1].rstrip("\n") if "## Full text\n\n" in old else None
             meta["source_url"] = prev.get("source")
             meta["fulltext_status"] = "fulltext" if body else "metadata-only"
+            if pp.exists() and prev["path"] == rel:
+                m = re.search(r"^synced: (.*)$", old, re.M)
+                if m and render(dict(meta, synced=m.group(1)), body) == old:
+                    meta["synced"] = m.group(1)
+        elif prev and prev["status"] == "metadata-only" and prev.get("doi", "?") == doi \
+                and not a.full and not a.retry_missing:
+            pass  # lookup already failed for this DOI; only --retry-missing/--full retries
         elif not a.no_fulltext:
-            log(f"[{n}] fulltext: {title[:70]}")
+            log(f"[{n}/{len(keys)}] fulltext: {title[:70]}")
             body, src = get_fulltext(meta)
             if body:
                 meta["fulltext_status"], meta["source_url"] = "fulltext", src
-        if prev and prev["path"] != rel and (ROOT / prev["path"]).exists():
-            (ROOT / prev["path"]).unlink()
-        out = ROOT / rel
-        out.parent.mkdir(parents=True, exist_ok=True)
-        out.write_text(render(meta, body))
-        state["items"][key] = {"path": rel, "status": meta["fulltext_status"], "source": meta["source_url"]}
-    if not a.limit:
+        return key, rel, render(meta, body), {"path": rel, "status": meta["fulltext_status"],
+                                              "source": meta["source_url"], "doi": doi,
+                                              "zver": it.get("version")}
+
+    def safe(args):
+        try:
+            return process(*args)
+        except Exception as e:
+            log(f"  item failed {args[1]}: {e!r}")
+            return None
+
+    global _pool
+    _pool = ProcessPoolExecutor(a.pdf_procs, mp_context=mp.get_context("spawn")) if a.pdf_procs > 1 else None
+    failed = done = 0
+
+    def save_state():
+        atomic_write(STATE, json.dumps(state, indent=1, sort_keys=True))
+
+    try:
+        with ThreadPoolExecutor(a.workers) as ex:
+            futs = [ex.submit(safe, (n, k)) for n, k in enumerate(keys, 1)]
+            for f in as_completed(futs):
+                res = f.result()
+                if res is None:
+                    failed += 1
+                    continue
+                key, rel, text, st = res
+                if rel is None:
+                    continue
+                prev = state["items"].get(key)
+                if prev and prev["path"] != rel and (ROOT / prev["path"]).exists():
+                    (ROOT / prev["path"]).unlink()
+                out = ROOT / rel
+                if not out.exists() or out.read_text() != text:
+                    atomic_write(out, text)
+                state["items"][key] = st
+                done += 1
+                if a.checkpoint_every and done % a.checkpoint_every == 0:
+                    save_state()
+                    checkpoint(a.checkpoint_cmd)
+    finally:
+        if _pool:
+            _pool.shutdown(cancel_futures=True)
+        save_state()
+    if failed:
+        log(f"{failed} items failed; library version not advanced so they retry next run")
+    elif not a.limit:
         state["version"] = new_ver
-    STATE.write_text(json.dumps(state, indent=1, sort_keys=True))
+        save_state()
     for d in sorted(PAPERS.rglob("*"), reverse=True):
         if d.is_dir() and not any(d.iterdir()):
             d.rmdir()
