@@ -1,0 +1,7 @@
+# topic folder -> keywords matched (case-insensitive substring) against item tags, then title
+wildfire: [wildfire, fire, burn severity, prescribed burn, fuel]
+ecology: [ecology, ecosystem, biodiversity, forest, vegetation, soil, species]
+policy: [policy, governance, law, management, regulation, wui, insurance]
+climate: [climate, drought, warming]
+remote-sensing: [remote sensing, landsat, modis, sentinel, lidar]
+# fallback folder: unsorted
