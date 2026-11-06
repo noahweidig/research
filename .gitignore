@@ -1,2 +1,5 @@
 __pycache__/
 .cache/
+site/
+docs/summaries/index.md
+docs/syntheses/index.md

@@ -1,0 +1,41 @@
+name: Summarize
+on:
+  workflow_run:
+    workflows: ["Zotero sync"]
+    types: [completed]
+  workflow_dispatch:
+    inputs:
+      limit:
+        description: Max new summaries this run (0 = all)
+        default: "0"
+permissions:
+  contents: write
+concurrency: summarize
+jobs:
+  summarize:
+    if: github.event_name == 'workflow_dispatch' || github.event.workflow_run.conclusion == 'success'
+    runs-on: ubuntu-latest
+    timeout-minutes: 360
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.repository.default_branch }}
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install anthropic pyyaml
+      - name: Summaries and syntheses
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          SUMMARY_MODEL: ${{ vars.SUMMARY_MODEL || 'claude-sonnet-5-5' }}
+          SYNTH_MODEL: ${{ vars.SYNTH_MODEL || 'claude-sonnet-5-5' }}
+          LIMIT: ${{ inputs.limit || '0' }}
+        run: |
+          python scripts/summarize.py --limit "$LIMIT"
+          python scripts/synthesize.py
+      - name: Commit
+        run: |
+          git config user.name "kb-summarize[bot]"
+          git config user.email "kb-summarize@users.noreply.github.com"
+          git add -A docs/summaries docs/syntheses
+          git diff --cached --quiet || (git commit -m "Update summaries and syntheses $(date -u +%F)" && git pull --rebase && git push)
