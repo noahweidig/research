@@ -1,0 +1,19 @@
+# Synthesis pages. id = file name under docs/syntheses/. Edit freely; the summarizer
+# assigns papers to these ids, the synthesizer writes one page per id with >= min_papers.
+min_papers: 3
+max_papers: 80   # papers fed to a page on first generation (rest are listed as pending)
+themes:
+  - {id: rx-ecological-effects, group: Prescribed fire, title: Ecological effects of prescribed fire, scope: "Effects of prescribed and cultural burning on vegetation, soils, wildlife, carbon, fuels, and later fire behavior."}
+  - {id: rx-implementation, group: Prescribed fire, title: Prescribed fire implementation and barriers, scope: "Capacity, liability, smoke and air-quality rules, permitting, burn windows, social acceptance, and workforce for prescribed fire programs."}
+  - {id: wui-land-use, group: WUI policy, title: WUI land use and building policy, scope: "Zoning, building codes, defensible space, development patterns, and exposure in the wildland-urban interface."}
+  - {id: wui-risk-governance, group: WUI policy, title: Risk, insurance, and governance in the WUI, scope: "Insurance markets, liability, cost-sharing, local/state/federal roles, community wildfire protection planning."}
+  - {id: federal-fire-policy, group: WUI policy, title: Federal and state fire management policy, scope: "Fire suppression policy, funding, agency programs, legislation, litigation, and management of public lands."}
+  - {id: postfire-vegetation, group: Post-fire recovery, title: Post-fire vegetation recovery, scope: "Tree regeneration, shrub and grass response, type conversion, invasive species, reforestation."}
+  - {id: postfire-hydrology-soils, group: Post-fire recovery, title: Post-fire hydrology and soils, scope: "Debris flows, runoff, erosion, water quality, soil burn severity, and mitigation treatments."}
+  - {id: postfire-communities, group: Post-fire recovery, title: Community and economic recovery after fire, scope: "Rebuilding, housing, displacement, economic effects, and social outcomes after wildfires."}
+  - {id: fire-regimes-climate, group: Fire science, title: Fire regimes and climate, scope: "Trends in area burned, severity, season length, drought and warming effects, historical and future regimes."}
+  - {id: fuel-treatments, group: Fire science, title: Fuel treatments and fire behavior, scope: "Thinning, mechanical treatment, and their effect on fire behavior, severity, and suppression."}
+  - {id: wildlife-biodiversity, group: Fire science, title: Wildlife and biodiversity, scope: "Fire effects on animals, plant diversity, habitat, and species of concern."}
+  - {id: indigenous-fire, group: Fire science, title: Indigenous and cultural fire stewardship, scope: "Tribal and traditional burning, co-management, and policy for cultural fire."}
+  - {id: smoke-health, group: Fire science, title: Smoke and public health, scope: "Smoke exposure, air quality, health outcomes, and response."}
+  - {id: remote-sensing, group: Methods, title: Remote sensing of fire and recovery, scope: "Satellite and airborne mapping of burned area, severity, fuels, and recovery."}
