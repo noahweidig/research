@@ -3,3 +3,4 @@ __pycache__/
 site/
 docs/summaries/index.md
 docs/syntheses/index.md
+.batch/
