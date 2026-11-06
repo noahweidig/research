@@ -26,10 +26,15 @@ Action runs Mondays 09:00 UTC and on manual dispatch.
 DOI lookup: Unpaywall, Europe PMC (OA), Semantic Scholar openAccessPdf, arXiv. No paywalled scraping. Items with nothing usable stay `fulltext_status: metadata-only`; converted text under 3000 chars is rejected.
 
 ## Summaries, syntheses, site
-Workflows chain: Zotero sync -> Summarize -> Pages (each also runs manually).
-- `scripts/summarize.py`: Anthropic API (`SUMMARY_MODEL`, default claude-sonnet-5-5). Skips papers whose input hash (prompt version + title + abstract + full text) matches the stored hash. Abstract-only papers are labeled. Bump `PROMPT_VERSION` to regenerate all.
-- `scripts/synthesize.py`: rebuilds a page only when its paper set changed; updates send the existing page plus added/changed summaries only. Pages need >= 3 papers; first generation uses the 80 newest, the rest are added on later runs. Rejects output citing unknown keys.
-- Site: Zensical (`zensical.toml`), Lucide `flask-conical` as logo and favicon. Index pages are generated at build time and not committed. Full texts are not published.
+No Anthropic API key needed. A Claude session (your subscription) writes summaries and syntheses in batches; scripts handle listing, validation, and writing.
+- Summaries: `python scripts/summaries.py todo --limit 50` writes `.batch/summaries.json` (new or changed papers only; unchanged hash = skipped, never rewritten). The session writes `.batch/results.json`, then `python scripts/summaries.py write` validates (schema, theme ids, paper unchanged) and writes `docs/summaries/<zkey>.md`. Abstract-only papers are labeled. Bump `PROMPT_VERSION` to regenerate all.
+- Syntheses: `python scripts/syntheses.py todo` lists stale themes (paper set changed) with existing page + new/changed summaries. The session writes `.batch/synthesis/<theme>.md` bodies, then `python scripts/syntheses.py write` validates citations and adds frontmatter and the DOI reference list. Themes need >= 3 papers; first pass uses the 80 newest, the rest follow on later runs.
+- Site: Zensical (`zensical.toml`), Lucide `flask-conical` as logo and favicon. Index pages are generated at build time and not committed. Full texts are not published. `Pages` workflow deploys on pushes to main that touch the site.
 
-Extra setup: secret `ANTHROPIC_API_KEY`; Settings > Pages > Source: GitHub Actions. First run: dispatch Summarize with `limit` 20 to check output and cost.
+Setup: Settings > Pages > Source: GitHub Actions.
+
+Kick off a batch: tell a Claude session "run the next summary batch" (repeat until 0 pending), then "update the syntheses". Instructions for sessions are in `CLAUDE.md`. Commit `docs/summaries` and `docs/syntheses` to a branch/PR.
+
 Query the corpus: `grep -ril "prescribed" docs/summaries`, or read `docs/syntheses/`.
+
+Optional later automation: the Claude Code GitHub Action with `CLAUDE_CODE_OAUTH_TOKEN` (create via `claude setup-token`, add as a repo secret) could run the same batch prompt on a schedule. Not required, not set up here.
