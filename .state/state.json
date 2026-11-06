@@ -266,6 +266,13 @@
    "status": "fulltext",
    "zver": 6699
   },
+  "3GV338L6": {
+   "doi": "10.1038/s41597-024-03141-2",
+   "path": "papers/wildfire/2024/gincheva-2024-a-monthly-gridded-burned-area-database-o-3gv338l6.md",
+   "source": "unpaywall: https://www.nature.com/articles/s41597-024-03141-2.pdf",
+   "status": "fulltext",
+   "zver": 4991
+  },
   "3HATT2U6": {
    "doi": "10.1002/joc.7036",
    "path": "papers/wildfire/2021/zhong-2021-will-land-use-land-cover-change-drive-at-3hatt2u6.md",
@@ -322,12 +329,82 @@
    "status": "metadata-only",
    "zver": 4430
   },
+  "3TXP5HTX": {
+   "doi": "10.3389/feart.2026.1899611",
+   "path": "papers/policy/2026/lee-2026-what-goes-with-the-flow-exploring-climat-3txp5htx.md",
+   "source": "unpaywall: https://www.frontiersin.org/journals/earth-science/articles/10.3389/feart.2026.1899611/pdf",
+   "status": "fulltext",
+   "zver": 6746
+  },
+  "3VL7GWF3": {
+   "doi": "10.1016/j.foreco.2022.120500",
+   "path": "papers/wildfire/2022/reilly-2022-drivers-and-ecological-impacts-of-a-wild-3vl7gwf3.md",
+   "source": "unpaywall: https://www.osti.gov/servlets/purl/2425646",
+   "status": "fulltext",
+   "zver": 4263
+  },
+  "3VNSGGAV": {
+   "doi": "10.1002/jwmg.70287",
+   "path": "papers/wildfire/2026/degr-timmons-2026-cutting-through-the-noise-what-can-habit-3vnsggav.md",
+   "source": null,
+   "status": "metadata-only",
+   "zver": 7653
+  },
+  "3XF9IB6D": {
+   "doi": "10.2307/1267205",
+   "path": "papers/unsorted/1970/marquardt-1970-generalized-inverses-ridge-regression-bi-3xf9ib6d.md",
+   "source": null,
+   "status": "metadata-only",
+   "zver": 3862
+  },
+  "3XSGV4Z5": {
+   "doi": "10.1016/j.tree.2015.07.008",
+   "path": "papers/unsorted/2015/nimmo-2015-vive-la-r-sistance-reviving-resistance-f-3xsgv4z5.md",
+   "source": "unpaywall: https://figshare.com/articles/journal_contribution/Vive_la_r_sistance_reviving_resistance_for_21st_century_conservation/20900839",
+   "status": "fulltext",
+   "zver": 4317
+  },
+  "3XZAIR4G": {
+   "doi": "10.1111/j.1472-4642.2011.00761.x",
+   "path": "papers/ecology/2011/he-2011-benefits-of-hyperspectral-remote-sensing-3xzair4g.md",
+   "source": null,
+   "status": "metadata-only",
+   "zver": 7453
+  },
   "3YH4NUHC": {
    "doi": null,
    "path": "papers/unsorted/2026/anon-2026-adespatial-multivariate-multiscale-spati-3yh4nuhc.md",
    "source": null,
    "status": "metadata-only",
    "zver": 5549
+  },
+  "424WNCHM": {
+   "doi": "10.1186/s42408-026-00582-5",
+   "path": "papers/wildfire/2026/poulos-2026-from-drying-to-frying-drought-and-fire-a-424wnchm.md",
+   "source": "unpaywall: https://link.springer.com/content/pdf/10.1186/s42408-026-00582-5.pdf",
+   "status": "fulltext",
+   "zver": 7653
+  },
+  "42IFNJ95": {
+   "doi": "10.1016/j.srs.2026.100482",
+   "path": "papers/wildfire/2026/zhang-2026-monitoring-post-fire-ecohydrological-rec-42ifnj95.md",
+   "source": null,
+   "status": "metadata-only",
+   "zver": 6749
+  },
+  "42NCBX7U": {
+   "doi": "10.1016/j.ijdrr.2026.106487",
+   "path": "papers/unsorted/2026/carvallo-2026-the-short-term-response-of-residential-c-42ncbx7u.md",
+   "source": "unpaywall: https://www.researchsquare.com/article/rs-6733308/latest.pdf",
+   "status": "fulltext",
+   "zver": 7657
+  },
+  "48MF3R4B": {
+   "doi": "10.1007/s00267-018-1031-8",
+   "path": "papers/wildfire/2018/dup-y-2018-an-integrative-review-of-empirical-resea-48mf3r4b.md",
+   "source": null,
+   "status": "metadata-only",
+   "zver": 4465
   },
   "495TL6DJ": {
    "doi": "10.1016/j.landurbplan.2007.06.002",
@@ -343,12 +420,285 @@
    "status": "metadata-only",
    "zver": 4539
   },
+  "4AYNEEBD": {
+   "doi": "10.1037/0003-066X.37.5.553",
+   "path": "papers/unsorted/1982/cowles-1982-on-the-origins-of-the-05-level-of-statis-4ayneebd.md",
+   "source": null,
+   "status": "metadata-only",
+   "zver": 7512
+  },
   "4GRRNYG4": {
    "doi": "10.1007/s00500-011-0768-2",
    "path": "papers/unsorted/2012/loquin-2012-a-fuzzy-interval-analysis-approach-to-kr-4grrnyg4.md",
    "source": null,
    "status": "metadata-only",
    "zver": 7596
+  },
+  "4GU55EDN": {
+   "doi": "10.3390/f13050793",
+   "path": "papers/wildfire/2022/iniguez-2022-comparing-geography-and-severity-of-mana-4gu55edn.md",
+   "source": null,
+   "status": "metadata-only",
+   "zver": 3847
+  },
+  "4HNUI684": {
+   "doi": "10.1016/j.foreco.2006.03.001",
+   "path": "papers/unsorted/2006/spector-2006-crown-retreat-of-open-grown-southern-liv-4hnui684.md",
+   "source": null,
+   "status": "metadata-only",
+   "zver": 3963
+  },
+  "4HS6N4F2": {
+   "doi": "10.3390/f6030561",
+   "path": "papers/wildfire/2015/kobziar-2015-perspectives-on-trends-effectiveness-and-4hs6n4f2.md",
+   "source": null,
+   "status": "metadata-only",
+   "zver": 6397
+  },
+  "4JDEAPQS": {
+   "doi": "10.48550/arxiv.2610.07431",
+   "path": "papers/wildfire/2026/hineman-2026-firegen-quantifying-wildfire-risk-by-sim-4jdeapqs.md",
+   "source": null,
+   "status": "metadata-only",
+   "zver": 7907
+  },
+  "4L23J8LE": {
+   "doi": "10.1016/j.jenvman.2024.120154",
+   "path": "papers/wildfire/2024/price-2024-variability-in-weather-and-site-properti-4l23j8le.md",
+   "source": null,
+   "status": "metadata-only",
+   "zver": 7617
+  },
+  "4NSLWB2L": {
+   "doi": "10.1525/bio.2010.60.4.7",
+   "path": "papers/ecology/2010/drummond-2010-land-use-pressure-and-a-transition-to-fo-4nslwb2l.md",
+   "source": null,
+   "status": "metadata-only",
+   "zver": 7781
+  },
+  "4R86WSSP": {
+   "doi": null,
+   "path": "papers/unsorted/2024/anon-2024-emmeans-estimated-marginal-means-aka-lea-4r86wssp.md",
+   "source": null,
+   "status": "metadata-only",
+   "zver": 7353
+  },
+  "4RBPKM8R": {
+   "doi": null,
+   "path": "papers/wildfire/2024/donovan-2024-changing-large-wildfire-risk-in-the-sout-4rbpkm8r.md",
+   "source": null,
+   "status": "metadata-only",
+   "zver": 3961
+  },
+  "4S48YBG7": {
+   "doi": "10.5194/essd-6-1-2014",
+   "path": "papers/wildfire/2014/short-2014-a-spatial-database-of-wildfires-in-the-u-4s48ybg7.md",
+   "source": "unpaywall: https://essd.copernicus.org/articles/6/1/2014/essd-6-1-2014.pdf",
+   "status": "fulltext",
+   "zver": 3875
+  },
+  "4SN8PLAJ": {
+   "doi": "10.3390/fire1010015",
+   "path": "papers/wildfire/2018/murray-2018-selecting-low-flammability-plants-as-gre-4sn8plaj.md",
+   "source": null,
+   "status": "metadata-only",
+   "zver": 6083
+  },
+  "4TXUIVID": {
+   "doi": "10.1890/13-1025.1",
+   "path": "papers/ecology/2014/pederson-2014-the-legacy-of-episodic-climatic-events-i-4txuivid.md",
+   "source": "unpaywall: https://doi.org/10.7916/d8kk9b7v",
+   "status": "fulltext",
+   "zver": 7682
+  },
+  "4UNKTW5K": {
+   "doi": "10.1016/j.rama.2026.09.004",
+   "path": "papers/wildfire/2026/treminio-2026-wildfire-restoration-and-postwildfire-re-4unktw5k.md",
+   "source": "unpaywall: https://www.biorxiv.org/content/biorxiv/early/2026/01/20/2026.01.16.699976.full.pdf",
+   "status": "fulltext",
+   "zver": 7657
+  },
+  "4V2JWWVR": {
+   "doi": "10.3897/jhr.99.205327",
+   "path": "papers/wildfire/2026/pal-k-2026-prescribed-burning-and-post-fire-recover-4v2jwwvr.md",
+   "source": "unpaywall: https://doi.org/10.3897/jhr.99.205327",
+   "status": "fulltext",
+   "zver": 7882
+  },
+  "4WU86UZ3": {
+   "doi": "10.7753/ijcatr1412.1017",
+   "path": "papers/wildfire/2026/arowosegbe-2026-artificial-intelligence-driven-optimizat-4wu86uz3.md",
+   "source": "unpaywall: https://doi.org/10.7753/ijcatr1412.1017",
+   "status": "fulltext",
+   "zver": 6747
+  },
+  "52DRJUHX": {
+   "doi": null,
+   "path": "papers/wildfire/2023/burson-2023-the-new-wildfire-season-52drjuhx.md",
+   "source": null,
+   "status": "metadata-only",
+   "zver": 4433
+  },
+  "53D6VYVH": {
+   "doi": "10.1007/978-3-319-46709-2_2",
+   "path": "papers/unsorted/2017/archer-2017-woody-plant-encroachment-causes-and-cons-53d6vyvh.md",
+   "source": "unpaywall: https://link.springer.com/content/pdf/10.1007%2F978-3-319-46709-2_2.pdf",
+   "status": "fulltext",
+   "zver": 7743
+  },
+  "53S8CC87": {
+   "doi": "10.1126/sciadv.aee6185",
+   "path": "papers/wildfire/2026/clayton-2026-near-term-geospatial-opportunity-for-bio-53s8cc87.md",
+   "source": null,
+   "status": "metadata-only",
+   "zver": 6738
+  },
+  "55TEGMI6": {
+   "doi": "10.1073/pnas.1718850115",
+   "path": "papers/wildfire/2018/radeloff-2018-rapid-growth-of-the-us-wildland-urban-in-55tegmi6.md",
+   "source": "unpaywall: https://www.ncbi.nlm.nih.gov/pmc/articles/5879688",
+   "status": "fulltext",
+   "zver": 5865
+  },
+  "56HBXQHD": {
+   "doi": "10.1111/j.1365-2494.2009.00690.x",
+   "path": "papers/unsorted/2009/kesting-2009-herbage-mass-and-nutritive-value-of-herb-56hbxqhd.md",
+   "source": null,
+   "status": "metadata-only",
+   "zver": 7715
+  },
+  "59FFCF7X": {
+   "doi": "10.1139/cjfr-2024-0305",
+   "path": "papers/wildfire/2025/estabrook-2025-linking-burn-severity-to-pre-fire-forest-59ffcf7x.md",
+   "source": null,
+   "status": "metadata-only",
+   "zver": 3872
+  },
+  "5BC678LF": {
+   "doi": "10.32747/2023.8134137.ers",
+   "path": "papers/unsorted/2023/dobis-2023-characterizing-rugged-terrain-in-the-uni-5bc678lf.md",
+   "source": null,
+   "status": "metadata-only",
+   "zver": 3859
+  },
+  "5BMDDUP2": {
+   "doi": "10.1071/WF19040",
+   "path": "papers/wildfire/2019/schultz-2019-policy-barriers-and-opportunities-for-pr-5bmddup2.md",
+   "source": null,
+   "status": "metadata-only",
+   "zver": 4468
+  },
+  "5C3PZKWZ": {
+   "doi": "10.3390/cli7040052",
+   "path": "papers/wildfire/2019/mcevoy-2019-establishing-relationships-between-droug-5c3pzkwz.md",
+   "source": null,
+   "status": "metadata-only",
+   "zver": 7787
+  },
+  "5D5TFSHM": {
+   "doi": "10.1071/WF10042",
+   "path": "papers/wildfire/2011/toman-2011-reducing-fuels-in-the-wildland-urban-int-5d5tfshm.md",
+   "source": null,
+   "status": "metadata-only",
+   "zver": 4359
+  },
+  "5DZE94R5": {
+   "doi": "10.1016/j.forpol.2005.03.006",
+   "path": "papers/wildfire/2005/reams-2005-goals-obstacles-and-effective-strategies-5dze94r5.md",
+   "source": null,
+   "status": "metadata-only",
+   "zver": 7433
+  },
+  "5FJRCED9": {
+   "doi": "10.1111/gcb.17204",
+   "path": "papers/ecology/2024/parra-2024-climate-limited-vegetation-change-in-the-5fjrced9.md",
+   "source": null,
+   "status": "metadata-only",
+   "zver": 7485
+  },
+  "5GNMKKU4": {
+   "doi": null,
+   "path": "papers/unsorted/2023/anon-2023-rstudio-integrated-development-environme-5gnmkku4.md",
+   "source": null,
+   "status": "metadata-only",
+   "zver": 4446
+  },
+  "5HGYEN3D": {
+   "doi": "10.1111/j.1442-9993.1992.tb00822.x",
+   "path": "papers/unsorted/1992/bren-1992-tree-invasion-of-an-intermittent-wetland-5hgyen3d.md",
+   "source": null,
+   "status": "metadata-only",
+   "zver": 7672
+  },
+  "5IETARQU": {
+   "doi": "10.1111/j.1600-0587.2012.07348.x",
+   "path": "papers/unsorted/2013/dormann-2013-collinearity-a-review-of-methods-to-deal-5ietarqu.md",
+   "source": null,
+   "status": "metadata-only",
+   "zver": 3860
+  },
+  "5MUSJGE6": {
+   "doi": "10.1016/j.rama.2023.11.002",
+   "path": "papers/wildfire/2024/watts-2024-analysis-of-the-cost-and-cost-components-5musjge6.md",
+   "source": null,
+   "status": "metadata-only",
+   "zver": 7608
+  },
+  "5N862UYC": {
+   "doi": "10.2737/WO-GTR-76B",
+   "path": "papers/unsorted/2007/mcnab-2007-description-of-ecological-subregions-sec-5n862uyc.md",
+   "source": null,
+   "status": "metadata-only",
+   "zver": 4449
+  },
+  "5NWAIAVM": {
+   "doi": "10.1111/gcb.14727",
+   "path": "papers/wildfire/2019/fill-2019-climate-change-lengthens-southeastern-us-5nwaiavm.md",
+   "source": null,
+   "status": "metadata-only",
+   "zver": 6299
+  },
+  "5QCFAHLX": {
+   "doi": "10.1071/WF25124",
+   "path": "papers/wildfire/2025/young-2025-containment-lines-pods-and-suppression-s-5qcfahlx.md",
+   "source": null,
+   "status": "metadata-only",
+   "zver": 6080
+  },
+  "5RHTX489": {
+   "doi": null,
+   "path": "papers/unsorted/2025/usgs-2025-usgs-national-structures-dataset-5rhtx489.md",
+   "source": null,
+   "status": "metadata-only",
+   "zver": 4205
+  },
+  "5UU7F9JB": {
+   "doi": null,
+   "path": "papers/unsorted/2026/anon-2026-ggspatial-spatial-data-framework-for-ggp-5uu7f9jb.md",
+   "source": null,
+   "status": "metadata-only",
+   "zver": 6193
+  },
+  "5WVA3I7X": {
+   "doi": "10.7240/jeps.1954934",
+   "path": "papers/wildfire/2026/gunes-2026-geostatistical-and-spatial-clustering-an-5wva3i7x.md",
+   "source": "unpaywall: https://dergipark.org.tr/en/download/article-file/6031258",
+   "status": "fulltext",
+   "zver": 7899
+  },
+  "5YSTSINI": {
+   "doi": null,
+   "path": "papers/remote-sensing/2023/pengra-2023-land-change-monitoring-assessment-and-pr-5ystsini.md",
+   "source": null,
+   "status": "metadata-only",
+   "zver": 6244
+  },
+  "639A4MWQ": {
+   "doi": null,
+   "path": "papers/unsorted/2023/anon-2023-r-a-language-and-environment-for-statist-639a4mwq.md",
+   "source": null,
+   "status": "metadata-only",
+   "zver": 4366
   }
  },
  "version": 0
