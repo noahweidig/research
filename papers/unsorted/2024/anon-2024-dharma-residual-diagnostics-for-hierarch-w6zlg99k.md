@@ -1,0 +1,22 @@
+---
+title: 'DHARMa: Residual Diagnostics for Hierarchical (Multi-Level / Mixed) Regression Models'
+authors: []
+year: '2024'
+journal: null
+doi: null
+tags:
+- mixed models
+zotero_key: W6ZLG99K
+item_type: computerProgram
+url: https://cran.r-project.org/web/packages/DHARMa/index.html
+source_url: null
+fulltext_status: metadata-only
+synced: '2026-11-06'
+---
+
+# DHARMa: Residual Diagnostics for Hierarchical (Multi-Level / Mixed) Regression Models
+
+## Abstract
+
+The 'DHARMa' package uses a simulation-based approach to create readily interpretable scaled (quantile) residuals for fitted (generalized) linear mixed models. Currently supported are linear and generalized linear (mixed) models from 'lme4' (classes 'lmerMod', 'glmerMod'), 'glmmTMB', 'GLMMadaptive', and 'spaMM'; phylogenetic linear models from 'phylolm' (classes 'phylolm' and 'phyloglm'); generalized additive models ('gam' from 'mgcv'); 'glm' (including 'negbin' from 'MASS', but excluding quasi-distributions) and 'lm' model classes. Moreover, externally created simulations, e.g. posterior predictive simulations from Bayesian software such as 'JAGS', 'STAN', or 'BUGS' can be processed as well. The resulting residuals are standardized to values between 0 and 1 and can be interpreted as intuitively as residuals from a linear regression. The package also provides a number of plot and test functions for typical model misspecification problems, such as over/underdispersion, zero-inflation, and residual spatial, phylogenetic and temporal autocorrelation.
+
