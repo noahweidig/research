@@ -1399,6 +1399,356 @@
    "source": null,
    "status": "metadata-only",
    "zver": 7533
+  },
+  "944SNQCC": {
+   "doi": "10.22004/ag.econ.278805",
+   "path": "papers/unsorted/1996/dismukes-1996-u-s-hay-production-944snqcc.md",
+   "source": null,
+   "status": "metadata-only",
+   "zver": 7761
+  },
+  "94BD8C5H": {
+   "doi": "10.1073/pnas.1805259115",
+   "path": "papers/wildfire/2018/roos-2018-indigenous-impacts-on-north-american-gre-94bd8c5h.md",
+   "source": "unpaywall: https://www.ncbi.nlm.nih.gov/pmc/articles/6094123",
+   "status": "fulltext",
+   "zver": 5778
+  },
+  "957EPII4": {
+   "doi": "10.1029/2022GH000648",
+   "path": "papers/unsorted/2022/becker-2022-the-unintended-benefits-of-the-conservat-957epii4.md",
+   "source": "unpaywall: https://www.ncbi.nlm.nih.gov/pmc/articles/9553094",
+   "status": "fulltext",
+   "zver": 7591
+  },
+  "95XR4EC4": {
+   "doi": "10.12688/wellcomeopenres.15191.2",
+   "path": "papers/unsorted/2021/allen-2021-raincloud-plots-a-multi-platform-tool-fo-95xr4ec4.md",
+   "source": "unpaywall: https://wellcomeopenresearch.org/articles/4-63/v2/pdf",
+   "status": "fulltext",
+   "zver": 3846
+  },
+  "96NRKKH4": {
+   "doi": "10.1007/s11069-023-06367-2",
+   "path": "papers/wildfire/2024/schumann-2024-the-geography-of-social-vulnerability-an-96nrkkh4.md",
+   "source": "unpaywall: https://figshare.com/articles/journal_contribution/The_geography_of_social_vulnerability_and_wildfire_occurrence_1984_2018_in_the_conterminous_USA/27808884",
+   "status": "fulltext",
+   "zver": 7484
+  },
+  "98DQRP4U": {
+   "doi": "10.1016/j.dss.2009.07.003",
+   "path": "papers/unsorted/2009/zhu-2009-identity-disclosure-protection-a-data-re-98dqrp4u.md",
+   "source": null,
+   "status": "metadata-only",
+   "zver": 7599
+  },
+  "9AEII2QK": {
+   "doi": "10.1016/j.rala.2026.07.001",
+   "path": "papers/wildfire/2026/brooke-2026-rekindling-fire-the-resurgence-and-chall-9aeii2qk.md",
+   "source": null,
+   "status": "metadata-only",
+   "zver": 5845
+  },
+  "9D8NSBVH": {
+   "doi": "10.5194/egusphere-2026-6310",
+   "path": "papers/wildfire/2026/feng-2026-holocene-ecosystem-succession-and-fire-r-9d8nsbvh.md",
+   "source": "unpaywall: https://egusphere.copernicus.org/preprints/2026/egusphere-2026-6310/egusphere-2026-6310.pdf",
+   "status": "fulltext",
+   "zver": 7657
+  },
+  "9DISHDZB": {
+   "doi": "10.1007/s10021-001-0045-9",
+   "path": "papers/unsorted/2001/carpenter-2001-from-metaphor-to-measurement-resilience-9dishdzb.md",
+   "source": null,
+   "status": "metadata-only",
+   "zver": 5219
+  },
+  "9EPGVQHY": {
+   "doi": "10.2737/rmrs-gtr-252",
+   "path": "papers/wildfire/2011/hudak-2011-review-of-fuel-treatment-effectiveness-i-9epgvqhy.md",
+   "source": null,
+   "status": "metadata-only",
+   "zver": 4376
+  },
+  "9F3524J6": {
+   "doi": "10.1007/s00267-026-02600-3",
+   "path": "papers/ecology/2026/upadhaya-2026-factors-associated-with-farmers-particip-9f3524j6.md",
+   "source": "unpaywall: https://link.springer.com/content/pdf/10.1007/s00267-026-02600-3.pdf",
+   "status": "fulltext",
+   "zver": 7937
+  },
+  "9FJNQEIW": {
+   "doi": "10.21872/annual2025_5926",
+   "path": "papers/wildfire/2026/choi-2026-game-theory-in-disaster-management-enhan-9fjnqeiw.md",
+   "source": null,
+   "status": "metadata-only",
+   "zver": 7657
+  },
+  "9G52SJC5": {
+   "doi": "10.22004/ag.econ.404737",
+   "path": "papers/wildfire/2026/gharib-2026-wildfire-and-severe-drought-effects-on-c-9g52sjc5.md",
+   "source": null,
+   "status": "metadata-only",
+   "zver": 7635
+  },
+  "9GGNPTI2": {
+   "doi": "10.5751/ES-00650-090205",
+   "path": "papers/unsorted/2004/walker-2004-resilience-adaptability-and-transformabi-9ggnpti2.md",
+   "source": null,
+   "status": "metadata-only",
+   "zver": 4320
+  },
+  "9IGUPN5A": {
+   "doi": "10.3390/su12208321",
+   "path": "papers/ecology/2020/fogarty-2020-woody-plant-encroachment-and-the-sustain-9igupn5a.md",
+   "source": null,
+   "status": "metadata-only",
+   "zver": 7771
+  },
+  "9MI3V6R8": {
+   "doi": "10.1029/2018GL080959",
+   "path": "papers/wildfire/2019/abatzoglou-2019-global-emergence-of-anthropogenic-climat-9mi3v6r8.md",
+   "source": null,
+   "status": "metadata-only",
+   "zver": 7524
+  },
+  "9PP8LT8C": {
+   "doi": "10.1016/j.jhydrol.2021.127162",
+   "path": "papers/wildfire/2021/collar-2021-a-conus-scale-study-of-wildfire-and-evap-9pp8lt8c.md",
+   "source": null,
+   "status": "metadata-only",
+   "zver": 7479
+  },
+  "9PW7RKD7": {
+   "doi": "10.1126/science.adl5889",
+   "path": "papers/wildfire/2024/jones-2024-global-rise-in-forest-fire-emissions-lin-9pw7rkd7.md",
+   "source": "unpaywall: https://research.vu.nl/en/publications/c86836a0-5854-4f87-aa1f-0704cb243b6e",
+   "status": "fulltext",
+   "zver": 5884
+  },
+  "9QG9X37K": {
+   "doi": "10.1007/s10530-011-0001-3",
+   "path": "papers/wildfire/2011/mandle-2011-woody-exotic-plant-invasions-and-fire-re-9qg9x37k.md",
+   "source": null,
+   "status": "metadata-only",
+   "zver": 7440
+  },
+  "9QS993GK": {
+   "doi": "10.1016/j.pyro.2026.100021",
+   "path": "papers/wildfire/2026/ro-u-2026-large-scale-modelled-impacts-of-the-2025-9qs993gk.md",
+   "source": null,
+   "status": "metadata-only",
+   "zver": 6735
+  },
+  "9RC2FSTJ": {
+   "doi": "10.1162/qjec.2010.125.3.1253",
+   "path": "papers/unsorted/2010/saiz-2010-the-geographic-determinants-of-housing-s-9rc2fstj.md",
+   "source": null,
+   "status": "metadata-only",
+   "zver": 6079
+  },
+  "9RVIRMSV": {
+   "doi": "10.1111/j.1365-2486.2009.02030.x",
+   "path": "papers/unsorted/2009/wigley-2009-thicket-expansion-in-a-south-african-sav-9rvirmsv.md",
+   "source": null,
+   "status": "metadata-only",
+   "zver": 7713
+  },
+  "9SIQQV5P": {
+   "doi": "10.1111/gcb.13409",
+   "path": "papers/unsorted/2017/stevens-2017-savanna-woody-encroachment-is-widespread-9siqqv5p.md",
+   "source": "unpaywall: https://www.research.ed.ac.uk/en/publications/ff572887-5c50-4c25-8b65-a9ce5bd8ea2a",
+   "status": "fulltext",
+   "zver": 7712
+  },
+  "9T88BK88": {
+   "doi": "10.1016/j.foreco.2020.118884",
+   "path": "papers/wildfire/2021/dillon-2021-experimental-manipulation-of-fuel-struct-9t88bk88.md",
+   "source": null,
+   "status": "metadata-only",
+   "zver": 7488
+  },
+  "9UGIBPTM": {
+   "doi": "10.1016/j.scitotenv.2023.167489",
+   "path": "papers/wildfire/2024/pagadala-2024-measuring-flammability-of-crops-pastures-9ugibptm.md",
+   "source": null,
+   "status": "metadata-only",
+   "zver": 7606
+  },
+  "A2A7T83Z": {
+   "doi": "10.1071/wf25176",
+   "path": "papers/wildfire/2026/koutzoukis-2026-climate-drives-recent-increases-in-fire-a2a7t83z.md",
+   "source": null,
+   "status": "metadata-only",
+   "zver": 7653
+  },
+  "A3Z54INE": {
+   "doi": "10.1080/15481603.2015.1055451",
+   "path": "papers/wildfire/2015/lee-2015-post-wildfire-assessment-of-vegetation-r-a3z54ine.md",
+   "source": null,
+   "status": "metadata-only",
+   "zver": 7886
+  },
+  "A49QYU32": {
+   "doi": "10.1029/2018EF000972",
+   "path": "papers/wildfire/2018/brey-2018-environmental-conditions-ignition-type-a-a49qyu32.md",
+   "source": null,
+   "status": "metadata-only",
+   "zver": 7610
+  },
+  "A5PH9F73": {
+   "doi": "10.2737/RMRS-GTR-153",
+   "path": "papers/wildfire/2005/scott-2005-standard-fire-behavior-fuel-models-a-com-a5ph9f73.md",
+   "source": null,
+   "status": "metadata-only",
+   "zver": 5586
+  },
+  "A68WJTFE": {
+   "doi": "10.37099/mtu.dc.etds/808",
+   "path": "papers/ecology/2014/deo-2014-application-of-an-imputation-method-for-a68wjtfe.md",
+   "source": null,
+   "status": "metadata-only",
+   "zver": 7603
+  },
+  "A6CCTVT5": {
+   "doi": "10.5194/nhess-13-3385-2013",
+   "path": "papers/wildfire/2013/price-2013-the-spatial-domain-of-wildfire-risk-and-a6cctvt5.md",
+   "source": "unpaywall: https://nhess.copernicus.org/articles/13/3385/2013/nhess-13-3385-2013.pdf",
+   "status": "fulltext",
+   "zver": 4553
+  },
+  "A7PBH5TC": {
+   "doi": "10.5194/essd-2026-633",
+   "path": "papers/ecology/2026/riley-2026-treemap-2020-2022-and-2023-improved-spec-a7pbh5tc.md",
+   "source": "unpaywall: https://essd.copernicus.org/preprints/essd-2026-633/essd-2026-633.pdf",
+   "status": "fulltext",
+   "zver": 7657
+  },
+  "A8TBMUSF": {
+   "doi": "10.3390/biology10070619",
+   "path": "papers/ecology/2021/coakley-2021-impacts-of-the-invasive-impatiens-glandu-a8tbmusf.md",
+   "source": "unpaywall: https://www.ncbi.nlm.nih.gov/pmc/articles/8301180",
+   "status": "fulltext",
+   "zver": 3853
+  },
+  "A8XAIMKZ": {
+   "doi": "10.1128/msystems.00852-26",
+   "path": "papers/wildfire/2026/benot-2026-prescribed-burns-drive-lasting-changes-i-a8xaimkz.md",
+   "source": "unpaywall: https://www.biorxiv.org/content/biorxiv/early/2026/01/21/2026.01.21.700861.full.pdf",
+   "status": "fulltext",
+   "zver": 7879
+  },
+  "AAJK9KD2": {
+   "doi": "10.1016/j.agee.2015.04.011",
+   "path": "papers/wildfire/2015/viedma-2015-changes-in-landscape-fire-hazard-during-aajk9kd2.md",
+   "source": null,
+   "status": "metadata-only",
+   "zver": 7487
+  },
+  "ACLYHBDH": {
+   "doi": "10.1007/s00267-013-0067-z",
+   "path": "papers/wildfire/2013/ganteaume-2013-flammability-of-some-ornamental-species-aclyhbdh.md",
+   "source": "unpaywall: https://hal.science/hal-00941751",
+   "status": "fulltext",
+   "zver": 7462
+  },
+  "AD69G7DZ": {
+   "doi": "10.1007/s10021-013-9707-7",
+   "path": "papers/unsorted/2014/hanberry-2014-densification-and-state-transition-acros-ad69g7dz.md",
+   "source": null,
+   "status": "metadata-only",
+   "zver": 7689
+  },
+  "AFU5UMR9": {
+   "doi": "10.1111/j.1365-2494.2007.00590.x",
+   "path": "papers/unsorted/2007/zarovali-2007-effects-of-shrub-encroachment-on-herbage-afu5umr9.md",
+   "source": null,
+   "status": "metadata-only",
+   "zver": 7716
+  },
+  "AG52B7CL": {
+   "doi": "10.1073/pnas.1003669107",
+   "path": "papers/wildfire/2010/pechony-2010-driving-forces-of-global-wildfires-over-ag52b7cl.md",
+   "source": "unpaywall: https://www.ncbi.nlm.nih.gov/pmc/articles/2984177",
+   "status": "fulltext",
+   "zver": 5910
+  },
+  "AGII56EJ": {
+   "doi": null,
+   "path": "papers/wildfire/2025/world-bank-2025-management-of-wildfire-risk-in-the-europ-agii56ej.md",
+   "source": null,
+   "status": "metadata-only",
+   "zver": 3748
+  },
+  "AH223TWF": {
+   "doi": "10.2737/INT-RP-115",
+   "path": "papers/wildfire/1972/rothermel-1972-a-mathematical-model-for-predicting-fire-ah223twf.md",
+   "source": null,
+   "status": "metadata-only",
+   "zver": 6078
+  },
+  "AIGCLREP": {
+   "doi": "10.1016/j.jenvman.2025.125097",
+   "path": "papers/ecology/2025/lee-2025-land-use-change-induced-abrupt-changes-i-aigclrep.md",
+   "source": null,
+   "status": "metadata-only",
+   "zver": 7559
+  },
+  "AJJKM3G2": {
+   "doi": "10.3389/ffgc.2022.848254",
+   "path": "papers/wildfire/2022/moritz-2022-beyond-a-focus-on-fuel-reduction-in-the-ajjkm3g2.md",
+   "source": "unpaywall: https://doi.org/10.3389/ffgc.2022.848254",
+   "status": "fulltext",
+   "zver": 4269
+  },
+  "ANMPMSIL": {
+   "doi": "10.1071/WF14187",
+   "path": "papers/wildfire/2015/addington-2015-relationships-among-wildfire-prescribed-anmpmsil.md",
+   "source": null,
+   "status": "metadata-only",
+   "zver": 5266
+  },
+  "ARRWI9PL": {
+   "doi": "10.1007/978-3-030-41192-3_10",
+   "path": "papers/wildfire/2020/resco-de-dios-2020-global-change-pyrophysiology-and-wildfir-arrwi9pl.md",
+   "source": null,
+   "status": "metadata-only",
+   "zver": 3860
+  },
+  "ARWLHFKX": {
+   "doi": "10.1016/j.scitotenv.2019.133603",
+   "path": "papers/ecology/2019/cardil-2019-how-does-drought-impact-burned-area-in-m-arwlhfkx.md",
+   "source": null,
+   "status": "metadata-only",
+   "zver": 7750
+  },
+  "AT98GUN5": {
+   "doi": "10.21105/joss.01686",
+   "path": "papers/unsorted/2019/wickham-2019-welcome-to-the-tidyverse-at98gun5.md",
+   "source": "unpaywall: https://joss.theoj.org/papers/10.21105/joss.01686.pdf",
+   "status": "fulltext",
+   "zver": 7785
+  },
+  "B2LBIPKB": {
+   "doi": null,
+   "path": "papers/unsorted/2024/anon-2024-data-table-extension-of-data-frame-b2lbipkb.md",
+   "source": null,
+   "status": "metadata-only",
+   "zver": 7502
+  },
+  "B6D7DHXI": {
+   "doi": null,
+   "path": "papers/wildfire/2000/d-antonio-2000-fire-plant-invasions-and-global-changes-b6d7dhxi.md",
+   "source": null,
+   "status": "metadata-only",
+   "zver": 4516
+  },
+  "BH76KRVR": {
+   "doi": null,
+   "path": "papers/unsorted/2005/theobald-2005-landscape-patterns-of-exurban-growth-in-bh76krvr.md",
+   "source": null,
+   "status": "metadata-only",
+   "zver": 4450
   }
  },
  "version": 0
