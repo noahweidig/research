@@ -8,14 +8,17 @@ year: '2012'
 journal: Remote Sensing of Environment
 doi: 10.1016/j.rse.2012.09.001
 tags:
+- california
+- fulltext:pdf-missing
 - remote sensing
 - validation
+- wildfire
 zotero_key: GRL8L5YG
 item_type: journalArticle
 url: https://www.sciencedirect.com/science/article/pii/S0034425712003549
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # On timeliness and accuracy of wildfire detection by the GOES WF-ABBA algorithm over California during the 2006 fire season

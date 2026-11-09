@@ -10,6 +10,8 @@ year: '2026'
 journal: Practice Innovations
 doi: 10.1037/pri0000347
 tags:
+- california
+- resilience
 - united states
 - wildfire
 zotero_key: FX6FUQV2
@@ -17,7 +19,7 @@ item_type: journalArticle
 url: https://openalex.org/W7223207884
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # In the wake of California wildfires: Promoting psychological resilience for individuals and communities.

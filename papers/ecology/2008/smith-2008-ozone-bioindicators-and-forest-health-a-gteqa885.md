@@ -7,13 +7,17 @@ authors:
 year: '2008'
 journal: null
 doi: 10.2737/nrs-gtr-34
-tags: []
+tags:
+- air quality
+- environmental health
+- fia
+- forest inventory
 zotero_key: GTEQA885
 item_type: report
 url: https://www.fs.usda.gov/research/treesearch/19036
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Ozone bioindicators and forest health: a guide to the evaluation, analysis, and interpretation of the ozone injury data in the Forest Inventory and Analysis Program

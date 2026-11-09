@@ -14,12 +14,15 @@ journal: Nature Sustainability
 doi: 10.1038/s41893-023-01163-z
 tags:
 - environmental health
+- exposure
+- united states
+- wildfire
 zotero_key: GFIN6AE5
 item_type: journalArticle
 url: https://www.nature.com/articles/s41893-023-01163-z
 source_url: 'unpaywall: https://www.researchsquare.com/article/rs-2102401/latest.pdf'
 fulltext_status: fulltext
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Human and infrastructure exposure to large wildfires in the United States
@@ -334,5 +337,3 @@ SIData4.xlsx
 SupplementaryInformation.docx 
 
 Page 19/19 
-
-

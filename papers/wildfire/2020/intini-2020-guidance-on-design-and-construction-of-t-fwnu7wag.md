@@ -8,13 +8,17 @@ authors:
 year: '2020'
 journal: Fire Technology
 doi: 10.1007/s10694-019-00902-z
-tags: []
+tags:
+- fire
+- fire hazard
+- natural hazards
+- wildland-urban interface
 zotero_key: FWNU7WAG
 item_type: journalArticle
 url: http://link.springer.com/10.1007/s10694-019-00902-z
 source_url: 'unpaywall: https://link.springer.com/content/pdf/10.1007/s10694-019-00902-z.pdf'
 fulltext_status: fulltext
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Guidance on Design and Construction of the Built Environment Against Wildland Urban Interface Fire Hazard: A Review
@@ -573,5 +577,3 @@ Guidance on Design and Construction of the Built Environment
 47. Stewart SI, Radeloff VC, Hammer RB (2003) Characteristics and location of the wildland-urban interface in the United States. 2 Nd International Wildland Wildfire Ecology and Wildfire Management Congress. Orlando, Florida. Retrieved from http://cnrf iles.uwsp.edu/CLUE/Forest%20megatrends/page%207_human/old%20files/p7_WUI_te xt.doc 
 
 Publisher’s Note Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations. 
-
-

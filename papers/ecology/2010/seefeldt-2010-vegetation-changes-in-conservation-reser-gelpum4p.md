@@ -9,14 +9,17 @@ year: '2010'
 journal: Agriculture, Ecosystems & Environment
 doi: 10.1016/j.agee.2009.09.001
 tags:
+- agriculture
+- conservation
 - conservation reserve program
+- fulltext:pdf-missing
 - vegetation
 zotero_key: GELPUM4P
 item_type: journalArticle
 url: https://www.sciencedirect.com/science/article/pii/S0167880909002643
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Vegetation changes in Conservation Reserve Program lands in interior Alaska

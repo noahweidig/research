@@ -19,7 +19,7 @@ item_type: journalArticle
 url: https://doi.org/10.1186/s42408-021-00117-0
 source_url: 'unpaywall: https://fireecology.springeropen.com/track/pdf/10.1186/s42408-021-00117-0'
 fulltext_status: fulltext
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Housing arrangement and vegetation factors associated with single-family home survival in the 2018 Camp Fire, California
@@ -555,7 +555,3 @@ Knapp et al. Fire Ecology (2021) 17:25
 ## Publisher’s Note 
 
 Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations. 
-
-
-
-

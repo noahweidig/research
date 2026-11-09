@@ -13,13 +13,14 @@ tags:
 - fire history
 - fire regime
 - forest ecology
+- fulltext:pdf-missing
 - wildfire
 zotero_key: GWAIT7GX
 item_type: journalArticle
 url: https://www.sciencedirect.com/science/article/pii/S0378112714005969
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Forest fires within a temperate landscape: A decadal and millennial perspective from a sandstone region in Central Europe

@@ -8,13 +8,18 @@ authors:
 year: '2007'
 journal: Journal of Forestry
 doi: 10.1093/jof/105.4.201
-tags: []
+tags:
+- fulltext:pdf-missing
+- housing
+- united states
+- wildfire
+- wildland-urban interface
 zotero_key: H48C9DIU
 item_type: journalArticle
 url: https://doi.org/10.1093/jof/105.4.201
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Defining the Wildland–Urban Interface

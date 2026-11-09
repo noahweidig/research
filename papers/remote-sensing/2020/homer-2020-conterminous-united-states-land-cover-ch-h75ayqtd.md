@@ -17,7 +17,8 @@ year: '2020'
 journal: ISPRS Journal of Photogrammetry and Remote Sensing
 doi: 10.1016/j.isprsjprs.2020.02.019
 tags:
-- land cover change
+- fulltext:pdf-found
+- land use change
 - landsat
 - nlcd
 - remote sensing
@@ -27,7 +28,7 @@ item_type: journalArticle
 url: https://www.sciencedirect.com/science/article/pii/S0924271620300587
 source_url: 'unpaywall: https://www.ncbi.nlm.nih.gov/pmc/articles/9214659'
 fulltext_status: fulltext
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Conterminous United States land cover change patterns 2001–2016 from the 2016 National Land Cover Database

@@ -22,13 +22,17 @@ authors:
 year: '2017'
 journal: Science
 doi: 10.1126/science.aal4108
-tags: []
+tags:
+- burned area
+- fire
+- remote sensing
+- savanna
 zotero_key: H92P8V5W
 item_type: journalArticle
 url: https://www.science.org/doi/10.1126/science.aal4108
 source_url: 'unpaywall: https://research.vu.nl/en/publications/02ac0358-40b8-4cde-ad1d-48a30e23eb7d'
 fulltext_status: fulltext
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # A human-driven decline in global burned area

@@ -8,13 +8,17 @@ authors:
 year: '2026'
 journal: Earth's Future
 doi: 10.1029/2026EF008372
-tags: []
+tags:
+- housing
+- large wildfires
+- united states
+- wildfire
 zotero_key: HE3GRJ8F
 item_type: journalArticle
 url: https://onlinelibrary.wiley.com/doi/abs/10.1029/2026EF008372
 source_url: 'unpaywall: https://arxiv.org/pdf/2512.19514'
 fulltext_status: fulltext
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Residential Structure Survivability to Large Wildfires in the United States
@@ -278,5 +282,3 @@ Survival rates by fire size class for the West (g) and East (h). Fires are group
 
 
 **Figure 4. Extreme fire weather conditions reduce survival rates and increase home exposure.** (a, d) Number of fires within each Energy Release Component (ERC) and Burning Index (BI) percentile bin. (b, e) Total number of residential structures exposed to fire within each ERC and BI percentile bin. (c, f) Survival rates of residential structures exposed to fire, stratified by ERC percentiles and BI percentiles. 
-
-

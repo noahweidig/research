@@ -19,14 +19,16 @@ year: '2026'
 journal: Socio-Ecological Practice Research
 doi: 10.1007/s42532-026-00260-5
 tags:
+- forest management
 - united states
+- western united states
 - wildfire
 zotero_key: FPHXUK3F
 item_type: journalArticle
 url: https://openalex.org/W7202099560
 source_url: 'unpaywall: https://link.springer.com/content/pdf/10.1007/s42532-026-00260-5.pdf'
 fulltext_status: fulltext
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Is Wildfire Planning Evolving to Support Communities? Taking Stock of 20 years of Community Wildfire Protection Plans in the state of Colorado, United States
@@ -736,5 +738,3 @@ Jonathan.Salerno@colostate.edu
 ```
 1 3
 ```
-
-

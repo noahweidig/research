@@ -14,6 +14,7 @@ tags:
 - fire history
 - fire severity
 - fire weather
+- fulltext:pdf-missing
 - landsat
 - lidar
 - remote sensing
@@ -23,7 +24,7 @@ item_type: journalArticle
 url: https://www.sciencedirect.com/science/article/pii/S0034425720302613
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Disentangling the role of prefire vegetation vs. burning conditions on fire severity in a large forest fire in SE Spain

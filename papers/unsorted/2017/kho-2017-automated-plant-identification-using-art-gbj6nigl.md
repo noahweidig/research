@@ -10,13 +10,17 @@ year: '2017'
 journal: Frontiers in Life Science
 doi: 10.1080/21553769.2017.1412361
 tags:
+- fulltext:pdf-missing
+- image analysis
 - machine learning
+- plant identification
+- support vector machine
 zotero_key: GBJ6NIGL
 item_type: journalArticle
 url: https://doi.org/10.1080/21553769.2017.1412361
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Automated plant identification using artificial neural network and support vector machine

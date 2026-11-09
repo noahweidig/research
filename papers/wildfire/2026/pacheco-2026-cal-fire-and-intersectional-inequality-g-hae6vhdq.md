@@ -6,13 +6,16 @@ year: '2026'
 journal: null
 doi: 10.14293/pr2199.004527.v1
 tags:
+- environmental justice
+- fire
+- fire suppression
 - united states
 zotero_key: HAE6VHDQ
 item_type: journalArticle
 url: https://openalex.org/W7214191960
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # CAL FIRE and Intersectional Inequality: Gender, LGBTQIA2S+ and the Governance of Incarcerated Labor

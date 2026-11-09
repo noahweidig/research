@@ -30,14 +30,14 @@ tags:
 - convolutional neural network
 - grassland
 - machine learning
-- rangeland management
+- rangeland
 - remote sensing
 zotero_key: GPD42BFW
 item_type: journalArticle
 url: https://onlinelibrary.wiley.com/doi/abs/10.1111/2041-210X.13564
 source_url: 'unpaywall: https://www.biorxiv.org/content/biorxiv/early/2020/08/04/2020.06.10.142489.full.pdf'
 fulltext_status: fulltext
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Improving Landsat predictions of rangeland fractional cover with multitask learning and uncertainty
@@ -364,5 +364,3 @@ _Engineering & Remote Sensing_ , ​ ​ _81_ (5), 345–354. ​
 - Zhong, L., Hu, L., & Zhou, H. (2019). Deep learning based multi-temporal crop classification. _Remote Sensing of Environment_ , ​ ​ _221_ ​ , 430–443. 
 
 17 
-
-

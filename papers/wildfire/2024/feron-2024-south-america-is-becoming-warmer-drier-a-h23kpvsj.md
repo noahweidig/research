@@ -17,13 +17,14 @@ doi: 10.1038/s43247-024-01654-7
 tags:
 - atmospheric science
 - environmental health
+- fire risk
 - natural hazards
 zotero_key: H23KPVSJ
 item_type: journalArticle
 url: https://www.nature.com/articles/s43247-024-01654-7
 source_url: 'unpaywall: https://www.nature.com/articles/s43247-024-01654-7.pdf'
 fulltext_status: fulltext
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # South America is becoming warmer, drier, and more flammable
@@ -503,5 +504,3 @@ Open Access This article is licensed under a Creative Commons Attribution-NonCom
 Communications Earth & Environment | (2024) 5:501 
 
 10 
-
-

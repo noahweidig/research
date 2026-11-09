@@ -5,13 +5,18 @@ authors:
 year: '2015'
 journal: Current Forestry Reports
 doi: 10.1007/s40725-015-0015-7
-tags: []
+tags:
+- community preparedness
+- global
+- risk perception
+- sociology
+- wildfire
 zotero_key: F9MABFW5
 item_type: journalArticle
 url: https://doi.org/10.1007/s40725-015-0015-7
 source_url: 'unpaywall: https://link.springer.com/content/pdf/10.1007%2Fs40725-015-0015-7.pdf'
 fulltext_status: fulltext
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Community wildfire preparedness: A global state-of-the-knowledge summary of social science research
@@ -405,5 +410,3 @@ Curr Forestry Rep (2015) 1:81–90
 - 77. Afifi WA, Felix ED, Afifi TD. The impact of uncertainty and comA., McGee, T., Curtis A., Sharp E. Trust: a planning guide for munal coping on mental health following natural disasters. Anxiety wildfire agencies and practitioners—an International Stress Coping. 2012;25(3):329–47. Collaboration Drawing on Research and Management Experience 
 
 - 78. Papadatou D, Giannopoulou I, Bitsakou P, Bellali T, Talias MA, in Australia, Canada, and the United States. A Joint Fire Science Tselepi K. Adolescents’ reactions after a wildfire disaster in Greece. Program Research Publication. Oregon State University, Corvallis, J Trauma Stress. 2012;25(1):57–63. OR.; 2014. http://cfs.nrcan.gc.ca/pubwarehouse/pdfs/35399.pdf. 
-
-

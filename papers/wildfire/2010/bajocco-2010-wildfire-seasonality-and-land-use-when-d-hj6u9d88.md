@@ -19,7 +19,7 @@ item_type: journalArticle
 url: https://doi.org/10.1007/s10661-009-0905-x
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Wildfire seasonality and land use: when do wildfires prefer to burn?

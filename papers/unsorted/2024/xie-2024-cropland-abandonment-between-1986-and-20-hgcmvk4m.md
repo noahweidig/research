@@ -10,13 +10,17 @@ authors:
 year: '2024'
 journal: Environmental Research Letters
 doi: 10.1088/1748-9326/ad2d12
-tags: []
+tags:
+- agriculture
+- land use
+- spatiotemporal
+- united states
 zotero_key: HGCMVK4M
 item_type: journalArticle
 url: https://dx.doi.org/10.1088/1748-9326/ad2d12
 source_url: 'unpaywall: https://www.osti.gov/servlets/purl/2370521'
 fulltext_status: fulltext
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Cropland abandonment between 1986 and 2018 across the United States: spatiotemporal patterns and current land uses
@@ -554,5 +558,3 @@ Y Xie _et al_
 - [29] Massey R, Sankey T T, Congalton R G, Yadav K, Thenkabail P S, Ozdogan M and Sánchez Meador A J 2017 MODIS phenology-derived, multi-year distribution of conterminous U.S. crop types _Remote Sens. Environ._ **198** 490–503 
 
 17 
-
-

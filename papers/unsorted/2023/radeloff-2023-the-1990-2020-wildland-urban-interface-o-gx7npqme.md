@@ -10,13 +10,18 @@ authors:
 year: '2023'
 journal: null
 doi: 10.2737/RDS-2015-0012-4
-tags: []
+tags:
+- contiguous united states
+- dataset
+- fulltext:pdf-missing
+- geospatial data
+- wildland-urban interface
 zotero_key: GX7NPQME
 item_type: dataset
 url: https://www.fs.usda.gov/rds/archive/catalog/RDS-2015-0012-4
 source_url: 'unpaywall: https://figshare.com/articles/dataset/The_2010_wildland-urban_interface_of_the_conterminous_United_States_-_geospatial_data_1st_edition/27006235'
 fulltext_status: fulltext
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # The 1990-2020 wildland-urban interface of the conterminous United States - geospatial data (4th Edition)

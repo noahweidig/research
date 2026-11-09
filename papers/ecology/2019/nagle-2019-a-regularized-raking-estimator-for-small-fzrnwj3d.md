@@ -10,12 +10,14 @@ doi: 10.3390/f10111045
 tags:
 - fia
 - forest inventory
+- statistics
+- survey research
 zotero_key: FZRNWJ3D
 item_type: journalArticle
 url: https://www.mdpi.com/1999-4907/10/11/1045
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # A Regularized Raking Estimator for Small-Area Mapping from Forest Inventory Surveys

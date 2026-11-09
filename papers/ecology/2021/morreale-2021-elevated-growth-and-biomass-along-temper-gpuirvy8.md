@@ -9,13 +9,17 @@ authors:
 year: '2021'
 journal: Nature Communications
 doi: 10.1038/s41467-021-27373-7
-tags: []
+tags:
+- biomass
+- edge effects
+- fragmentation
+- temperate forest
 zotero_key: GPUIRVY8
 item_type: journalArticle
 url: https://www.nature.com/articles/s41467-021-27373-7
 source_url: 'unpaywall: https://www.nature.com/articles/s41467-021-27373-7.pdf'
 fulltext_status: fulltext
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Elevated growth and biomass along temperate forest edges
@@ -367,5 +371,3 @@ Open Access This article is licensed under a Creative Commons Attribution 4.0 In
 8 
 
 NATURE COMMUNICATIONS | (2021) 12:7181 | https://doi.org/10.1038/s41467-021-27373-7 | www.nature.com/naturecommunications 
-
-

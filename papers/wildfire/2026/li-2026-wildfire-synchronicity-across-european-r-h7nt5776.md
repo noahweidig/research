@@ -11,6 +11,7 @@ journal: Communications Earth & Environment
 doi: 10.1038/s43247-026-03956-4
 tags:
 - large wildfires
+- weather
 - wildfire
 - wildfire occurrence
 zotero_key: H7NT5776
@@ -18,7 +19,7 @@ item_type: journalArticle
 url: https://openalex.org/W7213461287
 source_url: 'unpaywall: https://www.nature.com/articles/s43247-026-03956-4.pdf'
 fulltext_status: fulltext
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Wildfire synchronicity across European regions is favored by specific weather regimes
@@ -499,5 +500,3 @@ Publisher’s note Springer Nature remains neutral with regard to jurisdictional
 Communications Earth & Environment | (2026) 7:744 
 
 12 
-
-

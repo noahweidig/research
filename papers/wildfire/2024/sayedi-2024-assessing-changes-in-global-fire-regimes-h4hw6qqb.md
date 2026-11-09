@@ -122,7 +122,7 @@ item_type: journalArticle
 url: https://doi.org/10.1186/s42408-023-00237-9
 source_url: 'unpaywall: https://fireecology.springeropen.com/counter/pdf/10.1186/s42408-023-00237-9'
 fulltext_status: fulltext
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Assessing changes in global fire regimes
@@ -834,5 +834,3 @@ models. _Nature Communications_ 9(1): 3821. https:// doi. org/ 10. 1038/ s41467�
 ### **Publisher’s Note** 
 
 Springer Nature remains neutral with regard to jurisdictional claims in pub‑ lished maps and institutional affiliations. 
-
-

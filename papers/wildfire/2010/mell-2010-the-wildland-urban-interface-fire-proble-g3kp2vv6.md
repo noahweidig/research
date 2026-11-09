@@ -9,13 +9,18 @@ authors:
 year: '2010'
 journal: International Journal of Wildland Fire
 doi: 10.1071/WF07131
-tags: []
+tags:
+- fire
+- fuel treatments
+- fuels
+- fulltext:pdf-missing
+- wildland-urban interface
 zotero_key: G3KP2VV6
 item_type: journalArticle
 url: http://www.publish.csiro.au/?paper=WF07131
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # The wildland - urban interface fire problem - current approaches and research needs

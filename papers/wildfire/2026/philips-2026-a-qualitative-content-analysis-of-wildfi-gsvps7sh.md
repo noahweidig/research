@@ -9,14 +9,16 @@ year: '2026'
 journal: null
 doi: 10.31223/x5t50k
 tags:
+- air quality
 - united states
 - wildfire
+- wildfire smoke
 zotero_key: GSVPS7SH
 item_type: journalArticle
 url: https://openalex.org/W7204567181
 source_url: 'unpaywall: https://eartharxiv.org/repository/object/14682/download/25540/'
 fulltext_status: fulltext
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # A qualitative content analysis of wildfire smoke preparedness and response plans in the United States and Canada
@@ -1384,5 +1386,3 @@ This manuscript is a preprint and has not been peer reviewed. The copyright hold
 - 746 **S1 Appendix. Wildfire Smoke Plan Content Analysis Survey.** 
 
 33 
-
-
