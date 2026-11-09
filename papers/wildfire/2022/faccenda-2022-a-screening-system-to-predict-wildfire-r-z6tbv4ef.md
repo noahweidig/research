@@ -7,6 +7,7 @@ year: '2022'
 journal: Biological Invasions
 doi: 10.1007/s10530-021-02661-x
 tags:
+- fire risk
 - invasive species
 - random forest
 - wildfire
@@ -15,7 +16,7 @@ item_type: journalArticle
 url: https://doi.org/10.1007/s10530-021-02661-x
 source_url: 'unpaywall: https://link.springer.com/content/pdf/10.1007/s10530-021-02661-x.pdf'
 fulltext_status: fulltext
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # A screening system to predict wildfire risk of invasive plants
@@ -543,5 +544,3 @@ A screening system to predict wildfire risk of invasive plants
 Publisher’s Note Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations. 
 
 123 
-
-

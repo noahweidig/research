@@ -9,13 +9,17 @@ authors:
 year: '2024'
 journal: Communications Earth & Environment
 doi: 10.1038/s43247-024-01346-2
-tags: []
+tags:
+- fire
+- fire weather
+- weather
+- western united states
 zotero_key: ZFYGSINP
 item_type: journalArticle
 url: https://www.nature.com/articles/s43247-024-01346-2
 source_url: 'unpaywall: https://www.nature.com/articles/s43247-024-01346-2.pdf'
 fulltext_status: fulltext
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Record-breaking fire weather in North America in 2021 was initiated by the Pacific northwest heat dome
@@ -470,5 +474,3 @@ Open Access This article is licensed under a Creative Commons Attribution 4.0 In
 Communications Earth & Environment | (2024) 5:202 
 
 10 
-
-

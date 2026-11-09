@@ -25,7 +25,7 @@ item_type: journalArticle
 url: https://onlinelibrary.wiley.com/doi/abs/10.1111/gcb.70075
 source_url: 'unpaywall: https://www.dora.lib4ri.ch/wsl/dload/wsl:38636/PDF2/view'
 fulltext_status: fulltext
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Increasing Hydroclimatic Whiplash Can Amplify Wildfire Risk in a Warming Climate
@@ -279,5 +279,3 @@ Keeley, J. E. (2004). Impact of antecedent climate on fire regimes in coastal Ca
 - 216 
 
 7 
-
-

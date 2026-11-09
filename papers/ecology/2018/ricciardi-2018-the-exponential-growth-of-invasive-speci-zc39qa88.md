@@ -7,14 +7,17 @@ year: '2018'
 journal: Biological Invasions
 doi: 10.1007/s10530-017-1561-7
 tags:
-- invasion biology
+- biodiversity
+- climate
+- fulltext:pdf-missing
+- invasive species
 - science denialism
 zotero_key: ZC39QA88
 item_type: journalArticle
 url: https://doi.org/10.1007/s10530-017-1561-7
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # The exponential growth of invasive species denialism

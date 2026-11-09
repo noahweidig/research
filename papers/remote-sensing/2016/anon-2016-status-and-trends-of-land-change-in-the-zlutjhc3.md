@@ -4,13 +4,18 @@ authors: []
 year: '2016'
 journal: null
 doi: 10.3133/pp1794D
-tags: []
+tags:
+- eastern united states
+- land cover
+- land use change
+- remote sensing
+- united states
 zotero_key: ZLUTJHC3
 item_type: book
 url: http://dx.doi.org/10.3133/pp1794D
 source_url: 'unpaywall: https://pubs.usgs.gov/pp/1794/d/pp1794d.pdf'
 fulltext_status: fulltext
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Status and trends of land change in the Eastern United States—1973 to 2000
@@ -4981,5 +4986,3 @@ Produced in the Menlo Park Publishing Service Center, Menlo Park, California Man
 
 <!-- Start of picture text -->
 ISSN 1044-9612 (print)<br>ISSN 2330-7102 (online)<br>http://dx.doi.org/10.3133/pp1794D<br><!-- End of picture text -->
-
-

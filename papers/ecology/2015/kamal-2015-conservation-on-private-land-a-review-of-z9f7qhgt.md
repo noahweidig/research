@@ -8,14 +8,17 @@ year: '2015'
 journal: Journal of Environmental Planning and Management
 doi: 10.1080/09640568.2013.875463
 tags:
+- biodiversity
 - conservation
+- fulltext:pdf-found
 - private land
+- protected areas
 zotero_key: Z9F7QHGT
 item_type: journalArticle
 url: https://doi.org/10.1080/09640568.2013.875463
 source_url: 'unpaywall: http://ruj.uj.edu.pl/xmlui/handle/item/8404'
 fulltext_status: fulltext
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Conservation on private land: a review of global strategies with a proposed classification system

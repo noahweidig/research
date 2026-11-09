@@ -6,13 +6,17 @@ authors:
 year: '2016'
 journal: Fire Ecology
 doi: 10.4996/fireecology.1202160
-tags: []
+tags:
+- eastern united states
+- fire
+- global change
+- united states
 zotero_key: ZCGBLTD6
 item_type: journalArticle
 url: https://fireecology.springeropen.com/articles/10.4996/fireecology.1202160
 source_url: 'unpaywall: https://fireecology.springeropen.com/track/pdf/10.4996/fireecology.1202160'
 fulltext_status: fulltext
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Oak, Fire, and Global Change in the Eastern USA: What Might the Future Hold?
@@ -495,5 +499,3 @@ _Fire Ecology Volume 12, Issue 2, 2016 doi: 10.4996/fireecology.1202160_
 - Williams, A.P., C.D. Allen, A.K. Macalady, D. Griffin, C.A. Woodhouse, D.M. Meko, T.W. Swetnam, S.A. Rauscher, R. Seager, H.D. Grissino-Mayer, J.S. Dean, E.R. Cook, C. Gangodagamage, M. Cai, and N.G. McDowell.  2013.  Temperature as a potent driver of regional forest drought stress and tree mortality.  Nature Climate Change 3: 292 - 297. doi: 10.1038/ nclimate1693 
 
 - Zolkos, S.G., P. Jantz, T. Corimier, L.R. Iverson, D.W. McKenney, and S.J. Goetz.  2015.  Projected tree species redistribution under climate change: implications for ecosystem vulnerability across protected areas in the eastern United States.  Ecosystems 18: 202 - 220. doi: 10.1007/s10021-014-9822-0 
-
-

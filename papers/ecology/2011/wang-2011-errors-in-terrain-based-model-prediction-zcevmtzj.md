@@ -9,13 +9,16 @@ year: '2011'
 journal: Mathematical and Computational Forestry & Natural-Resource Sciences (MCFNS)
 doi: null
 tags:
+- eastern united states
 - gis
+- topography
+- united states
 zotero_key: ZCEVMTZJ
 item_type: journalArticle
 url: https://www.mcfns.com/index.php/Journal/article/view/MCFNS.3-114
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Errors In Terrain-Based Model Predictions Caused By Altered Forest Inventory Plot Locations In The Southern Appalachian Mountains, USA
