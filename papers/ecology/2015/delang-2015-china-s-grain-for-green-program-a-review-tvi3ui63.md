@@ -9,7 +9,8 @@ doi: 10.1007/978-3-319-11505-4
 tags:
 - china
 - forest management
-- land cover change
+- fulltext:pdf-missing
+- land use change
 - restoration
 - rural development
 zotero_key: TVI3UI63
@@ -17,7 +18,7 @@ item_type: book
 url: https://link.springer.com/10.1007/978-3-319-11505-4
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # China’s Grain for Green Program: A Review of the Largest Ecological Restoration and Rural Development Program in the World

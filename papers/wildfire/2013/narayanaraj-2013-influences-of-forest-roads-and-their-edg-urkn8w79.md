@@ -9,13 +9,15 @@ doi: 10.1016/j.jag.2012.12.006
 tags:
 - edge effects
 - fire severity
+- fulltext:check-needed
+- road network
 - wildfire
 zotero_key: URKN8W79
 item_type: journalArticle
 url: https://www.sciencedirect.com/science/article/pii/S0303243412002462
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Influences of forest roads and their edge effects on the spatial pattern of burn severity

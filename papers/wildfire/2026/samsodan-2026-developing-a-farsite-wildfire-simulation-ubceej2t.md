@@ -12,13 +12,16 @@ year: '2026'
 journal: Annals of Forest Research
 doi: 10.15287/afr.2026.4628
 tags:
+- fire behavior
+- fuels
+- modeling
 - wildfire
 zotero_key: UBCEEJ2T
 item_type: journalArticle
 url: https://openalex.org/W7213455885
 source_url: 'unpaywall: https://afrjournal.org/index.php/afr/article/download/4628/1378'
 fulltext_status: fulltext
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Developing a FARSITE wildfire simulation framework for Romania: fuel model mapping and evaluation using historical wildfires
@@ -862,5 +865,3 @@ org/10.2737/INT-RP-115
 - Zhou J., Jiang W., Wang F., Qiao Y., Meng Q., 2024. Comparing accuracy of wildfire spread prediction models under different data deficiency conditions. Fire 7(4): 141. https://doi.org/10.3390/fire7040141 
 
 26 
-
-

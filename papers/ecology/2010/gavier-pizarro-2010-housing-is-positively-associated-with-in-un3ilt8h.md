@@ -10,6 +10,7 @@ year: '2010'
 journal: Ecological Applications
 doi: 10.1890/09-2168.1
 tags:
+- fulltext:pdf-missing
 - housing
 - invasive species
 - landscape ecology
@@ -20,7 +21,7 @@ item_type: journalArticle
 url: https://onlinelibrary.wiley.com/doi/abs/10.1890/09-2168.1
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Housing is positively associated with invasive exotic plant species richness in New England, USA

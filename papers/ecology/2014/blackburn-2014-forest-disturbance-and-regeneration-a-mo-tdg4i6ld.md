@@ -7,13 +7,17 @@ authors:
 year: '2014'
 journal: Journal of Vegetation Science
 doi: 10.1111/jvs.12201
-tags: []
+tags:
+- disturbance
+- forest structure
+- road network
+- temperate forest
 zotero_key: TDG4I6LD
 item_type: journalArticle
 url: https://onlinelibrary.wiley.com/doi/abs/10.1111/jvs.12201
 source_url: 'unpaywall: https://eprints.lancs.ac.uk/id/eprint/69189/1/Accepted_manuscript.pdf'
 fulltext_status: fulltext
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Forest disturbance and regeneration: a mosaic of discrete gap dynamics and open matrix regimes?
@@ -1107,5 +1111,3 @@ Gap Contraction<br>Due to regeneration<br>Due to lateral crown expansion<br>Cont
 
 
 **Figure 8.** The mosaic of different disturbance and regeneration regimes. Zones have been delineated by applying a series of spatial filters to the map of continuing gap areas (which is shown beneath the regimes map). 
-
-

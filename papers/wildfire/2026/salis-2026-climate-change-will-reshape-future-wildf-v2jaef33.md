@@ -18,6 +18,8 @@ year: '2026'
 journal: Natural Hazards
 doi: 10.1007/s11069-026-08320-5
 tags:
+- climate
+- natural hazards
 - wildfire
 - wildfire occurrence
 zotero_key: V2JAEF33
@@ -25,7 +27,7 @@ item_type: journalArticle
 url: https://openalex.org/W7208784285
 source_url: 'unpaywall: https://link.springer.com/content/pdf/10.1007/s11069-026-08320-5.pdf'
 fulltext_status: fulltext
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Climate change will reshape future wildfire danger and hazard in Sardinia, Italy
@@ -906,5 +908,3 @@ Natural Hazards (2026) 122:629
 ```
 1 3
 ```
-
-

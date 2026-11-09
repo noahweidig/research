@@ -9,13 +9,18 @@ authors:
 year: '2008'
 journal: null
 doi: 10.1007/978-0-387-34003-6_12
-tags: []
+tags:
+- fire
+- fulltext:pdf-missing
+- grasses
+- grazing
+- trees
 zotero_key: U7PRJS4S
 item_type: bookSection
 url: http://link.springer.com/10.1007/978-0-387-34003-6_12
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # The Combined Influence of Grazing, Fire, and Herbaceous Productivity on Tree–Grass Interactions

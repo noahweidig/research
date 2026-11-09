@@ -13,13 +13,14 @@ tags:
 - drought
 - fire severity
 - fuel load
+- fulltext:check-needed
 - thinning
 zotero_key: TJNAQHCM
 item_type: journalArticle
 url: https://www.sciencedirect.com/science/article/pii/S0378112717312860
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Fire behavior in Pinus halepensis thickets: Effects of thinning and woody debris decomposition in two rainfall scenarios

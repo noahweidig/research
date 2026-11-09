@@ -5,13 +5,19 @@ authors:
 year: '2025'
 journal: null
 doi: null
-tags: []
+tags:
+- agriculture
+- conservation
+- conservation reserve program
+- fulltext:check-needed
+- government report
+- united states
 zotero_key: US7HJTJ9
 item_type: report
 url: https://www.fsa.usda.gov/sites/default/files/2025-12/CRPMonthlyJuly2025WithPageNumbers.pdf
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Conservation Reserve Program Monthly Summary – July 2025

@@ -8,13 +8,17 @@ authors:
 year: '2024'
 journal: Environmental Research Letters
 doi: 10.1088/1748-9326/ad31da
-tags: []
+tags:
+- burned area
+- dataset
+- fire
+- wildland-urban interface
 zotero_key: UYKC2XS5
 item_type: journalArticle
 url: https://dx.doi.org/10.1088/1748-9326/ad31da
 source_url: 'unpaywall: https://repository.library.noaa.gov/view/noaa/64054'
 fulltext_status: fulltext
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Global expansion of wildland-urban interface (WUI) and WUI fires: insights from a multiyear worldwide unified database (WUWUI)

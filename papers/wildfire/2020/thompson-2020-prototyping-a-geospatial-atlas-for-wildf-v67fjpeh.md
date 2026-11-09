@@ -11,13 +11,17 @@ authors:
 year: '2020'
 journal: Forests
 doi: 10.3390/f11090909
-tags: []
+tags:
+- decision support
+- geospatial data
+- united states
+- wildfire
 zotero_key: V67FJPEH
 item_type: journalArticle
 url: https://doi.org/10.3390/f11090909
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Prototyping a geospatial atlas for wildfire planning and management

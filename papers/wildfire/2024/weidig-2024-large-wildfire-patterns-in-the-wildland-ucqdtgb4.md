@@ -8,13 +8,18 @@ authors:
 year: '2024'
 journal: International Association for Landscape Ecology - North America Annual Conference
 doi: null
-tags: []
+tags:
+- eastern united states
+- fulltext:check-needed
+- united states
+- wildfire
+- wildland-urban interface
 zotero_key: UCQDTGB4
 item_type: conferencePaper
 url: https://www.ialena.org/program-2024.html
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Large Wildfire Patterns in the Wildland-Urban Interface of the Eastern U.S.

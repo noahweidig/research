@@ -6,13 +6,16 @@ year: '2026'
 journal: Scholars Crossing (Liberty University)
 doi: null
 tags:
+- environmental health
+- firebrands
+- resistance
 - united states
 zotero_key: TTIDU294
 item_type: journalArticle
 url: https://openalex.org/W7213567085
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # A Quantitative Content Analysis of Major United States-Based Religious Organizations' Framing of Mask-Wearing on X (Formerly Twitter) During COVID-19

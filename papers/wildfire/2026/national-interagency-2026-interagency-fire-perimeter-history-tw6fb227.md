@@ -5,13 +5,20 @@ authors:
 year: '2026'
 journal: null
 doi: null
-tags: []
+tags:
+- dataset
+- fire
+- fire history
+- fulltext:check-needed
+- geospatial data
+- united states
+- wildfire
 zotero_key: TW6FB227
 item_type: dataset
 url: https://data-nifc.opendata.arcgis.com/datasets/nifc::interagencyfireperimeterhistory-all-years-view/about
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Interagency Fire Perimeter History

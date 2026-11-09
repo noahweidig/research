@@ -10,13 +10,18 @@ authors:
 year: '2010'
 journal: Canadian Journal of Forest Research
 doi: 10.1139/X10-061
-tags: []
+tags:
+- climate
+- fire
+- fulltext:pdf-missing
+- resilience
+- soil properties
 zotero_key: UM58NRYL
 item_type: journalArticle
 url: https://cdnsciencepub.com/doi/full/10.1139/X10-061
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Fire, climate change, and forest resilience in interior AlaskaThis article is one of a selection of papers from The Dynamics of Change in Alaska's Boreal Forests: Resilience and Vulnerability in Response to Climate Warming.

@@ -17,12 +17,14 @@ doi: 10.1038/s43016-021-00429-z
 tags:
 - agriculture
 - environmental impact
+- net primary productivity
+- sustainability
 zotero_key: UFKSG32U
 item_type: journalArticle
 url: https://www.nature.com/articles/s43016-021-00429-z
 source_url: 'unpaywall: https://www.nature.com/articles/s43016-021-00429-z.pdf'
 fulltext_status: fulltext
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Global maps of cropland extent and change show accelerated cropland expansion in the twenty-first century
@@ -744,5 +746,3 @@ We require information from authors about some types of materials, experimental 
 
 
 2 
-
-

@@ -4,13 +4,18 @@ authors: []
 year: '2024'
 journal: null
 doi: null
-tags: []
+tags:
+- fulltext:check-needed
+- machine learning
+- r package
+- software
+- statistics
 zotero_key: UX6M7MZF
 item_type: computerProgram
 url: https://cran.r-project.org/web/packages/caret/index.html
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # caret: Classification and Regression Training

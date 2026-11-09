@@ -7,6 +7,7 @@ year: '2022'
 journal: IEEE Transactions on Geoscience and Remote Sensing
 doi: 10.1109/TGRS.2022.3199156
 tags:
+- fulltext:check-needed
 - land cover
 - landsat
 - lidar
@@ -20,7 +21,7 @@ item_type: journalArticle
 url: https://ieeexplore.ieee.org/document/9857941
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Estimation of Fractional Plant Lifeform Cover for the Conterminous United States Using Landsat Imagery and Airborne LiDAR

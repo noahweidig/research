@@ -14,12 +14,13 @@ tags:
 - fire risk
 - forest management
 - vulnerability assessment
+- wildfire
 zotero_key: TP4QZZU8
 item_type: journalArticle
 url: https://www.mdpi.com/1999-4907/11/8/859
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Assessing Risk and Prioritizing Safety Interventions in Human Settlements Affected by Large Wildfires

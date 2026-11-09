@@ -6,13 +6,18 @@ authors:
 year: '2015'
 journal: International Journal of Wildland Fire
 doi: 10.1071/WF14024
-tags: []
+tags:
+- burned area
+- fire prevention
+- fulltext:pdf-missing
+- ignition
+- wildfire
 zotero_key: U7ZIFRIE
 item_type: journalArticle
 url: https://www.publish.csiro.au/wf/WF14024
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Location, timing and extent of wildfire vary by cause of ignition

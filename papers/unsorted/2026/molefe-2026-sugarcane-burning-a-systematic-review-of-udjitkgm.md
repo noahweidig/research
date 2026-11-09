@@ -9,14 +9,16 @@ year: '2026'
 journal: Frontiers in Environmental Science
 doi: 10.3389/fenvs.2026.1956965
 tags:
+- air pollution
 - burning
+- environmental health
 - united states
 zotero_key: UDJITKGM
 item_type: journalArticle
 url: https://openalex.org/W7223814676
 source_url: 'unpaywall: https://www.frontiersin.org/journals/environmental-science/articles/10.3389/fenvs.2026.1956965/pdf'
 fulltext_status: fulltext
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Sugarcane burning: a systematic review of emissions, monitoring approaches, and environmental and health impacts
@@ -715,5 +717,3 @@ Frontiers in Environmental Science
 20 
 
 frontiersin.org 
-
-

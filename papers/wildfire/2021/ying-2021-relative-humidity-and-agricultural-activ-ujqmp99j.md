@@ -12,14 +12,16 @@ journal: Agricultural and Forest Meteorology
 doi: 10.1016/j.agrformet.2021.108540
 tags:
 - agriculture
+- fulltext:pdf-missing
 - humidity
 - ignition
+- wildfire
 zotero_key: UJQMP99J
 item_type: journalArticle
 url: https://www.sciencedirect.com/science/article/pii/S0168192321002240
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Relative humidity and agricultural activities dominate wildfire ignitions in Yunnan, Southwest China: Patterns, thresholds, and implications

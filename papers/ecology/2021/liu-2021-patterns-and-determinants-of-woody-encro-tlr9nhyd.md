@@ -8,13 +8,18 @@ authors:
 year: '2021'
 journal: Land Degradation & Development
 doi: 10.1002/ldr.3938
-tags: []
+tags:
+- climate change
+- fulltext:pdf-missing
+- grassland
+- vegetation
+- woody encroachment
 zotero_key: TLR9NHYD
 item_type: journalArticle
 url: https://onlinelibrary.wiley.com/doi/abs/10.1002/ldr.3938
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Patterns and determinants of woody encroachment in the eastern Eurasian steppe

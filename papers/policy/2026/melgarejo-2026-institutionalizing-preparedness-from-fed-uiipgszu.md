@@ -6,13 +6,16 @@ year: '2026'
 journal: Journal of Policy History
 doi: 10.1017/s0898030626100633
 tags:
+- california
+- disaster
+- legal statutes
 - united states
 zotero_key: UIIPGSZU
 item_type: journalArticle
 url: https://openalex.org/W7214168643
 source_url: 'unpaywall: https://www.cambridge.org/core/services/aop-cambridge-core/content/view/3F8A922C86424B0C4BF2574EBC140C1C/S0898030626100633a.pdf/div-class-title-institutionalizing-preparedness-from-federal-civil-defense-in-the-united-states-to-local-emergency-management-in-california-1800-1980s-div.pdf'
 fulltext_status: fulltext
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Institutionalizing Preparedness: From Federal Civil Defense in the United States to Local Emergency Management in California (1800–1980s)
@@ -470,5 +473,3 @@ https://doi.org/10.1017/S0898030626100633 Published online by Cambridge Universi
 Cite this article: Tellerías Melgarejo, Piero (2026). “Institutionalizing Preparedness: From Federal Civil Defense in the United States to Local Emergency Management in California (1800–1980s).” Journal of Policy History 38 (4): 332–354, doi:10.1017/S0898030626100633 
 
 https://doi.org/10.1017/S0898030626100633 Published online by Cambridge University Press 
-
-

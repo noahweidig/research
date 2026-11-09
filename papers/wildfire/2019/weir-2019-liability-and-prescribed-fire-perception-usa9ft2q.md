@@ -12,6 +12,7 @@ year: '2019'
 journal: Rangeland Ecology & Management
 doi: 10.1016/j.rama.2018.11.010
 tags:
+- fulltext:pdf-missing
 - legal statutes
 - negligence
 - prescribed burning
@@ -21,7 +22,7 @@ item_type: journalArticle
 url: https://www.sciencedirect.com/science/article/pii/S1550742418301283
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Liability and Prescribed Fire: Perception and Reality

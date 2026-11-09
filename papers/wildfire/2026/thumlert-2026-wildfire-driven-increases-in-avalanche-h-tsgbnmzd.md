@@ -10,13 +10,16 @@ year: '2026'
 journal: Proceedings of the International Snow Science Workshop 2026
 doi: 10.15788/1790098731
 tags:
+- forest structure
+- natural hazards
+- risk assessment
 - wildfire
 zotero_key: TSGBNMZD
 item_type: journalArticle
 url: https://openalex.org/W7214018109
 source_url: 'unpaywall: https://doi.org/10.15788/1790098731'
 fulltext_status: fulltext
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # WILDFIRE-DRIVEN INCREASES IN AVALANCHE HAZARD: MECHANISMS, CANADIAN CASE STUDIES, AND A POST-WILDFIRE AVALANCHE RISK ASSESSMENT TOOL

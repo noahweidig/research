@@ -10,13 +10,17 @@ year: '2026'
 journal: null
 doi: 10.2172/3991173
 tags:
+- energy infrastructure
+- government report
+- transmission siting
 - united states
+- wildfire transmission
 zotero_key: TGE5FUI3
 item_type: journalArticle
 url: https://openalex.org/W7214623173
 source_url: 'unpaywall: https://www.osti.gov/servlets/purl/3991173'
 fulltext_status: fulltext
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Guidance on Transmission Siting in the United States Transmission Siting Roadmap for the Chiefs’ Trail Project
@@ -673,5 +677,3 @@ Last, all necessary permits and approvals from regulatory agencies must be obtai
 - 0] [Online]. Available: https://www.energy.gov/eere/analysis/renewable-energy-resource-assessmentinformation-united-states. [Accessed 12 12 2024]. 
 
 28 
-
-

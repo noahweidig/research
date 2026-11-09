@@ -28,7 +28,7 @@ item_type: journalArticle
 url: https://www.mdpi.com/2073-445X/11/11/1942
 source_url: 'unpaywall: https://hdl.handle.net/11388/305088'
 fulltext_status: fulltext
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Spatial Patterns and Intensity of Land Abandonment Drive Wildfire Hazard and Likelihood in Mediterranean Agropastoral Areas

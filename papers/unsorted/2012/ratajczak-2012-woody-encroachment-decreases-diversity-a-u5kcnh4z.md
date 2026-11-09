@@ -7,13 +7,18 @@ authors:
 year: '2012'
 journal: Ecology
 doi: 10.1890/11-1199.1
-tags: []
+tags:
+- fulltext:pdf-missing
+- grassland
+- savanna
+- united states
+- woody encroachment
 zotero_key: U5KCNH4Z
 item_type: journalArticle
 url: https://onlinelibrary.wiley.com/doi/abs/10.1890/11-1199.1
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Woody encroachment decreases diversity across North American grasslands and savannas
