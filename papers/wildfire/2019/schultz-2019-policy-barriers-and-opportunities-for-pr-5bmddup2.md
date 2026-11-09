@@ -7,13 +7,18 @@ authors:
 year: '2019'
 journal: International Journal of Wildland Fire
 doi: 10.1071/WF19040
-tags: []
+tags:
+- fire
+- fulltext:pdf-missing
+- prescribed burning
+- united states
+- western united states
 zotero_key: 5BMDDUP2
 item_type: journalArticle
 url: https://www.publish.csiro.au/wf/WF19040
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Policy barriers and opportunities for prescribed fire application in the western United States

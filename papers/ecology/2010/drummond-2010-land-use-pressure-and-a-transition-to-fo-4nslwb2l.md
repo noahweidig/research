@@ -6,13 +6,18 @@ authors:
 year: '2010'
 journal: BioScience
 doi: 10.1525/bio.2010.60.4.7
-tags: []
+tags:
+- agriculture
+- eastern united states
+- fulltext:pdf-missing
+- land use
+- united states
 zotero_key: 4NSLWB2L
 item_type: journalArticle
 url: https://doi.org/10.1525/bio.2010.60.4.7
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Land-use Pressure and a Transition to Forest-cover Loss in the Eastern United States

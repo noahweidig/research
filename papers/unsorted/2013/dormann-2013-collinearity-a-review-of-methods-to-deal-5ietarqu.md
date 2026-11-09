@@ -22,13 +22,17 @@ authors:
 year: '2013'
 journal: Ecography
 doi: 10.1111/j.1600-0587.2012.07348.x
-tags: []
+tags:
+- generalized linear models
+- modeling
+- negligence
+- statistics
 zotero_key: 5IETARQU
 item_type: journalArticle
 url: https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1600-0587.2012.07348.x
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Collinearity: a review of methods to deal with it and a simulation study evaluating their performance

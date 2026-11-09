@@ -10,13 +10,18 @@ authors:
 year: '2007'
 journal: null
 doi: 10.2737/WO-GTR-76B
-tags: []
+tags:
+- agriculture
+- fulltext:pdf-missing
+- government report
+- united states
+- vegetation
 zotero_key: 5N862UYC
 item_type: report
 url: https://www.fs.usda.gov/treesearch/pubs/48669
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Description of ecological subregions: sections of the conterminous United States

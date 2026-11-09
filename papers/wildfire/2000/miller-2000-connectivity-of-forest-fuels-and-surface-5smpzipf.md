@@ -12,6 +12,7 @@ tags:
 - fire spread
 - forest ecology
 - fuel load
+- fulltext:pdf-missing
 - modeling
 - united states
 zotero_key: 5SMPZIPF
@@ -19,7 +20,7 @@ item_type: journalArticle
 url: https://doi.org/10.1023/A:1008181313360
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Connectivity of forest fuels and surface fire regimes

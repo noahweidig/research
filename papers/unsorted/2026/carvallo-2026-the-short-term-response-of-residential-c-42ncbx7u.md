@@ -10,13 +10,15 @@ journal: International Journal of Disaster Risk Reduction
 doi: 10.1016/j.ijdrr.2026.106487
 tags:
 - drivers
+- housing
+- survey research
 - united states
 zotero_key: 42NCBX7U
 item_type: journalArticle
 url: https://openalex.org/W7220982251
 source_url: 'unpaywall: https://www.researchsquare.com/article/rs-6733308/latest.pdf'
 fulltext_status: fulltext
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # The short-term response of residential customers to long-duration power interruptions
@@ -518,5 +520,3 @@ Page 25/26
 
 
 Page 26/26 
-
-

@@ -8,6 +8,7 @@ year: '2026'
 journal: Science Advances
 doi: 10.1126/sciadv.aee6185
 tags:
+- biomass
 - prescribed burning
 - united states
 - wildfire
@@ -16,7 +17,7 @@ item_type: journalArticle
 url: https://openalex.org/W7204231162
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Near-term, geospatial opportunity for biomass carbon storage to address the wildfire and climate crises

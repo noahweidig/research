@@ -11,14 +11,16 @@ year: '2026'
 journal: Frontiers in Earth Science
 doi: 10.3389/feart.2026.1899611
 tags:
+- climate
 - drivers
+- ecosystems
 - united states
 zotero_key: 3TXP5HTX
 item_type: journalArticle
 url: https://openalex.org/W7204145463
 source_url: 'unpaywall: https://www.frontiersin.org/journals/earth-science/articles/10.3389/feart.2026.1899611/pdf'
 fulltext_status: fulltext
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # What goes with the flow: exploring climate impacts on low-flows, their influence on water quality, and instream flow management responses across the United States
@@ -768,5 +770,3 @@ Frontiers in Earth Science
 20 
 
 frontiersin.org 
-
-

@@ -9,6 +9,7 @@ journal: Global Change Biology
 doi: 10.1111/gcb.14727
 tags:
 - drought
+- fulltext:pdf-missing
 - grassland
 - precipitation
 - savanna
@@ -18,7 +19,7 @@ item_type: journalArticle
 url: https://onlinelibrary.wiley.com/doi/abs/10.1111/gcb.14727
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Climate change lengthens southeastern USA lightning-ignited fire seasons

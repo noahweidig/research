@@ -9,13 +9,18 @@ authors:
 year: '2025'
 journal: Canadian Journal of Forest Research
 doi: 10.1139/cjfr-2024-0305
-tags: []
+tags:
+- burning
+- fire
+- fire severity
+- fulltext:pdf-missing
+- weather
 zotero_key: 59FFCF7X
 item_type: journalArticle
 url: https://cdnsciencepub.com/doi/10.1139/cjfr-2024-0305
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Linking burn severity to pre-fire forest structure and weather on the Dixie fire offers potential to map prospective burn severity

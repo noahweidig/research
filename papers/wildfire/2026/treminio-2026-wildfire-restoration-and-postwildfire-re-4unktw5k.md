@@ -15,6 +15,8 @@ year: '2026'
 journal: Rangeland Ecology & Management
 doi: 10.1016/j.rama.2026.09.004
 tags:
+- erosion
+- restoration
 - united states
 - wildfire
 zotero_key: 4UNKTW5K
@@ -22,7 +24,7 @@ item_type: journalArticle
 url: https://openalex.org/W7223270386
 source_url: 'unpaywall: https://www.biorxiv.org/content/biorxiv/early/2026/01/20/2026.01.16.699976.full.pdf'
 fulltext_status: fulltext
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Wildfire, Restoration, and Postwildfire Rehabilitation Effects on Wind Erosion in the Great Basin
@@ -759,5 +761,3 @@ bioRxiv preprint doi: https://doi.org/10.64898/2026.01.16.699976; this version p
 - 913 Wojcikiewicz, R.R.K., Webb, N.P., Edwards, B.L., Van Zee, J.W., Courtright, E.M., Cooper, 914 B.F., Hanan, N.P., 2023. Aeolian Sediment Transport Responses to Vegetation Cover 915 Change: Effects of Sampling Error on Model Uncertainty. J Geophys Res Earth Surf 128. 916 https://doi.org/10.1029/2023JF007319 
 
 36 
-
-

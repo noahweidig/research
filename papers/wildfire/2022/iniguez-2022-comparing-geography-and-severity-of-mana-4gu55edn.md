@@ -14,13 +14,17 @@ authors:
 year: '2022'
 journal: Forests
 doi: 10.3390/f13050793
-tags: []
+tags:
+- fire severity
+- united states
+- western united states
+- wildfire
 zotero_key: 4GU55EDN
 item_type: journalArticle
 url: https://www.mdpi.com/1999-4907/13/5/793
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Comparing Geography and Severity of Managed Wildfires in California and the Southwest USA before and after the Implementation of the 2009 Policy Guidance

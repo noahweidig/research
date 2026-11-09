@@ -9,6 +9,7 @@ year: '2023'
 journal: U.S. Geological Survey
 doi: null
 tags:
+- fulltext:check-needed
 - land cover
 - land use change
 - landsat
@@ -19,7 +20,7 @@ item_type: dataset
 url: https://doi.org/10.5066/P9AQYZE0
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Land Change Monitoring, Assessment, and Projection (LCMAP) Collection 1.3 Annual Land Cover and Land Cover Change Validation Tables (1985–2021) for the Conterminous United States

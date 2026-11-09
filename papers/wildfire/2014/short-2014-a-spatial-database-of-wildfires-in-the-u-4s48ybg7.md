@@ -5,13 +5,17 @@ authors:
 year: '2014'
 journal: Earth System Science Data
 doi: 10.5194/essd-6-1-2014
-tags: []
+tags:
+- geospatial data
+- united states
+- wildfire
+- wildfire occurrence
 zotero_key: 4S48YBG7
 item_type: journalArticle
 url: https://essd.copernicus.org/articles/6/1/2014/
 source_url: 'unpaywall: https://essd.copernicus.org/articles/6/1/2014/essd-6-1-2014.pdf'
 fulltext_status: fulltext
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # A spatial database of wildfires in the United States, 1992-2011
@@ -1058,5 +1062,3 @@ and_Bulletins/national_information/2009/IB_2009-040.html, 2009.
 Earth Syst. Sci. Data, 6, 1–27, 2014 
 
 www.earth-syst-sci-data.net/6/1/2014/ 
-
-

@@ -12,13 +12,18 @@ authors:
 year: '2025'
 journal: International Journal of Wildland Fire
 doi: 10.1071/WF25124
-tags: []
+tags:
+- fire
+- fire suppression
+- forest structure
+- fulltext:pdf-missing
+- topography
 zotero_key: 5QCFAHLX
 item_type: journalArticle
 url: https://research.fs.usda.gov/treesearch/80978
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Containment lines, PODs and suppression success: A case study of the 2021 Schneider Springs Fire

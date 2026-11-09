@@ -8,6 +8,7 @@ journal: Global Change Biology
 doi: 10.1111/gcb.17204
 tags:
 - climate change
+- fulltext:check-needed
 - land cover
 - landsat
 - vegetation
@@ -16,7 +17,7 @@ item_type: journalArticle
 url: https://onlinelibrary.wiley.com/doi/10.1111/gcb.17204
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Climate-limited vegetation change in the conterminous United States of America

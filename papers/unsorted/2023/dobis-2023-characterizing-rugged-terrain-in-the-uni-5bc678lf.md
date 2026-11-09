@@ -9,13 +9,18 @@ authors:
 year: '2023'
 journal: null
 doi: 10.32747/2023.8134137.ers
-tags: []
+tags:
+- fulltext:pdf-missing
+- road network
+- rural development
+- topography
+- united states
 zotero_key: 5BC678LF
 item_type: report
 url: https://handle.nal.usda.gov/10113/8134137
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Characterizing rugged terrain in the United States

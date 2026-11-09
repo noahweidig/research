@@ -12,13 +12,18 @@ authors:
 year: '2014'
 journal: Ecological Monographs
 doi: 10.1890/13-1025.1
-tags: []
+tags:
+- climate
+- drought
+- forest structure
+- fulltext:check-needed
+- plant physiology
 zotero_key: 4TXUIVID
 item_type: journalArticle
 url: https://esajournals.onlinelibrary.wiley.com/doi/full/10.1890/13-1025.1
 source_url: 'unpaywall: https://doi.org/10.7916/d8kk9b7v'
 fulltext_status: fulltext
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # The legacy of episodic climatic events in shaping temperate, broadleaf forests

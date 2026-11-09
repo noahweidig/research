@@ -8,13 +8,17 @@ authors:
 year: '2022'
 journal: Forest Ecology and Management
 doi: 10.1016/j.foreco.2022.120500
-tags: []
+tags:
+- eastern united states
+- environmental impact
+- forest ecology
+- wildfire
 zotero_key: 3VL7GWF3
 item_type: journalArticle
 url: https://linkinghub.elsevier.com/retrieve/pii/S0378112722004947
 source_url: 'unpaywall: https://www.osti.gov/servlets/purl/2425646'
 fulltext_status: fulltext
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Drivers and ecological impacts of a wildfire outbreak in the southern Appalachian Mountains after decades of fire exclusion
@@ -515,5 +519,3 @@ The 2016 fires also present a clearer understanding of the drivers of large fire
 - 604 <mark>R Core Team (2019). R: A language and environment for statistical computing. R Foundation for</mark> 
 
 - 605 <mark>Statistical Computing, Vienna, Austria. URL https://www.R-project.org/.</mark> 
-
-

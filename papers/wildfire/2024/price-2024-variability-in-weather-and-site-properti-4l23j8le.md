@@ -11,6 +11,7 @@ tags:
 - climate change
 - fire modeling
 - fuel treatments
+- fulltext:check-needed
 - invasive grass
 - sagebrush
 - weather
@@ -19,7 +20,7 @@ item_type: journalArticle
 url: https://www.sciencedirect.com/science/article/pii/S0301479724001403
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Variability in weather and site properties affect fuel and fire behavior following fuel treatments in semiarid sagebrush-steppe

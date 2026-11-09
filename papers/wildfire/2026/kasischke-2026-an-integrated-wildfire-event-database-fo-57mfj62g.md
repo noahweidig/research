@@ -7,6 +7,8 @@ year: '2026'
 journal: Earth System Science Data Discussions
 doi: 10.5194/essd-2026-660
 tags:
+- dataset
+- spatial data quality
 - united states
 - wildfire
 zotero_key: 57MFJ62G
@@ -14,7 +16,7 @@ item_type: journalArticle
 url: https://openalex.org/W7223091393
 source_url: 'unpaywall: https://essd.copernicus.org/preprints/essd-2026-660/essd-2026-660.pdf'
 fulltext_status: fulltext
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # An integrated wildfire event database for improved fire science research for the continental United States, 1992–2021
@@ -1463,5 +1465,3 @@ https://doi.org/10.5194/essd-2026-660 Preprint. Discussion started: 21 October 2
 Web-Based Applications (Sect. 2.3)<br>1. Search Engines<br>2. Wildland Fire Emissions Inventory System<br>3. OneStreetMap<br>4. Google Maps<br>Image Interpretation (Sect. 2.3)<br>1. Identification and analysis of multiple perimeters in an<br>MTBS event<br>2. Reclassification of MTBS events<br>3. Matching MTBS and fire management events<br>4. Identification of merged perimeters<br>Datasets (Sect. 2.2) 5. Comparison of perimeters and burned area pixels<br>1. USFS 1992-2015 events 6. Identification of errors in MTBS calculation of event<br>2. USFS 1992-2018 events size<br>3. USFS 1992-2021 events<br>4. ICS events<br>5. Regional and national<br>databases and reports<br>6. Incident management  Study Phases (Sect. 2.4)<br>situation reports (NICC, AICC) 1. Import and integrate events from fire<br>7. Other government and media  management datasets and reports<br>reports (WWW searches) 2. Import, integrate, and analyze MTBS fire events<br>8. Fire management perimeters 3. Resolve uncertainties and ambiguities in wildfire<br>9. MTBS datasets and imagery complexes and individual events<br>10. Landsat burned area product 4. Determine the causes for larger (>30%)<br>11. MODIS burned area product differences between MTBS and fire management<br>12. Fine-resolution aerial  sizes<br>photography 5. Determine the causes for smaller (15-30%)<br>differences between MTBS and fire management<br>sizes<br><!-- End of picture text -->
 
 56 
-
-

@@ -11,14 +11,16 @@ year: '2025'
 journal: Scientific Data
 doi: 10.1038/s41597-025-04892-2
 tags:
+- biodiversity
 - conservation biology
 - ecological modeling
+- ecosystems
 zotero_key: 5DQ7UH5Z
 item_type: journalArticle
 url: https://www.nature.com/articles/s41597-025-04892-2
 source_url: 'unpaywall: https://www.nature.com/articles/s41597-025-04892-2.pdf'
 fulltext_status: fulltext
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Global extent and change in human modification of terrestrial ecosystems from 1990 to 2022
@@ -1065,5 +1067,3 @@ The authors declare no competing interests.
 26 
 
 Scientific **Data** | _(2025) 12:606_ | https://doi.org/10.1038/s41597-025-04892-2 
-
-

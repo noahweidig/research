@@ -11,13 +11,16 @@ journal: Rangeland Ecology & Management
 doi: 10.1016/j.rama.2023.11.002
 tags:
 - cost
+- fire
+- fulltext:pdf-missing
 - prescribed burning
+- private land
 zotero_key: 5MUSJGE6
 item_type: journalArticle
 url: https://www.sciencedirect.com/science/article/pii/S1550742423001240
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Analysis of the Cost and Cost Components of Conducting Prescribed Fires in the Great Plains

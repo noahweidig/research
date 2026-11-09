@@ -9,6 +9,9 @@ year: '2026'
 journal: arXiv (Cornell University)
 doi: 10.48550/arxiv.2610.07431
 tags:
+- fire risk
+- fulltext:pdf-missing
+- modeling
 - wildfire
 - wildfire occurrence
 zotero_key: 4JDEAPQS
@@ -16,7 +19,7 @@ item_type: journalArticle
 url: https://openalex.org/W7220986561
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # FireGen: Quantifying Wildfire Risk by Simulation

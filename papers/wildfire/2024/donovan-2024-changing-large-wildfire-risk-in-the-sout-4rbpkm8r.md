@@ -10,13 +10,18 @@ authors:
 year: '2024'
 journal: Gulf of Mexico Conference
 doi: null
-tags: []
+tags:
+- eastern united states
+- fire risk
+- fulltext:check-needed
+- southeastern united states
+- wildfire
 zotero_key: 4RBPKM8R
 item_type: conferencePaper
 url: https://gulfofamericaalliance.org/wp-content/uploads/2024/02/GOMCON-Schedule-of-Concurrent-Sessions-02.14.24.pdf
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Changing Large Wildfire Risk in the Southeastern U.S.

@@ -19,7 +19,7 @@ item_type: journalArticle
 url: https://www.mdpi.com/1999-4907/6/3/561
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Perspectives on Trends, Effectiveness, and Impediments to Prescribed Burning in the Southern U.S.

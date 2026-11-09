@@ -5,13 +5,21 @@ authors:
 year: '1992'
 journal: Australian Journal of Ecology
 doi: 10.1111/j.1442-9993.1992.tb00822.x
-tags: []
+tags:
+- aerial photography
+- eucalyptus camaldulensis
+- fulltext:pdf-missing
+- hydroperiod
+- intermittent wetland
+- markov chain model
+- river regulation
+- tree invasion
 zotero_key: 5HGYEN3D
 item_type: journalArticle
 url: https://doi.org/10.1111/j.1442-9993.1992.tb00822.x
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Tree invasion of an intermittent wetland in relation to changes in the flooding frequency of the River Murray, Australia

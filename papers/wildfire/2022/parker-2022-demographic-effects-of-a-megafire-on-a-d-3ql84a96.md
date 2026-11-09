@@ -12,6 +12,7 @@ journal: Ecology and Evolution
 doi: 10.1002/ece3.9544
 tags:
 - lesser prairie-chicken
+- megafire
 - survival
 - wildfire
 zotero_key: 3QL84A96
@@ -19,7 +20,7 @@ item_type: journalArticle
 url: https://onlinelibrary.wiley.com/doi/abs/10.1002/ece3.9544
 source_url: 'unpaywall: https://www.ncbi.nlm.nih.gov/pmc/articles/9712810'
 fulltext_status: fulltext
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Demographic effects of a megafire on a declining prairie grouse in the mixed-grass prairie

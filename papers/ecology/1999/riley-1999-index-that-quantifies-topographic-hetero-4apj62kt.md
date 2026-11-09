@@ -7,13 +7,19 @@ authors:
 year: '1999'
 journal: intermountain Journal of sciences
 doi: null
-tags: []
+tags:
+- fulltext:check-needed
+- gis
+- heterogeneity
+- landscape ecology
+- spatial analysis
+- topography
 zotero_key: 4APJ62KT
 item_type: journalArticle
 url: http://download.osgeo.org/qgis/doc/reference-docs/Terrain_Ruggedness_Index.pdf
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Index that quantifies topographic heterogeneity

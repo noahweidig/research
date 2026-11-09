@@ -21,7 +21,7 @@ item_type: journalArticle
 url: https://www.mdpi.com/2225-1154/7/4/52
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Establishing Relationships between Drought Indices and Wildfire Danger Outputs: A Test Case for the California-Nevada Drought Early Warning System
