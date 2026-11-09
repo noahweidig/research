@@ -12,13 +12,15 @@ journal: Scientific Reports
 doi: 10.1038/s41598-019-43940-x
 tags:
 - ecology
+- fire
 - natural hazards
+- vegetation
 zotero_key: 84QUV9ZZ
 item_type: journalArticle
 url: https://www.nature.com/articles/s41598-019-43940-x
 source_url: 'unpaywall: https://www.nature.com/articles/s41598-019-43940-x.pdf'
 fulltext_status: fulltext
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Trends in Vegetation fires in South and Southeast Asian Countries
@@ -560,5 +562,3 @@ K.V. conceived, analyzed data and wrote the manuscript. K.L. helped in data cros
 Scientific **RepoRts** | _(2019) 9:7422_ | https://doi.org/10.1038/s41598-019-43940-x 
 
 13 
-
-

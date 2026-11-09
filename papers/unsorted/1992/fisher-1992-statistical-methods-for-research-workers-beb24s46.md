@@ -5,13 +5,18 @@ authors:
 year: '1992'
 journal: null
 doi: 10.1007/978-1-4612-4380-9_6
-tags: []
+tags:
+- analysis of variance
+- fulltext:pdf-missing
+- history of statistics
+- hypothesis testing
+- statistics
 zotero_key: BEB24S46
 item_type: bookSection
 url: https://doi.org/10.1007/978-1-4612-4380-9_6
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Statistical Methods for Research Workers

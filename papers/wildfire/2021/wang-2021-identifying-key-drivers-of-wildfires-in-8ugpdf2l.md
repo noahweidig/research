@@ -10,13 +10,16 @@ journal: Earth's Future
 doi: 10.1029/2020EF001910
 tags:
 - fire modeling
+- fulltext:pdf-missing
 - machine learning
+- united states
+- wildfire
 zotero_key: 8UGPDF2L
 item_type: journalArticle
 url: https://onlinelibrary.wiley.com/doi/abs/10.1029/2020EF001910
 source_url: 'unpaywall: https://www.ncbi.nlm.nih.gov/pmc/articles/8243942'
 fulltext_status: fulltext
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Identifying Key Drivers of Wildfires in the Contiguous US Using Machine Learning and Game Theory Interpretation

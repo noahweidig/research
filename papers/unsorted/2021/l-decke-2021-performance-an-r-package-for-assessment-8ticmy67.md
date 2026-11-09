@@ -9,13 +9,17 @@ authors:
 year: '2021'
 journal: Journal of Open Source Software
 doi: 10.21105/joss.03139
-tags: []
+tags:
+- r package
+- software
+- statistics
+- validation
 zotero_key: 8TICMY67
 item_type: journalArticle
 url: https://joss.theoj.org/papers/10.21105/joss.03139
 source_url: 'unpaywall: https://joss.theoj.org/papers/10.21105/joss.03139.pdf'
 fulltext_status: fulltext
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # performance: An R Package for Assessment, Comparison and Testing of Statistical Models
@@ -356,5 +360,3 @@ Lüdecke, (2021). performance: An R Package for Assessment, Comparison and Testi
 8 
 
 Lüdecke, (2021). performance: An R Package for Assessment, Comparison and Testing of Statistical Models. _Journal of Open Source Software_ , 6(60), 3139. https://doi.org/10.21105/joss.03139 
-
-

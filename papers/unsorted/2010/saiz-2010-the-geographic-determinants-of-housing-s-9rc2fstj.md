@@ -5,13 +5,18 @@ authors:
 year: '2010'
 journal: The Quarterly Journal of Economics
 doi: 10.1162/qjec.2010.125.3.1253
-tags: []
+tags:
+- econometrics
+- fulltext:pdf-missing
+- housing
+- topography
+- united states
 zotero_key: 9RC2FSTJ
 item_type: journalArticle
 url: https://doi.org/10.1162/qjec.2010.125.3.1253
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # The Geographic Determinants of Housing Supply

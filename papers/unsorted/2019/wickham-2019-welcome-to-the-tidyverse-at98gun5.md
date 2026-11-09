@@ -28,13 +28,17 @@ authors:
 year: '2019'
 journal: Journal of Open Source Software
 doi: 10.21105/joss.01686
-tags: []
+tags:
+- data science
+- r package
+- software
+- statistical software
 zotero_key: AT98GUN5
 item_type: journalArticle
 url: https://joss.theoj.org/papers/10.21105/joss.01686
 source_url: 'unpaywall: https://joss.theoj.org/papers/10.21105/joss.01686.pdf'
 fulltext_status: fulltext
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Welcome to the Tidyverse
@@ -263,5 +267,3 @@ Wilkinson, L. (2005). _The grammar of graphics_ . Berlin, Heidelberg: Springer-V
 6 
 
 Wickham et al., (2019). Welcome to the Tidyverse. _Journal of Open Source Software_ , 4(43), 1686. https://doi.org/10.21105/joss.01686 
-
-

@@ -7,13 +7,21 @@ authors:
 year: '2007'
 journal: Grass and Forage Science
 doi: 10.1111/j.1365-2494.2007.00590.x
-tags: []
+tags:
+- forage quality
+- fulltext:pdf-missing
+- herbage production
+- mediterranean grassland
+- nutritive value
+- organic matter digestibility
+- plant functional groups
+- woody encroachment
 zotero_key: AFU5UMR9
 item_type: journalArticle
 url: https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1365-2494.2007.00590.x
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Effects of shrub encroachment on herbage production and nutritive value in semi-arid Mediterranean grasslands

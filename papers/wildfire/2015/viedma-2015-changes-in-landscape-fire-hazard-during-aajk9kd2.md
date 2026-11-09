@@ -11,6 +11,7 @@ tags:
 - agriculture
 - fire hazard
 - fire risk
+- fulltext:pdf-missing
 - global change
 - land use change
 - modeling
@@ -19,7 +20,7 @@ item_type: journalArticle
 url: https://www.sciencedirect.com/science/article/pii/S0167880915001437
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Changes in landscape fire-hazard during the second half of the 20th century: Agriculture abandonment and the changing role of driving factors

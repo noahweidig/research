@@ -9,14 +9,16 @@ year: '2024'
 journal: Science of The Total Environment
 doi: 10.1016/j.scitotenv.2023.167489
 tags:
+- agriculture
 - fire prevention
 - flammability
+- rangeland
 zotero_key: 9UGIBPTM
 item_type: journalArticle
 url: https://www.sciencedirect.com/science/article/pii/S0048969723061168
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Measuring flammability of crops, pastures, fruit trees, and weeds: A novel tool to fight wildfires in agricultural landscapes

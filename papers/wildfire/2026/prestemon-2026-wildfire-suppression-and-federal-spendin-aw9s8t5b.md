@@ -18,12 +18,14 @@ tags:
 - cost
 - fire suppression
 - forest management
+- fulltext:check-needed
+- wildfire
 zotero_key: AW9S8T5B
 item_type: journalArticle
 url: https://onlinelibrary.wiley.com/doi/abs/10.1029/2025EF007985
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Wildfire, Suppression, and Federal Spending, 2020–2100

@@ -8,14 +8,16 @@ year: '2026'
 journal: Milbank Quarterly
 doi: 10.1111/1468-0009.70109
 tags:
+- environmental justice
 - large wildfires
+- mortality
 - united states
 zotero_key: BAQ997UK
 item_type: journalArticle
 url: https://openalex.org/W7203501228
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Chronic Disease and Disability in the United States: Trends, Inequities, and Imperatives for Policy Reform

@@ -6,13 +6,16 @@ journal: null
 doi: null
 tags:
 - finance
+- fulltext:check-needed
+- r package
+- software
 - time series
 zotero_key: B2LBIPKB
 item_type: computerProgram
 url: https://cran.r-project.org/web/packages/data.table/index.html
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # data.table: Extension of 'data.frame'

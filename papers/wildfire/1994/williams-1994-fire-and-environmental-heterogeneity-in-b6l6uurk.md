@@ -7,13 +7,18 @@ authors:
 year: '1994'
 journal: Australian Journal of Botany
 doi: 10.1071/bt9940125
-tags: []
+tags:
+- ecosystems
+- fire
+- fulltext:pdf-missing
+- heterogeneity
+- temperate forest
 zotero_key: B6L6UURK
 item_type: journalArticle
 url: https://www.publish.csiro.au/bt/bt9940125
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Fire and Environmental Heterogeneity in Southern Temperate Forest Ecosystems: Implications for Management

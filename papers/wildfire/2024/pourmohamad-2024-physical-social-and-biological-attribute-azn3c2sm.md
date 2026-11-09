@@ -18,13 +18,17 @@ authors:
 year: '2024'
 journal: Earth System Science Data
 doi: 10.5194/essd-16-3045-2024
-tags: []
+tags:
+- dataset
+- ignition
+- united states
+- wildfire
 zotero_key: AZN3C2SM
 item_type: journalArticle
 url: https://essd.copernicus.org/articles/16/3045/2024/
 source_url: 'unpaywall: https://essd.copernicus.org/articles/16/3045/2024/essd-16-3045-2024.pdf'
 fulltext_status: fulltext
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Physical, social, and biological attributes for improved understanding and prediction of wildfires: FPA FOD-Attributes dataset
@@ -673,5 +677,3 @@ Y. Pourmohamad et al.: FPA FOD-Attributes dataset
 Earth Syst. Sci. Data, 16, 3045–3060, 2024 
 
 https://doi.org/10.5194/essd-16-3045-2024 
-
-

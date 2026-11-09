@@ -5,13 +5,18 @@ authors:
 year: '2020'
 journal: null
 doi: 10.1007/978-3-030-41192-3_10
-tags: []
+tags:
+- fulltext:pdf-missing
+- global change
+- plant physiology
+- wildfire
+- wildfire occurrence
 zotero_key: ARRWI9PL
 item_type: bookSection
 url: https://doi.org/10.1007/978-3-030-41192-3_10
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Global Change, Pyrophysiology, and Wildfires

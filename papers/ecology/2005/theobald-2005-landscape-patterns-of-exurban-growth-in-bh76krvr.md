@@ -5,13 +5,17 @@ authors:
 year: '2005'
 journal: Ecology and Society
 doi: null
-tags: []
+tags:
+- land use change
+- landscape ecology
+- united states
+- urbanization
 zotero_key: BH76KRVR
 item_type: journalArticle
 url: https://www.jstor.org/stable/26267722
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Landscape Patterns of Exurban Growth in the USA from 1980 to 2020

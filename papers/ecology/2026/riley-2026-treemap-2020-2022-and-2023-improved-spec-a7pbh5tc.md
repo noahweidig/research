@@ -16,13 +16,16 @@ year: '2026'
 journal: Earth System Science Data Discussions
 doi: 10.5194/essd-2026-633
 tags:
+- fia
+- forest structure
+- trees
 - united states
 zotero_key: A7PBH5TC
 item_type: journalArticle
 url: https://openalex.org/W7221472141
 source_url: 'unpaywall: https://essd.copernicus.org/preprints/essd-2026-633/essd-2026-633.pdf'
 fulltext_status: fulltext
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # TreeMap 2020, 2022, and 2023: Improved species range mapping in a tree-level forest dataset for the conterminous United States
@@ -1758,5 +1761,3 @@ https://doi.org/10.5194/essd-2026-633 Preprint. Discussion started: 11 October 2
 - 727 CO, <u>https://doi.org/10.2737/RDS-2025-0031, 2025</u> 
 
 33 
-
-

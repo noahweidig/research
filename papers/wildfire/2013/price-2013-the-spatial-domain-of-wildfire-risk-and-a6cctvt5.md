@@ -6,13 +6,17 @@ authors:
 year: '2013'
 journal: Natural Hazards and Earth System Sciences
 doi: 10.5194/nhess-13-3385-2013
-tags: []
+tags:
+- australia
+- fire risk
+- wildfire
+- wildland-urban interface
 zotero_key: A6CCTVT5
 item_type: journalArticle
 url: https://nhess.copernicus.org/articles/13/3385/2013/
 source_url: 'unpaywall: https://nhess.copernicus.org/articles/13/3385/2013/nhess-13-3385-2013.pdf'
 fulltext_status: fulltext
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # The spatial domain of wildfire risk and response in the wildland urban interface in Sydney, Australia
@@ -386,5 +390,3 @@ treatment effects on large wildfires, Int. J. Wildland Fire, 16, 712–727, 2007
 **Nat. Hazards Earth Syst. Sci., 13, 3385–3393, 2013** 
 
 **www.nat-hazards-earth-syst-sci.net/13/3385/2013/** 
-
-

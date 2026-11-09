@@ -11,6 +11,7 @@ doi: 10.1007/s10530-011-0001-3
 tags:
 - ecology
 - fire regime
+- fulltext:pdf-missing
 - invasive species
 - management
 - prescribed burning
@@ -20,7 +21,7 @@ item_type: journalArticle
 url: https://doi.org/10.1007/s10530-011-0001-3
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Woody exotic plant invasions and fire: reciprocal impacts and consequences for native ecosystems

@@ -10,13 +10,17 @@ authors:
 year: '2021'
 journal: Wellcome Open Research
 doi: 10.12688/wellcomeopenres.15191.2
-tags: []
+tags:
+- finance
+- negligence
+- statistics
+- topography
 zotero_key: 95XR4EC4
 item_type: journalArticle
 url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6480976/
 source_url: 'unpaywall: https://wellcomeopenresearch.org/articles/4-63/v2/pdf'
 fulltext_status: fulltext
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Raincloud plots: a multi-platform tool for robust data visualization
@@ -1655,5 +1659,3 @@ Hilmar Brohmer
 ### **_Competing Interests:_** none 
 
 Page 52 of 52 
-
-

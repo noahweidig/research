@@ -10,13 +10,16 @@ year: '2026'
 journal: null
 doi: 10.5194/egusphere-2026-6310
 tags:
+- ecological succession
+- ecosystems
+- fire
 - united states
 zotero_key: 9D8NSBVH
 item_type: journalArticle
 url: https://openalex.org/W7223102672
 source_url: 'unpaywall: https://egusphere.copernicus.org/preprints/2026/egusphere-2026-6310/egusphere-2026-6310.pdf'
 fulltext_status: fulltext
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Holocene ecosystem succession and fire regime evolution at Tannersville Bog, northeastern United States
@@ -1630,5 +1633,3 @@ Zuo, H. _et al._ (2025) “Record of polycyclic aromatic hydrocarbons (PAHs) fro
 https://doi.org/10.1038/s41598-025-91885-1. 
 
 Page **69** of **69** 
-
-

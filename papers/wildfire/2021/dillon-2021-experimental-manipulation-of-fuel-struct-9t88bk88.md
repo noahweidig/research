@@ -11,13 +11,14 @@ tags:
 - cogongrass
 - fire severity
 - fuel load
+- fulltext:pdf-missing
 - invasive species
 zotero_key: 9T88BK88
 item_type: journalArticle
 url: https://www.sciencedirect.com/science/article/pii/S0378112720316534
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Experimental manipulation of fuel structure to evaluate the potential ecological effects of fire

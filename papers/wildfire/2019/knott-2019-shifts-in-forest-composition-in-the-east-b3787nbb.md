@@ -8,13 +8,18 @@ authors:
 year: '2019'
 journal: Forest Ecology and Management
 doi: 10.1016/j.foreco.2018.10.061
-tags: []
+tags:
+- eastern united states
+- fire
+- forest ecology
+- fulltext:pdf-missing
+- united states
 zotero_key: B3787NBB
 item_type: journalArticle
 url: https://www.sciencedirect.com/science/article/pii/S0378112718314130
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Shifts in forest composition in the eastern United States

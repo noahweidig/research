@@ -7,13 +7,18 @@ authors:
 year: '2014'
 journal: Ecosystems
 doi: 10.1007/s10021-013-9707-7
-tags: []
+tags:
+- fire
+- fulltext:pdf-missing
+- state transition
+- survey research
+- trees
 zotero_key: AD69G7DZ
 item_type: journalArticle
 url: https://doi.org/10.1007/s10021-013-9707-7
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Densification and State Transition Across the Missouri Ozarks Landscape

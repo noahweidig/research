@@ -5,13 +5,18 @@ authors:
 year: '1972'
 journal: null
 doi: 10.2737/INT-RP-115
-tags: []
+tags:
+- fire
+- fire spread
+- fuels
+- fulltext:pdf-missing
+- government report
 zotero_key: AH223TWF
 item_type: report
 url: https://research.fs.usda.gov/treesearch/32533
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # A mathematical model for predicting fire spread in wildland fuels

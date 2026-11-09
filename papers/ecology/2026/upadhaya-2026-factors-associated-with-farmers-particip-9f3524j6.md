@@ -8,19 +8,19 @@ year: '2026'
 journal: Environmental Management
 doi: 10.1007/s00267-026-02600-3
 tags:
-- Agriculture
-- Conservation adoption
-- Conservation policy
-- Ecosystem services
-- Farm bill
-- Private lands
-- Working lands conservation
+- agriculture
+- conservation adoption
+- conservation policy
+- ecosystem services
+- farm bill
+- private land
+- working lands conservation
 zotero_key: 9F3524J6
 item_type: journalArticle
 url: https://doi.org/10.1007/s00267-026-02600-3
 source_url: 'unpaywall: https://link.springer.com/content/pdf/10.1007/s00267-026-02600-3.pdf'
 fulltext_status: fulltext
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Factors Associated with Farmers’ Participation in the U.S. Conservation Reserve Program (CRP)
@@ -437,5 +437,3 @@ Environmental Management (2026) 76:285
 - Vandever MW, Elgersma K, Carter SK, Wen A, Welty JL, Arkle RS, Assal TJ, Pilliod DS, Mushet DM, Iovanna R (2023) Persistence and quality of vegetation cover in expired conservation reserve program fields. Ecosphere 14:1–13 https://doi.org/10.1002/ecs2. 4359 
 
 - Xie Y, Spwan-Lee SA, Radeloff VC, Yin H, Robertson PG, Lark TJ, (2024) Cropland abandonment between 1986 and 2018 across the United States: spatiotemporal patterns and current land uses. Environ Res Lett 19 https://doi.org/10.1088/1748-9326/ad2d12 
-
-

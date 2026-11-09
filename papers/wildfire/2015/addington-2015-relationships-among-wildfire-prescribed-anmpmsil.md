@@ -18,13 +18,18 @@ authors:
 year: '2015'
 journal: International Journal of Wildland Fire
 doi: 10.1071/WF14187
-tags: []
+tags:
+- drought
+- fulltext:pdf-found
+- prescribed burning
+- united states
+- wildfire
 zotero_key: ANMPMSIL
 item_type: journalArticle
 url: https://www.publish.csiro.au/wf/WF14187
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Relationships among wildfire, prescribed fire, and drought in a fire-prone landscape in the south-eastern United States

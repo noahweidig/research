@@ -6,13 +6,18 @@ authors:
 year: '2010'
 journal: Proceedings of the National Academy of Sciences
 doi: 10.1073/pnas.1003669107
-tags: []
+tags:
+- climate
+- fulltext:check-needed
+- pyrogeography
+- wildfire
+- wildfire occurrence
 zotero_key: AG52B7CL
 item_type: journalArticle
 url: https://www.pnas.org/doi/full/10.1073/pnas.1003669107
 source_url: 'unpaywall: https://www.ncbi.nlm.nih.gov/pmc/articles/2984177'
 fulltext_status: fulltext
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Driving forces of global wildfires over the past millennium and the forthcoming century

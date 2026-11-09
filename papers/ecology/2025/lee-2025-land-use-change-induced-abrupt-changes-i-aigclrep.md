@@ -14,13 +14,14 @@ tags:
 - climate
 - earth system models
 - ecosystems
+- fulltext:pdf-missing
 - land use change
 zotero_key: AIGCLREP
 item_type: journalArticle
 url: https://www.sciencedirect.com/science/article/pii/S0301479725010734
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Land use change-induced abrupt changes in vegetation and the role of climate factors

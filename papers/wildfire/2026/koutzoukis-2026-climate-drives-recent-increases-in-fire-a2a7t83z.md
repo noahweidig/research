@@ -14,13 +14,15 @@ doi: 10.1071/wf25176
 tags:
 - burning
 - drivers
+- fulltext:check-needed
+- western united states
 - wildfire
 zotero_key: A2A7T83Z
 item_type: journalArticle
 url: https://openalex.org/W7221433018
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Climate drives recent increases in fire activity in aspen ( Populus tremuloides Michx.) forests of the western US

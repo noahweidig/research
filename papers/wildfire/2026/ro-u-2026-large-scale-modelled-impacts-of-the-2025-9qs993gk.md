@@ -8,15 +8,17 @@ year: '2026'
 journal: Journal of Pyrogeography
 doi: 10.1016/j.pyro.2026.100021
 tags:
-- eastern united states
+- atmospheric science
+- fulltext:pdf-missing
 - united states
+- western united states
 - wildfire
 zotero_key: 9QS993GK
 item_type: journalArticle
 url: https://openalex.org/W7171680423
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Large-scale modelled impacts of the 2025 Canadian wildfires
