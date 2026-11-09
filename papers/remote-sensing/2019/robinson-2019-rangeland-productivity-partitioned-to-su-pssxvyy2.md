@@ -20,7 +20,7 @@ item_type: journalArticle
 url: https://www.mdpi.com/2072-4292/11/12/1427
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Rangeland Productivity Partitioned to Sub-Pixel Plant Functional Types

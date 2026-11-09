@@ -6,13 +6,17 @@ authors:
 year: '2020'
 journal: International Journal of Wildland Fire
 doi: 10.1071/WF19150
-tags: []
+tags:
+- lightning
+- united states
+- wildfire
+- wildfire occurrence
 zotero_key: Q3MTPPZR
 item_type: journalArticle
 url: https://www.publish.csiro.au/wf/WF19150
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Patterns and trends in simultaneous wildfire activity in the United States from 1984 to 2015

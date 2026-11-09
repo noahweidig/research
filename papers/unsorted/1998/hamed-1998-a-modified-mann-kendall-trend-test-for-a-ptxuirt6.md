@@ -7,14 +7,17 @@ year: '1998'
 journal: Journal of Hydrology
 doi: 10.1016/S0022-1694(97)00125-X
 tags:
+- fulltext:pdf-found
+- hydrological modeling
 - precipitation
+- statistics
 - time series
 zotero_key: PTXUIRT6
 item_type: journalArticle
 url: https://www.sciencedirect.com/science/article/pii/S002216949700125X
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # A modified Mann-Kendall trend test for autocorrelated data

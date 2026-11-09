@@ -8,6 +8,7 @@ year: '2026'
 journal: Socio-Ecological Practice Research
 doi: 10.1007/s42532-026-00272-1
 tags:
+- fire prevention
 - ignition
 - united states
 - wildfire
@@ -16,7 +17,7 @@ item_type: journalArticle
 url: https://openalex.org/W7214956668
 source_url: 'unpaywall: https://link.springer.com/content/pdf/10.1007/s42532-026-00272-1.pdf'
 fulltext_status: fulltext
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Making sense of wildfire prevention in the southwestern United States: Workforce perspectives on organizational challenges in federal land management agencies
@@ -588,5 +589,3 @@ tial data analyst, and holds an M.S. in Forest Ecosystems and Society from Orego
 ```
 1 3
 ```
-
-

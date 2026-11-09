@@ -26,7 +26,7 @@ year: '2023'
 journal: Nature Climate Change
 doi: 10.1038/s41558-023-01744-y
 tags:
-- climate-change ecology
+- climate change
 - ecological modeling
 - ecology
 - forest ecology
@@ -35,7 +35,7 @@ item_type: journalArticle
 url: https://www.nature.com/articles/s41558-023-01744-y
 source_url: 'unpaywall: https://hal.science/hal-04259473v1/document'
 fulltext_status: fulltext
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Microclimate and forest density drive plant population dynamics under climate change
@@ -1139,5 +1139,3 @@ Distributed under a Creative Commons CC BY 4.0 - Attribution - International Lic
 76. R Core Team. _A language and environment for statistical computing. R Foundation for Statistical Computing_ . (2021). 
 
 36 
-
-

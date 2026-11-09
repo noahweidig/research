@@ -14,6 +14,7 @@ tags:
 - climate change
 - ecoregions
 - fire
+- fulltext:pdf-found
 - global
 - modeling
 zotero_key: NY97X44J
@@ -21,7 +22,7 @@ item_type: journalArticle
 url: https://onlinelibrary.wiley.com/doi/10.1111/gcb.14405
 source_url: 'unpaywall: https://www.ncbi.nlm.nih.gov/pmc/articles/7134822'
 fulltext_status: fulltext
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Global patterns of interannual climate–fire relationships

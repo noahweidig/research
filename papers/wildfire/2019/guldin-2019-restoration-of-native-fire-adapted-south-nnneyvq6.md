@@ -5,13 +5,18 @@ authors:
 year: '2019'
 journal: Forest Science
 doi: 10.1093/forsci/fxz005
-tags: []
+tags:
+- ecosystems
+- fire
+- forest management
+- fulltext:check-needed
+- plant physiology
 zotero_key: NNNEYVQ6
 item_type: journalArticle
 url: https://doi.org/10.1093/forsci/fxz005
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Restoration of Native Fire-Adapted Southern Pine-Dominated Forest Ecosystems: Diversifying the Tools in the Silvicultural Toolbox

@@ -7,13 +7,18 @@ authors:
 year: '2022'
 journal: Natural Hazards Review
 doi: 10.1061/(ASCE)NH.1527-6996.0000540
-tags: []
+tags:
+- exposure
+- fulltext:check-needed
+- housing
+- natural hazards
+- wildfire
 zotero_key: PT5M897B
 item_type: journalArticle
 url: https://ascelibrary.org/doi/10.1061/%28ASCE%29NH.1527-6996.0000540
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Households Living in Manufactured Housing Face Outsized Exposure to Heat and Wildfire Hazards: Evidence from California

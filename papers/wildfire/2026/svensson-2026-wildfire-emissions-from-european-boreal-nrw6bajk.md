@@ -13,13 +13,16 @@ year: '2026'
 journal: Fire and Materials
 doi: 10.1002/fam.70091
 tags:
+- air pollution
+- fire severity
+- fuels
 - wildfire
 zotero_key: NRW6BAJK
 item_type: journalArticle
 url: https://openalex.org/W7202203988
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Wildfire Emissions From European Boreal Fuels: Effects of Fuel Type and Moisture Content

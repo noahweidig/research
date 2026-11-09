@@ -11,6 +11,8 @@ year: '2026'
 journal: null
 doi: 10.5194/egusphere-2026-5534
 tags:
+- eastern united states
+- southeastern united states
 - united states
 - wildfire
 zotero_key: PSCHP6SJ
@@ -18,7 +20,7 @@ item_type: journalArticle
 url: https://openalex.org/W7220863302
 source_url: 'unpaywall: https://egusphere.copernicus.org/preprints/2026/egusphere-2026-5534/egusphere-2026-5534.pdf'
 fulltext_status: fulltext
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Dark brown carbon and aerosol mixing impacts on absorbing aerosol optical depth in the southeastern United States
@@ -725,5 +727,3 @@ https://doi.org/10.5194/egusphere-2026-5534 Preprint. Discussion started: 7 Octo
    - Zhang, Z., Xu, W., Zeng, S., Liu, Y., Liu, T., Zhang, Y., Du, A., Li, Y., Zhang, N., Wang, J., Aruffo, E., Han, P., Li, J., Wang, Z., and Sun, Y.: Secondary Organic Aerosol Formation from Ambient Air in Summer in Urban Beijing: Contribution of S/IVOCs and Impacts of Heat Waves, Environmental Science & Technology Letters, 11, 738–745, https://doi.org/10.1021/acs.estlett.4c00415, 2024. 
 
 20 
-
-

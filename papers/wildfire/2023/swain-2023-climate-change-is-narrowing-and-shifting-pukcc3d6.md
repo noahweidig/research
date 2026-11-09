@@ -13,12 +13,15 @@ journal: Communications Earth & Environment
 doi: 10.1038/s43247-023-00993-1
 tags:
 - climate change
+- fire
+- prescribed burning
+- western united states
 zotero_key: PUKCC3D6
 item_type: journalArticle
 url: https://www.nature.com/articles/s43247-023-00993-1
 source_url: 'unpaywall: https://www.nature.com/articles/s43247-023-00993-1.pdf'
 fulltext_status: fulltext
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Climate change is narrowing and shifting prescribed fire windows in western United States
@@ -475,5 +478,3 @@ Open Access This article is licensed under a Creative Commons Attribution 4.0 In
 14 
 
 COMMUNICATIONS EARTH & ENVIRONMENT | (2023) 4:340 | https://doi.org/10.1038/s43247-023-00993-1 | www.nature.com/commsenv 
-
-

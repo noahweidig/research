@@ -12,6 +12,7 @@ journal: Forest Policy and Economics
 doi: 10.1016/j.forpol.2010.07.009
 tags:
 - fire management
+- fulltext:pdf-missing
 - risk
 - social vulnerability
 - wildfire
@@ -20,7 +21,7 @@ item_type: journalArticle
 url: https://www.sciencedirect.com/science/article/pii/S1389934110001243
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Wildland fire risk and social vulnerability in the Southeastern United States: An exploratory spatial data analysis approach

@@ -17,6 +17,8 @@ year: '2026'
 journal: bioRxiv (Cold Spring Harbor Laboratory)
 doi: 10.64898/2026.08.23.746551
 tags:
+- deforestation
+- fire severity
 - prescribed burning
 - wildfire
 zotero_key: PKGFXE8X
@@ -24,7 +26,7 @@ item_type: journalArticle
 url: https://openalex.org/W7204107632
 source_url: 'unpaywall: https://www.biorxiv.org/content/biorxiv/early/2026/08/24/2026.08.23.746551.full.pdf'
 fulltext_status: fulltext
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Prior low-severity fires reduce the risk of persistent forest loss from subsequent fires
@@ -528,5 +530,3 @@ bioRxiv preprint doi: https://doi.org/10.64898/2026.08.23.746551; this version p
 
 
 **Extended Data Figure 8. Sensitivity of estimated mitigation effects with different crucial fire probability thresholds.** Biome-level mitigation proportions were recalculated across crucial fire probability thresholds from 0.20 to 0.50. The heatmap shows mitigation proportion for each biome and threshold, with darker colors indicating higher mitigation potential. The right panel summarizes threshold stability as the mean and range of mitigation proportion across thresholds for each biome. 
-
-

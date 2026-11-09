@@ -4,13 +4,18 @@ authors: []
 year: '1999'
 journal: null
 doi: null
-tags: []
+tags:
+- bootstrap
+- fulltext:check-needed
+- r package
+- software
+- statistics
 zotero_key: P9J3XDJG
 item_type: computerProgram
 url: https://CRAN.R-project.org/package=boot
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # boot: Bootstrap Functions (Originally by Angelo Canty for S)

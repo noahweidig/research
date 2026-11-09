@@ -6,13 +6,18 @@ authors:
 year: '2010'
 journal: The American Statistician
 doi: 10.1198/tast.2010.10052
-tags: []
+tags:
+- fulltext:pdf-missing
+- mixed models
+- spatial analysis
+- spatial autocorrelation
+- statistics
 zotero_key: PSXUM5T2
 item_type: journalArticle
 url: https://amstat.tandfonline.com/doi/abs/10.1198/tast.2010.10052
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Adding Spatially-Correlated Errors Can Mess Up the Fixed Effect You Love

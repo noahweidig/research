@@ -13,6 +13,7 @@ journal: South-east European forestry
 doi: 10.15177/seefor.26-018
 tags:
 - drivers
+- negligence
 - wildfire
 - wildfire occurrence
 zotero_key: P2CDARFB
@@ -20,7 +21,7 @@ item_type: journalArticle
 url: https://openalex.org/W7204852669
 source_url: 'unpaywall: https://www.seefor.eu/images/arhiva/vol17_no2/nouar/nouar.pdf'
 fulltext_status: fulltext
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Analysis of forest fire causes in Algeria – a case study of Tissemsilt region
@@ -479,5 +480,3 @@ Analyses of Forest Fire Causes in Algeria – A Case Study of Tissemsilt Region
 https://www.seefor.eu 
 
 SEEFOR 17(2): 26018 **11** 
-
-

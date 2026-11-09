@@ -18,7 +18,7 @@ item_type: journalArticle
 url: https://www.mdpi.com/2072-4292/14/15/3622
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Aerial Imagery-Based Building Footprint Detection with an Integrated Deep Learning Framework: Applications for Fine Scale Wildland–Urban Interface Mapping

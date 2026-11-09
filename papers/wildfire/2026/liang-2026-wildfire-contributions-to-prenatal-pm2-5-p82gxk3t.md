@@ -11,6 +11,8 @@ year: '2026'
 journal: Frontiers in Environmental Health
 doi: 10.3389/fenvh.2026.1838836
 tags:
+- exposure
+- particulate matter
 - united states
 - wildfire
 zotero_key: P82GXK3T
@@ -18,7 +20,7 @@ item_type: journalArticle
 url: https://openalex.org/W7196925579
 source_url: 'unpaywall: https://www.frontiersin.org/journals/environmental-health/articles/10.3389/fenvh.2026.1838836/pdf'
 fulltext_status: fulltext
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Wildfire contributions to prenatal PM2.5 exposure in the contiguous United States, 2003–2019
@@ -620,5 +622,3 @@ frontiersin.org
 Frontiers in Environmental Health 
 
 14 
-
-

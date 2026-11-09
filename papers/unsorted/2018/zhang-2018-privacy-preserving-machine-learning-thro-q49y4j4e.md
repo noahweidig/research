@@ -8,13 +8,16 @@ year: '2018'
 journal: arXiv
 doi: 10.48550/arXiv.1807.01860
 tags:
+- data obfuscation
+- data privacy
 - machine learning
+- statistics
 zotero_key: Q49Y4J4E
 item_type: preprint
 url: http://arxiv.org/abs/1807.01860
 source_url: 'arxiv: https://arxiv.org/pdf/1807.01860'
 fulltext_status: fulltext
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Privacy-preserving Machine Learning through Data Obfuscation
@@ -506,5 +509,3 @@ learning. _arXiv preprint arXiv:1805.04049_ , 2018.
    - [40] Z. Zhong, L. Zheng, G. Kang, S. Li, and Y. Yang. Random erasing data augmentation. _arXiv preprint arXiv:1708.04896_ , 2017. 
 
 - [24] L. Melis, C. Song, E. De Cristofaro, and V. Shmatikov. Inference attacks against collaborative 
-
-

@@ -11,13 +11,14 @@ tags:
 - finance
 - fire risk
 - fuel treatments
+- fulltext:check-needed
 - restoration
 zotero_key: P5AHSB4P
 item_type: journalArticle
 url: https://www.sciencedirect.com/science/article/pii/S0169204614002886
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Spatially and socially segmenting private landowner motivations, properties, and management: A typology for the wildland urban interface

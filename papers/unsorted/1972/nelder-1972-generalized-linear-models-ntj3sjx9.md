@@ -6,13 +6,18 @@ authors:
 year: '1972'
 journal: Journal of the Royal Statistical Society. Series A (General)
 doi: 10.2307/2344614
-tags: []
+tags:
+- fulltext:check-needed
+- generalized linear models
+- maximum likelihood
+- regression analysis
+- statistics
 zotero_key: NTJ3SJX9
 item_type: journalArticle
 url: https://www.jstor.org/stable/2344614
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Generalized Linear Models

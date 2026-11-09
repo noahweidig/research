@@ -10,12 +10,13 @@ tags:
 - defensible space
 - fire suppression
 - structure loss
+- wildfire
 zotero_key: Q2JXSVL9
 item_type: journalArticle
 url: https://www.mdpi.com/2571-6255/2/3/49
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Factors Associated with Structure Loss in the 2013–2018 California Wildfires

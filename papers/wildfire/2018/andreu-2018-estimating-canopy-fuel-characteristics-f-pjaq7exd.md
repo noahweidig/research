@@ -10,13 +10,18 @@ authors:
 year: '2018'
 journal: International Journal of Wildland Fire
 doi: 10.1071/WF18025
-tags: []
+tags:
+- crown fire
+- fire
+- forest structure
+- fuels
+- fulltext:pdf-missing
 zotero_key: PJAQ7EXD
 item_type: journalArticle
 url: https://www.publish.csiro.au/wf/WF18025
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Estimating canopy fuel characteristics for predicting crown fire potential in common forest types of the Atlantic Coastal Plain, USA

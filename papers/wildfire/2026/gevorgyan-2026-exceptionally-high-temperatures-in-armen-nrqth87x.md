@@ -11,6 +11,7 @@ year: '2026'
 journal: npj Climate and Atmospheric Science
 doi: 10.1038/s41612-026-01544-z
 tags:
+- climate change
 - drivers
 - united states
 - wildfire
@@ -19,7 +20,7 @@ item_type: journalArticle
 url: https://openalex.org/W7223457834
 source_url: 'unpaywall: https://www.nature.com/articles/s41612-026-01544-z.pdf'
 fulltext_status: fulltext
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Exceptionally high temperatures in Armenia in 2023: orographic effects, snowpack response and synoptic drivers
@@ -441,5 +442,3 @@ Open Access This article is licensed under a Creative Commons Attribution-NonCom
 npj Climate and Atmospheric Science | (2026) 9:208 
 
 13 
-
-
