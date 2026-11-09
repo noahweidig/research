@@ -10,12 +10,15 @@ doi: 10.1029/2018GL080959
 tags:
 - climate change
 - fire
+- fulltext:pdf-found
+- human-related causes
+- weather
 zotero_key: 9MI3V6R8
 item_type: journalArticle
 url: https://onlinelibrary.wiley.com/doi/abs/10.1029/2018GL080959
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Global Emergence of Anthropogenic Climate Change in Fire Weather Indices

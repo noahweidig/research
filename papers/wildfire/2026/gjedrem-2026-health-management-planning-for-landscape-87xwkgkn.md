@@ -8,13 +8,16 @@ year: '2026'
 journal: Public Health Challenges
 doi: 10.1002/puh2.70428
 tags:
+- air quality
+- environmental health
+- fire
 - united states
 zotero_key: 87XWKGKN
 item_type: journalArticle
 url: https://openalex.org/W7221158626
 source_url: 'unpaywall: https://pmc.ncbi.nlm.nih.gov/articles/PMC13652956/'
 fulltext_status: fulltext
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Health Management Planning for Landscape Fire Smoke Events: A Literature Review and Suggested Human‐Centred Framework for Resource Development

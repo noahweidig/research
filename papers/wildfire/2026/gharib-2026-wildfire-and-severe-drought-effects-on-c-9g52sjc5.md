@@ -10,15 +10,17 @@ year: '2026'
 journal: null
 doi: 10.22004/ag.econ.404737
 tags:
+- conservation
 - conservation reserve program
 - drought
+- fulltext:pdf-missing
 - wildfire
 zotero_key: 9G52SJC5
 item_type: journalArticle
 url: https://ageconsearch.umn.edu/record/404737
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Wildfire and Severe Drought Effects on Conservation Reserve Program (CRP) Persistence

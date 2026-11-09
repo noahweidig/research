@@ -7,6 +7,9 @@ year: '2026'
 journal: IISE Annual Conference &amp; Expo 2025
 doi: 10.21872/annual2025_5926
 tags:
+- disaster
+- fire risk
+- fulltext:pdf-missing
 - prescribed burning
 - wildfire
 zotero_key: 9FJNQEIW
@@ -14,7 +17,7 @@ item_type: journalArticle
 url: https://openalex.org/W7214962213
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Game Theory in Disaster Management: Enhancing Collaborative Prescribed Fire Strategies for Public and Private Stakeholders

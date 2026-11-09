@@ -11,13 +11,15 @@ journal: Nature Climate Change
 doi: 10.1038/s41558-021-01224-1
 tags:
 - climate change
+- fire
 - fire ecology
+- weather
 zotero_key: 8JEKLF8M
 item_type: journalArticle
 url: https://www.nature.com/articles/s41558-021-01224-1
 source_url: 'unpaywall: https://www.researchsquare.com/article/rs-595210/latest.pdf'
 fulltext_status: fulltext
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Observed increases in extreme fire weather driven by atmospheric humidity and temperature
@@ -1138,5 +1140,3 @@ b) Mean percent annual area burned by biome
 This is a list of supplementary �les associated with this preprint. Click to download. 
 
 Globaltrendsin�reweather19792020Supplemental20200604tosubmit.pdf 
-
-

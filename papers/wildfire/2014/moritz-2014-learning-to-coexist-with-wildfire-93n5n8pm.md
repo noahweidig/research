@@ -17,12 +17,16 @@ journal: Nature
 doi: 10.1038/nature13946
 tags:
 - ecology
+- ecosystems
+- fire suppression
+- fulltext:pdf-missing
+- wildfire
 zotero_key: 93N5N8PM
 item_type: journalArticle
 url: https://www.nature.com/articles/nature13946
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Learning to coexist with wildfire

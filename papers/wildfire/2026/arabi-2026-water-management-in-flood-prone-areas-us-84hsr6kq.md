@@ -14,13 +14,15 @@ journal: Frontiers in Sustainability
 doi: 10.3389/frsus.2026.1966241
 tags:
 - large wildfires
+- modeling
 - united states
+- urban ecology
 zotero_key: 84HSR6KQ
 item_type: journalArticle
 url: https://openalex.org/W7223093151
 source_url: 'unpaywall: https://www.frontiersin.org/journals/sustainability/articles/10.3389/frsus.2026.1966241/pdf'
 fulltext_status: fulltext
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Water management in flood-prone areas using nature-based solutions: an AI-assisted systematic review and thematic analysis
@@ -594,5 +596,3 @@ Frontiers in Sustainability
 16 
 
 frontiersin.org 
-
-

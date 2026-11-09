@@ -7,13 +7,17 @@ authors:
 year: '2011'
 journal: 'Gen. Tech. Rep. NRS-80. Newtown Square, PA: U.S. Department of Agriculture, Forest Service, Northern Research Station. 291 p.'
 doi: 10.2737/NRS-GTR-80
-tags: []
+tags:
+- atmospheric science
+- ecoregions
+- freshwater ecosystems
+- united states
 zotero_key: 93AYNT4B
 item_type: journalArticle
 url: https://research.fs.usda.gov/treesearch/38109
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Assessment of Nitrogen deposition effects and empirical critical loads of Nitrogen for ecoregions of the United States

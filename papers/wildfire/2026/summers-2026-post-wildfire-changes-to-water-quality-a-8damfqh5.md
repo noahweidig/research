@@ -10,13 +10,14 @@ doi: 10.1186/s42408-026-00594-1
 tags:
 - burning
 - large wildfires
+- nutritive value
 - wildfire
 zotero_key: 8DAMFQH5
 item_type: journalArticle
 url: https://openalex.org/W7222261076
 source_url: 'unpaywall: https://link.springer.com/content/pdf/10.1186/s42408-026-00594-1.pdf'
 fulltext_status: fulltext
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Post-wildfire changes to water quality: a review with implications for harmful algal blooms and reservoir resiliency
@@ -927,5 +928,3 @@ Page 22 of 22
 ### **Publisher’s Note** 
 
 Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations. 
-
-

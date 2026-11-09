@@ -6,13 +6,18 @@ authors:
 year: '1996'
 journal: null
 doi: 10.22004/ag.econ.278805
-tags: []
+tags:
+- agriculture
+- drought
+- finance
+- fulltext:check-needed
+- united states
 zotero_key: 944SNQCC
 item_type: report
 url: https://ageconsearch.umn.edu/record/278805
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # U.S. Hay Production

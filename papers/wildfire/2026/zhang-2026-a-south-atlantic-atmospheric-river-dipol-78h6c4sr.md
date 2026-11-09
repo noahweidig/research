@@ -8,14 +8,18 @@ year: '2026'
 journal: Nature Communications
 doi: 10.1038/s41467-026-78572-z
 tags:
+- amazon basin
+- atmospheric rivers
+- climate modeling
 - large wildfires
 - wildfire
+- wildfire forecasting
 zotero_key: 78H6C4SR
 item_type: journalArticle
 url: https://openalex.org/W7221796816
 source_url: 'unpaywall: https://www.nature.com/articles/s41467-026-78572-z_reference.pdf'
 fulltext_status: fulltext
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # A South Atlantic atmospheric river dipole as a key precursor of Amazon wildfires
@@ -607,5 +611,3 @@ This Article in Press is shared early to give you faster access to new research.
 Article in Press 
 
 Nature Communications 
-
-

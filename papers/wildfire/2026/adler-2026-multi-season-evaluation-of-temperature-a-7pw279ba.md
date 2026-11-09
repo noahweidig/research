@@ -14,14 +14,16 @@ year: '2026'
 journal: Geoscientific model development
 doi: 10.5194/gmd-19-8627-2026
 tags:
+- fire season
 - large wildfires
+- stability
 - united states
 zotero_key: 7PW279BA
 item_type: journalArticle
 url: https://openalex.org/W7213452031
 source_url: 'unpaywall: https://gmd.copernicus.org/articles/19/8627/2026/gmd-19-8627-2026.pdf'
 fulltext_status: fulltext
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Multi-season evaluation of temperature and wind in the marine boundary layer along the United States northeast coast in the High-Resolution Rapid Refresh model
@@ -714,5 +716,3 @@ investigated with dual-Doppler lidar profiles, Meteorol. Z., 30, 185–200, http
 **https://doi.org/10.5194/gmd-19-8627-2026** 
 
 **Geosci. Model Dev., 19, 8627–8649, 2026** 
-
-

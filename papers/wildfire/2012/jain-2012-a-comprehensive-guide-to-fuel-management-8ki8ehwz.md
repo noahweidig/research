@@ -11,13 +11,18 @@ authors:
 year: '2012'
 journal: JFSP Synthesis Reports
 doi: 10.2737/rmrs-gtr-292
-tags: []
+tags:
+- fuel treatments
+- fuels
+- fulltext:pdf-found
+- united states
+- western united states
 zotero_key: 8KI8EHWZ
 item_type: journalArticle
 url: https://digitalcommons.unl.edu/jfspsynthesis/13
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # A Comprehensive Guide to Fuel Management Practices for Dry Mixed Conifer Forests in the Northwestern United States

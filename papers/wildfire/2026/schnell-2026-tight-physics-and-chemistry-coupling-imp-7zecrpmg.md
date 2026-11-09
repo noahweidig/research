@@ -24,16 +24,16 @@ year: '2026'
 journal: null
 doi: 10.5194/egusphere-2026-4786
 tags:
-- eastern united states
 - large wildfires
 - prescribed burning
+- western united states
 - wildfire
 zotero_key: 7ZECRPMG
 item_type: journalArticle
 url: https://openalex.org/W7202382949
 source_url: 'unpaywall: https://egusphere.copernicus.org/preprints/2026/egusphere-2026-4786/egusphere-2026-4786.pdf'
 fulltext_status: fulltext
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Tight physics and chemistry coupling improves air quality forecasts: a case study of the 2020 North American wildfires with the Rapid Refresh model coupled to Chemistry (RAP-Chem v1.0)
@@ -714,5 +714,3 @@ https://doi.org/10.5194/egusphere-2026-4786 Preprint. Discussion started: 13 Aug
 - 728 Zhou, X., Josey, K., Kamareddine, L., Caine, M.C., Liu, T., Mickley, L.J., Cooper, M., Dominici, F., 2021. Excess of 729 COVID-19 cases and deaths due to fine particulate matter exposure during the 2020 wildfires in the United States. 730 Sci. Adv. 7, eabi8789. https://doi.org/10.1126/sciadv.abi8789 
 
 27 
-
-

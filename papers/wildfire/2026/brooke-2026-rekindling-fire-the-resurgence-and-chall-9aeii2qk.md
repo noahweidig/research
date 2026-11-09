@@ -8,6 +8,8 @@ year: '2026'
 journal: Rangelands
 doi: 10.1016/j.rala.2026.07.001
 tags:
+- finance
+- legal statutes
 - prescribed burning
 - wildfire
 zotero_key: 9AEII2QK
@@ -15,7 +17,7 @@ item_type: journalArticle
 url: https://openalex.org/W7172433713
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Rekindling fire: The resurgence and challenges of prescribed fire culture in Texas

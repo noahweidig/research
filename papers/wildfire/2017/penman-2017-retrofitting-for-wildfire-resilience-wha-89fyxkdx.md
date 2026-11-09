@@ -11,13 +11,21 @@ authors:
 year: '2017'
 journal: International Journal of Disaster Risk Reduction
 doi: 10.1016/j.ijdrr.2016.10.020
-tags: []
+tags:
+- cost
+- fire mitigation
+- fulltext:check-needed
+- housing
+- natural hazards
+- resilience
+- structure loss
+- wildfire
 zotero_key: 89FYXKDX
 item_type: journalArticle
 url: https://doi.org/10.1016/j.ijdrr.2016.10.020
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Retrofitting for wildfire resilience: What is the cost?

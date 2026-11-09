@@ -12,13 +12,18 @@ authors:
 year: '2011'
 journal: null
 doi: 10.2737/rmrs-gtr-252
-tags: []
+tags:
+- fuel treatments
+- fuels
+- fulltext:pdf-missing
+- rangeland
+- wildfire
 zotero_key: 9EPGVQHY
 item_type: journalArticle
 url: https://www.academia.edu/download/46990126/rmrs_gtr252.pdf
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Review of Fuel Treatment Effectiveness in Forests and Rangelands

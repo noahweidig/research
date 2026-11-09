@@ -13,13 +13,17 @@ authors:
 year: '2017'
 journal: The R Journal
 doi: 10.32614/rj-2017-066
-tags: []
+tags:
+- generalized linear models
+- mixed models
+- modeling
+- r package
 zotero_key: 6A9B9M3I
 item_type: journalArticle
 url: https://journal.r-project.org/archive/2017/RJ-2017-066/index.html
 source_url: 'unpaywall: https://journal.r-project.org/archive/2017/RJ-2017-066/RJ-2017-066.pdf'
 fulltext_status: fulltext
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # glmmTMB Balances Speed and Flexibility Among Packages for Zero-inflated Generalized Linear Mixed Modeling
@@ -839,5 +843,3 @@ _Canada orcid.org/0000-0002-2127-0443_ Bolker@mcmaster.ca
 The R Journal Vol. 9/2, December 2017 
 
 ISSN 2073-4859 
-
-

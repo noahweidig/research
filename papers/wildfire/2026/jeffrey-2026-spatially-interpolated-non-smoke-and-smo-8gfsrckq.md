@@ -10,15 +10,17 @@ year: '2026'
 journal: Zenodo (CERN European Organization for Nuclear Research)
 doi: 10.5281/zenodo.21813335
 tags:
-- eastern united states
+- fulltext:pdf-missing
+- particulate matter
 - united states
+- western united states
 - wildfire
 zotero_key: 8GFSRCKQ
 item_type: journalArticle
 url: https://openalex.org/W7172698966
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Spatially interpolated non-smoke and smoke PM2.5 concentrations for the US from 2006-2024

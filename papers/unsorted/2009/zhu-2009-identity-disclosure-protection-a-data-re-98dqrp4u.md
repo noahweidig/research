@@ -8,13 +8,18 @@ year: '2009'
 journal: Decision Support Systems
 doi: 10.1016/j.dss.2009.07.003
 tags:
+- data mining
+- data privacy
+- fulltext:pdf-missing
+- genetic algorithm
+- k anonymity
 - machine learning
 zotero_key: 98DQRP4U
 item_type: journalArticle
 url: https://www.sciencedirect.com/science/article/pii/S0167923609001559
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Identity disclosure protection: A data reconstruction approach for privacy-preserving data mining

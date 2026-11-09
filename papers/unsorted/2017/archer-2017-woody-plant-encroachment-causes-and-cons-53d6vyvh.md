@@ -10,13 +10,17 @@ authors:
 year: '2017'
 journal: null
 doi: 10.1007/978-3-319-46709-2_2
-tags: []
+tags:
+- grassland
+- rangeland
+- savanna
+- woody encroachment
 zotero_key: 53D6VYVH
 item_type: bookSection
 url: http://link.springer.com/10.1007/978-3-319-46709-2_2
 source_url: 'unpaywall: https://link.springer.com/content/pdf/10.1007%2F978-3-319-46709-2_2.pdf'
 fulltext_status: fulltext
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Woody Plant Encroachment: Causes and Consequences
@@ -1225,7 +1229,3 @@ S.R. Archer et al.
 **Open Access** This chapter is distributed under the terms of the Creative Commons AttributionNoncommercial 2.5 License (http://creativecommons.org/licenses/by-nc/2.5/) which permits any noncommercial use, distribution, and reproduction in any medium, provided the original author(s) and source are credited. 
 
 The images or other third party material in this chapter are included in the work’s Creative Commons license, unless indicated otherwise in the credit line; if such material is not included in the work’s Creative Commons license and the respective action is not permitted by statutory regulation, users will need to obtain permission from the license holder to duplicate, adapt or reproduce the material. 
-
-
-
-

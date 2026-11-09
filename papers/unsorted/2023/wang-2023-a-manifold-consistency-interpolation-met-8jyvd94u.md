@@ -10,6 +10,9 @@ year: '2023'
 journal: IEEE Transactions on Information Forensics and Security
 doi: 10.1109/TIFS.2023.3268882
 tags:
+- finance
+- fulltext:pdf-missing
+- legal statutes
 - machine learning
 - modeling
 zotero_key: 8JYVD94U
@@ -17,7 +20,7 @@ item_type: journalArticle
 url: https://ieeexplore.ieee.org/abstract/document/10105919
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # A Manifold Consistency Interpolation Method of Poisoning Attacks Against Semi-Supervised Model

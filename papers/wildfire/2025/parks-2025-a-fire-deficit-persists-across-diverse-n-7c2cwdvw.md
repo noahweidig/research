@@ -24,14 +24,16 @@ year: '2025'
 journal: Nature Communications
 doi: 10.1038/s41467-025-56333-8
 tags:
+- burned area
 - fire ecology
 - forest ecology
+- united states
 zotero_key: 7C2CWDVW
 item_type: journalArticle
 url: https://www.nature.com/articles/s41467-025-56333-8
 source_url: 'unpaywall: https://www.nature.com/articles/s41467-025-56333-8.pdf'
 fulltext_status: fulltext
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # A fire deficit persists across diverse North American forests despite recent increases in area burned
@@ -646,5 +648,3 @@ S.A.P., C.H.G., E.Q.M., and R.A.L. conceived the project. S.A.P. and E.W. develo
 Nature Communications |  (2025) 16:1493 
 
 13 
-
-

@@ -11,12 +11,14 @@ tags:
 - conservation
 - edge effects
 - fragmentation
+- fulltext:pdf-missing
+- vegetation
 zotero_key: 8DVCP47C
 item_type: journalArticle
 url: https://doi.org/10.1023/A:1009846507652
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Vegetation and microclimatic edge effects in two mixed-mesophytic forest fragments

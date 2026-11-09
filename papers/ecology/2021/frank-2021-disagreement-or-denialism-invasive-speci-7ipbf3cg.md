@@ -6,15 +6,18 @@ year: '2021'
 journal: Synthese
 doi: 10.1007/s11229-019-02259-w
 tags:
-- invasion biology
+- ethics
+- fulltext:pdf-missing
+- heterogeneity
 - invasive species
+- philosophy of science
 - science denialism
 zotero_key: 7IPBF3CG
 item_type: journalArticle
 url: https://doi.org/10.1007/s11229-019-02259-w
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Disagreement or denialism? “Invasive species denialism” and ethical disagreement in science

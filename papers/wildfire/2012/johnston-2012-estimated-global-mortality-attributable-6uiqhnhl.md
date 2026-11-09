@@ -13,13 +13,18 @@ authors:
 year: '2012'
 journal: Environmental Health Perspectives
 doi: 10.1289/ehp.1104422
-tags: []
+tags:
+- air quality
+- fire
+- fulltext:pdf-found
+- mortality
+- public health
 zotero_key: 6UIQHNHL
 item_type: journalArticle
 url: https://ehp.niehs.nih.gov/doi/full/10.1289/ehp.1104422
 source_url: 'unpaywall: https://www.ncbi.nlm.nih.gov/pmc/articles/3346787'
 fulltext_status: fulltext
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Estimated Global Mortality Attributable to Smoke from Landscape Fires

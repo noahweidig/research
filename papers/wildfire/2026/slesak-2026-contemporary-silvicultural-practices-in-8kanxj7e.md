@@ -8,14 +8,16 @@ year: '2026'
 journal: Journal of Forestry
 doi: 10.1007/s44392-026-00110-y
 tags:
+- forest management
 - united states
+- western united states
 - wildfire occurrence
 zotero_key: 8KANXJ7E
 item_type: journalArticle
 url: https://openalex.org/W7212317498
 source_url: 'unpaywall: https://link.springer.com/content/pdf/10.1007/s44392-026-00110-y.pdf'
 fulltext_status: fulltext
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Contemporary Silvicultural Practices in the Western Portion of the Pacific Northwest, USA
@@ -708,5 +710,3 @@ Journal of Forestry
    - Washington Department of Natural Resources, Olympia, WA, USA 
 
 - 3 Department of Forest Engineering, Resources and Management, Oregon State University, Corvallis, OR, USA 
-
-
