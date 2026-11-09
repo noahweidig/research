@@ -7,13 +7,17 @@ authors:
 year: '2019'
 journal: Fire
 doi: 10.3390/fire2040060
-tags: []
+tags:
+- burning
+- contiguous united states
+- fire suppression
+- wildfire
 zotero_key: YFPUTBX7
 item_type: journalArticle
 url: https://www.mdpi.com/2571-6255/2/4/60
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Measuring Initial Attack Suppression Effectiveness through Burn Probability

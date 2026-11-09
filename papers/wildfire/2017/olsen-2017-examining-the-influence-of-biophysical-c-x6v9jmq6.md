@@ -9,13 +9,19 @@ authors:
 year: '2017'
 journal: Ecology and Society
 doi: 10.5751/es-09054-220121
-tags: []
+tags:
+- agent based modeling
+- fire mitigation
+- fire risk
+- risk perception
+- survey research
+- wildland-urban interface
 zotero_key: X6V9JMQ6
 item_type: journalArticle
 url: https://www.jstor.org/stable/26270062
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Examining the influence of biophysical conditions on wildland–urban interface homeowners’ wildfire risk mitigation activities in fire-prone landscapes

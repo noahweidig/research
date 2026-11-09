@@ -8,13 +8,17 @@ authors:
 year: '2024'
 journal: ACS ES&T Air
 doi: 10.1021/acsestair.4c00228
-tags: []
+tags:
+- contiguous united states
+- eastern united states
+- prescribed burning
+- wildfire
 zotero_key: XC7PS59X
 item_type: journalArticle
 url: https://pubs.acs.org/doi/10.1021/acsestair.4c00228
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Encountering Prescribed Fire: Characterizing the Intersection of Prescribed Fire and Wildfire in the CONUS

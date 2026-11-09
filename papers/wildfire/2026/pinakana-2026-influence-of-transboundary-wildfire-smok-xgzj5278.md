@@ -13,13 +13,16 @@ year: '2026'
 journal: npj Clean Air
 doi: 10.1038/s44407-026-00096-z
 tags:
+- air quality
+- particulate matter
 - wildfire
+- wildfire smoke
 zotero_key: XGZJ5278
 item_type: journalArticle
 url: https://openalex.org/W7172269537
 source_url: 'unpaywall: https://www.nature.com/articles/s44407-026-00096-z.pdf'
 fulltext_status: fulltext
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Influence of transboundary wildfire smoke on fine particulate matter concentrations at South Texas border schools
@@ -486,5 +489,3 @@ npj Clean Air |
 (2026) 2:49 
 
 10 
-
-

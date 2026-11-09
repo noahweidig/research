@@ -12,13 +12,17 @@ authors:
 year: '2020'
 journal: Environmental Research Letters
 doi: 10.1088/1748-9326/ab9be5
-tags: []
+tags:
+- fire risk
+- housing
+- wildfire
+- wildland-urban interface
 zotero_key: YYDASP2Q
 item_type: journalArticle
 url: https://dx.doi.org/10.1088/1748-9326/ab9be5
 source_url: 'unpaywall: https://repositorio.uchile.cl/handle/2250/191071'
 fulltext_status: fulltext
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Evidence-based mapping of the wildland-urban interface to better identify human communities threatened by wildfires

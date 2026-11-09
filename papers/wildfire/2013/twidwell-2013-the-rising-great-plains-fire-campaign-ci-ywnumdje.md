@@ -12,13 +12,18 @@ authors:
 year: '2013'
 journal: Frontiers in Ecology and the Environment
 doi: 10.1890/130015
-tags: []
+tags:
+- fire
+- fulltext:pdf-missing
+- grassland
+- prescribed burning
+- woody encroachment
 zotero_key: YWNUMDJE
 item_type: journalArticle
 url: https://onlinelibrary.wiley.com/doi/abs/10.1890/130015
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # The rising Great Plains fire campaign: citizens' response to woody plant encroachment

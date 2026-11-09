@@ -12,13 +12,17 @@ authors:
 year: '2026'
 journal: 'Environmental Research: Ecology'
 doi: 10.1088/2752-664X/ae5300
-tags: []
+tags:
+- conservation
+- forest management
+- remote sensing
+- united states
 zotero_key: XG936G3U
 item_type: journalArticle
 url: https://iopscience.iop.org/article/10.1088/2752-664X/ae5300
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Baseline maps of U.S. mature and old-growth forests for conservation and management

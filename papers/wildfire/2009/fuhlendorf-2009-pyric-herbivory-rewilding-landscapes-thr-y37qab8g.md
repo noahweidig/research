@@ -14,6 +14,7 @@ tags:
 - conservation
 - ecosystems
 - fire
+- fulltext:pdf-missing
 - herbivory
 - poaceae
 - united states
@@ -22,7 +23,7 @@ item_type: journalArticle
 url: https://doi.org/10.1111/j.1523-1739.2008.01139.x
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Pyric herbivory: rewilding landscapes through the recoupling of fire and grazing

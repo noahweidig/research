@@ -10,12 +10,14 @@ doi: 10.1016/j.rala.2016.02.005
 tags:
 - fire risk
 - prescribed burning
+- private land
+- rangeland
 zotero_key: YJAHB855
 item_type: journalArticle
 url: https://www.sciencedirect.com/science/article/pii/S0190052816000134
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # From Grassroots to National Alliance: The Emerging Trajectory for Landowner Prescribed Burn Associations

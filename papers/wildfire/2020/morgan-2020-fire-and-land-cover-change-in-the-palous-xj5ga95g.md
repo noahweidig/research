@@ -17,13 +17,13 @@ tags:
 - fire ecology
 - fire history
 - land use
-- landscape change
+- landscape dynamics
 zotero_key: XJ5GA95G
 item_type: journalArticle
 url: https://doi.org/10.1186/s42408-019-0061-9
 source_url: 'unpaywall: https://fireecology.springeropen.com/track/pdf/10.1186/s42408-019-0061-9'
 fulltext_status: fulltext
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Fire and land cover change in the Palouse Prairie–forest ecotone, Washington and Idaho, USA
@@ -493,7 +493,3 @@ Morgan et al. Fire Ecology (2020) 16:2
 ### Publisher’s Note 
 
 Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations. 
-
-
-
-

@@ -13,6 +13,7 @@ doi: 10.1016/j.scitotenv.2021.147057
 tags:
 - exposure
 - extremes
+- fulltext:pdf-missing
 - risk assessment
 - wildfire transmission
 - wildland-urban interface
@@ -21,7 +22,7 @@ item_type: journalArticle
 url: https://linkinghub.elsevier.com/retrieve/pii/S0048969721021276
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Predicting Paradise: Modeling future wildfire disasters in the western US

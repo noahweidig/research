@@ -6,6 +6,8 @@ year: '2026'
 journal: Chemical Innovation & Technology
 doi: 10.61784/cit3009
 tags:
+- climate change
+- housing
 - large wildfires
 - united states
 zotero_key: XSTH5RTP
@@ -13,7 +15,7 @@ item_type: journalArticle
 url: https://openalex.org/W7204147142
 source_url: 'unpaywall: https://upubjournals.com/cit/article/download/2681/73'
 fulltext_status: fulltext
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # CURBING THE TREND OF GLOBAL WARMING AND PROTECTING OUR HOME PLANET: CAUSES, IMPACTS, GLOBAL EFFORTS, AND REFLECTIONS
@@ -304,5 +306,3 @@ _<u>7</u>_
 - [27] Greenpeace East Asia. China power sector emissions and renewable capacity report. Beijing, 2025. [28] National Energy Administration of China. Energy operation data for the first half of 2026. Beijing, 2026. [29] BloombergNEF. Levelized Cost of Electricity Update. New York, 2025. 
 
 **Volume 3, Issue 1, Pp 1-7, 2026** 
-
-

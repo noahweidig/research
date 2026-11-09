@@ -10,13 +10,18 @@ authors:
 year: '2021'
 journal: Ecology Letters
 doi: 10.1111/ele.13676
-tags: []
+tags:
+- burning
+- fire
+- fire frequency
+- fulltext:pdf-found
+- grassland
 zotero_key: YTRG7F8R
 item_type: journalArticle
 url: https://onlinelibrary.wiley.com/doi/abs/10.1111/ele.13676
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Fire frequency, state change and hysteresis in tallgrass prairie

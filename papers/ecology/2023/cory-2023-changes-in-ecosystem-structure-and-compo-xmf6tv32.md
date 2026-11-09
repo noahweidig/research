@@ -10,13 +10,18 @@ authors:
 year: '2023'
 journal: Ecosystems
 doi: 10.1007/s10021-023-00853-1
-tags: []
+tags:
+- ecosystems
+- freshwater ecosystems
+- fulltext:pdf-missing
+- lakes
+- southeastern united states
 zotero_key: XMF6TV32
 item_type: journalArticle
 url: https://doi.org/10.1007/s10021-023-00853-1
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Changes in Ecosystem Structure and Composition Influence Groundwater Chemistry in Herbaceous Wetlands

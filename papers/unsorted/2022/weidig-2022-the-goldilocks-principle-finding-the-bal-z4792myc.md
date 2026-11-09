@@ -11,12 +11,13 @@ tags:
 - grasses
 - habitats
 - humidity
+- nutritive value
 zotero_key: Z4792MYC
 item_type: journalArticle
 url: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0277237
 source_url: 'unpaywall: https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0277237&type=printable'
 fulltext_status: fulltext
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # The Goldilocks principle: Finding the balance between water volume and nutrients for ovipositing Culex mosquitoes (Diptera: Culicidae)
@@ -409,5 +410,3 @@ PLOS ONE | https://doi.org/10.1371/journal.pone.0277237
 11 / 11 
 
 November 10, 2022 
-
-

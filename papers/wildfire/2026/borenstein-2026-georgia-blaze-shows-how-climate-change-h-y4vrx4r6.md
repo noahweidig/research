@@ -5,13 +5,18 @@ authors:
 year: '2026'
 journal: Associated Press
 doi: null
-tags: []
+tags:
+- climate change
+- drought
+- fulltext:check-needed
+- southeastern united states
+- wildfire
 zotero_key: Y4VRX4R6
 item_type: newspaperArticle
 url: https://apnews.com/article/wildfire-georgia-east-west-climate-change-helene-9dff2248c09a709c0d03053378210722
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Georgia blaze shows how climate change has led to more wildfires in the East

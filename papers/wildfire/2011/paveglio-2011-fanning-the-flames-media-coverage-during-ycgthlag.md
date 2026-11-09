@@ -7,13 +7,18 @@ authors:
 year: '2011'
 journal: Human Ecology Review
 doi: null
-tags: []
+tags:
+- fire suppression
+- fulltext:check-needed
+- natural hazards
+- western united states
+- wildfire
 zotero_key: YCGTHLAG
 item_type: journalArticle
 url: https://www.jstor.org/stable/24707685
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Fanning the Flames? Media Coverage during Wildfire Events and its Relation to Broader Societal Understandings of the Hazard

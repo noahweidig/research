@@ -7,13 +7,18 @@ authors:
 year: '2016'
 journal: Ecosphere
 doi: 10.1002/ecs2.1472
-tags: []
+tags:
+- fia
+- fulltext:pdf-missing
+- united states
+- vegetation
+- western united states
 zotero_key: XIYBXNG4
 item_type: journalArticle
 url: https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecs2.1472
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Mapping forest vegetation for the western United States using modified random forests imputation of FIA forest plots

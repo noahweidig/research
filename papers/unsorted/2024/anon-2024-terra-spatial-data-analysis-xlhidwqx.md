@@ -5,6 +5,9 @@ year: '2024'
 journal: null
 doi: null
 tags:
+- fulltext:check-needed
+- geospatial data
+- r package
 - spatial analysis
 - spatiotemporal
 zotero_key: XLHIDWQX
@@ -12,7 +15,7 @@ item_type: computerProgram
 url: https://cran.r-project.org/web/packages/terra/index.html
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # terra: Spatial Data Analysis

@@ -13,13 +13,19 @@ authors:
 year: '2021'
 journal: null
 doi: 10.6028/NIST.TN.2135
-tags: []
+tags:
+- california
+- fire
+- fire spread
+- government report
+- wildfire
+- wildland-urban interface
 zotero_key: X9VXFRSZ
 item_type: report
 url: https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.2135.pdf
 source_url: 'unpaywall: https://doi.org/10.6028/nist.tn.2135'
 fulltext_status: fulltext
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # A Case Study of the Camp Fire – Fire Progression Timeline
@@ -9683,5 +9689,3 @@ N<br><!-- End of picture text -->
 NAD83, CA State Plane Zone 2 Lambert Conformal Conic Projection 
 
 Roads ...................... U.S. Census Bureau TIGER/Line Shapefile, 2019 Water ....................... U.S. Census Bureau TIGER/Line Shapefile, 2019 Places ...................... U.S. Census Bureau TIGER/Line Shapefile, 2019 Counties .................. U.S. Census Bureau TIGER/Line Shapefile, 2019 Elevation .............................................................. U.S. Geological Survey IR Fire Perimeters .............................. National Interagency Fire Center Landsat Perimeter ..................................... NASA Imagery, NIST Overlay Data points, Vectors, Annotations ................................................... NIST Map created by NIST. Updated Jan. 26, 2021. 
-
-
