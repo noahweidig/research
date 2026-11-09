@@ -11,6 +11,7 @@ year: '2026'
 journal: npj Science of Food
 doi: 10.1038/s41538-026-01111-z
 tags:
+- agriculture
 - united states
 - wildfire
 - wildfire occurrence
@@ -19,7 +20,7 @@ item_type: journalArticle
 url: https://openalex.org/W7211988946
 source_url: 'unpaywall: https://www.nature.com/articles/s41538-026-01111-z_reference.pdf'
 fulltext_status: fulltext
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Flood-wildfire co-occurrence risks disrupt global staple food trade and erode SDG progress
@@ -381,5 +382,3 @@ Publisher’s note Springer Nature remains neutral with regard to jurisdictional
 npj Science of Food 
 
 Article in Press 
-
-

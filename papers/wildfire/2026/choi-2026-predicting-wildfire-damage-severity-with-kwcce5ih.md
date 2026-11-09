@@ -13,6 +13,7 @@ year: '2026'
 journal: Fire
 doi: 10.3390/fire9070310
 tags:
+- fire severity
 - ignition
 - wildfire
 - wildfire occurrence
@@ -21,7 +22,7 @@ item_type: journalArticle
 url: https://openalex.org/W7169755086
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Predicting Wildfire Damage Severity with Composite Indexing and Fire Weather Features: A Case Study in Gangwon Province, South Korea

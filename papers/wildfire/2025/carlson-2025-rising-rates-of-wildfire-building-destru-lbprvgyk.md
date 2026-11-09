@@ -14,13 +14,17 @@ authors:
 year: '2025'
 journal: Proceedings of the National Academy of Sciences
 doi: 10.1073/pnas.2505886122
-tags: []
+tags:
+- exposure
+- united states
+- wildfire
+- wildland-urban interface
 zotero_key: LBPRVGYK
 item_type: journalArticle
 url: https://www.pnas.org/doi/full/10.1073/pnas.2505886122
 source_url: 'unpaywall: https://pmc.ncbi.nlm.nih.gov/articles/PMC12745683/'
 fulltext_status: fulltext
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Rising rates of wildfire building destruction in the conterminous United States

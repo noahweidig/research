@@ -9,13 +9,17 @@ authors:
 year: '2022'
 journal: International Journal of Wildland Fire
 doi: 10.1071/WF22044
-tags: []
+tags:
+- burned area
+- contiguous united states
+- fire
+- fire history
 zotero_key: LUJUPGCW
 item_type: journalArticle
 url: https://doi.org/10.1071/WF22044
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Contemporary (1984–2020) fire history metrics for the conterminous United States and ecoregional differences by land ownership

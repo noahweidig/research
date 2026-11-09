@@ -11,13 +11,17 @@ authors:
 year: '2021'
 journal: Rangeland Ecology & Management
 doi: 10.1016/j.rama.2021.04.003
-tags: []
+tags:
+- decision support
+- rangeland
+- united states
+- western united states
 zotero_key: L949W2BS
 item_type: journalArticle
 url: https://linkinghub.elsevier.com/retrieve/pii/S1550742421000464
 source_url: 'unpaywall: https://www.biorxiv.org/content/biorxiv/early/2021/04/06/2020.11.06.343038.full.pdf'
 fulltext_status: fulltext
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Annual and 16-Day Rangeland Production Estimates for the Western United States
@@ -235,5 +239,3 @@ https://doi.org/10.2111/REM-D-11-00035.1
 - Vermote, E., Justice, C., Claverie, M., Franch, B., 2016. Preliminary analysis of the performance of the Landsat 8/OLI land surface reflectance product. Remote Sens. Environ. 185, 46–56. https://doi.org/10.1016/j.rse.2016.04.008 
 
 11 
-
-

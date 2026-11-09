@@ -7,13 +7,18 @@ authors:
 year: '2013'
 journal: International Journal of Wildland Fire
 doi: 10.1071/WF13018
-tags: []
+tags:
+- climate
+- eastern united states
+- fire
+- fulltext:pdf-missing
+- united states
 zotero_key: LJ9GGWPW
 item_type: journalArticle
 url: https://www.publish.csiro.au/wf/WF13018
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Climate change and associated fire potential for the south-eastern United States in the 21st century

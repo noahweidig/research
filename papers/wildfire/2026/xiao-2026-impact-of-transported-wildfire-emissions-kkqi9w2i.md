@@ -13,13 +13,16 @@ year: '2026'
 journal: Geophysical Research Letters
 doi: 10.1029/2026gl124015
 tags:
+- air pollution
+- air quality
+- australia
 - wildfire
 zotero_key: KKQI9W2I
 item_type: journalArticle
 url: https://openalex.org/W7214190129
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Impact of Transported Wildfire Emissions on Urban PM 2.5 and O 3 in Queensland, Australia

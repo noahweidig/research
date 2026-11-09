@@ -7,14 +7,16 @@ journal: Biological Invasions
 doi: 10.1007/s10530-018-1752-x
 tags:
 - biodiversity
-- invasion biology
+- climate
+- fulltext:pdf-missing
+- invasive species
 - science denialism
 zotero_key: K5SUZPZA
 item_type: journalArticle
 url: https://doi.org/10.1007/s10530-018-1752-x
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Invasive species denialism: a reply to Ricciardi and Ryan

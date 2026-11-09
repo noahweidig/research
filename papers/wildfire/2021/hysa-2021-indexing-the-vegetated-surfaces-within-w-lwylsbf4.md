@@ -7,6 +7,7 @@ journal: International Journal of Disaster Risk Reduction
 doi: 10.1016/j.ijdrr.2021.102434
 tags:
 - disaster
+- fulltext:pdf-missing
 - modeling
 - risk assessment
 - wildland-urban interface
@@ -15,7 +16,7 @@ item_type: journalArticle
 url: https://www.sciencedirect.com/science/article/pii/S2212420921003952
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Indexing the vegetated surfaces within WUI by their wildfire ignition and spreading capacity, a comparative case from developing metropolitan areas

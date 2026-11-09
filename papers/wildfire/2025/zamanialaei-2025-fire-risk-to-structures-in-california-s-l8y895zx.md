@@ -14,14 +14,21 @@ year: '2025'
 journal: Nature Communications
 doi: 10.1038/s41467-025-63386-2
 tags:
+- california
+- defensible space
+- fire risk
 - geography
+- machine learning
 - natural hazards
+- remote sensing
+- wildland-urban interface
+- xgboost
 zotero_key: L8Y895ZX
 item_type: journalArticle
 url: https://www.nature.com/articles/s41467-025-63386-2
 source_url: 'unpaywall: https://www.nature.com/articles/s41467-025-63386-2.pdf'
 fulltext_status: fulltext
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Fire risk to structures in California’s Wildland-Urban Interface
@@ -558,5 +565,3 @@ Open Access This article is licensed under a Creative Commons Attribution 4.0 In
 Nature Communications |  (2025) 16:8041 
 
 13 
-
-

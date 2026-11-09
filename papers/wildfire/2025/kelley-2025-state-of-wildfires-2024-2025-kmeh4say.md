@@ -65,13 +65,18 @@ authors:
 year: '2025'
 journal: Earth System Science Data
 doi: 10.5194/essd-17-5377-2025
-tags: []
+tags:
+- california
+- climate change
+- fulltext:pdf-missing
+- weather
+- wildfire
 zotero_key: KMEH4SAY
 item_type: journalArticle
 url: https://essd.copernicus.org/articles/17/5377/2025/
 source_url: 'unpaywall: https://doi.org/10.5194/essd-17-5377-2025'
 fulltext_status: fulltext
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # State of Wildfires 2024–2025

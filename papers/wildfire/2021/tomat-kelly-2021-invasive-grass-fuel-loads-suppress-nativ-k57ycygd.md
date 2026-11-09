@@ -11,6 +11,7 @@ tags:
 - cogongrass
 - fire severity
 - fuel load
+- fulltext:pdf-missing
 - grass-fire cycle
 - invasive species
 - savanna
@@ -19,7 +20,7 @@ item_type: journalArticle
 url: https://onlinelibrary.wiley.com/doi/abs/10.1111/1365-2664.13881
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Invasive grass fuel loads suppress native species by increasing fire intensity and soil heating

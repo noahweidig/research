@@ -16,6 +16,7 @@ journal: Fire Ecology
 doi: 10.1186/s42408-026-00574-5
 tags:
 - fire behavior
+- invasive grass
 - invasive species
 - modeling
 zotero_key: KDFWWPZR
@@ -23,7 +24,7 @@ item_type: journalArticle
 url: https://doi.org/10.1186/s42408-026-00574-5
 source_url: 'unpaywall: https://link.springer.com/content/pdf/10.1186/s42408-026-00574-5.pdf'
 fulltext_status: fulltext
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Fueling the fire: predicting cogongrass (Imperata cylindrica) impacts on fire behavior across environmental and seasonal gradients
@@ -541,5 +542,3 @@ Page 17 of 17
 ### **Publisher’s Note** 
 
 Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations. 
-
-

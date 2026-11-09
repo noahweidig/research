@@ -14,13 +14,14 @@ doi: 10.1038/s41467-025-61608-1
 tags:
 - climate change
 - extremes
+- fire
 - fire ecology
 zotero_key: L25AJA4C
 item_type: journalArticle
 url: https://www.nature.com/articles/s41467-025-61608-1
 source_url: 'unpaywall: https://www.nature.com/articles/s41467-025-61608-1.pdf'
 fulltext_status: fulltext
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Climate change has increased the odds of extreme regional forest fire years globally
@@ -470,5 +471,3 @@ Open Access This article is licensed under a Creative Commons Attribution 4.0 In
 Nature Communications |  (2025) 16:6390 
 
 10 
-
-

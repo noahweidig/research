@@ -5,13 +5,19 @@ authors:
 year: '2024'
 journal: null
 doi: null
-tags: []
+tags:
+- climate
+- dataset
+- fulltext:check-needed
+- geospatial data
+- weather
+- western united states
 zotero_key: JXS5J2RG
 item_type: dataset
 url: https://developers.google.com/earth-engine/datasets/catalog/IDAHO_EPSCOR_GRIDMET
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # IDAHO EPSCOR GRIDMET

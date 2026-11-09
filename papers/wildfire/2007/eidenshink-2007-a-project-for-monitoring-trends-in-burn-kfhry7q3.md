@@ -10,13 +10,17 @@ authors:
 year: '2007'
 journal: Fire Ecology
 doi: 10.4996/fireecology.0301003
-tags: []
+tags:
+- burning
+- fire severity
+- mtbs
+- united states
 zotero_key: KFHRY7Q3
 item_type: journalArticle
 url: https://fireecology.springeropen.com/articles/10.4996/fireecology.0301003
 source_url: 'unpaywall: https://fireecology.springeropen.com/counter/pdf/10.4996/fireecology.0301003'
 fulltext_status: fulltext
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # A Project for Monitoring Trends in Burn Severity
@@ -507,5 +511,3 @@ _Vol. 3, No. 1, 2007_
 - van Wagtendonk, J.W., R.R. Root, and C.H. Key. 2004. Comparison of AVIRIS and Landsat ETM+ detection capabilities for burn severity. Remote Sensing of Environment 92(3):397-408. 
 
 - White, J.D., K.C. Ryan, C.C. Key, and S.W. Running. 1996. Remote sensing of forest fi re severity and vegetation recovery. International Journal of Wildland Fire 6(3):125-136. 
-
-

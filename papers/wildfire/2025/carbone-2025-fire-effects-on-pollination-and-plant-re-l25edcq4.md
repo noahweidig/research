@@ -10,13 +10,17 @@ authors:
 year: '2025'
 journal: Annals of Botany
 doi: 10.1093/aob/mcae033
-tags: []
+tags:
+- ecosystems
+- fire
+- human-related causes
+- vegetation
 zotero_key: L25EDCQ4
 item_type: journalArticle
 url: https://doi.org/10.1093/aob/mcae033
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Fire effects on pollination and plant reproduction: a quantitative review

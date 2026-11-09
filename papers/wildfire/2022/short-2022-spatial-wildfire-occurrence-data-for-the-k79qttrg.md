@@ -5,13 +5,18 @@ authors:
 year: '2022'
 journal: null
 doi: 10.2737/RDS-2013-0009.6
-tags: []
+tags:
+- dataset
+- fulltext:pdf-missing
+- united states
+- wildfire
+- wildfire occurrence
 zotero_key: K79QTTRG
 item_type: dataset
 url: https://www.fs.usda.gov/rds/archive/catalog/RDS-2013-0009.6
 source_url: 'unpaywall: https://figshare.com/articles/dataset/Spatial_wildfire_occurrence_data_for_the_United_States_1992-2011_FPA_FOD_20130422_1st_edition/27005818'
 fulltext_status: fulltext
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Spatial wildfire occurrence data for the United States, 1992-2020 [FPA_FOD_20221014]

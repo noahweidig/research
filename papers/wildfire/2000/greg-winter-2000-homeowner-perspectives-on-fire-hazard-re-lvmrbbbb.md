@@ -6,14 +6,17 @@ year: '2000'
 journal: Society & Natural Resources
 doi: 10.1080/089419200279225
 tags:
+- fire
 - fire prevention
+- fulltext:pdf-missing
 - prescribed burning
+- wildland-urban interface
 zotero_key: LVMRBBBB
 item_type: journalArticle
 url: https://doi.org/10.1080/089419200279225
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Homeowner Perspectives on Fire Hazard, Responsibility, and Management Strategies at the Wildland-Urban Interface

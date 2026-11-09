@@ -5,13 +5,18 @@ authors:
 year: '1998'
 journal: Statistics in Medicine
 doi: 10.1002/(SICI)1097-0258(19980430)17:8<873::AID-SIM779>3.0.CO;2-I
-tags: []
+tags:
+- confidence intervals
+- fulltext:check-needed
+- hypothesis testing
+- proportional data
+- statistics
 zotero_key: JW786P3J
 item_type: journalArticle
 url: https://onlinelibrary.wiley.com/doi/abs/10.1002/%28SICI%291097-0258%2819980430%2917%3A8%3C873%3A%3AAID-SIM779%3E3.0.CO%3B2-I
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Interval estimation for the difference between independent proportions: comparison of eleven methods

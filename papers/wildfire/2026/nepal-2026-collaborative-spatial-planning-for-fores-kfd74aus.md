@@ -10,15 +10,16 @@ year: '2026'
 journal: Trees Forests and People
 doi: 10.1016/j.tfp.2026.101533
 tags:
-- eastern united states
 - prescribed burning
+- restoration
 - united states
+- western united states
 zotero_key: KFD74AUS
 item_type: journalArticle
 url: https://openalex.org/W7222505059
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Collaborative spatial planning for forest restoration and resilience in the southeastern United States’ interior highlands

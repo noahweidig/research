@@ -9,13 +9,18 @@ authors:
 year: '2020'
 journal: International Journal of Wildland Fire
 doi: 10.1071/WF19198
-tags: []
+tags:
+- climate
+- eastern united states
+- fulltext:check-needed
+- prescribed burning
+- united states
 zotero_key: K3JTNRY7
 item_type: journalArticle
 url: https://www.publish.csiro.au/wf/WF19198
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Climate change projected to reduce prescribed burning opportunities in the south-eastern United States

@@ -10,13 +10,14 @@ tags:
 - deforestation
 - forest ecology
 - forestry
+- fulltext:check-needed
 - trees
 zotero_key: KAGKNZ99
 item_type: thesis
 url: https://www.proquest.com/docview/2838331723/abstract/C146CE973C81420FPQ/1
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Species- To Community-Level Responses to Climate Change in Eastern U.S. Forests

@@ -7,13 +7,17 @@ authors:
 year: '2022'
 journal: Frontiers in Forests and Global Change
 doi: 10.3389/ffgc.2022.991934
-tags: []
+tags:
+- drought
+- eastern united states
+- mesophication
+- united states
 zotero_key: LMDQNANS
 item_type: journalArticle
 url: https://www.frontiersin.org/articles/10.3389/ffgc.2022.991934
 source_url: 'unpaywall: https://doi.org/10.3389/ffgc.2022.991934'
 fulltext_status: fulltext
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Stand and environmental conditions drive functional shifts associated with mesophication in eastern US forests
