@@ -11,14 +11,16 @@ year: '2026'
 journal: null
 doi: 10.53328/ini26ims001
 tags:
+- air quality
 - united states
 - wildfire
+- wildfire smoke
 zotero_key: 3FBQGBGK
 item_type: journalArticle
 url: https://openalex.org/W7202393579
 source_url: 'unpaywall: https://unu.edu/sites/default/files/2026-08/INWEH-PB-July%202026%20Wildfires%20in%20Canada-Aug2026_1.pdf'
 fulltext_status: fulltext
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # The July 2026 Wildfires in Canada and Their Transboundary Smoke Problem
@@ -215,5 +217,3 @@ We obtained fire perimeters as of July 21, 2026 from the Canadian Wildland Fire 
 **Recommended Citation:** Teymoor, S., Abatzoglou, J., AghaKouchak, A., Madani, K., Matin, M., and Sadegh, M. (2026). The July 2026 Wildfires in Canada and Their Transboundary Smoke Problem. United Nations University Institute for Water, Environment and Health (UNU-INWEH), Richmond Hill, Canada. doi: 10.53328/INI26IMS001 
 
 **unu.edu** / **inweh** 
-
-

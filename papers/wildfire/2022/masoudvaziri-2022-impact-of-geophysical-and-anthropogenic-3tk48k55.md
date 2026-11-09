@@ -19,7 +19,7 @@ item_type: journalArticle
 url: https://doi.org/10.1007/s00477-021-02087-w
 source_url: 'unpaywall: https://www.researchsquare.com/article/rs-539684/latest.pdf'
 fulltext_status: fulltext
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Impact of geophysical and anthropogenic factors on wildfire size: a spatiotemporal data-driven risk assessment approach using statistical learning
@@ -928,5 +928,3 @@ Variation of the annual burned area in some of the counties.
 
 
 Variable Importance Plot of the � nal model. 
-
-

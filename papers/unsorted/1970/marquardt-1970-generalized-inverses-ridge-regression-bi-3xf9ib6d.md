@@ -5,13 +5,18 @@ authors:
 year: '1970'
 journal: Technometrics
 doi: 10.2307/1267205
-tags: []
+tags:
+- estimation theory
+- fulltext:pdf-missing
+- regression analysis
+- ridge regression
+- statistics
 zotero_key: 3XF9IB6D
 item_type: journalArticle
 url: https://www.jstor.org/stable/1267205
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Generalized Inverses, Ridge Regression, Biased Linear Estimation, and Nonlinear Estimation

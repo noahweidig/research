@@ -6,13 +6,16 @@ journal: null
 doi: null
 tags:
 - distributions
+- fulltext:check-needed
+- r package
+- statistics
 - survival
 zotero_key: 37UL57N3
 item_type: computerProgram
 url: https://cran.r-project.org/web/packages/fitdistrplus/index.html
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # fitdistrplus: Help to Fit of a Parametric Distribution to Non-Censored or Censored Data

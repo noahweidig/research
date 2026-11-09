@@ -4,13 +4,18 @@ authors: []
 year: '2026'
 journal: null
 doi: null
-tags: []
+tags:
+- fulltext:check-needed
+- multivariate analysis
+- r package
+- software
+- spatial analysis
 zotero_key: 3YH4NUHC
 item_type: computerProgram
 url: https://cran.r-project.org/web/packages/adespatial/index.html
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # adespatial: Multivariate Multiscale Spatial Analysis

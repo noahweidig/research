@@ -8,13 +8,16 @@ year: '2026'
 journal: Weather and Climate Dynamics
 doi: 10.5194/wcd-7-1349-2026
 tags:
+- beta regression
+- climate
+- fire season
 - united states
 zotero_key: 2EGW859U
 item_type: journalArticle
 url: https://openalex.org/W7171505124
 source_url: 'unpaywall: https://wcd.copernicus.org/articles/7/1349/2026/wcd-7-1349-2026.pdf'
 fulltext_status: fulltext
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Seasonal prediction of springtime tornado activity in the United States using a hybrid model
@@ -490,5 +493,3 @@ Centers for Environmental Information (NCEI) Data Archive [data set], https://do
 **https://doi.org/10.5194/wcd-7-1349-2026** 
 
 **Weather Clim. Dynam., 7, 1349–1361, 2026** 
-
-

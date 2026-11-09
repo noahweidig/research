@@ -10,13 +10,18 @@ authors:
 year: '2020'
 journal: Forest Ecology and Management
 doi: 10.1016/j.foreco.2020.118133
-tags: []
+tags:
+- climate change
+- fulltext:pdf-missing
+- mortality
+- public health
+- western united states
 zotero_key: 254RD9SB
 item_type: journalArticle
 url: https://www.sciencedirect.com/science/article/pii/S0378112720304382
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Subalpine fir mortality in Colorado is associated with stand density, warming climates and interactions among fungal diseases and the western balsam bark beetle

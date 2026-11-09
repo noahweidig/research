@@ -7,13 +7,18 @@ authors:
 year: '2014'
 journal: International Journal of Wildland Fire
 doi: 10.1071/wf13158
-tags: []
+tags:
+- defensible space
+- fulltext:pdf-missing
+- housing
+- vegetation
+- wildfire
 zotero_key: 2UTX2GZX
 item_type: journalArticle
 url: https://doi.org/10.1071/wf13158
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # The role of defensible space for residential structure protection during wildfires

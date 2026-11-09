@@ -16,12 +16,13 @@ tags:
 - drivers
 - ignition
 - united states
+- wildfire
 zotero_key: 3CUCKRWI
 item_type: journalArticle
 url: https://openalex.org/W7204592177
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Event‐Level Attribution of Wildfire Ignition Cause: A Machine‐Learning Approach

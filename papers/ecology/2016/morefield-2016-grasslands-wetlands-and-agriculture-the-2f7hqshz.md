@@ -8,13 +8,17 @@ authors:
 year: '2016'
 journal: Environmental Research Letters
 doi: 10.1088/1748-9326/11/9/094005
-tags: []
+tags:
+- agriculture
+- conservation
+- freshwater ecosystems
+- united states
 zotero_key: 2F7HQSHZ
 item_type: journalArticle
 url: https://doi.org/10.1088/1748-9326/11/9/094005
 source_url: 'unpaywall: https://iopscience.iop.org/article/10.1088/1748-9326/11/9/094005/pdf'
 fulltext_status: fulltext
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Grasslands, wetlands, and agriculture: the fate of land expiring from the Conservation Reserve Program in the Midwestern United States
@@ -301,5 +305,3 @@ USDA-NRCS (US Department of Agriculture, Natural Resources Conservation Service)
 - Wright K and Wimberly C 2013 Recent land use change in the Western Corn Belt threatens grasslands and wetlands Proc. Natl Acad. Sci. USA 110 4134–9 
 
 9 
-
-

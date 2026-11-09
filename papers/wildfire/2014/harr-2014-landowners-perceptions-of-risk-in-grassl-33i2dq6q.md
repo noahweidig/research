@@ -10,13 +10,17 @@ authors:
 year: '2014'
 journal: Ecology and Society
 doi: 10.5751/ES-06404-190241
-tags: []
+tags:
+- fire
+- grassland
+- prescribed burning
+- private land
 zotero_key: 33I2DQ6Q
 item_type: journalArticle
 url: http://www.ecologyandsociety.org/vol19/iss2/art41/
 source_url: 'unpaywall: https://www.ecologyandsociety.org/vol19/iss2/art41/ES-2013-6404.pdf'
 fulltext_status: fulltext
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Landowners' perceptions of risk in grassland management: woody plant encroachment and prescribed fire
@@ -464,5 +468,3 @@ f. What’s your vision for what the grasslands will look like 10 years from now
 ## **Concluding statement** 
 
 We have been conducting research in this area for a number of years. We have a new grant this year to extend our data collection on private lands. Would you be interested in participating in this project?  [provide details of their options to participate] 
-
-

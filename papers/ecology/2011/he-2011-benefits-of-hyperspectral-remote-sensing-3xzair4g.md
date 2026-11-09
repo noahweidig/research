@@ -20,7 +20,7 @@ item_type: journalArticle
 url: https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1472-4642.2011.00761.x
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Benefits of hyperspectral remote sensing for tracking plant invasions

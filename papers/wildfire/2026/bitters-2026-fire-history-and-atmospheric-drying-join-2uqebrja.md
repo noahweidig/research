@@ -11,6 +11,8 @@ year: '2026'
 journal: Fire Ecology
 doi: 10.1186/s42408-026-00604-2
 tags:
+- fire
+- fire severity
 - prescribed burning
 - united states
 zotero_key: 2UQEBRJA
@@ -18,7 +20,7 @@ item_type: journalArticle
 url: https://openalex.org/W7224180235
 source_url: 'unpaywall: https://link.springer.com/content/pdf/10.1186/s42408-026-00604-2.pdf'
 fulltext_status: fulltext
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Fire history and atmospheric drying jointly control forest reburn severity
@@ -464,5 +466,3 @@ Springer Nature remains neutral with regard to jurisdictional claims in publishe
 - Stevens-Rumann, C. S., S. J. Prichard, E. K. Strand, and P. Morgan. 2016. Prior wildfires influence burn severity of subsequent large fires. _Canadian Journal of Forest Research_ 46 (11): 1375–1385. https:// doi. org/ 10. 1139/ cjfr- 2016- 0185. 
 
 - Tepley, A. J., J. R. Thompson, H. E. Epstein, and K. J. Anderson-Teixeira. 2017. Vulnerability to forest loss through altered postfire recovery dynamics in a warming climate in the Klamath Mountains. _Global Change Biology_ 23 (10): 4117–4132. https:// doi. org/ 10. 1111/ gcb. 13704. 
-
-

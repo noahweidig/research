@@ -8,13 +8,17 @@ authors:
 year: '2023'
 journal: Diversity and Distributions
 doi: 10.1111/ddi.13707
-tags: []
+tags:
+- climate
+- statistics
+- topography
+- trees
 zotero_key: 39GELW2M
 item_type: journalArticle
 url: https://onlinelibrary.wiley.com/doi/10.1111/ddi.13707
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Unpacking the ‘black box’: Improving ecological interpretation of regression‐based models

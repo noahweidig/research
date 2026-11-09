@@ -10,13 +10,17 @@ authors:
 year: '2023'
 journal: Restoration Ecology
 doi: 10.1111/rec.13971
-tags: []
+tags:
+- freshwater ecosystems
+- intermittent wetland
+- mortality
+- restoration
 zotero_key: 3D9VRR27
 item_type: journalArticle
 url: https://onlinelibrary.wiley.com/doi/abs/10.1111/rec.13971
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Herbicide control of swamp titi (Cyrilla racemiflora) in restoration of ephemeral wetlands

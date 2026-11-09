@@ -9,6 +9,7 @@ year: '2022'
 journal: Natural Hazards
 doi: 10.1007/s11069-022-05397-6
 tags:
+- fulltext:pdf-missing
 - gis
 - human-related causes
 - machine learning
@@ -18,7 +19,7 @@ item_type: journalArticle
 url: https://doi.org/10.1007/s11069-022-05397-6
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Anthropogenic activities amplify wildfire occurrence in the Zagros eco-region of western Iran

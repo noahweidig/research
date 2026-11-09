@@ -14,12 +14,14 @@ doi: 10.3390/fire6100372
 tags:
 - fire management
 - prescribed burning
+- southeastern united states
+- united states
 zotero_key: 2EUDGG4L
 item_type: journalArticle
 url: https://www.mdpi.com/2571-6255/6/10/372
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # The Southeastern U.S. Prescribed Fire Permit Database: Hot Spots and Hot Moments in Prescribed Fire across the Southeastern U.S.A.

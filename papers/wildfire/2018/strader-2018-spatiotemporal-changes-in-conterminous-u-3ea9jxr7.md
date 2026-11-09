@@ -8,6 +8,7 @@ doi: 10.1007/s11069-018-3217-z
 tags:
 - disaster
 - exposure
+- fulltext:pdf-missing
 - land use
 - risk
 - wildfire
@@ -16,7 +17,7 @@ item_type: journalArticle
 url: https://doi.org/10.1007/s11069-018-3217-z
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Spatiotemporal changes in conterminous US wildfire exposure from 1940 to 2010

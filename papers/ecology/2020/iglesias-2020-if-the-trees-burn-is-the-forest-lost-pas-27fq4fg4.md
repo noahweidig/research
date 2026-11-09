@@ -17,7 +17,7 @@ item_type: journalArticle
 url: https://royalsocietypublishing.org/doi/full/10.1098/rstb.2019.0115
 source_url: 'unpaywall: https://www.ncbi.nlm.nih.gov/pmc/articles/7017772'
 fulltext_status: fulltext
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # If the trees burn, is the forest lost? Past dynamics in temperate forests help inform management strategies

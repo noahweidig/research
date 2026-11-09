@@ -10,13 +10,18 @@ authors:
 year: '2021'
 journal: 'Journal of Geophysical Research: Biogeosciences'
 doi: 10.1029/2020JG005786
-tags: []
+tags:
+- climate
+- fulltext:pdf-missing
+- spatial analysis
+- western united states
+- wildfire
 zotero_key: 2FAHQJAX
 item_type: journalArticle
 url: https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2020JG005786
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Climate, Fuel, and Land Use Shaped the Spatial Pattern of Wildfire in California’s Sierra Nevada

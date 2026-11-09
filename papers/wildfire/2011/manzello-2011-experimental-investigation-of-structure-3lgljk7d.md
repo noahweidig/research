@@ -10,7 +10,9 @@ year: '2011'
 journal: Fire Safety Journal
 doi: 10.1016/j.firesaf.2011.09.003
 tags:
+- finance
 - firebrands
+- fulltext:pdf-missing
 - ignition
 - wildland-urban interface
 zotero_key: 3LGLJK7D
@@ -18,7 +20,7 @@ item_type: journalArticle
 url: https://www.sciencedirect.com/science/article/pii/S0379711211001275
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Experimental investigation of structure vulnerabilities to firebrand showers

@@ -9,6 +9,7 @@ journal: Environmental Management
 doi: 10.1007/s00267-018-1030-9
 tags:
 - disaster
+- fulltext:pdf-missing
 - natural hazards
 - resilience
 - wildland-urban interface
@@ -17,7 +18,7 @@ item_type: journalArticle
 url: https://doi.org/10.1007/s00267-018-1030-9
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Does Wildfire Open a Policy Window? Local Government and Community Adaptation After Fire in the United States

@@ -11,13 +11,18 @@ authors:
 year: '2016'
 journal: International Journal of Wildland Fire
 doi: 10.1071/WF15109
-tags: []
+tags:
+- fulltext:pdf-missing
+- natural hazards
+- social vulnerability
+- united states
+- wildfire
 zotero_key: 35GHZYY2
 item_type: journalArticle
 url: https://www.publish.csiro.au/wf/WF15109
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Places where wildfire potential and social vulnerability coincide in the coterminous United States

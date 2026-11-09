@@ -32,7 +32,7 @@ item_type: journalArticle
 url: https://onlinelibrary.wiley.com/doi/abs/10.1029/2020RG000726
 source_url: 'unpaywall: https://research.vu.nl/en/publications/15e71d92-cdea-4869-82d1-fed8dd875f24'
 fulltext_status: fulltext
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Global and Regional Trends and Drivers of Fire Under Climate Change

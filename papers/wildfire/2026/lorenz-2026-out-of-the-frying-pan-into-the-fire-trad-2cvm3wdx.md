@@ -14,13 +14,14 @@ doi: 10.1088/1748-9326/aeacff
 tags:
 - ignition
 - united states
+- western united states
 - wildfire
 zotero_key: 2CVM3WDX
 item_type: journalArticle
 url: https://openalex.org/W7214575323
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Out of the frying pan, into the fire? Tradeoffs between drought adaptation and wildfire risk under cropland loss and urbanization in the western United States

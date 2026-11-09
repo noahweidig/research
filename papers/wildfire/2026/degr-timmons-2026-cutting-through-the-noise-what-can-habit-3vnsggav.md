@@ -15,13 +15,16 @@ year: '2026'
 journal: Journal of Wildlife Management
 doi: 10.1002/jwmg.70287
 tags:
+- habitats
+- modeling
+- united states
 - wildfire
 zotero_key: 3VNSGGAV
 item_type: journalArticle
 url: https://openalex.org/W7220444991
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Cutting through the noise: What can habitat selection modeling teach us about caribou‐fire space use dynamics?

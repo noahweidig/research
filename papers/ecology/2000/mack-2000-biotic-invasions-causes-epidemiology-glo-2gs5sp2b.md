@@ -11,6 +11,9 @@ year: '2000'
 journal: Ecological Applications
 doi: 10.1890/1051-0761(2000)010[0689:BICEGC]2.0.CO;2
 tags:
+- agriculture
+- ecosystems
+- fulltext:pdf-missing
 - global change
 - invasive species
 zotero_key: 2GS5SP2B
@@ -18,7 +21,7 @@ item_type: journalArticle
 url: https://onlinelibrary.wiley.com/doi/abs/10.1890/1051-0761%282000%29010%5B0689%3ABICEGC%5D2.0.CO%3B2
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Biotic Invasions: Causes, Epidemiology, Global Consequences, and Control
