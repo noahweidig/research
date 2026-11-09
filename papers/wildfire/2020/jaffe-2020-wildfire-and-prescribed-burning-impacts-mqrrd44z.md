@@ -11,13 +11,18 @@ authors:
 year: '2020'
 journal: Journal of the Air & Waste Management Association
 doi: 10.1080/10962247.2020.1749731
-tags: []
+tags:
+- air quality
+- fulltext:pdf-found
+- prescribed burning
+- united states
+- wildfire
 zotero_key: MQRRD44Z
 item_type: journalArticle
 url: https://doi.org/10.1080/10962247.2020.1749731
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Wildfire and prescribed burning impacts on air quality in the United States

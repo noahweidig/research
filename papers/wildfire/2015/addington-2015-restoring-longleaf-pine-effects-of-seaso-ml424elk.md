@@ -10,13 +10,21 @@ authors:
 year: '2015'
 journal: Forest Science
 doi: 10.5849/forsci.13-618
-tags: []
+tags:
+- fire season
+- forest restoration
+- fulltext:check-needed
+- longleaf pine
+- pine plantation
+- pinus palustris
+- prescribed burning
+- vegetation structure
 zotero_key: ML424ELK
 item_type: journalArticle
 url: https://doi.org/10.5849/forsci.13-618
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Restoring Longleaf Pine: Effects of Seasonal Prescribed Fire and Overstory Density on Vegetation Structure of a Young Longleaf Pine Plantation

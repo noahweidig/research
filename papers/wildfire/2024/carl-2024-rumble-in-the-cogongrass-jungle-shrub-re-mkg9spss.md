@@ -9,13 +9,17 @@ authors:
 year: '2024'
 journal: Gulf of Mexico Conference
 doi: null
-tags: []
+tags:
+- cogongrass
+- fire
+- invasive grass
+- resilience
 zotero_key: MKG9SPSS
 item_type: conferencePaper
 url: https://gulfofamericaalliance.org/wp-content/uploads/2024/02/GOMCON-Poster-Session-Floor-Plan-02.13.24.pdf
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Rumble in the Cogongrass Jungle: Shrub Resiliency from Round 1

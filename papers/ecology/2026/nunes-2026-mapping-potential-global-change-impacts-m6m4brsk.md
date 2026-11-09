@@ -8,13 +8,21 @@ year: '2026'
 journal: The Science of The Total Environment
 doi: 10.1016/j.scitotenv.2026.182318
 tags:
+- biodiversity
+- contiguous united states
 - drivers
+- freshwater ecosystems
+- global change
+- protected areas
+- spatial analysis
+- terrestrial ecosystems
+- threat mapping
 zotero_key: M6M4BRSK
 item_type: journalArticle
 url: https://openalex.org/W7214622828
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Mapping potential global change impacts on biodiversity important areas of the contiguous US

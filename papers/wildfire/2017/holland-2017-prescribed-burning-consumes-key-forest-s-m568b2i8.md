@@ -13,6 +13,7 @@ tags:
 - burned area
 - fire
 - fuel load
+- fulltext:pdf-missing
 - heterogeneity
 - landscape ecology
 - patch mosaic burning
@@ -22,7 +23,7 @@ item_type: journalArticle
 url: https://onlinelibrary.wiley.com/doi/abs/10.1002/eap.1488
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Prescribed burning consumes key forest structural components: implications for landscape heterogeneity

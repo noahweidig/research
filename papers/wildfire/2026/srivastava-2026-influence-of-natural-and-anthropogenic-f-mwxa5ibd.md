@@ -9,6 +9,7 @@ year: '2026'
 journal: Environmental Research Letters
 doi: 10.1088/1748-9326/aeb710
 tags:
+- human-related causes
 - large wildfires
 - united states
 - wildfire
@@ -17,7 +18,7 @@ item_type: journalArticle
 url: https://openalex.org/W7223134612
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Influence of natural and anthropogenic forcings on western US winter fire weather and the 2025 Los Angeles wildfires

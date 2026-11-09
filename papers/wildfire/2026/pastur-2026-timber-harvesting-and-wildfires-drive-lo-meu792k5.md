@@ -11,6 +11,8 @@ year: '2026'
 journal: Ecological Processes
 doi: 10.1186/s13717-026-00744-y
 tags:
+- disturbance
+- forest structure
 - wildfire
 - wildfire occurrence
 zotero_key: MEU792K5
@@ -18,7 +20,7 @@ item_type: journalArticle
 url: https://openalex.org/W7138835726
 source_url: 'unpaywall: https://link.springer.com/content/pdf/10.1186/s13717-026-00744-y.pdf'
 fulltext_status: fulltext
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Timber harvesting and wildfires drive long-term modification in forest structure of Nothofagus pumilio: resilience characterization based on disturbance legacies
@@ -648,5 +650,3 @@ Springer Nature remains neutral with regard to jurisdictional claims in publishe
 - Zhang Y, Liu X, Jiao W, Wu X, Zeng X, Zhao L, Wang L, Guo J, Xing X, Hong Y (2023) Spatial heterogeneity of vegetation resilience changes to different drought types. Earths Future 11(4):e2022EF003108. https:// doi. org/ 10. 1029/ 2022E F0031 08 
 
 - Zhu Y, Sanders JE, Jiang Y, Battles J (2026) Legacy effects under an emerging novel disturbance regime: a memory-based framework to quantify tree growth responses. J Ecol 114(2):e70253. https:// doi. org/ 10. 1111/ 13652745. 70253 
-
-

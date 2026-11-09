@@ -8,13 +8,17 @@ authors:
 year: '2006'
 journal: 'Journal of Geophysical Research: Atmospheres'
 doi: 10.1029/2005JD006820
-tags: []
+tags:
+- forest management
+- southeastern united states
+- timber harvest
+- united states
 zotero_key: NEFJXDI2
 item_type: journalArticle
 url: https://onlinelibrary.wiley.com/doi/abs/10.1029/2005JD006820
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Regional carbon dynamics in the southeastern U.S. coastal plain: Balancing land cover type, timber harvesting, fire, and environmental variation

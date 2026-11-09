@@ -10,14 +10,16 @@ year: '2026'
 journal: Geography and sustainability
 doi: 10.1016/j.geosus.2026.100530
 tags:
+- climate
 - drivers
+- spatiotemporal
 - wildfire
 zotero_key: NCIB9PRU
 item_type: journalArticle
 url: https://openalex.org/W7197041196
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Spatially clustered global wildfire trends and their climate, fuel and human drivers (2001–2025): A spatio-temporal trend-cluster attribution approach

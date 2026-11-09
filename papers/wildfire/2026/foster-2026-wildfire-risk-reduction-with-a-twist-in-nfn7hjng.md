@@ -8,6 +8,9 @@ year: '2026'
 journal: Zenodo (CERN European Organization for Nuclear Research)
 doi: 10.5281/zenodo.21878626
 tags:
+- fire risk
+- fulltext:pdf-missing
+- lakes
 - prescribed burning
 - wildfire
 zotero_key: NFN7HJNG
@@ -15,7 +18,7 @@ item_type: journalArticle
 url: https://openalex.org/W7202114533
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Wildfire Risk Reduction With a Twist in the Burns Lake Community Forest

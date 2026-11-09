@@ -6,13 +6,18 @@ authors:
 year: '2023'
 journal: Restoration Ecology
 doi: 10.1111/rec.13689
-tags: []
+tags:
+- eastern united states
+- fulltext:pdf-missing
+- restoration
+- temperate forest
+- thinning
 zotero_key: N2LDAV22
 item_type: journalArticle
 url: https://onlinelibrary.wiley.com/doi/abs/10.1111/rec.13689
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Legacy of thinning on woody species composition and structure in southern Appalachian Mountain hardwood forests: restoration implications

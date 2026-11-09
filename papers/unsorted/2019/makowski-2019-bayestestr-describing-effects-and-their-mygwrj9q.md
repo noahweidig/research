@@ -7,13 +7,17 @@ authors:
 year: '2019'
 journal: Journal of Open Source Software
 doi: 10.21105/joss.01541
-tags: []
+tags:
+- bayesian statistics
+- r package
+- software
+- statistics
 zotero_key: MYGWRJ9Q
 item_type: journalArticle
 url: https://joss.theoj.org/papers/10.21105/joss.01541
 source_url: 'unpaywall: https://joss.theoj.org/papers/10.21105/joss.01541.pdf'
 fulltext_status: fulltext
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # bayestestR: Describing Effects and their Uncertainty, Existence and Significance within the Bayesian Framework
@@ -349,5 +353,3 @@ Wagenmakers, E.-J., Marsman, M., Jamil, T., Ly, A., Verhagen, J., Love, J., Selk
 8 
 
 Makowski et al., (2019). bayestestR: Describing Effects and their Uncertainty, Existence and Significance within the Bayesian Framework. _Journal of Open Source Software_ , 4(40), 1541. https://doi.org/10.21105/joss.01541 
-
-

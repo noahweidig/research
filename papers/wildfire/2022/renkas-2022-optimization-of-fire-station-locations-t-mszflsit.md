@@ -7,13 +7,17 @@ authors:
 year: '2022'
 journal: Environmental Research, Engineering and Management
 doi: 10.5755/j01.erem.78.1.25581
-tags: []
+tags:
+- decision support
+- ecosystems
+- fire
+- fire suppression
 zotero_key: MSZFLSIT
 item_type: journalArticle
 url: https://erem.ktu.lt/index.php/erem/article/view/25581
 source_url: 'unpaywall: https://erem.ktu.lt/index.php/erem/article/download/25581/15314'
 fulltext_status: fulltext
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Optimization of Fire Station Locations to Increase the Efficiency of Firefighting in Natural Ecosystems
@@ -253,5 +257,3 @@ Yang L., Jones B. F. and Yang S. H. (2007) A fuzzy multi-objective programming f
 Zhou J. (2014) Research on Layout Optimization Method of Urban Fire Station based on Fire Risk Assessment. In Advanced Materials Research 838: 2162-2169. https://doi.org/10.4028/ www.scientific.net/AMR.838-841.2162 
 
 This article is an Open Access article distributed under the terms and conditions of the Creative Commons Attribution 4.0 (CC BY 4.0) License (http://creativecommons.org/licenses/by/4.0/ ). 
-
-

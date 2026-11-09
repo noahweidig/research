@@ -6,13 +6,18 @@ authors:
 year: '2011'
 journal: null
 doi: 10.1016/B978-0-444-51862-0.50018-6
-tags: []
+tags:
+- akaike information criterion
+- bayesian information criterion
+- fulltext:pdf-missing
+- model averaging
+- statistics
 zotero_key: MSDET43M
 item_type: bookSection
 url: https://www.sciencedirect.com/science/article/pii/B9780444518620500186
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # AIC, BIC and Recent Advances in Model Selection

@@ -7,6 +7,7 @@ doi: null
 tags:
 - econometrics
 - environmetrics
+- fulltext:check-needed
 - modeling
 - spatial analysis
 zotero_key: MPQKEKFY
@@ -14,7 +15,7 @@ item_type: computerProgram
 url: https://cran.r-project.org/web/packages/mgcv/index.html
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # mgcv: Mixed GAM Computation Vehicle with Automatic Smoothness Estimation

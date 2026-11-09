@@ -6,13 +6,18 @@ authors:
 year: '2017'
 journal: Global and Planetary Change
 doi: 10.1016/j.gloplacha.2016.12.017
-tags: []
+tags:
+- climate modeling
+- earth system models
+- fire
+- fulltext:pdf-missing
+- wildfire occurrence
 zotero_key: MIUKEZL4
 item_type: journalArticle
 url: https://www.sciencedirect.com/science/article/pii/S0921818116303770
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Historical and future fire occurrence (1850 to 2100) simulated in CMIP5 Earth System Models

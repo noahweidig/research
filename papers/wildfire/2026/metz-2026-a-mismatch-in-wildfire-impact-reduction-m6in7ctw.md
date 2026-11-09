@@ -9,6 +9,7 @@ journal: bioRxiv (Cold Spring Harbor Laboratory)
 doi: 10.64898/2026.10.30.763129
 tags:
 - fire
+- fuel treatments
 - united states
 - wildfire
 zotero_key: M6IN7CTW
@@ -16,7 +17,7 @@ item_type: journalArticle
 url: https://openalex.org/W7225013714
 source_url: 'unpaywall: https://www.biorxiv.org/content/biorxiv/early/2026/10/31/2026.10.30.763129.full.pdf'
 fulltext_status: fulltext
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # A mismatch in wildfire impact reduction and ecological restoration in western U.S. fuel treatments
@@ -615,5 +616,3 @@ bioRxiv preprint doi: https://doi.org/10.64898/2026.10.30.763129; this version p
 bioRxiv preprint doi: https://doi.org/10.64898/2026.10.30.763129; this version posted October 31, 2026. The copyright holder for this preprint (which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made available under a CC-BY 4.0 International license. 
 
 Database, FIADB user guides, volume: database description (version 9.4), nationwide forest inventory (NFI), (2024). 
-
-

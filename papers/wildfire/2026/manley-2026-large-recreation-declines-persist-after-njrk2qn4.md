@@ -20,6 +20,7 @@ journal: null
 doi: 10.22541/essoar.15002752/v2
 tags:
 - drivers
+- fulltext:pdf-found
 - large wildfires
 - prescribed burning
 - wildfire
@@ -28,7 +29,7 @@ item_type: journalArticle
 url: https://openalex.org/W7221662149
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Large Recreation Declines Persist after Severe Wildfire but Not after Low-Severity or Prescribed Fire

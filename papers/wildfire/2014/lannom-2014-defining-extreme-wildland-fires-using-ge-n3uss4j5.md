@@ -15,13 +15,18 @@ authors:
 year: '2014'
 journal: International Journal of Wildland Fire
 doi: 10.1071/WF13065
-tags: []
+tags:
+- climate
+- extremes
+- fire
+- fire severity
+- fulltext:pdf-missing
 zotero_key: N3USS4J5
 item_type: journalArticle
 url: https://www.publish.csiro.au/wf/WF13065
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Defining extreme wildland fires using geospatial and ancillary metrics

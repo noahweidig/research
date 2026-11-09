@@ -5,13 +5,18 @@ authors:
 year: '2021'
 journal: null
 doi: null
-tags: []
+tags:
+- fire
+- fulltext:check-needed
+- government report
+- united states
+- wildland-urban interface
 zotero_key: MYVX62WQ
 item_type: webpage
 url: https://www.usfa.fema.gov/wui/what-is-the-wui.html
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # What is the WUI?

@@ -10,13 +10,18 @@ authors:
 year: '2021'
 journal: Proceedings of the National Academy of Sciences
 doi: 10.1073/pnas.2011048118
-tags: []
+tags:
+- air pollution
+- environmental health
+- fulltext:pdf-found
+- united states
+- wildfire
 zotero_key: MKH4YY5J
 item_type: journalArticle
 url: https://www.pnas.org/doi/full/10.1073/pnas.2011048118
 source_url: 'unpaywall: https://www.ncbi.nlm.nih.gov/pmc/articles/7812759'
 fulltext_status: fulltext
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # The changing risk and burden of wildfire in the United States

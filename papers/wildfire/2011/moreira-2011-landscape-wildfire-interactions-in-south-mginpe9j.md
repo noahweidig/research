@@ -20,15 +20,16 @@ tags:
 - climate change
 - fire hazard
 - fire regime
+- fulltext:check-needed
 - land use change
-- landscape change
+- landscape dynamics
 - management
 zotero_key: MGINPE9J
 item_type: journalArticle
 url: https://www.sciencedirect.com/science/article/pii/S0301479711002258
 source_url: 'unpaywall: https://hal.science/hal-00653523v1/document'
 fulltext_status: fulltext
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Landscape – wildfire interactions in southern Europe: Implications for landscape management
@@ -842,5 +843,3 @@ Moreira F., Viedma O., Arianoutsou M., Curt T., Koutsias N., Rigolot E., Barbati
 
 
 43 
-
-

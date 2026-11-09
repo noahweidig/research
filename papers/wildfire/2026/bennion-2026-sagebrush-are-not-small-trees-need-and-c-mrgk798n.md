@@ -13,6 +13,8 @@ year: '2026'
 journal: Rangeland Ecology & Management
 doi: 10.1016/j.rama.2026.09.009
 tags:
+- fire severity
+- rangeland
 - united states
 - wildfire
 zotero_key: MRGK798N
@@ -20,7 +22,7 @@ item_type: journalArticle
 url: https://openalex.org/W7223390064
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Sagebrush Are Not Small Trees: Need and Considerations for Improved, Uniform Burn Severity Assessment in Shrub-Steppe Rangelands

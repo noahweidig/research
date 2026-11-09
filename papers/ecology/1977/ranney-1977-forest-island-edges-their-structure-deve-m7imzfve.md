@@ -5,13 +5,18 @@ authors:
 year: '1977'
 journal: null
 doi: 10.2172/7278093
-tags: []
+tags:
+- ecosystems
+- forest ecology
+- fulltext:check-needed
+- habitats
+- net primary productivity
 zotero_key: M7IMZFVE
 item_type: report
 url: https://www.osti.gov/biblio/7278093
 source_url: 'unpaywall: https://www.osti.gov/servlets/purl/7278093'
 fulltext_status: fulltext
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Forest Island edges: their structure, development, and importance to regional forest ecosystem dynamics
@@ -769,5 +774,3 @@ DeWalle, D. R. and S. G. McGuire. 1973. Albedo variations of an oak forest in Pe
 150. B. Dearden, Forestry, Fisheries and Wildlife, University of Tennessee, Knoxville, TN 37916 151. H. DeSelm, Graduate Program in Ecology, University of Tennessee, Knoxville, TN 37916 152. A. C. Echternacht, Graduate Program in Ecology, University of Tennessee, Knoxville, TN 37916 153. R. T. T. Forman, Department of Botany, Rutgers University, New Brunswick, NJ 08903 154. L. W. Gysel, Department of Fisheries and Wildlife, Michigan State University, East Lansing, MI 155. B. Hutchinson, NOAA-ATDL, Oak Ridge, TN 37830 156. W. C. Johnson, Dept, of Biological Sciences, Virginia Poly­ technic Institute and State College, Blacksburg, VA 24061 
 
 157. J. B. Levenson, Biology Department, Saginaw Valley State College, Saginaw, MI 158. T. E. Lovejoy. World Wildlife Fund, 1319 18th St. N.W., Washington, DC 20036 159. J. F. Lynch, Chesapeake Bay Center for Environmental Studies Smithsonian Institution, Edgewater, MD 21037 160. J. F. McCormick, U. S. Dept. Interior, Washington, DC 161. R. P. McIntosh, General Ecology Program, National Science Foundation, Washington, DC 20550 162. R. B. Platt, Emory University, Department of Biology, Atlanta, GA 30333 163. C. S. Robbins, Migratory Bird and Habitat Research Laboratory, USDI, Fish and Wildlife Service, Laurel, MD 20811 164. F. Stearns, Botany Department, University of WisconsinMilwaukee, Milwaukee, WI 53201 165. A. L. Sullivan, School of Design, Department of Landscape Architecture, North Carolina state University, Raleigh, NC 27607 166. J. I. Tanner, Graduate Program in Ecology, University of Tennessee, Knoxville, TN 37916 167. F. H. Wagner, College of Natural Resources, Utah State University, Logan, UT 84322 168. B. A. Wales, Department of Biological Sciences, University of California, Santa Barbara, CA 93106 169. R. F. Whitcomb, Agricultural Research Service, Plant Protection Institute, Beltsville, MD 20705 170-196. Technical Information Center, Oak Ridge, TN 37830 197-258. Given EDFB/IBP distribution 
-
-

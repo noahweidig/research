@@ -23,7 +23,7 @@ item_type: journalArticle
 url: https://doi.org/10.1007/s41207-023-00385-z
 source_url: 'unpaywall: https://link.springer.com/content/pdf/10.1007/s41207-023-00385-z.pdf'
 fulltext_status: fulltext
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Building wildland–urban interface zone resilience through performance-based wildfire engineering. A holistic theoretical framework
@@ -657,5 +657,3 @@ technical report RMRSGTR-315. USDA Forest Service, Rocky Mountain Research Stati
 - Turco M, Rosa-Cánovas JJ, Bedia J, Jerez S, Montávez JP, Llasat MC, Provenzale A (2018) Exacerbated fires in Mediterranean Europe 
 
 1 3 
-
-

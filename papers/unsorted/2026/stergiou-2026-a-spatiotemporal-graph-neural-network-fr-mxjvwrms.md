@@ -11,13 +11,15 @@ journal: Atmospheric Pollution Research
 doi: 10.1016/j.apr.2026.103191
 tags:
 - drivers
+- machine learning
+- modeling
 - united states
 zotero_key: MXJVWRMS
 item_type: journalArticle
 url: https://openalex.org/W7204909574
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # A Spatiotemporal Graph Neural Network Framework for Retrospective Bias Correction of CMAQ Air Quality Simulations over the Continental United States

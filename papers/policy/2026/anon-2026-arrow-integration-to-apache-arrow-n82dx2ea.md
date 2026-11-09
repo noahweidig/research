@@ -4,13 +4,18 @@ authors: []
 year: '2026'
 journal: null
 doi: null
-tags: []
+tags:
+- data management
+- fulltext:check-needed
+- r package
+- software
+- statistical software
 zotero_key: N82DX2EA
 item_type: computerProgram
 url: https://cran.r-project.org/web/packages/arrow/index.html
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # arrow: Integration to 'Apache' 'Arrow'

@@ -12,6 +12,7 @@ journal: Nature Communications
 doi: 10.1038/s41467-024-46702-0
 tags:
 - fire ecology
+- fire suppression
 - forestry
 - natural hazards
 zotero_key: MVDJS5DE
@@ -19,7 +20,7 @@ item_type: journalArticle
 url: https://www.nature.com/articles/s41467-024-46702-0
 source_url: 'unpaywall: https://www.nature.com/articles/s41467-024-46702-0.pdf'
 fulltext_status: fulltext
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Fire suppression makes wildfires more severe and accentuates impacts of climate change and fuel accumulation
@@ -514,5 +515,3 @@ Open Access This article is licensed under a Creative Commons Attribution 4.0 In
 Nature Communications |  (2024) 15:2412 
 
 11 
-
-
