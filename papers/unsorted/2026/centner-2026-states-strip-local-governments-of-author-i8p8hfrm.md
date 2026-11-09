@@ -6,13 +6,16 @@ year: '2026'
 journal: UKnowledge (University of Kentucky)
 doi: null
 tags:
+- environmental justice
+- rural development
+- statistics
 - united states
 zotero_key: I8P8HFRM
 item_type: journalArticle
 url: https://openalex.org/W7202013692
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # States Strip Local Governments of Authority to Govern Causing Some Rural Communities to Suffer

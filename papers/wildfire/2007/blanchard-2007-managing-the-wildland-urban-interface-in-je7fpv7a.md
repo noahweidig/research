@@ -6,13 +6,18 @@ authors:
 year: '2007'
 journal: Northern Journal of Applied Forestry
 doi: 10.1093/njaf/24.3.203
-tags: []
+tags:
+- fire
+- fire risk
+- fulltext:check-needed
+- natural hazards
+- wildland-urban interface
 zotero_key: JE7FPV7A
 item_type: journalArticle
 url: https://academic.oup.com/njaf/article/24/3/203/4780124
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Managing the Wildland–Urban Interface in the Northeast: Perceptions of Fire Risk and Hazard Reduction Strategies

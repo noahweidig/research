@@ -7,13 +7,18 @@ authors:
 year: '2020'
 journal: Forest Ecology and Management
 doi: 10.1016/j.foreco.2020.118256
-tags: []
+tags:
+- ecological succession
+- ecosystems
+- fulltext:pdf-found
+- trees
+- understory vegetation
 zotero_key: JSMME4J5
 item_type: journalArticle
 url: https://www.sciencedirect.com/science/article/pii/S0378112720310252
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Open forest ecosystems: An excluded state

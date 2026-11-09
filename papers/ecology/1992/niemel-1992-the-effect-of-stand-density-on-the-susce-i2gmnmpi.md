@@ -7,13 +7,18 @@ authors:
 year: '1992'
 journal: Scandinavian Journal of Forest Research
 doi: 10.1080/02827589209382705
-tags: []
+tags:
+- forest management
+- forest pathology
+- fulltext:check-needed
+- pinus sylvestris
+- stand density
 zotero_key: I2GMNMPI
 item_type: journalArticle
 url: https://www.tandfonline.com/doi/abs/10.1080/02827589209382705
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # The effect of stand density on the susceptibility of Pinus sylvestris to Gremmeniella abietina

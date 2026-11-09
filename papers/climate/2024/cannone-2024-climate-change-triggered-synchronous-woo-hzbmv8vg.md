@@ -6,13 +6,17 @@ authors:
 year: '2024'
 journal: Science of The Total Environment
 doi: 10.1016/j.scitotenv.2024.170953
-tags: []
+tags:
+- carbon cycle
+- climate change
+- plant functional groups
+- resilience
 zotero_key: HZBMV8VG
 item_type: journalArticle
 url: https://www.sciencedirect.com/science/article/pii/S0048969724010921
 source_url: 'unpaywall: https://irinsubria.uninsubria.it/bitstream/11383/2170991/2/1-s2.0-S0048969724010921-main.pdf'
 fulltext_status: fulltext
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Climate change triggered synchronous woody plants recruitment in the last two centuries in the treeline ecotone of the Northern Hemisphere
@@ -455,5 +459,3 @@ Verdù, M., 2002. Age at maturity and diversification in woody angiosperms. Evol
 Sturm, M., et al., 2001. Climate change: increasing shrub abundance in the Arctic. Nature 411, 546–547. 
 
 9 
-
-

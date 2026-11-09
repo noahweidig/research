@@ -11,14 +11,14 @@ tags:
 - china
 - fire regime
 - random forest
-- spatiotemporal patterns
+- spatiotemporal
 - wildland-urban interface
 zotero_key: HPVSYA42
 item_type: journalArticle
 url: https://www.sciencedirect.com/science/article/pii/S1470160X24006368
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Characterizing the occurrence of wildland-urban interface fires and their important factors in China

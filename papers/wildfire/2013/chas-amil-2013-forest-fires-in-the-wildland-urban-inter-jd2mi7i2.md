@@ -8,6 +8,7 @@ year: '2013'
 journal: Applied Geography
 doi: 10.1016/j.apgeog.2013.06.010
 tags:
+- fulltext:pdf-missing
 - galicia
 - spain
 - spatial analysis
@@ -18,7 +19,7 @@ item_type: journalArticle
 url: https://www.sciencedirect.com/science/article/pii/S0143622813001446
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Forest fires in the wildland–urban interface: A spatial analysis of forest fragmentation and human impacts

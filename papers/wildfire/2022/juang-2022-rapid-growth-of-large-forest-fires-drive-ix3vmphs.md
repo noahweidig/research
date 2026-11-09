@@ -21,7 +21,7 @@ item_type: journalArticle
 url: https://onlinelibrary.wiley.com/doi/abs/10.1029/2021GL097131
 source_url: 'unpaywall: https://www.ncbi.nlm.nih.gov/pmc/articles/9286820'
 fulltext_status: fulltext
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Rapid Growth of Large Forest Fires Drives the Exponential Response of Annual Forest-Fire Area to Aridity in the Western United States

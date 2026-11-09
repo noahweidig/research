@@ -13,6 +13,8 @@ year: '2026'
 journal: EarthArXiv
 doi: 10.31223/x5cn4w
 tags:
+- agriculture
+- environmental health
 - prescribed burning
 - wildfire
 zotero_key: JR8BGPRW
@@ -20,7 +22,7 @@ item_type: journalArticle
 url: https://openalex.org/W7172040203
 source_url: 'unpaywall: https://eartharxiv.org/repository/object/14116/download/24836/'
 fulltext_status: fulltext
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Competing Health Impacts of Smoke from Wildfires, Agricultural Burning, and Prescribed Fires in California
@@ -528,5 +530,3 @@ Figures S1 to S7 Tables S1 to S2
 1Defined by reclassified FINN v2.2 agricultural emissions 
 
 2Corresponding to days classified as high-impact by the valley-specific CNN framework 
-
-

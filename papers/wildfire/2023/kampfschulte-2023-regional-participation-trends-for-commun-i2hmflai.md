@@ -6,13 +6,17 @@ authors:
 year: '2023'
 journal: 'Environmental Research: Climate'
 doi: 10.1088/2752-5295/ace4e9
-tags: []
+tags:
+- california
+- fire smart
+- united states
+- wildfire
 zotero_key: I2HMFLAI
 item_type: journalArticle
 url: https://doi.org/10.1088/2752-5295/ace4e9
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Regional participation trends for community wildfire preparedness program Firewise USA

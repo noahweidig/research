@@ -9,13 +9,17 @@ authors:
 year: '2025'
 journal: 'Philosophical Transactions of the Royal Society B: Biological Sciences'
 doi: 10.1098/rstb.2023.0446
-tags: []
+tags:
+- climate
+- environmental impact
+- fire regime
+- wildfire
 zotero_key: J993BHD3
 item_type: journalArticle
 url: https://doi.org/10.1098/rstb.2023.0446
 source_url: 'unpaywall: http://hdl.handle.net/10261/401857'
 fulltext_status: fulltext
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Novel wildfire regimes under climate change and human activity: patterns, driving mechanisms and ecological impacts

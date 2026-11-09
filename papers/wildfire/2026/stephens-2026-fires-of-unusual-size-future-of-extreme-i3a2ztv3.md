@@ -16,13 +16,15 @@ journal: Fire
 doi: 10.3390/fire9050208
 tags:
 - climate change
-- extreme wildfires
+- megafire
+- united states
+- wildfire
 zotero_key: I3A2ZTV3
 item_type: journalArticle
 url: https://www.mdpi.com/2571-6255/9/5/208
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Fires of Unusual Size: Future of Extreme and Emerging Wildfire in a Warming United States (2020–2060)

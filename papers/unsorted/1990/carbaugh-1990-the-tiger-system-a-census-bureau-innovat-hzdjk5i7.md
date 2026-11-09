@@ -6,13 +6,18 @@ authors:
 year: '1990'
 journal: Government Information Quarterly
 doi: 10.1016/0740-624X(90)90026-K
-tags: []
+tags:
+- fulltext:pdf-missing
+- geospatial data
+- gis
+- statistics
+- united states
 zotero_key: HZDJK5I7
 item_type: journalArticle
 url: https://www.sciencedirect.com/science/article/pii/0740624X9090026K
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # The TIGER system: A census bureau innovation serving data analysts

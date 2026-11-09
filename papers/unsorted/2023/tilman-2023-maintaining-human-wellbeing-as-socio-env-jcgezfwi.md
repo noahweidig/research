@@ -11,12 +11,14 @@ doi: null
 tags:
 - resilience
 - social-ecological systems
+- stability
+- state transition
 zotero_key: JCGEZFWI
 item_type: preprint
 url: http://arxiv.org/abs/2309.04578
 source_url: 'arxiv: https://arxiv.org/pdf/2309.04578'
 fulltext_status: fulltext
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Maintaining human wellbeing as socio-environmental systems undergo regime shifts
@@ -545,5 +547,3 @@ Figure SI 5: Fraction of population living in urban and rural areas in Mongolia 
 
 
 32 
-
-

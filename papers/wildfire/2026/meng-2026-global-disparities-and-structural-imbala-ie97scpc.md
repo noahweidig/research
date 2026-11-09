@@ -10,14 +10,16 @@ year: '2026'
 journal: npj Climate Action
 doi: 10.1038/s44168-026-00431-w
 tags:
+- climate
 - large wildfires
+- resilience
 - united states
 zotero_key: IE97SCPC
 item_type: journalArticle
 url: https://openalex.org/W7214455021
 source_url: 'unpaywall: https://www.nature.com/articles/s44168-026-00431-w_reference.pdf'
 fulltext_status: fulltext
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Global disparities and structural imbalances in AI integration for urban climate resilience research
@@ -549,5 +551,3 @@ This Article in Press is shared early to give you faster access to new research.
 npj Climate Action 
 
 Article in Press 
-
-

@@ -9,13 +9,20 @@ authors:
 year: '2006'
 journal: Frontiers in Ecology and the Environment
 doi: 10.1890/1540-9295(2006)4[481:MFFITW]2.0.CO;2
-tags: []
+tags:
+- fire ecology
+- forest management
+- fulltext:check-needed
+- restoration
+- temperate forest
+- western united states
+- wildfire
 zotero_key: JNM2LB78
 item_type: journalArticle
 url: http://doi.wiley.com/10.1890/1540-9295(2006)4[481:MFFITW]2.0.CO;2
 source_url: 'unpaywall: https://stars.library.ucf.edu/facultybib2000/6479'
 fulltext_status: fulltext
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Managing fire-prone forests in the western United States

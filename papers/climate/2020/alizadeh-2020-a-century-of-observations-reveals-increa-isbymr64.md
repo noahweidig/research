@@ -10,13 +10,17 @@ authors:
 year: '2020'
 journal: Science Advances
 doi: 10.1126/sciadv.aaz4571
-tags: []
+tags:
+- climate change
+- extremes
+- statistics
+- united states
 zotero_key: ISBYMR64
 item_type: journalArticle
 url: https://www.science.org/doi/10.1126/sciadv.aaz4571
 source_url: 'unpaywall: https://www.ncbi.nlm.nih.gov/pmc/articles/7531886'
 fulltext_status: fulltext
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # A century of observations reveals increasing likelihood of continental-scale compound dry-hot extremes

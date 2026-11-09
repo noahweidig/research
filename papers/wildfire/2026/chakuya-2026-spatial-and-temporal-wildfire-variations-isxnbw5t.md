@@ -10,6 +10,7 @@ journal: Sustainable Environment
 doi: 10.1080/27658511.2026.2708431
 tags:
 - prescribed burning
+- protected areas
 - wildfire
 - wildfire occurrence
 zotero_key: ISXNBW5T
@@ -17,7 +18,7 @@ item_type: journalArticle
 url: https://openalex.org/W7171628663
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Spatial and temporal wildfire variations within the Mid Zambezi protected areas

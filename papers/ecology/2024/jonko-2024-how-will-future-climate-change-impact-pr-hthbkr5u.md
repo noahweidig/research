@@ -22,6 +22,7 @@ journal: npj Climate and Atmospheric Science
 doi: 10.1038/s41612-024-00649-7
 tags:
 - climate change
+- contiguous united states
 - environmental impact
 - forestry
 zotero_key: HTHBKR5U
@@ -29,7 +30,7 @@ item_type: journalArticle
 url: https://www.nature.com/articles/s41612-024-00649-7
 source_url: 'unpaywall: https://www.nature.com/articles/s41612-024-00649-7.pdf'
 fulltext_status: fulltext
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # How will future climate change impact prescribed fire across the contiguous United States?
@@ -457,5 +458,3 @@ Open Access This article is licensed under a Creative Commons Attribution 4.0 In
 npj Climate and Atmospheric Science | (2024) 7:96 
 
 10 
-
-

@@ -16,13 +16,18 @@ authors:
 year: '2022'
 journal: Frontiers in Ecology and the Environment
 doi: 10.1002/fee.2533
-tags: []
+tags:
+- california
+- fulltext:check-needed
+- natural hazards
+- vegetation
+- wildland-urban interface
 zotero_key: J2RLDW77
 item_type: journalArticle
 url: https://onlinelibrary.wiley.com/doi/abs/10.1002/fee.2533
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # An expanded framework for wildland–urban interfaces and their management

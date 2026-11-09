@@ -12,14 +12,16 @@ journal: Forest Ecology and Management
 doi: 10.1016/j.foreco.2008.12.013
 tags:
 - climate change
+- eastern united states
 - forest ecology
+- fulltext:pdf-missing
 - united states
 zotero_key: JTT6I4DH
 item_type: journalArticle
 url: https://www.sciencedirect.com/science/article/pii/S037811270800902X
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # An indicator of tree migration in forests of the eastern United States

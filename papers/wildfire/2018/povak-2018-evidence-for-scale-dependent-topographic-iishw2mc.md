@@ -7,13 +7,17 @@ authors:
 year: '2018'
 journal: Ecosphere
 doi: 10.1002/ecs2.2443
-tags: []
+tags:
+- ecoregions
+- fire spread
+- topography
+- wildfire
 zotero_key: IISHW2MC
 item_type: journalArticle
 url: https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecs2.2443
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Evidence for scale‐dependent topographic controls on wildfire spread

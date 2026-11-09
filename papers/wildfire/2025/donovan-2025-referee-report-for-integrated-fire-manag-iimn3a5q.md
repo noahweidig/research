@@ -6,13 +6,18 @@ authors:
 year: '2025'
 journal: F1000 Research Limited
 doi: 10.21956/OPENRESEUROPE.21420.R53295
-tags: []
+tags:
+- fire management
+- forest management
+- fulltext:pdf-missing
+- resilience
+- wildfire
 zotero_key: IIMN3A5Q
 item_type: preprint
 url: https://open-research-europe.ec.europa.eu/articles/4-131/v3#referee-response-53295
 source_url: 'unpaywall: https://doi.org/10.21956/openreseurope.21420.r53295'
 fulltext_status: fulltext
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Referee report. For: Integrated Fire Management and Closer to Nature Forest Management at the Landscape Scale as a Holistic Approach to Foster Forest Resilience to Wildfires [version 3; peer review: 4 approved with reservations, 2 not approved]
