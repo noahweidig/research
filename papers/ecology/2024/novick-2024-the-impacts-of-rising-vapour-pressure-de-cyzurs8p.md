@@ -21,13 +21,20 @@ authors:
 year: '2024'
 journal: Plant, Cell & Environment
 doi: 10.1111/pce.14846
-tags: []
+tags:
+- climate change
+- drought
+- ecosystem management
+- land atmosphere interactions
+- plant physiology
+- terrestrial ecosystems
+- vapour pressure deficit
 zotero_key: CYZURS8P
 item_type: journalArticle
 url: https://onlinelibrary.wiley.com/doi/10.1111/pce.14846
 source_url: 'unpaywall: https://www.dora.lib4ri.ch/wsl/dload/wsl:36172/PDF/view'
 fulltext_status: fulltext
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # The impacts of rising vapour pressure deficit in natural and managed ecosystems
@@ -1425,5 +1432,3 @@ IMPACTS OF RISING VAPOUR PRESSURE DEFICIT
 Additional supporting information can be found online in the Supporting Information section at the end of this article. 
 
 How to cite this article: Novick, K.A., Ficklin, D.L., Grossiord, C., Konings, A.G., Martínez‐Vilalta, J., Sadok, W. et al. (2024) The impacts of rising vapour pressure deficit in natural and managed ecosystems. Plant, Cell & Environment, 47, 3561–3589. https://doi.org/10.1111/pce.14846 
-
-

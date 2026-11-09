@@ -5,13 +5,18 @@ authors:
 year: '2017'
 journal: Fire Safety Journal
 doi: 10.1016/j.firesaf.2017.04.040
-tags: []
+tags:
+- fire
+- firebrands
+- fulltext:pdf-missing
+- ignition
+- wildland-urban interface
 zotero_key: EC87ZWBA
 item_type: journalArticle
 url: https://www.sciencedirect.com/science/article/pii/S0379711217303156
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Wildland fire spot ignition by sparks and firebrands

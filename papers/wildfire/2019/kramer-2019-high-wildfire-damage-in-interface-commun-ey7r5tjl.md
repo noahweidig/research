@@ -8,13 +8,18 @@ authors:
 year: '2019'
 journal: International Journal of Wildland Fire
 doi: 10.1071/WF18108
-tags: []
+tags:
+- california
+- fuels
+- fulltext:pdf-missing
+- wildfire
+- wildland-urban interface
 zotero_key: EY7R5TJL
 item_type: journalArticle
 url: http://www.publish.csiro.au/?paper=WF18108
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # High wildfire damage in interface communities in California

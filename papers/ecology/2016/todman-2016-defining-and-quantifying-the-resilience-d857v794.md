@@ -13,14 +13,16 @@ year: '2016'
 journal: Scientific Reports
 doi: 10.1038/srep28426
 tags:
+- disturbance
 - ecology
 - environmental sciences
+- resilience
 zotero_key: D857V794
 item_type: journalArticle
 url: https://www.nature.com/articles/srep28426
 source_url: 'unpaywall: https://www.nature.com/articles/srep28426.pdf'
 fulltext_status: fulltext
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Defining and quantifying the resilience of responses to disturbance: a conceptual and modelling approach from soil science
@@ -369,5 +371,3 @@ This work is licensed under a Creative Commons Attribution 4.0 International Lic
 Scientific **RepoRts** | 6:28426 | DOI: 10.1038/srep28426 
 
 12 
-
-

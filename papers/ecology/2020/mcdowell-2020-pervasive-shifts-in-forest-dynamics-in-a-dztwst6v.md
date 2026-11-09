@@ -27,13 +27,17 @@ authors:
 year: '2020'
 journal: Science
 doi: 10.1126/science.aaz9463
-tags: []
+tags:
+- disturbance
+- forest dynamics
+- forest ecology
+- vegetation
 zotero_key: DZTWST6V
 item_type: journalArticle
 url: https://www.science.org/doi/10.1126/science.aaz9463
 source_url: 'unpaywall: https://www.dora.lib4ri.ch/wsl/dload/wsl:23827/PDF2/view'
 fulltext_status: fulltext
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Pervasive shifts in forest dynamics in a changing world
@@ -1525,5 +1529,3 @@ The widespread shift in vegetation dynamics begets questions regarding consequen
 1041 
 
 40 
-
-

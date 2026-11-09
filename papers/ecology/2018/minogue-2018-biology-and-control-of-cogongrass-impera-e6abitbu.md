@@ -11,12 +11,13 @@ tags:
 - cogongrass
 - invasive grass
 - invasive species
+- temperate forest
 zotero_key: E6ABITBU
 item_type: journalArticle
 url: https://journals.flvc.org/edis/article/view/104449
 source_url: 'unpaywall: https://journals.flvc.org/edis/article/download/104449/118670'
 fulltext_status: fulltext
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Biology and Control of Cogongrass (Imperata cylindrica) in Southern Forests: FR342/FR411, 3/2018
@@ -204,5 +205,3 @@ USDA NISIC. 2017. US Dept. Agric., Nat. Invasive Sp. Info. Cntr. Cogongrass. htt
 _Biology and Control of Cogongrass (Imperata cylindrica) in Southern Forests_ 
 
 **6** 
-
-

@@ -7,13 +7,17 @@ authors:
 year: '2024'
 journal: 'Remote Sensing: Terrestrial'
 doi: 10.5194/egusphere-2024-3534
-tags: []
+tags:
+- disturbance
+- remote sensing
+- spatial data quality
+- united states
 zotero_key: EALMH8H5
 item_type: preprint
 url: https://egusphere.copernicus.org/preprints/2024/egusphere-2024-3534/
 source_url: 'unpaywall: https://bg.copernicus.org/articles/23/1291/2026/bg-23-1291-2026.pdf'
 fulltext_status: fulltext
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Evaluating the consistency of forest disturbance datasets in continental USA
@@ -1063,5 +1067,3 @@ case study from the United States national forest inventory, Meth. Ecol. Evol., 
 **https://doi.org/10.5194/bg-23-1291-2026** 
 
 **Biogeosciences, 23, 1291–1325, 2026** 
-
-

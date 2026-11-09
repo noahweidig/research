@@ -15,14 +15,16 @@ journal: European Journal of Forest Research
 doi: 10.1007/s10342-010-0470-4
 tags:
 - fire risk
+- fulltext:pdf-missing
 - gis
 - land use
+- wildfire
 zotero_key: F47GJDBL
 item_type: journalArticle
 url: https://doi.org/10.1007/s10342-010-0470-4
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Characterization of wildfires in Portugal

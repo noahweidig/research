@@ -10,13 +10,15 @@ journal: iForest - Biogeosciences and Forestry
 doi: 10.3832/ifor5027-019
 tags:
 - drivers
+- fire severity
+- machine learning
 - wildfire
 zotero_key: B76T94C3
 item_type: journalArticle
 url: https://openalex.org/W7211926672
 source_url: 'unpaywall: https://iforest.sisef.org/pdf/?id=ifor5027-019'
 fulltext_status: fulltext
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Multi-scale drivers of wildfire burn severity in Central Zagros: insights from remote sensing and machine learning
@@ -537,5 +539,3 @@ Zhou B, Gao S, Yin Y, Zhong Y (2024). Enhancing active fire detection in Sentine
 368 
 
 iForest 19: 359-368 
-
-

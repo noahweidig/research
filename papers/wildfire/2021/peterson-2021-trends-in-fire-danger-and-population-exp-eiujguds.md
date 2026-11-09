@@ -7,13 +7,18 @@ authors:
 year: '2021'
 journal: Environmental Science & Technology
 doi: 10.1021/acs.est.1c03835
-tags: []
+tags:
+- exposure
+- fire
+- fulltext:check-needed
+- western united states
+- wildland-urban interface
 zotero_key: EIUJGUDS
 item_type: journalArticle
 url: https://doi.org/10.1021/acs.est.1c03835
 source_url: 'unpaywall: https://www.ncbi.nlm.nih.gov/pmc/articles/12230743'
 fulltext_status: fulltext
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Trends in Fire Danger and Population Exposure along the Wildland–Urban Interface

@@ -13,14 +13,17 @@ year: '2015'
 journal: Molecular Ecology
 doi: 10.1111/mec.13167
 tags:
+- fulltext:pdf-missing
+- invasive grass
 - invasive species
 - poaceae
+- united states
 zotero_key: DTHIXRLS
 item_type: journalArticle
 url: https://onlinelibrary.wiley.com/doi/abs/10.1111/mec.13167
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Exploring origins, invasion history and genetic diversity of Imperata cylindrica (L.) P. Beauv. (Cogongrass) in the United States using genotyping by sequencing

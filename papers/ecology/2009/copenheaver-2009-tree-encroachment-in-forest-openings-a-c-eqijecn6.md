@@ -8,13 +8,18 @@ authors:
 year: '2009'
 journal: Castanea
 doi: 10.2179/0008-7475(2004)069<0297:TEIFOA>2.0.CO;2
-tags: []
+tags:
+- conservation
+- fulltext:pdf-missing
+- grasses
+- trees
+- woody encroachment
 zotero_key: EQIJECN6
 item_type: journalArticle
 url: https://doi.org/10.2179/0008-7475(2004)069<0297:TEIFOA>2.0.CO;2
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Tree Encroachment in Forest Openings: a Case Study From Buffalo Mountain, Virginia

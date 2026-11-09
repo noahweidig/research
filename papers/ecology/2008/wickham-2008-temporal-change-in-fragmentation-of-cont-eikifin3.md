@@ -19,7 +19,7 @@ item_type: journalArticle
 url: https://doi.org/10.1007/s10980-008-9258-z
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Temporal change in fragmentation of continental US forests

@@ -10,6 +10,7 @@ doi: 10.1890/1051-0761(2001)011[0111:EASFIW]2.0.CO;2
 tags:
 - fire
 - forest ecology
+- fulltext:pdf-missing
 - landscape ecology
 - michigan
 - modeling
@@ -22,7 +23,7 @@ item_type: journalArticle
 url: https://onlinelibrary.wiley.com/doi/abs/10.1890/1051-0761%282001%29011%5B0111%3AEASFIW%5D2.0.CO%3B2
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Environmental and Social Factors Influencing Wildfires in the Upper Midwest, United States

@@ -14,14 +14,16 @@ year: '2026'
 journal: mSystems
 doi: 10.1128/msystems.00852-26
 tags:
+- nutritive value
 - prescribed burning
+- soil properties
 - united states
 zotero_key: A8XAIMKZ
 item_type: journalArticle
 url: https://openalex.org/W7125372033
 source_url: 'unpaywall: https://www.biorxiv.org/content/biorxiv/early/2026/01/21/2026.01.21.700861.full.pdf'
 fulltext_status: fulltext
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Prescribed burns drive lasting changes in soil nitrogen cycling and microbial function
@@ -209,5 +211,3 @@ bioRxiv preprint doi: https://doi.org/10.64898/2026.01.21.700861; this version p
 bioRxiv preprint doi: https://doi.org/10.64898/2026.01.21.700861; this version posted January 21, 2026. The copyright holder for this preprint (which was not certified by peer review) is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made available under a CC-BY-NC 4.0 International license. 
 
 217 denitrification pathway genes at 15-30 cm grouped by treatment. Figure layout was performed in 218 <u>https://BioRender.com.</u> 219 
-
-

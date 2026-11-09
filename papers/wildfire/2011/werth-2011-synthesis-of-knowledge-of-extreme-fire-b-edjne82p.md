@@ -13,13 +13,17 @@ authors:
 year: '2011'
 journal: 'Gen. Tech. Rep. PNW-GTR-854. Portland, OR: U.S. Department of Agriculture, Forest Service, Pacific Northwest Research Station. 144 p.'
 doi: 10.2737/PNW-GTR-854
-tags: []
+tags:
+- extremes
+- fire
+- fire behavior
+- megafire
 zotero_key: EDJNE82P
 item_type: journalArticle
 url: https://www.fs.usda.gov/research/treesearch/39553
 source_url: 'unpaywall: https://scholarworks.sjsu.edu/meteorology_pub/42'
 fulltext_status: fulltext
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Synthesis of knowledge of extreme fire behavior: volume I for fire managers

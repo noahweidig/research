@@ -7,13 +7,17 @@ year: '2012'
 journal: WIREs Computational Statistics
 doi: 10.1002/wics.199
 tags:
+- fulltext:check-needed
+- model averaging
 - modeling
+- probability mapping
+- statistics
 zotero_key: EGZX6WVU
 item_type: journalArticle
 url: https://onlinelibrary.wiley.com/doi/abs/10.1002/wics.199
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # The Bayesian information criterion: background, derivation, and applications

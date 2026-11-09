@@ -5,13 +5,17 @@ year: '2024'
 journal: null
 doi: null
 tags:
+- fulltext:check-needed
 - mixed models
+- r package
+- software
+- statistical software
 zotero_key: FDJQQX2L
 item_type: computerProgram
 url: https://cran.r-project.org/web/packages/ggeffects/index.html
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # ggeffects: Create Tidy Data Frames of Marginal Effects for 'ggplot' from Model Outputs

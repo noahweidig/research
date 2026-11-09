@@ -13,6 +13,7 @@ tags:
 - ecosystem management
 - edge effects
 - fragmentation
+- fulltext:pdf-missing
 - landscape ecology
 - modeling
 - prescribed burning
@@ -22,7 +23,7 @@ item_type: journalArticle
 url: https://onlinelibrary.wiley.com/doi/abs/10.1890/11-1026.1
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Corridors promote fire via connectivity and edge effects

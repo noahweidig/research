@@ -19,7 +19,7 @@ item_type: journalArticle
 url: https://www.mdpi.com/2072-4292/12/16/2565
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Wildfire Trend Analysis over the Contiguous United States Using Remote Sensing Observations

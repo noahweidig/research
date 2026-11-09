@@ -15,13 +15,18 @@ authors:
 year: '2014'
 journal: Frontiers in Ecology and the Environment
 doi: 10.1890/120332
-tags: []
+tags:
+- ecosystems
+- fire
+- fire regime
+- fulltext:pdf-missing
+- megafire
 zotero_key: FMV7BARI
 item_type: journalArticle
 url: https://onlinelibrary.wiley.com/doi/abs/10.1890/120332
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Temperate and boreal forest mega-fires: characteristics and challenges

@@ -16,13 +16,14 @@ doi: 10.1038/s41598-026-61756-4
 tags:
 - drivers
 - large wildfires
+- weather
 - wildfire
 zotero_key: DMTHD8BC
 item_type: journalArticle
 url: https://openalex.org/W7171841093
 source_url: 'unpaywall: https://www.nature.com/articles/s41598-026-61756-4.pdf'
 fulltext_status: fulltext
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Major intensification of fire weather across southern Europe in recent decades
@@ -466,5 +467,3 @@ www.nature.com/scientificreports
 12 
 
 | https://doi.org/10.1038/s41598-026-61756-4 
-
-

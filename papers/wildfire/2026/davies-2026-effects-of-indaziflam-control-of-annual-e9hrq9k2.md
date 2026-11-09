@@ -9,14 +9,16 @@ year: '2026'
 journal: Rangeland Ecology & Management
 doi: 10.1016/j.rama.2026.07.001
 tags:
+- biodiversity
 - united states
+- vegetation
 - wildfire
 zotero_key: E9HRQ9K2
 item_type: journalArticle
 url: https://openalex.org/W7202364220
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Effects of Indaziflam Control of Annual Grasses on Biodiversity, Biocrusts, Perennial Vegetation, and Fire Probability

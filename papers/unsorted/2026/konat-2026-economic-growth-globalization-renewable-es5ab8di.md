@@ -11,6 +11,8 @@ year: '2026'
 journal: Energies
 doi: 10.3390/en19143439
 tags:
+- air pollution
+- carbon cycle
 - drivers
 - united states
 zotero_key: ES5AB8DI
@@ -18,7 +20,7 @@ item_type: journalArticle
 url: https://openalex.org/W7169831032
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Economic Growth, Globalization, Renewable Energy, and Trade Openness as Drivers of Carbon Emissions in the United States: Evidence Under Non-Normal Errors

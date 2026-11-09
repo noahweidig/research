@@ -6,13 +6,18 @@ authors:
 year: '2014'
 journal: Climatic Change
 doi: 10.1007/s10584-014-1257-2
-tags: []
+tags:
+- climate
+- climate modeling
+- earth system models
+- extremes
+- fulltext:pdf-missing
 zotero_key: EISF5XYG
 item_type: journalArticle
 url: https://link.springer.com/article/10.1007/s10584-014-1257-2
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Changing climate extremes in the Northeast United States: observations and projections from CMIP5

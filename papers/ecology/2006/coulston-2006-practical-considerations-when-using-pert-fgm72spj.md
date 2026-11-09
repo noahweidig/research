@@ -8,13 +8,18 @@ authors:
 year: '2006'
 journal: 'In: Proceedings of the sixth annual forest inventory and analysis symposium; 2004 September 21-24; Denver, CO. Gen. Tech. Rep. WO-70. Washington, DC: U.S. Department of Agriculture Forest Service. 126p.'
 doi: null
-tags: []
+tags:
+- agriculture
+- data obfuscation
+- forest inventory
+- fulltext:check-needed
+- spatial analysis
 zotero_key: FGM72SPJ
 item_type: journalArticle
 url: https://research.fs.usda.gov/treesearch/14248
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Practical Considerations When Using Perturbed Forest Inventory Plot Locations To Develop Spatial Models: A Case Study

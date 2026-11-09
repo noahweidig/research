@@ -9,14 +9,17 @@ year: '2026'
 journal: null
 doi: null
 tags:
+- conservation
 - conservation reserve program
 - ecosystem services
+- fulltext:check-needed
+- housing
 zotero_key: FPKKF8ZZ
 item_type: report
 url: https://ideas.repec.org//p/rff/dpaper/dp-26-02.html
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # The Impact of the Conservation Reserve Program on Nearby Property Values

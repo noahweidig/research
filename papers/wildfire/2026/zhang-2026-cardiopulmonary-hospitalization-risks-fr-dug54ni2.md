@@ -14,14 +14,18 @@ year: '2026'
 journal: Nature Communications
 doi: 10.1038/s41467-026-76974-7
 tags:
+- air pollution
+- cardiopulmonary disease
+- particulate matter
 - united states
 - wildfire
+- wildfire smoke
 zotero_key: DUG54NI2
 item_type: journalArticle
 url: https://openalex.org/W7213468400
 source_url: 'unpaywall: https://www.nature.com/articles/s41467-026-76974-7.pdf'
 fulltext_status: fulltext
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Cardiopulmonary hospitalization risks from wildfire-specific and non-wildfire PM2.5 in 20 US states
@@ -525,5 +529,3 @@ Publisher’s note Springer Nature remains neutral with regard to jurisdictional
 Nature Communications |  (2026) 17:9349 
 
 11 
-
-

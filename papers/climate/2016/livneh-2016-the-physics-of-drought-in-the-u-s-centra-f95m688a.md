@@ -12,13 +12,14 @@ tags:
 - drought
 - earth system models
 - extremes
+- fulltext:pdf-missing
 - modeling
 zotero_key: F95M688A
 item_type: journalArticle
 url: https://journals.ametsoc.org/view/journals/clim/29/18/jcli-d-15-0697.1.xml
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # The Physics of Drought in the U.S. Central Great Plains

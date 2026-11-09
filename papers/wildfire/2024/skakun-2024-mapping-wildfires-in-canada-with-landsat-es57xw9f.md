@@ -7,13 +7,17 @@ authors:
 year: '2024'
 journal: International Journal of Wildland Fire
 doi: 10.1071/WF24138
-tags: []
+tags:
+- burned area
+- landsat
+- time series
+- wildfire
 zotero_key: ES57XW9F
 item_type: journalArticle
 url: https://connectsci.au/wf/article/33/12/WF24138/84701/Mapping-wildfires-in-Canada-with-Landsat-MSS-to
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Mapping wildfires in Canada with Landsat MSS to extend the National Burned Area Composite (NBAC) time series back to 1972

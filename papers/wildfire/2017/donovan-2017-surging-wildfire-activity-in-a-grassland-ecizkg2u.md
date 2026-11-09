@@ -8,8 +8,11 @@ year: '2017'
 journal: Geophysical Research Letters
 doi: 10.1002/2017GL072901
 tags:
+- Great Plains biome
+- Monitoring Trends in Burn Severity (MTBS)
 - fire regime
 - fire season
+- fulltext:pdf-missing
 - grassland
 - mtbs
 - pyrogeography
@@ -19,7 +22,7 @@ item_type: journalArticle
 url: https://onlinelibrary.wiley.com/doi/abs/10.1002/2017GL072901
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Surging wildfire activity in a grassland biome

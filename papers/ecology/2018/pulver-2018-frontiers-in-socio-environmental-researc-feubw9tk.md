@@ -11,13 +11,17 @@ authors:
 year: '2018'
 journal: Ecology and Society
 doi: 10.5751/es-10280-230323
-tags: []
+tags:
+- ecosystems
+- finance
+- modeling
+- social-ecological systems
 zotero_key: FEUBW9TK
 item_type: journalArticle
 url: https://escholarship.org/uc/item/34b3h4h0
 source_url: 'unpaywall: https://www.ecologyandsociety.org/vol23/iss3/art23/ES-2018-10280.pdf'
 fulltext_status: fulltext
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Frontiers in socio-environmental research: Components, connections, scale, and context
@@ -577,5 +581,3 @@ b.
 (Source: Ostrom 2007:15182) 
 
 NB: There is no visualization for the Coupled Human-Natural Systems approach. 
-
-
