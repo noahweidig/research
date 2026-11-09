@@ -18,6 +18,7 @@ tags:
 - climate change
 - fire suppression
 - forest ecology
+- fulltext:pdf-missing
 - lidar
 - resilience
 - resistance
@@ -27,7 +28,7 @@ item_type: journalArticle
 url: https://onlinelibrary.wiley.com/doi/abs/10.1111/1365-2745.13764
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Ecological resilience and vegetation transition in the face of two successive large wildfires

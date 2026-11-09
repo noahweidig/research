@@ -11,13 +11,18 @@ authors:
 year: '2018'
 journal: Remote Sensing of Environment
 doi: 10.1016/j.rse.2018.07.007
-tags: []
+tags:
+- eastern united states
+- fulltext:pdf-missing
+- remote sensing
+- southeastern united states
+- united states
 zotero_key: DGD37GDS
 item_type: journalArticle
 url: https://www.sciencedirect.com/science/article/pii/S0034425718303341
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Mapping pine plantations in the southeastern U.S. using structural, spectral, and temporal remote sensing data

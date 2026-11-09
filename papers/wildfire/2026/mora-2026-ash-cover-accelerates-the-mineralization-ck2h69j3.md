@@ -9,13 +9,16 @@ journal: CATENA
 doi: 10.1016/j.catena.2026.110717
 tags:
 - fire
+- fulltext:check-needed
+- particulate matter
 - prescribed burning
+- soil properties
 zotero_key: CK2H69J3
 item_type: journalArticle
 url: https://openalex.org/W7225012911
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Ash cover accelerates the mineralization of labile soil organic matter following experimental fire

@@ -5,13 +5,17 @@ year: '2024'
 journal: null
 doi: null
 tags:
+- fulltext:check-needed
 - mixed models
+- r package
+- sociology
+- statistics
 zotero_key: CX983FXV
 item_type: computerProgram
 url: https://cran.r-project.org/web/packages/sjPlot/index.html
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # sjPlot: Data Visualization for Statistics in Social Science

@@ -13,13 +13,17 @@ authors:
 year: '2020'
 journal: International Journal of Wildland Fire
 doi: 10.1071/WF19201
-tags: []
+tags:
+- burned area
+- disturbance
+- fire
+- remote sensing
 zotero_key: DCBIENAA
 item_type: journalArticle
 url: https://doi.org/10.1071/WF19201
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Generating annual estimates of forest fire disturbance in Canada: the National Burned Area Composite

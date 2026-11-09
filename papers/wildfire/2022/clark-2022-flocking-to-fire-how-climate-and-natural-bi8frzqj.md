@@ -7,13 +7,17 @@ authors:
 year: '2022'
 journal: Frontiers in Human Dynamics
 doi: https://doi.org/10.3389/fhumd.2022.886545
-tags: []
+tags:
+- climate
+- fire
+- natural hazards
+- united states
 zotero_key: BI8FRZQJ
 item_type: journalArticle
 url: https://www.frontiersin.org/articles/10.3389/fhumd.2022.886545
 source_url: 'unpaywall: https://doi.org/10.3389/fhumd.2022.886545'
 fulltext_status: fulltext
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Flocking to fire: How climate and natural hazards shape human migration across the United States

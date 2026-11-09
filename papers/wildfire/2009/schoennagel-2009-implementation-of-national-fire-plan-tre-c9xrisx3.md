@@ -9,13 +9,18 @@ authors:
 year: '2009'
 journal: Proceedings of the National Academy of Sciences
 doi: 10.1073/pnas.0900991106
-tags: []
+tags:
+- fire
+- fulltext:pdf-missing
+- united states
+- western united states
+- wildland-urban interface
 zotero_key: C9XRISX3
 item_type: journalArticle
 url: https://www.pnas.org/doi/10.1073/pnas.0900991106
 source_url: 'unpaywall: https://www.ncbi.nlm.nih.gov/pmc/articles/2705595'
 fulltext_status: fulltext
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Implementation of National Fire Plan treatments near the wildland–urban interface in the western United States

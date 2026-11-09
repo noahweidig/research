@@ -7,13 +7,16 @@ journal: Forest Policy and Economics
 doi: 10.1016/j.forpol.2008.01.001
 tags:
 - cost
+- fuel treatments
+- fuels
+- fulltext:pdf-missing
 - thinning
 zotero_key: DHC4E548
 item_type: journalArticle
 url: https://www.sciencedirect.com/science/article/pii/S1389934108000051
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Assessing the cost of fuel reduction treatments: A critical review

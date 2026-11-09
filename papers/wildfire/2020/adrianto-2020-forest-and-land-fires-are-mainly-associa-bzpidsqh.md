@@ -11,13 +11,15 @@ journal: Remote Sensing
 doi: 10.3390/rs12010003
 tags:
 - deforestation
+- land cover
+- pine plantation
 - wildfire
 zotero_key: BZPIDSQH
 item_type: journalArticle
 url: https://www.mdpi.com/2072-4292/12/1/3
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Forest and Land Fires Are Mainly Associated with Deforestation in Riau Province, Indonesia

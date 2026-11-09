@@ -9,6 +9,8 @@ year: '2026'
 journal: Ecología Austral
 doi: 10.25260/ea.26.36.3.0.2691
 tags:
+- grassland
+- invasive species
 - prescribed burning
 - wildfire
 zotero_key: BGAJR9P7
@@ -16,7 +18,7 @@ item_type: journalArticle
 url: https://openalex.org/W7203542638
 source_url: 'unpaywall: https://ojs.ecologiaaustral.com.ar/index.php/Ecologia_Austral/article/download/2691/1665'
 fulltext_status: fulltext
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # A brooms race: Seed ecology may explain differences in spread of two invasive legumes
@@ -500,5 +502,3 @@ Wickham, H. 2016. ggplot2: Elegant graphics for data analysis. Springer. h�ps:
 Wickham, H., R. François, L. Henry, and K. Müller. 2025a. dplyr: A Grammar of Data Manipulation. URL: dplyr.tidyverse.org. 
 
 Wickham, H., D. Vaughan, and M. Girlich. 2025b. tidyr: Tidy Messy Data. URL: tidyr.tidyverse.org. 
-
-

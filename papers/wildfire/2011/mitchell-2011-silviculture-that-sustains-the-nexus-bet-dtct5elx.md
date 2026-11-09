@@ -9,13 +9,18 @@ authors:
 year: '2011'
 journal: Canadian Journal of Forest Research
 doi: 10.1139/x06-100
-tags: []
+tags:
+- biodiversity
+- fire
+- forest management
+- fulltext:pdf-missing
+- southeastern united states
 zotero_key: DTCT5ELX
 item_type: journalArticle
 url: https://cdnsciencepub.com/doi/10.1139/x06-100
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Silviculture that sustains: the nexus between silviculture, frequent prescribed fire, and conservation of biodiversity in longleaf pine forests of the southeastern United States

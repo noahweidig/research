@@ -6,6 +6,7 @@ year: '2020'
 journal: Land
 doi: 10.3390/land9070225
 tags:
+- fire
 - machine learning
 - risk
 - wildland-urban interface
@@ -14,7 +15,7 @@ item_type: journalArticle
 url: https://www.mdpi.com/2073-445X/9/7/225
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Reclassifying the Wildland–Urban Interface Using Fire Occurrences for the United States

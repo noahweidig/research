@@ -7,13 +7,18 @@ authors:
 year: '2015'
 journal: International Journal of Wildland Fire
 doi: 10.1071/WF15010
-tags: []
+tags:
+- fulltext:pdf-missing
+- mortality
+- public health
+- trees
+- wildfire
 zotero_key: BTMEVI9H
 item_type: journalArticle
 url: https://www.publish.csiro.au/wf/WF15010
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Too much, too soon? A review of the effects of increasing wildfire frequency on tree mortality and regeneration in temperate eucalypt forests

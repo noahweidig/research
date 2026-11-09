@@ -4,13 +4,20 @@ authors: []
 year: '2021'
 journal: null
 doi: null
-tags: []
+tags:
+- fulltext:check-needed
+- nonparametric statistics
+- r package
+- software
+- statistics
+- time series
+- trend analysis
 zotero_key: CP86GPES
 item_type: computerProgram
 url: https://cran.r-project.org/web/packages/modifiedmk/index.html
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # modifiedmk: Modified Versions of Mann Kendall and Spearman's Rho Trend Tests

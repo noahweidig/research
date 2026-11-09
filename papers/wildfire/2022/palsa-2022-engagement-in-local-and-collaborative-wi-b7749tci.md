@@ -9,13 +9,17 @@ authors:
 year: '2022'
 journal: PLOS ONE
 doi: 10.1371/journal.pone.0263757
-tags: []
+tags:
+- fire risk
+- united states
+- western united states
+- wildfire
 zotero_key: B7749TCI
 item_type: journalArticle
 url: https://doi.org/10.1371/journal.pone.0263757
 source_url: 'unpaywall: https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0263757&type=printable'
 fulltext_status: fulltext
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Engagement in local and collaborative wildfire risk mitigation planning across the western US—Evaluating participation and diversity in Community Wildfire Protection Plans
@@ -675,5 +679,3 @@ PLOS ONE | https://doi.org/10.1371/journal.pone.0263757
 20 / 20 
 
 February 9, 2022 
-
-

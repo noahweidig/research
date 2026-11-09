@@ -14,13 +14,18 @@ authors:
 year: '2023'
 journal: Science
 doi: 10.1126/science.ade9223
-tags: []
+tags:
+- fire risk
+- fulltext:check-needed
+- grassland
+- united states
+- wildfire
 zotero_key: CZ8EZ2ML
 item_type: journalArticle
 url: https://www.science.org/doi/10.1126/science.ade9223
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Rising wildfire risk to houses in the United States, especially in grasslands and shrublands

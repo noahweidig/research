@@ -12,14 +12,16 @@ year: '2026'
 journal: Nature Communications
 doi: 10.1038/s41467-026-78347-6
 tags:
+- conservation
 - ecology
+- edge effects
 - forest ecology
 zotero_key: BNFYNQI6
 item_type: journalArticle
 url: https://www.nature.com/articles/s41467-026-78347-6
 source_url: 'unpaywall: https://www.nature.com/articles/s41467-026-78347-6_reference.pdf'
 fulltext_status: fulltext
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Episodic changes in global forest edges in the 21st century
@@ -501,5 +503,3 @@ This Article in Press is shared early to give you faster access to new research.
 Article in Press 
 
 Nature Communications 
-
-

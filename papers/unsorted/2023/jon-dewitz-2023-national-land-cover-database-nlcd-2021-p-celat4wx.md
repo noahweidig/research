@@ -6,13 +6,17 @@ year: '2023'
 journal: U.S. Geological Survey
 doi: 10.5066/P9JZ7AO3
 tags:
+- dataset
+- fulltext:pdf-missing
 - land use change
+- nlcd
+- survey research
 zotero_key: CELAT4WX
 item_type: dataset
 url: https://www.sciencebase.gov/catalog/item/647626cbd34e4e58932d9d4e
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # National Land Cover Database (NLCD) 2021 Products

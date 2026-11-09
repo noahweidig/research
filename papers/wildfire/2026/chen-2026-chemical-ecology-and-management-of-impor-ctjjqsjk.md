@@ -7,14 +7,16 @@ journal: Annual Review of Entomology
 doi: 10.1146/annurev-ento-012826-052349
 tags:
 - fire
+- fulltext:pdf-missing
 - invasive species
+- southeastern united states
 - united states
 zotero_key: CTJJQSJK
 item_type: journalArticle
 url: https://openalex.org/W7224091175
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Chemical Ecology and Management of Imported Fire Ants

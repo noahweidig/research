@@ -6,13 +6,17 @@ authors:
 year: '2001'
 journal: Ecological Applications
 doi: 10.2307/3061125
-tags: []
+tags:
+- fire
+- fire frequency
+- forest structure
+- savanna
 zotero_key: BS9JR55M
 item_type: journalArticle
 url: https://www.jstor.org/stable/3061125
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Prescribed Fire in Oak Savanna: Fire Frequency Effects on Stand Structure and Dynamics

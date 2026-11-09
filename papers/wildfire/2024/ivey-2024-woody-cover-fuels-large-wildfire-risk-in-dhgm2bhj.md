@@ -8,13 +8,17 @@ authors:
 year: '2024'
 journal: Geophysical Research Letters
 doi: 10.1029/2024GL110586
-tags: []
+tags:
+- eastern united states
+- fire risk
+- wildfire
+- woody cover
 zotero_key: DHGM2BHJ
 item_type: journalArticle
 url: https://doi.org/10.1029/2024GL110586
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Woody cover fuels large wildfire risk in the eastern US

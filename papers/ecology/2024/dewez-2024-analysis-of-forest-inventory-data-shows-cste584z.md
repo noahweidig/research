@@ -12,13 +12,18 @@ authors:
 year: '2024'
 journal: Journal of Forestry
 doi: 10.1093/jofore/fvad059
-tags: []
+tags:
+- fulltext:pdf-missing
+- mortality
+- public health
+- trees
+- united states
 zotero_key: CSTE584Z
 item_type: journalArticle
 url: https://academic.oup.com/jof/article/122/3/232/7609521
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Analysis of Forest Inventory Data Shows Disparity in Tree Mortality and Resistance in Texas National Forests

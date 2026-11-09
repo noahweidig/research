@@ -9,6 +9,7 @@ year: '2021'
 journal: Scientific Data
 doi: 10.1038/s41597-020-00782-x
 tags:
+- contiguous united states
 - ecological modeling
 - environmental sciences
 - forestry
@@ -17,7 +18,7 @@ item_type: journalArticle
 url: https://www.nature.com/articles/s41597-020-00782-x
 source_url: 'unpaywall: https://www.nature.com/articles/s41597-020-00782-x.pdf'
 fulltext_status: fulltext
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # TreeMap, a tree-level model of conterminous US forests circa 2014 produced by imputation of FIA plot data
@@ -524,5 +525,3 @@ This is a U.S. government work and not under copyright protection in the U.S.; f
 Scientific **Data** | _(2021) 8:11_ | https://doi.org/10.1038/s41597-020-00782-x 
 
 14 
-
-

@@ -12,13 +12,15 @@ doi: 10.1016/j.forpol.2017.04.011
 tags:
 - cost
 - damage
+- fulltext:pdf-found
 - spatial analysis
+- wildfire
 zotero_key: BMYED9K5
 item_type: journalArticle
 url: https://www.sciencedirect.com/science/article/pii/S1389934116302623
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Impact of human factors on wildfire occurrence in Mississippi, United States

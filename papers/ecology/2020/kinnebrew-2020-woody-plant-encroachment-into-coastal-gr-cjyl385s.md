@@ -8,13 +8,18 @@ authors:
 year: '2020'
 journal: Regional environmental change
 doi: 10.1007/s10113-020-01687-6
-tags: []
+tags:
+- biodiversity
+- fulltext:pdf-missing
+- grassland
+- soil properties
+- woody encroachment
 zotero_key: CJYL385S
 item_type: journalArticle
 url: https://doi.org/10.1007/s10113-020-01687-6
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Woody plant encroachment into coastal grasslands: consequences for soil properties and plant diversity

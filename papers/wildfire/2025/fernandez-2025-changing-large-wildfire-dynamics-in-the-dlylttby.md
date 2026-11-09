@@ -6,13 +6,18 @@ authors:
 year: '2025'
 journal: Fire Lines
 doi: null
-tags: []
+tags:
+- eastern united states
+- fulltext:check-needed
+- united states
+- wildfire
+- wildland-urban interface
 zotero_key: DLYLTTBY
 item_type: magazineArticle
 url: https://mailchi.mp/southernfireexchange/fire-lines-volume-14-issue-9436916
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Changing Large Wildfire Dynamics in the Wildland–Urban Interface of the Eastern United States: Research Brief
