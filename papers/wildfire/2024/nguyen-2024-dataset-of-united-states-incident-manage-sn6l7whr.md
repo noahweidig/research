@@ -12,12 +12,14 @@ doi: 10.1038/s41597-023-02876-8
 tags:
 - environmental sciences
 - natural hazards
+- united states
+- wildfire
 zotero_key: SN6L7WHR
 item_type: journalArticle
 url: https://www.nature.com/articles/s41597-023-02876-8
 source_url: 'unpaywall: https://www.nature.com/articles/s41597-023-02876-8.pdf'
 fulltext_status: fulltext
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Dataset of United States Incident Management Situation Reports from 2007 to 2021
@@ -519,5 +521,3 @@ The authors declare no competing interests.
 Scientific **Data** | _(2024) 11:23_ | https://doi.org/10.1038/s41597-023-02876-8 
 
 13 
-
-

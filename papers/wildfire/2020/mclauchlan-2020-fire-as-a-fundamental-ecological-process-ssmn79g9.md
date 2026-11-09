@@ -62,7 +62,7 @@ item_type: journalArticle
 url: https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2745.13403
 source_url: 'unpaywall: https://pure.uva.nl/ws/files/52423846/1365_2745.13403.pdf'
 fulltext_status: fulltext
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Fire as a fundamental ecological process: Research advances and frontiers
@@ -1046,5 +1046,3 @@ McLAUcHLAN et AL.
 Additional supporting information may be found online in the Supporting Information section. 
 
 **How to cite this article:** McLauchlan KK, Higuera PE, Miesel J, et al. Fire as a fundamental ecological process: Research advances and frontiers. _J Ecol_ . 2020;108:2047–2069. <u>https:// doi.org/10.1111/1365-2745.13403</u> 
-
-

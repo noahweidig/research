@@ -24,13 +24,18 @@ authors:
 year: '2024'
 journal: Science
 doi: 10.1126/science.adg1464
-tags: []
+tags:
+- finance
+- fulltext:check-needed
+- invasive species
+- mortality
+- trees
 zotero_key: SBYZ8R38
 item_type: journalArticle
 url: https://www.science.org/doi/10.1126/science.adg1464
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Disruption of an ant-plant mutualism shapes interactions between lions and their primary prey

@@ -13,15 +13,16 @@ year: '2024'
 journal: Nature Communications
 doi: 10.1038/s41467-024-50630-4
 tags:
-- climate-change impacts
+- climate change
 - environmental impact
 - sociology
+- wildfire
 zotero_key: RMNRPZXF
 item_type: journalArticle
 url: https://www.nature.com/articles/s41467-024-50630-4
 source_url: 'unpaywall: https://www.nature.com/articles/s41467-024-50630-4.pdf'
 fulltext_status: fulltext
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Rare and highly destructive wildfires drive human migration in the U.S.
@@ -485,5 +486,3 @@ Publisher’s note Springer Nature remains neutral with regard to jurisdictional
 Nature Communications |  (2024) 15:6631 
 
 12 
-
-

@@ -17,13 +17,17 @@ authors:
 year: '2014'
 journal: null
 doi: 10.1175/JAMC-D-14-0053.1
-tags: []
+tags:
+- atmospheric science
+- united states
+- western united states
+- wildfire
 zotero_key: RVLUCGPU
 item_type: journalArticle
 url: https://journals.ametsoc.org/view/journals/apme/53/12/jamc-d-14-0053.1.xml
 source_url: 'unpaywall: https://www.osti.gov/servlets/purl/1514957'
 fulltext_status: fulltext
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Causes and Implications of Extreme Atmospheric Moisture Demand during the Record-Breaking 2011 Wildfire Season in the Southwestern United States
@@ -427,5 +431,3 @@ J O U R N A L O F A P P L I E D M E T E O R O L O G Y A N D C L I M A T O L O G 
 - Zaitchik, B. F., A. K. Macalady, L. R. Beonneau, and R. B. Smith, 2006: Europe’s 2003 heat wave: A satellite view of impacts and land–atmosphere feedbacks. Int. J. Climatol., 26, 743–769, doi:10.1002/joc.1280. 
 
 - Zhang, Y., J. M. Wallace, and D. S. Battisti, 1997: ENSO-like interdecadal variability: 1900–93. J. Climate, 10, 1004–1020, doi:10.1175/1520-0442(1997)010,1004:ELIV.2.0.CO;2. 
-
-

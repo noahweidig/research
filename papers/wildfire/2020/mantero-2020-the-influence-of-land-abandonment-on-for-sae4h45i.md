@@ -11,6 +11,16 @@ year: '2020'
 journal: Landscape Ecology
 doi: 10.1007/s10980-020-01147-w
 tags:
+- Avalanche
+- Disturbance ecology
+- Flooding
+- Herbivory
+- Insect outbreak
+- Land-use change
+- Landslide
+- Rockfall
+- Wildfire
+- Windthrow
 - disturbance ecology
 - herbivory
 - land use change
@@ -21,7 +31,7 @@ item_type: journalArticle
 url: https://doi.org/10.1007/s10980-020-01147-w
 source_url: 'unpaywall: https://link.springer.com/content/pdf/10.1007/s10980-020-01147-w.pdf'
 fulltext_status: fulltext
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # The influence of land abandonment on forest disturbance regimes: a global review
@@ -796,5 +806,3 @@ Publisher’s Note Springer Nature remains neutral with regard to jurisdictional
 - Zumbrunnen T, Pezzatti GB, Mene´ndez P, Bugmann H, Bu¨rgi M, Conedera M (2011) Weather and human impacts on 
 
 123 
-
-

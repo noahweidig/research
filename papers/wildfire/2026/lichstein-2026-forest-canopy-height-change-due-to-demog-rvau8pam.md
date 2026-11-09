@@ -9,6 +9,8 @@ year: '2026'
 journal: bioRxiv (Cold Spring Harbor Laboratory)
 doi: 10.64898/2026.09.30.755816
 tags:
+- ecoregions
+- forest structure
 - large wildfires
 - united states
 zotero_key: RVAU8PAM
@@ -16,7 +18,7 @@ item_type: journalArticle
 url: https://openalex.org/W7216041479
 source_url: 'unpaywall: https://www.biorxiv.org/content/biorxiv/early/2026/10/02/2026.09.30.755816.full.pdf'
 fulltext_status: fulltext
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Forest canopy height change due to demographic and allometric shifts
@@ -846,5 +848,3 @@ bioRxiv preprint doi: https://doi.org/10.64898/2026.09.30.755816; this version p
 
 
 968 **Fig. 4.** Allometric shifts for canopy trees with a diameter at breast height (DBH) of 30 cm in 969 the **(a)** eastern and **(b)** western U.S. for the no-management dataset (non-plantation 970 inventory plots with no reported management activities during the study period). The 971 sample size above each histogram is the number of allometric models (species within 972 ecoregions). Of the 263 significant ( _p_ < 0.05) shifts in the East, 250 (95%) were positive 973 (shift towards taller trees for a given DBH). Of the 128 significant shifts in the West, 87 974 975 976 (68%) were positive. For a tree of DBH asymptotic height is attained (Eqs. 2-3). Allometric shifts for canopy and understory trees 𝑥𝑥, the allometric shift (m yr<sup>−1</sup> ) is 𝛼𝛼𝑥𝑥/(𝑘𝑘+ 𝑥𝑥), where 𝛼𝛼 977 is the rate of change of the asymptotic height, and with 10 cm DBH are shown in Figs. S14-S15. 𝑘𝑘 is the DBH at which half of the 
-
-

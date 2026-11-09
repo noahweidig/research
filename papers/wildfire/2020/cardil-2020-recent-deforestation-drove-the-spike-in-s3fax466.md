@@ -28,13 +28,17 @@ authors:
 year: '2020'
 journal: Environmental Research Letters
 doi: 10.1088/1748-9326/abcac7
-tags: []
+tags:
+- amazon basin
+- climate
+- deforestation
+- fire
 zotero_key: S3FAX466
 item_type: journalArticle
 url: https://doi.org/10.1088/1748-9326/abcac7
 source_url: 'unpaywall: https://hal.science/hal-05177023v1/file/Cardil_2020_Environ._Res._Lett._15_121003.pdf'
 fulltext_status: fulltext
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Recent deforestation drove the spike in Amazonian fires
@@ -312,5 +316,3 @@ dpi.inpe.br/)
 - Smith E 2019 NASA’s AIRS maps carbon monoxide from Brazil fires (available at: http://www.nasa.gov/feature/jpl/nasasairs-maps-carbon-monoxide-from-brazil-fires) 
 
 5 
-
-

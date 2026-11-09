@@ -18,6 +18,9 @@ year: '2026'
 journal: Rangeland Ecology & Management
 doi: 10.1016/j.rama.2026.07.004
 tags:
+- fulltext:check-needed
+- restoration
+- sagebrush
 - united states
 - wildfire
 zotero_key: RESJSHZK
@@ -25,7 +28,7 @@ item_type: journalArticle
 url: https://openalex.org/W7202384312
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Spatial Variation in Effectiveness and Costs of Sagebrush Restoration Treatments Across the Western United States

@@ -8,13 +8,17 @@ authors:
 year: '2018'
 journal: Environmental Risks
 doi: 10.5772/intechopen.76937
-tags: []
+tags:
+- fire risk
+- fire suppression
+- western united states
+- wildfire
 zotero_key: RKEBB9TH
 item_type: journalArticle
 url: https://doi.org/10.5772/intechopen.76937
 source_url: 'unpaywall: https://www.intechopen.com/citation-pdf-url/61048'
 fulltext_status: fulltext
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Analyzing wildfire suppression difficulty in relation to protection demand
@@ -385,5 +389,3 @@ Research Station. In: General Technical Report: RMRS-GTR-350; Fort Collins, CO, 
 - [45] Dennison PE, Fryer GK, Cova TJ. Identification of firefighter safety zones using lidar. Environmental Modelling & Software. 2014;59:91-97 
 
 - [46] Page WG, Alexander ME, Jenkins MJ. Wildfire’s resistance to control in mountain pine beetle-attacked lodgepole pine forests. The Forestry Chronicle. 2013;89(6):783-794 
-
-

@@ -11,13 +11,17 @@ authors:
 year: '2022'
 journal: Journal of Applied Ecology
 doi: 10.1111/1365-2664.14288
-tags: []
+tags:
+- rangeland
+- trees
+- united states
+- woody encroachment
 zotero_key: TBUAHS3I
 item_type: journalArticle
 url: https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.14288
 source_url: 'unpaywall: https://www.biorxiv.org/content/biorxiv/early/2021/11/02/2021.04.02.438282.full.pdf'
 fulltext_status: fulltext
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Herbaceous production lost to tree encroachment in United States rangelands
@@ -437,5 +441,3 @@ bioRxiv preprint doi: https://doi.org/10.1101/2021.04.02.438282; this version po
 **Figure 4.** Local-scale evaluation of tree encroachment and yield gap development in the Loess Canyons, Nebraska (W100.44° N40.95°). Herbaceous production decreased by 34% percent between 1990 and 2019. **(Top)** Time series aerial imagery shows the dramatic expansion of Eastern Red Cedar ( _Juniperus virginiana)_ . ( **Bottom** ) Time-series and spatial trends in achievable and observed forage production show the forage yield gap’s evolution as a function of tree cover expansion. 
 
 21 
-
-

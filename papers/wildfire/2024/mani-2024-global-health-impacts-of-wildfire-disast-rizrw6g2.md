@@ -10,6 +10,7 @@ doi: 10.1017/dmp.2024.150
 tags:
 - climate change
 - disaster
+- fulltext:pdf-missing
 - global
 - mortality
 - public health
@@ -20,7 +21,7 @@ item_type: journalArticle
 url: https://www.cambridge.org/core/product/identifier/S1935789324001502/type/journal_article
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Global Health Impacts of Wildfire Disasters From 2000 to 2023: A Comprehensive Analysis of Mortality and Injuries

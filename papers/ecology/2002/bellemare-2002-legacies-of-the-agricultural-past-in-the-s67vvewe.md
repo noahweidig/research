@@ -7,13 +7,18 @@ authors:
 year: '2002'
 journal: Journal of Biogeography
 doi: 10.1046/j.1365-2699.2002.00762.x
-tags: []
+tags:
+- agriculture
+- disturbance
+- fulltext:pdf-missing
+- land use
+- vegetation
 zotero_key: S67VVEWE
 item_type: journalArticle
 url: https://onlinelibrary.wiley.com/doi/abs/10.1046/j.1365-2699.2002.00762.x
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Legacies of the agricultural past in the forested present: an assessment of historical land-use effects on rich mesic forests

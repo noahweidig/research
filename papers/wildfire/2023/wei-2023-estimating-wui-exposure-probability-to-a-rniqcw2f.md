@@ -15,12 +15,13 @@ tags:
 - fire suppression
 - random forest
 - spatial analysis
+- wildland-urban interface
 zotero_key: RNIQCW2F
 item_type: journalArticle
 url: https://link.springer.com/article/10.1186/s42408-023-00191-6
 source_url: 'unpaywall: https://fireecology.springeropen.com/counter/pdf/10.1186/s42408-023-00191-6'
 fulltext_status: fulltext
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Estimating WUI exposure probability to a nearby wildfire
@@ -529,7 +530,3 @@ Page 18 of 18
 ### **Publisher’s Note** 
 
 Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations. 
-
-
-
-

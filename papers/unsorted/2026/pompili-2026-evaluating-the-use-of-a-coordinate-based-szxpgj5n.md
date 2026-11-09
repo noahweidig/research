@@ -12,13 +12,15 @@ journal: Stochastic Environmental Research and Risk Assessment
 doi: 10.1007/s00477-026-03283-2
 tags:
 - modeling
+- spatial analysis
+- statistics
 - validation
 zotero_key: SZXPGJ5N
 item_type: journalArticle
 url: https://doi.org/10.1007/s00477-026-03283-2
 source_url: 'unpaywall: https://link.springer.com/content/pdf/10.1007/s00477-026-03283-2.pdf'
 fulltext_status: fulltext
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Evaluating the use of a coordinate-based tensor-product for addressing spatial autocorrelation in shallow landslide susceptibility modelling
@@ -903,5 +905,3 @@ Stochastic Environmental Research and Risk Assessment (2026) 40:157
 ```
 1 3
 ```
-
-

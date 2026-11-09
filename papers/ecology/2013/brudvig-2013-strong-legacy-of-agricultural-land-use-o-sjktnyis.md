@@ -9,13 +9,18 @@ authors:
 year: '2013'
 journal: Forest Ecology and Management
 doi: 10.1016/j.foreco.2013.09.053
-tags: []
+tags:
+- agriculture
+- fulltext:pdf-missing
+- soil properties
+- southeastern united states
+- understory vegetation
 zotero_key: SJKTNYIS
 item_type: journalArticle
 url: https://www.sciencedirect.com/science/article/pii/S0378112713006671
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Strong legacy of agricultural land use on soils and understory plant communities in longleaf pine woodlands

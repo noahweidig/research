@@ -10,14 +10,16 @@ year: '2014'
 journal: Scientific Reports
 doi: 10.1038/srep04460
 tags:
+- china
 - forest ecology
 - restoration
+- soil properties
 zotero_key: RH7NDHS3
 item_type: journalArticle
 url: https://www.nature.com/articles/srep04460
 source_url: 'unpaywall: https://www.nature.com/articles/srep04460.pdf'
 fulltext_status: fulltext
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Chinese Grain for Green Program led to highly increased soil organic carbon levels: A meta-analysis
@@ -307,5 +309,3 @@ NonCommercial-ShareAlike 3.0 Unported license. To view a copy of this license, v
 SCIENTIFIC REPORTS | 4 : 4460 | DOI: 10.1038/srep04460 
 
 7 
-
-

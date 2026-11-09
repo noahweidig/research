@@ -8,13 +8,18 @@ authors:
 year: '2015'
 journal: Forest Ecology and Management
 doi: 10.1016/j.foreco.2015.04.006
-tags: []
+tags:
+- agriculture
+- fire
+- fulltext:pdf-found
+- soil properties
+- southeastern united states
 zotero_key: SIN5EIYV
 item_type: journalArticle
 url: https://www.sciencedirect.com/science/article/pii/S0378112715002005
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Historical agriculture and contemporary fire frequency alter soil properties in longleaf pine woodlands

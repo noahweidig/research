@@ -11,12 +11,13 @@ tags:
 - large wildfires
 - prescribed burning
 - united states
+- wildfire
 zotero_key: RFANKUXI
 item_type: journalArticle
 url: https://openalex.org/W7171881315
 source_url: 'unpaywall: https://isprs-archives.copernicus.org/articles/XLIX-B3-2026/987/2026/isprs-archives-XLIX-B3-2026-987-2026.pdf'
 fulltext_status: fulltext
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Tracking the efficacy of prescribed burns in three phases: fuel removal, wildfire mitigation, and vegetation recovery
@@ -348,5 +349,3 @@ Schollaert, C.L., Jung, J., Wilkins, J., Alvarado, E., Baumgartner, J., Brun, J.
 This contribution has been peer-reviewed. https://doi.org/10.5194/isprs-archives-XLIX-B3-2026-987-2026 | © Author(s) 2026. CC BY 4.0 License. 
 
 993 
-
-

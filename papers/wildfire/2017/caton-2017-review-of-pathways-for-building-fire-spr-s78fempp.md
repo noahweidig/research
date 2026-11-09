@@ -12,6 +12,7 @@ doi: 10.1007/s10694-016-0589-z
 tags:
 - fire spread
 - firebrands
+- fulltext:pdf-missing
 - wildfire
 - wildland-urban interface
 zotero_key: S78FEMPP
@@ -19,7 +20,7 @@ item_type: journalArticle
 url: https://doi.org/10.1007/s10694-016-0589-z
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Review of Pathways for Building Fire Spread in the Wildland Urban Interface Part I: Exposure Conditions

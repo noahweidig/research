@@ -16,6 +16,8 @@ year: '2019'
 journal: null
 doi: 10.1016/bs.aecr.2019.02.001
 tags:
+- ecosystems
+- fulltext:pdf-missing
 - global change
 - management
 - resilience
@@ -24,7 +26,7 @@ item_type: bookSection
 url: https://www.sciencedirect.com/science/article/pii/S0065250419300017
 source_url: 'unpaywall: https://www.ncbi.nlm.nih.gov/pmc/articles/6944309'
 fulltext_status: fulltext
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Chapter One - Adaptive capacity in ecosystems

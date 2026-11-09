@@ -14,6 +14,7 @@ tags:
 - ecosystem management
 - fire history
 - forest management
+- fulltext:pdf-missing
 - resilience
 - resistance
 - wildfire
@@ -22,7 +23,7 @@ item_type: journalArticle
 url: https://onlinelibrary.wiley.com/doi/abs/10.1890/06-1715.1
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Climate Change and Forests of the Future: Managing in the Face of Uncertainty

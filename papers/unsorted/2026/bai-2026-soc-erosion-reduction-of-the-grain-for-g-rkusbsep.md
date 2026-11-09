@@ -15,6 +15,7 @@ doi: 10.1016/j.still.2025.106863
 tags:
 - carbon sequestration
 - erosion
+- fulltext:pdf-missing
 - land use change
 - restoration
 zotero_key: RKUSBSEP
@@ -22,7 +23,7 @@ item_type: journalArticle
 url: https://www.sciencedirect.com/science/article/pii/S0167198725004179
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # SOC erosion reduction of the “Grain for green” program on the Loess Plateau, China

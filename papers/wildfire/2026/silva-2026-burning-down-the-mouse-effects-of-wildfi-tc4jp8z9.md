@@ -12,6 +12,8 @@ year: '2026'
 journal: bioRxiv (Cold Spring Harbor Laboratory)
 doi: 10.64898/2026.09.02.748549
 tags:
+- finance
+- habitats
 - prescribed burning
 - wildfire
 zotero_key: TC4JP8Z9
@@ -19,7 +21,7 @@ item_type: journalArticle
 url: https://openalex.org/W7208823988
 source_url: 'unpaywall: https://www.biorxiv.org/content/biorxiv/early/2026/09/03/2026.09.02.748549.full.pdf'
 fulltext_status: fulltext
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Burning down the mouse: Effects of wildfire and post-fire reseeding on Sin Nombre virus prevalence in its reservoir host
@@ -1694,5 +1696,3 @@ Yahnke, Christopher J., Peter L. Meserve, Thomas G. Ksiazek, and James N. Mills.
 949 Zwolak, Rafał, Dean E. Pearson, Yvette K. Ortega, and Elizabeth E. Crone. 2010. “Fire and 950 mice: Seed predation moderates fire’s influence on conifer recruitment.” _Ecology_ 91(4):1124– 951 1131. 
 
 952 
-
-

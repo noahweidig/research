@@ -7,13 +7,17 @@ authors:
 year: '2022'
 journal: Journal of Vegetation Science
 doi: 10.1111/jvs.13155
-tags: []
+tags:
+- grassland
+- precipitation
+- remote sensing
+- woody encroachment
 zotero_key: RHXU3VE6
 item_type: journalArticle
 url: https://onlinelibrary.wiley.com/doi/abs/10.1111/jvs.13155
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Incipient woody plant encroachment signals heightened vulnerability for an intact grassland region

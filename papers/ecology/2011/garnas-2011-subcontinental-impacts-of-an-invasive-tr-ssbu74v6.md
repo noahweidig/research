@@ -8,13 +8,17 @@ authors:
 year: '2011'
 journal: Journal of Ecology
 doi: 10.1111/j.1365-2745.2010.01791.x
-tags: []
+tags:
+- forest structure
+- invasive species
+- trees
+- united states
 zotero_key: SSBU74V6
 item_type: journalArticle
 url: https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1365-2745.2010.01791.x
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Subcontinental impacts of an invasive tree disease on forest structure and dynamics

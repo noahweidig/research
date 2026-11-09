@@ -9,15 +9,16 @@ year: '2026'
 journal: Communications Earth & Environment
 doi: 10.1038/s43247-026-03336-y
 tags:
-- climate-change impacts
+- climate change
 - environmental sciences
 - natural hazards
+- wildfire
 zotero_key: RVWJCB4R
 item_type: journalArticle
 url: https://www.nature.com/articles/s43247-026-03336-y
 source_url: 'unpaywall: https://www.nature.com/articles/s43247-026-03336-y_reference.pdf'
 fulltext_status: fulltext
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Urban areas in the United States experience substantial wildfire impacts
@@ -515,5 +516,3 @@ _Communications Earth & Environment_ thanks Mark Billings and the other, anonymo
 
 <!-- Start of picture text -->
 ARTICLE IN PRESS<br><!-- End of picture text -->
-
-
