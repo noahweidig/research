@@ -7,13 +7,17 @@ authors:
 year: '2019'
 journal: Journal of Open Source Software
 doi: 10.21105/joss.01412
-tags: []
+tags:
+- modeling
+- r package
+- statistics
+- topography
 zotero_key: 6BC46V4T
 item_type: journalArticle
 url: http://joss.theoj.org/papers/10.21105/joss.01412
 source_url: 'unpaywall: https://joss.theoj.org/papers/10.21105/joss.01412.pdf'
 fulltext_status: fulltext
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # insight: A Unified Interface to Access Information from Model Objects in R
@@ -268,5 +272,3 @@ R Core Team. (2019). _R: A language and environment for statistical computing_ .
 6 
 
 Lüdecke et al., (2019). insight: A Unified Interface to Access Information from Model Objects in R. _Journal of Open Source Software_ , 4(38), 1412. https://doi.org/10.21105/joss.01412 
-
-

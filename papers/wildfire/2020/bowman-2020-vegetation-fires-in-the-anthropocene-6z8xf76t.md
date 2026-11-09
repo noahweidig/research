@@ -15,13 +15,14 @@ tags:
 - climate change
 - environmental impact
 - fire ecology
+- fulltext:pdf-missing
 - natural hazards
 zotero_key: 6Z8XF76T
 item_type: journalArticle
 url: https://www.nature.com/articles/s43017-020-0085-3
 source_url: 'unpaywall: https://research.vu.nl/en/publications/ef2e9785-0178-4f01-8863-c2020369323a'
 fulltext_status: fulltext
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Vegetation fires in the Anthropocene

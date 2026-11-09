@@ -5,13 +5,18 @@ authors:
 year: '2024'
 journal: AGU News
 doi: null
-tags: []
+tags:
+- fulltext:check-needed
+- southeastern united states
+- trees
+- united states
+- wildfire
 zotero_key: 7QSD7IJG
 item_type: newspaperArticle
 url: https://news.agu.org/press-release/shrub-growth-fuels-eastern-wildfires/
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Wildfire surges in East, Southeast US fueled by new trees and shrubs

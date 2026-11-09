@@ -34,14 +34,16 @@ year: '2024'
 journal: Scientific Data
 doi: 10.1038/s41597-024-03141-2
 tags:
+- burned area
 - environmental impact
+- fire
 - natural hazards
 zotero_key: 3GV338L6
 item_type: journalArticle
 url: https://www.nature.com/articles/s41597-024-03141-2
 source_url: 'unpaywall: https://www.nature.com/articles/s41597-024-03141-2.pdf'
 fulltext_status: fulltext
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # A monthly gridded burned area database of national wildland fire data
@@ -684,5 +686,3 @@ www.nature.com/scientificdata/
 Scientific **Data** | _(2024) 11:352_ | https://doi.org/10.1038/s41597-024-03141-2 
 
 17 
-
-

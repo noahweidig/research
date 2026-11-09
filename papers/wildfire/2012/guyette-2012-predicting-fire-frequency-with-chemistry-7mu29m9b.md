@@ -12,13 +12,14 @@ tags:
 - climate
 - climate change
 - fire frequency
+- fulltext:pdf-missing
 - united states
 zotero_key: 7MU29M9B
 item_type: journalArticle
 url: https://doi.org/10.1007/s10021-011-9512-0
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Predicting Fire Frequency with Chemistry and Climate

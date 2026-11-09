@@ -9,6 +9,8 @@ year: '2026'
 journal: Current Environmental Health Reports
 doi: 10.1007/s40572-026-00547-5
 tags:
+- exposure
+- public health
 - united states
 - wildfire
 zotero_key: 6F6VVEXQ
@@ -16,7 +18,7 @@ item_type: journalArticle
 url: https://openalex.org/W7203639507
 source_url: 'unpaywall: https://link.springer.com/content/pdf/10.1007/s40572-026-00547-5.pdf'
 fulltext_status: fulltext
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # The Mental Health Impacts of Wildfire Exposure: A Scoping Review of the Quantitative Evidence
@@ -1805,5 +1807,3 @@ Current Environmental Health Reports
 ```
 1 3
 ```
-
-

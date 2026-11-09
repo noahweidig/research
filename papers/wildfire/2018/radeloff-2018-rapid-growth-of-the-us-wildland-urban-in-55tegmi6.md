@@ -15,13 +15,18 @@ authors:
 year: '2018'
 journal: Proceedings of the National Academy of Sciences
 doi: 10.1073/pnas.1718850115
-tags: []
+tags:
+- fire risk
+- fulltext:pdf-missing
+- united states
+- wildfire
+- wildland-urban interface
 zotero_key: 55TEGMI6
 item_type: journalArticle
 url: https://www.pnas.org/doi/full/10.1073/pnas.1718850115
 source_url: 'unpaywall: https://www.ncbi.nlm.nih.gov/pmc/articles/5879688'
 fulltext_status: fulltext
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Rapid growth of the US wildland-urban interface raises wildfire risk

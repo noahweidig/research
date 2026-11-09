@@ -7,13 +7,18 @@ authors:
 year: '2007'
 journal: Proceedings of the National Academy of Sciences
 doi: 10.1073/pnas.0704488104
-tags: []
+tags:
+- fire
+- fire risk
+- flammability
+- fulltext:pdf-missing
+- wildland-urban interface
 zotero_key: 5T4XA5HI
 item_type: journalArticle
 url: https://www.pnas.org/doi/full/10.1073/pnas.0704488104
 source_url: 'unpaywall: https://www.ncbi.nlm.nih.gov/pmc/articles/1950891'
 fulltext_status: fulltext
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Development at the wildland–urban interface and the mitigation of forest-fire risk

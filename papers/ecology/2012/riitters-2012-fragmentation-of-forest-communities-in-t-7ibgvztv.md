@@ -8,14 +8,17 @@ year: '2012'
 journal: Forest Ecology and Management
 doi: 10.1016/j.foreco.2011.09.022
 tags:
+- eastern united states
 - edge effects
+- fragmentation
+- fulltext:pdf-missing
 - sustainability
 zotero_key: 7IBGVZTV
 item_type: journalArticle
 url: https://www.sciencedirect.com/science/article/pii/S0378112711005810
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Fragmentation of forest communities in the eastern United States

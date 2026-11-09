@@ -5,13 +5,18 @@ authors:
 year: '1986'
 journal: null
 doi: 10.1201/9781315140919
-tags: []
+tags:
+- fulltext:check-needed
+- modeling
+- natural hazards
+- statistics
+- survey research
 zotero_key: 7HZ949VH
 item_type: book
 url: https://doi.org/10.1201/9781315140919
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Density Estimation for Statistics and Data Analysis

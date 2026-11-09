@@ -13,13 +13,17 @@ authors:
 year: '2024'
 journal: Journal of Applied Remote Sensing
 doi: 10.1117/1.JRS.18.028501
-tags: []
+tags:
+- large wildfires
+- machine learning
+- united states
+- wildfire
 zotero_key: 665U937L
 item_type: journalArticle
 url: https://www.spiedigitallibrary.org/journals/journal-of-applied-remote-sensing/volume-18/issue-2/028501/Predicting-large-wildfires-in-the-Contiguous-United-States-using-deep/10.1117/1.JRS.18.028501.full
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Predicting large wildfires in the Contiguous United States using deep neural networks

@@ -6,13 +6,18 @@ authors:
 year: '1999'
 journal: Ecography
 doi: 10.1111/j.1600-0587.1999.tb00501.x
-tags: []
+tags:
+- edge effects
+- fulltext:pdf-missing
+- heterogeneity
+- spatial analysis
+- vegetation
 zotero_key: 6H2ISSSA
 item_type: journalArticle
 url: https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1600-0587.1999.tb00501.x
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Changes in community and population responses across a forest-field gradient

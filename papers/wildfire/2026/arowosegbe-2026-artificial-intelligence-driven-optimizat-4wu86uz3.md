@@ -6,6 +6,8 @@ year: '2026'
 journal: International Journal of Computer Applications Technology and Research
 doi: 10.7753/ijcatr1412.1017
 tags:
+- decision support
+- machine learning
 - united states
 - wildfire
 zotero_key: 4WU86UZ3
@@ -13,7 +15,7 @@ item_type: journalArticle
 url: https://openalex.org/W7171230907
 source_url: 'unpaywall: https://doi.org/10.7753/ijcatr1412.1017'
 fulltext_status: fulltext
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Artificial Intelligence-Driven Optimization of Food Transportation Systems for Enhancing Food Security, Supply Chain Resilience, and Operational Efficiency in the United States
@@ -500,5 +502,3 @@ Efficiency And Zoonotic Risk Mitigation. ASRC Procedia: Global Perspectives in S
 <u>www.ijcat.com</u> 
 
 187 
-
-

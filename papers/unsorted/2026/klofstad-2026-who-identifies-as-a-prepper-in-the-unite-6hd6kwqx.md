@@ -10,13 +10,16 @@ year: '2026'
 journal: Social Science Quarterly
 doi: 10.1111/ssqu.70207
 tags:
+- disaster
+- natural hazards
+- survey research
 - united states
 zotero_key: 6HD6KWQX
 item_type: journalArticle
 url: https://openalex.org/W7222797769
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Who Identifies as a “Prepper” in the United States?

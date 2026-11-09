@@ -20,14 +20,16 @@ year: '2025'
 journal: Nature Communications
 doi: 10.1038/s41467-025-66292-9
 tags:
+- air pollution
 - atmospheric science
 - natural hazards
+- united states
 zotero_key: 6D2LY5C4
 item_type: journalArticle
 url: https://www.nature.com/articles/s41467-025-66292-9
 source_url: 'unpaywall: https://www.nature.com/articles/s41467-025-66292-9_reference.pdf'
 fulltext_status: fulltext
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Emissions from burned structures in wildfires as significant yet unaccounted sources of US air pollution
@@ -401,5 +403,3 @@ ARTICLE IN PRESS<br><!-- End of picture text -->
 
 <!-- Start of picture text -->
 (A) Conterminous U.S. (2000-2020) (B) Western U.S.  (2000-2020) (C) Eastern U.S.  (2000-2020)<br>10 8<br> = 0.67, p <0.001 10 6  = 0.75, p <0.001 ARTICLE IN PRESS  = 0.21, p <0.001<br>10 5<br>10 6<br>Dec<br>Nov<br>10 4 10 4<br>Oct<br>10 2 Sep<br>10 2 10 0<br>Aug<br>10 0<br>0 10 20 30 40 50 0 20 40 60 0 10 20 30 40<br>Jul<br>(D) Conterminous U.S. (2000-2020) (E) Western U.S.  (2000-2020) (F) Eastern U.S.  (2000-2020)<br>10 12 Jun<br>10 10<br> = 0.53, p <0.001  = 0.67, p <0.001  = 0.17, p = 0.006<br>10 10<br>May<br>10 10<br>Apr<br>10 8 10 8 Mar<br>10 8<br>Feb<br>10 6<br>Jan<br>10 6 10 6<br>10 4<br>0 10 20 30 40 50 0 20 40 60 0 10 20 30 40<br>Fire Weather Index Fire Weather Index Fire Weather Index<br>ARTICLE IN PRESS<br>Month<br>Burn area (acres)<br>CO emissions (g)<br><!-- End of picture text -->
-
-

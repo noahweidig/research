@@ -8,13 +8,18 @@ authors:
 year: '2007'
 journal: CABI Reviews
 doi: 10.1079/PAVSNNR20072057
-tags: []
+tags:
+- agriculture
+- biodiversity
+- fulltext:pdf-missing
+- humans
+- soil properties
 zotero_key: 6HEAPAE2
 item_type: journalArticle
 url: http://www.cabidigitallibrary.org/doi/10.1079/PAVSNNR20072057
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Abandonment of agricultural land: an overview of drivers and consequences.

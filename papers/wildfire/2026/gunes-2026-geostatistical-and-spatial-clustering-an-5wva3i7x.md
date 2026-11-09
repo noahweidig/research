@@ -7,6 +7,7 @@ journal: International Journal of Advances in Engineering and Pure Sciences
 doi: 10.7240/jeps.1954934
 tags:
 - large wildfires
+- statistics
 - wildfire
 - wildfire occurrence
 zotero_key: 5WVA3I7X
@@ -14,7 +15,7 @@ item_type: journalArticle
 url: https://openalex.org/W7214519283
 source_url: 'unpaywall: https://dergipark.org.tr/en/download/article-file/6031258'
 fulltext_status: fulltext
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Geostatistical and Spatial Clustering Analysis for Wildfire Monitoring in Türkiye
@@ -422,5 +423,3 @@ Wildfire Spatial Monitoring in Türkiye
 - **[26]** Pedregosa, F., Varoquaux, G., Gramfort, A., Michel, V., Thirion, B., Grisel, O., Blondel, M., Prettenhofer, P., Weiss, R., Dubourg, V., Vanderplas, J., Passos, A., Cournapeau, D., Brucher, M., Perrot, M., & Duchesnay, E. (2011). Scikit-learn: Machine learning in Python. Journal of Machine Learning Research, 12, 2825–2830. 
 
 479 
-
-

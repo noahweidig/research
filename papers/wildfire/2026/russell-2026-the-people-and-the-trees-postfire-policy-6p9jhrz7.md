@@ -10,13 +10,14 @@ doi: 10.1080/26395916.2026.2710839
 tags:
 - drivers
 - large wildfires
+- trees
 - wildfire
 zotero_key: 6P9JHRZ7
 item_type: journalArticle
 url: https://openalex.org/W7203720209
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # The people and the trees: postfire policy and rehabilitation in Washoe Country

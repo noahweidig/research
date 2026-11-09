@@ -9,7 +9,9 @@ year: '2010'
 journal: Fire Safety Journal
 doi: 10.1016/j.firesaf.2009.09.002
 tags:
+- finance
 - firebrands
+- fulltext:pdf-missing
 - ignition
 - wildland-urban interface
 zotero_key: 6IXXST7S
@@ -17,7 +19,7 @@ item_type: journalArticle
 url: https://www.sciencedirect.com/science/article/pii/S0379711209001192
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Quantifying the vulnerabilities of ceramic tile roofing assemblies to ignition during a firebrand attack

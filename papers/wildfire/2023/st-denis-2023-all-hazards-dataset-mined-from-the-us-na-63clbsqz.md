@@ -12,13 +12,16 @@ year: '2023'
 journal: Scientific Data
 doi: 10.1038/s41597-023-01955-0
 tags:
+- dataset
+- fire
 - natural hazards
+- united states
 zotero_key: 63CLBSQZ
 item_type: journalArticle
 url: https://www.nature.com/articles/s41597-023-01955-0
 source_url: 'unpaywall: https://www.nature.com/articles/s41597-023-01955-0.pdf'
 fulltext_status: fulltext
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # All-hazards dataset mined from the US National Incident Management System 1999-2020
@@ -903,5 +906,3 @@ The authors declare no competing interests.
 Scientific **Data** | _(2023) 10:112_ | https://doi.org/10.1038/s41597-023-01955-0 
 
 23 
-
-

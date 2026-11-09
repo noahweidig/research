@@ -19,6 +19,7 @@ tags:
 - fuel breaks
 - fuel characteristic classification system
 - fuel load
+- fulltext:check-needed
 - great basin
 - invasive species
 - rangeland
@@ -28,7 +29,7 @@ item_type: journalArticle
 url: https://onlinelibrary.wiley.com/doi/abs/10.1002/ecs2.4064
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Fuel reduction treatments reduce modeled fire intensity in the sagebrush steppe

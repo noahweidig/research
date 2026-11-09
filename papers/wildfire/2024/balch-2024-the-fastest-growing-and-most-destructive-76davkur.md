@@ -18,13 +18,18 @@ authors:
 year: '2024'
 journal: Science
 doi: 10.1126/science.adk5737
-tags: []
+tags:
+- fire
+- fire suppression
+- fulltext:pdf-missing
+- united states
+- western united states
 zotero_key: 76DAVKUR
 item_type: journalArticle
 url: https://www.science.org/doi/full/10.1126/science.adk5737
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # The fastest-growing and most destructive fires in the US (2001 to 2020)

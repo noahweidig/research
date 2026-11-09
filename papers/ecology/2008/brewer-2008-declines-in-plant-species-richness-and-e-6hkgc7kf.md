@@ -7,13 +7,16 @@ journal: Biological Invasions
 doi: 10.1007/s10530-007-9200-3
 tags:
 - conservation
+- fulltext:pdf-missing
 - invasive species
+- plant physiology
+- southeastern united states
 zotero_key: 6HKGC7KF
 item_type: journalArticle
 url: https://doi.org/10.1007/s10530-007-9200-3
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Declines in plant species richness and endemic plant species in longleaf pine savannas invaded by Imperata cylindrica

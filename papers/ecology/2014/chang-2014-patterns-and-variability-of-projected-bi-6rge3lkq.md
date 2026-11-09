@@ -7,13 +7,17 @@ authors:
 year: '2014'
 journal: PLoS ONE
 doi: 10.1371/journal.pone.0111669
-tags: []
+tags:
+- climate change
+- climate modeling
+- habitats
+- vegetation
 zotero_key: 6RGE3LKQ
 item_type: journalArticle
 url: https://dx.plos.org/10.1371/journal.pone.0111669
 source_url: 'unpaywall: https://doi.org/10.1371/journal.pone.0111669'
 fulltext_status: fulltext
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Patterns and Variability of Projected Bioclimatic Habitat for Pinus albicaulis in the Greater Yellowstone Area

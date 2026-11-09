@@ -9,13 +9,16 @@ journal: Global Ecology and Conservation
 doi: 10.1016/j.gecco.2022.e02243
 tags:
 - biodiversity
+- biomes
+- fulltext:check-needed
+- invasive species
 - urbanization
 zotero_key: 6AEMKMXV
 item_type: journalArticle
 url: https://www.sciencedirect.com/science/article/pii/S2351989422002451
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Urbanization driving changes in plant species and communities – A global view
