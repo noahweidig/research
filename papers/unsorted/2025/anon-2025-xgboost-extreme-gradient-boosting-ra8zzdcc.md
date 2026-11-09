@@ -4,13 +4,18 @@ authors: []
 year: '2025'
 journal: null
 doi: null
-tags: []
+tags:
+- extremes
+- fulltext:check-needed
+- machine learning
+- r package
+- xgboost
 zotero_key: RA8ZZDCC
 item_type: computerProgram
 url: https://cran.r-project.org/web/packages/xgboost/index.html
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # xgboost: Extreme Gradient Boosting

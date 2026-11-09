@@ -8,14 +8,16 @@ year: '2026'
 journal: Frontiers in Sustainable Food Systems
 doi: 10.3389/fsufs.2026.1869993
 tags:
+- california
 - united states
+- western united states
 - wildfire
 zotero_key: QJ6AF97H
 item_type: journalArticle
 url: https://openalex.org/W7203771426
 source_url: 'unpaywall: https://www.frontiersin.org/journals/sustainable-food-systems/articles/10.3389/fsufs.2026.1869993/pdf'
 fulltext_status: fulltext
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # “Turn the faucet”: right-wing hydrosocial imaginaries of irrigation water in the Western United States
@@ -663,5 +665,3 @@ Frontiers in Sustainable Food Systems
 16 
 
 frontiersin.org 
-
-

@@ -5,13 +5,17 @@ authors:
 year: '2024'
 journal: null
 doi: null
-tags: []
+tags:
+- conservation
+- firebrands
+- grassland
+- prescribed burning
 zotero_key: QW2DB6FD
 item_type: thesis
 url: https://hdl.handle.net/2097/44376
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # The perceived barriers among prescribed burn association members to burning on Kansas grasslands and Conservation Reserve Program lands

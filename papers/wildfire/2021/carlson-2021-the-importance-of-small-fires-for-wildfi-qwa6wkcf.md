@@ -12,13 +12,18 @@ authors:
 year: '2021'
 journal: International Journal of Wildland Fire
 doi: 10.1071/WF20186
-tags: []
+tags:
+- fire hazard
+- fulltext:pdf-missing
+- natural hazards
+- united states
+- wildfire
 zotero_key: QWA6WKCF
 item_type: journalArticle
 url: https://www.publish.csiro.au/wf/WF20186
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # The importance of small fires for wildfire hazard in urbanised landscapes of the northeastern US

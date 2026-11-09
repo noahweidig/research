@@ -12,6 +12,8 @@ year: '2026'
 journal: Safety Science
 doi: 10.1016/j.ssci.2026.107459
 tags:
+- australia
+- decision support
 - united states
 - wildfire
 zotero_key: RBRRWT9U
@@ -19,7 +21,7 @@ item_type: journalArticle
 url: https://openalex.org/W7214037256
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Human behaviour in wildfire emergencies: insights from evacuation decision-making and timing across Canada, Australia, and the United States

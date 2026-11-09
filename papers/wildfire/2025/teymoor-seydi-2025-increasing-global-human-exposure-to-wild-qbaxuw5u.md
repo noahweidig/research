@@ -14,13 +14,17 @@ authors:
 year: '2025'
 journal: Science
 doi: 10.1126/science.adu6408
-tags: []
+tags:
+- burned area
+- disaster
+- exposure
+- fire
 zotero_key: QBAXUW5U
 item_type: journalArticle
 url: https://www.science.org/doi/10.1126/science.adu6408
 source_url: 'unpaywall: https://ueaeprints.uea.ac.uk/id/eprint/100877/1/adu6408_ArticleContent_v7.pdf'
 fulltext_status: fulltext
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Increasing global human exposure to wildland fires despite declining burned area
@@ -490,5 +494,3 @@ All data and materials used in this study are available at Seydi et al. ( _47_ )
 - 433 
 
 12 
-
-

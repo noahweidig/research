@@ -14,14 +14,16 @@ journal: Forest Ecology and Management
 doi: 10.1016/j.foreco.2015.10.042
 tags:
 - disturbance
+- fulltext:pdf-missing
 - landsat time series
 - remote sensing
+- united states
 zotero_key: QSZZ3Q8A
 item_type: journalArticle
 url: https://www.sciencedirect.com/science/article/pii/S037811271500599X
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Forest disturbance across the conterminous United States from 1985–2012: The emerging dominance of forest decline

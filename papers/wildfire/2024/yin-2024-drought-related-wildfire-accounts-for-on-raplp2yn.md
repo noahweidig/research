@@ -10,13 +10,18 @@ authors:
 year: '2024'
 journal: Agricultural and Forest Meteorology
 doi: 10.1016/j.agrformet.2024.109893
-tags: []
+tags:
+- china
+- drought
+- fulltext:pdf-missing
+- vapour pressure deficit
+- wildfire
 zotero_key: RAPLP2YN
 item_type: journalArticle
 url: https://www.sciencedirect.com/science/article/pii/S016819232400008X
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Drought-related wildfire accounts for one-third of the forest wildfires in subtropical China

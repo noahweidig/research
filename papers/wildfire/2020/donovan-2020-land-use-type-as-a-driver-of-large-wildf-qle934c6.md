@@ -13,6 +13,7 @@ tags:
 - exposure
 - extremes
 - grassland
+- natural disaster
 - regional planning
 - woody encroachment
 zotero_key: QLE934C6
@@ -20,7 +21,7 @@ item_type: journalArticle
 url: https://www.mdpi.com/2072-4292/12/11/1869
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Land-Use Type as a Driver of Large Wildfire Occurrence in the U.S. Great Plains

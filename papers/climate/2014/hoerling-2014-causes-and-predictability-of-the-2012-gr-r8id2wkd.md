@@ -12,13 +12,18 @@ authors:
 year: '2014'
 journal: Bulletin of the American Meteorological Society
 doi: 10.1175/BAMS-D-13-00055.1
-tags: []
+tags:
+- climate
+- drought
+- fulltext:pdf-found
+- modeling
+- precipitation
 zotero_key: R8ID2WKD
 item_type: journalArticle
 url: https://journals.ametsoc.org/doi/10.1175/BAMS-D-13-00055.1
 source_url: 'unpaywall: https://doi.org/10.7916/d8-rz8w-4628'
 fulltext_status: fulltext
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Causes and Predictability of the 2012 Great Plains Drought

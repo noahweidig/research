@@ -5,13 +5,17 @@ authors:
 year: '1973'
 journal: Annual Review of Ecology and Systematics
 doi: 10.1146/annurev.es.04.110173.000245
-tags: []
+tags:
+- disturbance
+- ecosystems
+- resilience
+- stability
 zotero_key: R9CCXL3P
 item_type: journalArticle
 url: https://doi.org/10.1146/annurev.es.04.110173.000245
 source_url: 'unpaywall: http://pure.iiasa.ac.at/id/eprint/26/1/RP-73-003.pdf'
 fulltext_status: fulltext
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Resilience and Stability of Ecological Systems
@@ -290,5 +294,3 @@ The resilience and stability viewpoints of the behavior of ecological systems ca
 **3.** Cooper, C F. 1961. Tlrc ecology or firc. **_SCI. AIII._** 20.1: 150-6, 158. 160 
 
 **4.** Edniondson, **H'.** T. 1961. Changes in Lake H'ash~ngton Ijllowing increase In 
-
-

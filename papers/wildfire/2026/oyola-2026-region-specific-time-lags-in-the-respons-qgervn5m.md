@@ -7,13 +7,15 @@ journal: null
 doi: 10.5194/egusphere-2026-6022
 tags:
 - burning
+- fire
+- statistics
 - united states
 zotero_key: QGERVN5M
 item_type: journalArticle
 url: https://openalex.org/W7223048851
 source_url: 'unpaywall: https://egusphere.copernicus.org/preprints/2026/egusphere-2026-6022/egusphere-2026-6022.pdf'
 fulltext_status: fulltext
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Region-specific time lags in the response of black carbon to ENSO from 46 years of MERRA-2 reanalysis
@@ -451,5 +453,3 @@ https://doi.org/10.5194/egusphere-2026-6022 Preprint. Discussion started: 20 Oct
 **Figure 6.** Area-weighted regional mean BC column mass anomaly (blue, left axis) and ONI (red, right axis) shifted forward by each region’s lag for (top) the Maritime Continent (0 months), (middle) Central America (5 months), and (bottom) the Amazon (7 months). Dashed vertical lines mark changes in the MERRA-2 biomass burning emission inventory, from RETROv2 to GFEDv3.1 in 1997 and from GFEDv3.1 to QFEDv2.4 in 2010 (Randles et al., 2017). 
 
 **20** 
-
-

@@ -12,6 +12,7 @@ doi: 10.1016/j.rse.2024.114189
 tags:
 - fire hazard
 - fuels
+- fulltext:pdf-missing
 - random forest
 - structure loss
 - wildfire
@@ -20,7 +21,7 @@ item_type: journalArticle
 url: https://www.sciencedirect.com/science/article/pii/S0034425724002074
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Fractional cover mapping of wildland-urban interface fuels using Landsat, Sentinel 1 and PALSAR imagery

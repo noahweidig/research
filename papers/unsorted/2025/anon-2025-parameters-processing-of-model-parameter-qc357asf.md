@@ -6,13 +6,16 @@ journal: null
 doi: null
 tags:
 - distributions
+- fulltext:check-needed
 - mixed models
+- r package
+- software
 zotero_key: QC357ASF
 item_type: computerProgram
 url: https://cran.r-project.org/web/packages/parameters/index.html
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # parameters: Processing of Model Parameters

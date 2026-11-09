@@ -12,13 +12,16 @@ year: '2026'
 journal: Scientific Reports
 doi: 10.1038/s41598-026-75322-5
 tags:
+- finance
+- soil properties
 - united states
+- western united states
 zotero_key: QIM78DQE
 item_type: journalArticle
 url: https://openalex.org/W7222153875
 source_url: 'unpaywall: https://www.nature.com/articles/s41598-026-75322-5_reference.pdf'
 fulltext_status: fulltext
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Radiogenic isotope variability in contemporary mineral dust across the intermountain west of the United States
@@ -445,5 +448,3 @@ Jeffrey S. Munroe Jeffrey.Munroe@uibk.ac.at
 - 5 Department of Chemistry, University of Montreal, Montreal, Canada 
 
 Scientific Reports 
-
-

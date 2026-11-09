@@ -23,6 +23,9 @@ year: '2007'
 journal: Reviews of Geophysics
 doi: 10.1029/2005RG000183
 tags:
+- dataset
+- digital elevation model
+- geospatial data
 - remote sensing
 - topography
 zotero_key: R6E7WWTQ
@@ -30,7 +33,7 @@ item_type: journalArticle
 url: https://onlinelibrary.wiley.com/doi/abs/10.1029/2005RG000183
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # The Shuttle Radar Topography Mission

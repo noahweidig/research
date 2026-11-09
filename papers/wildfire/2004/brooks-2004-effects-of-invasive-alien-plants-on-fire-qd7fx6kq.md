@@ -13,13 +13,17 @@ authors:
 year: '2004'
 journal: BioScience
 doi: 10.1641/0006-3568(2004)054[0677:EOIAPO]2.0.CO;2
-tags: []
+tags:
+- fire
+- fire regime
+- invasive species
+- restoration
 zotero_key: QD7FX6KQ
 item_type: journalArticle
 url: https://doi.org/10.1641/0006-3568(2004)054[0677:EOIAPO]2.0.CO;2
 source_url: 'unpaywall: https://researchportal.murdoch.edu.au/view/delivery/61MUN_INST/12135977900007891/13136740140007891'
 fulltext_status: fulltext
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Effects of Invasive Alien Plants on Fire Regimes
@@ -491,5 +495,3 @@ _July 2004 / Vol. 54 No. 7 •_ **BioScience 687**
 - Zedler PH, Scheid GA. 1988. Invasion of _Carpobrotus edulis_ and _Salix lasiolepis_ after fire in a coastal chaparral site in Santa Barbara County, California. Madroño 35: 196–201. 
 
 **688 BioScience  •** _July 2004 / Vol. 54 No. 7_ 
-
-

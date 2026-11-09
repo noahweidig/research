@@ -5,13 +5,18 @@ authors:
 year: '2003'
 journal: Global and Planetary Change
 doi: 10.1016/S0921-8181(02)00088-7
-tags: []
+tags:
+- eastern united states
+- fulltext:pdf-missing
+- trees
+- united states
+- vegetation
 zotero_key: QEESWRSZ
 item_type: journalArticle
 url: https://www.sciencedirect.com/science/article/pii/S0921818102000887
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Variations in tree cover in North America since the last glacial maximum

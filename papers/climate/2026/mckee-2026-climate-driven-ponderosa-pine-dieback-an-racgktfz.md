@@ -14,13 +14,17 @@ year: '2026'
 journal: Forest Ecology and Management
 doi: 10.1016/j.foreco.2026.124354
 tags:
+- climate
+- fulltext:check-needed
+- mortality
 - united states
+- western united states
 zotero_key: RACGKTFZ
 item_type: journalArticle
 url: https://openalex.org/W7223223279
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Climate-driven ponderosa pine dieback and regionally variable pathogen pressure across the western United States

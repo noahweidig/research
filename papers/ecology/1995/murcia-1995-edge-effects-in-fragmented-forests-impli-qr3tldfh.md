@@ -5,13 +5,19 @@ authors:
 year: '1995'
 journal: Trends in Ecology & Evolution
 doi: 10.1016/S0169-5347(00)88977-6
-tags: []
+tags:
+- biodiversity
+- conservation
+- edge effects
+- forest ecology
+- fragmentation
+- fulltext:check-needed
 zotero_key: QR3TLDFH
 item_type: journalArticle
 url: https://www.sciencedirect.com/science/article/pii/S0169534700889776
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Edge effects in fragmented forests: implications for conservation

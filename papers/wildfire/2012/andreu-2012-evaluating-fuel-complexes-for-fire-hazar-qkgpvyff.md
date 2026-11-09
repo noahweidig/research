@@ -13,13 +13,14 @@ tags:
 - fuel characteristic classification system
 - fuel load
 - fuel treatments
+- fulltext:pdf-missing
 - united states
 zotero_key: QKGPVYFF
 item_type: journalArticle
 url: https://www.sciencedirect.com/science/article/pii/S0378112711004026
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Evaluating fuel complexes for fire hazard mitigation planning in the southeastern United States

@@ -9,6 +9,7 @@ year: '2018'
 journal: International Journal of Environmental Science and Technology
 doi: 10.1007/s13762-017-1371-6
 tags:
+- fulltext:check-needed
 - ignition
 - natural hazards
 - probability mapping
@@ -18,7 +19,7 @@ item_type: journalArticle
 url: https://doi.org/10.1007/s13762-017-1371-6
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Spatial prediction of wildfire probability in the Hyrcanian ecoregion using evidential belief function model and GIS

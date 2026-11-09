@@ -7,13 +7,15 @@ journal: Entropy
 doi: 10.3390/e26060506
 tags:
 - akaike information criterion
+- mixed models
 - model averaging
+- statistics
 zotero_key: QX87VGVQ
 item_type: journalArticle
 url: https://www.mdpi.com/1099-4300/26/6/506
 source_url: 'unpaywall: https://ecoevorxiv.org/repository/object/5722/download/11178/'
 fulltext_status: fulltext
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Multimodel Approaches Are Not the Best Way to Understand Multifactorial Systems
@@ -199,5 +201,3 @@ Importance of Predictor Variables in Model Averaging: A Plea for Cautious Interp
 - Zhang, Xinyu, Guohua Zou, and Raymond J. Carroll. 2015. “Model Averaging Based on Kullback-Leibler Distance.” _Statistica Sinica_ 25: 1583–98. https://doi.org/10.5705/ss.2013.326. 
 
 11 
-
-

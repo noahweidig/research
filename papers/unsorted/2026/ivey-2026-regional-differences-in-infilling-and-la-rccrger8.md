@@ -9,6 +9,7 @@ year: '2026'
 journal: Forest Ecology and Management
 doi: 10.1016/j.foreco.2025.123446
 tags:
+- eastern united states
 - land use change
 - mesophication
 - woody encroachment
@@ -17,7 +18,7 @@ item_type: journalArticle
 url: https://www.sciencedirect.com/science/article/pii/S0378112725009545
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Regional differences in infilling and land-use conversion characterize woody cover increases across the Eastern United States

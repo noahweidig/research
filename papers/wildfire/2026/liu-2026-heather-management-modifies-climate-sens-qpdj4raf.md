@@ -11,13 +11,15 @@ journal: null
 doi: 10.5194/egusphere-2026-4967
 tags:
 - burning
+- climate
+- fire risk
 - wildfire
 zotero_key: QPDJ4RAF
 item_type: journalArticle
 url: https://openalex.org/W7220395910
 source_url: 'unpaywall: https://egusphere.copernicus.org/preprints/2026/egusphere-2026-4967/egusphere-2026-4967.pdf'
 fulltext_status: fulltext
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Heather management modifies climate sensitivity of surface peat moisture in UK upland peatlands
@@ -1309,5 +1311,3 @@ https://doi.org/10.5194/egusphere-2026-4967 Preprint. Discussion started: 5 Octo
 - 841 Tallis, J.: Growth and degradation of British and Irish blanket mires, _Environmental Reviews_ , _6_ (2), 842 81-122, https://doi.org/10.1139/a98-006, 1998. 843 Wauchope, H. S., Amano, T., Geldmann, J., Johnston, A., Simmons, B. I., Sutherland, W. J., & 844 Jones, J. P.: Evaluating impact using time-series data, _Trends in Ecology & Evolution_ , _36_ (3), 845 196-205, https://doi.org/10.1016/j.tree.2020.11.001, 2020. 846 Whitehead, S. C., Aebischer, N. J., & Baines, D.: Vegetation Responses to Experimental Prescribed 847 Burning and Cutting of Heather on Blanket Peat Sites Managed as Grouse Moors in Northern 848 England, _Applied Vegetation Science_ , _29_ (1), e70066, <u>https://doi.org/10.1111/avsc.70066,</u> 849 2026. 850 Wilkinson, S., Tekatch, A., Markle, C., Moore, P., & Waddington, J.: Shallow peat is most vulnerable 851 to high peat burn severity during wildfire, _Environmental Research Letters_ , _15_ (10), 104032, 852 <u>https://doi.org/10.1088/1748-9326/aba7e8, 2020.</u> 853 Worrall, F., Armstrong, A., & Adamson, J.: The effects of burning and sheep-grazing on water table 854 depth and soil water quality in a upland peat, _Journal of Hydrology_ , _339_ (1-2), 1-14, 855 <u>https://doi.org/10.1016/j.jhydrol.2006.12.025, 2007.</u> 856 Worrall, F., Rowson, J., & Dixon, S.: Effects of managed burning in comparison with vegetation 857 cutting on dissolved organic carbon concentrations in peat soils, _Hydrological Processes_ , 858 _27_ (26), 3994-4003, https://doi.org/10.1002/hyp.9474, 2013. 859 Yu, Z., Loisel, J., Brosseau, D. P., Beilman, D. W., & Hunt, S. J.: Global peatland dynamics since the 860 Last Glacial Maximum, _Geophysical research letters_ , _37_ (13), 861 <u>https://doi.org/10.1029/2010GL043584, 2010.</u> 862 
 
 39 
-
-
