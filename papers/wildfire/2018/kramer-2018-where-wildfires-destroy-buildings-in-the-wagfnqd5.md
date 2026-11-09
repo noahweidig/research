@@ -9,13 +9,18 @@ authors:
 year: '2018'
 journal: International Journal of Wildland Fire
 doi: 10.1071/WF17135
-tags: []
+tags:
+- fulltext:check-needed
+- united states
+- vegetation
+- wildfire
+- wildland-urban interface
 zotero_key: WAGFNQD5
 item_type: journalArticle
 url: https://www.publish.csiro.au/wf/WF17135
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Where wildfires destroy buildings in the US relative to the wildland–urban interface and national fire outreach programs

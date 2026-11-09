@@ -20,12 +20,13 @@ tags:
 - fire severity
 - fuels
 - lidar
+- wildfire
 zotero_key: V9PTH4GF
 item_type: journalArticle
 url: https://www.frontiersin.org/journals/forests-and-global-change/articles/10.3389/ffgc.2022.818713/full
 source_url: 'unpaywall: https://www.frontiersin.org/articles/10.3389/ffgc.2022.818713/pdf'
 fulltext_status: fulltext
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Comparing Remote Sensing and Field-Based Approaches to Estimate Ladder Fuels and Predict Wildfire Burn Severity
@@ -691,5 +692,3 @@ Frontiers in Forests and Global Change | www.frontiersin.org
 April 2022 | Volume 5 | Article 818713 
 
 14 
-
-

@@ -8,13 +8,16 @@ year: '2026'
 journal: International Journal of Innovative Science and Research Technology (IJISRT)
 doi: 10.38124/ijisrt/26sep1244
 tags:
+- disaster
+- modeling
+- public health
 - united states
 zotero_key: WMWJFTEV
 item_type: journalArticle
 url: https://openalex.org/W7220415093
 source_url: 'unpaywall: https://www.ijisrt.com/assets/upload/files/IJISRT26SEP1244.pdf'
 fulltext_status: fulltext
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Predictive Modeling Techniques for Forecasting Emergency Department Overcrowding and Resource Needs in United States Public Hospitals
@@ -1444,5 +1447,3 @@ patient flow and crowding research. Academic Emergency Medicine, 18(12), 1371-13
 - [54.] Wiler, J. L., Griffey, R. T., & Olsen, T. (2013). Review of modeling approaches for emergency department 
 
 IJISRT26SEP1244                                                                 www.ijisrt.com                                                                                 2829 
-
-

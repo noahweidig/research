@@ -7,15 +7,17 @@ year: '2018'
 journal: Regional Environmental Change
 doi: 10.1007/s10113-018-1299-5
 tags:
+- fulltext:pdf-missing
 - grassland
 - land cover
 - land use
+- trees
 zotero_key: VV8QQLX2
 item_type: journalArticle
 url: https://doi.org/10.1007/s10113-018-1299-5
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Recognizing loss of open forest ecosystems by tree densification and land use intensification in the Midwestern USA

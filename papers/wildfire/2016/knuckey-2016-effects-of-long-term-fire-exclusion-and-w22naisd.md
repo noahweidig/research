@@ -9,13 +9,16 @@ journal: Austral Ecology
 doi: 10.1111/aec.12388
 tags:
 - disturbance
+- fire
+- fire frequency
+- fulltext:pdf-missing
 - prescribed burning
 zotero_key: W22NAISD
 item_type: journalArticle
 url: https://onlinelibrary.wiley.com/doi/abs/10.1111/aec.12388
 source_url: 'unpaywall: https://ro.ecu.edu.au/ecuworkspost2013/2336'
 fulltext_status: fulltext
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Effects of long-term fire exclusion and frequent fire on plant community composition: A case study from semi-arid shrublands

@@ -8,6 +8,7 @@ doi: 10.1080/10549811.2014.973608
 tags:
 - fire history
 - forest ecology
+- fulltext:check-needed
 - prescribed burning
 - savanna
 - united states
@@ -16,7 +17,7 @@ item_type: journalArticle
 url: https://doi.org/10.1080/10549811.2014.973608
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Fire in the Northeast: Learning from the Past, Planning for the Future

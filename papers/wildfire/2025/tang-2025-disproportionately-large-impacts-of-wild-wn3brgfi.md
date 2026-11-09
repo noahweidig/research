@@ -21,13 +21,17 @@ authors:
 year: '2025'
 journal: Science Advances
 doi: 10.1126/sciadv.adr2616
-tags: []
+tags:
+- air pollution
+- environmental health
+- fire
+- wildland-urban interface
 zotero_key: WN3BRGFI
 item_type: journalArticle
 url: https://www.science.org/doi/full/10.1126/sciadv.adr2616
 source_url: 'unpaywall: https://www.ncbi.nlm.nih.gov/pmc/articles/11908471'
 fulltext_status: fulltext
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Disproportionately large impacts of wildland-urban interface fire emissions on global air quality and human health

@@ -27,13 +27,16 @@ year: '2026'
 journal: Science Advances
 doi: 10.1126/sciadv.aeb3361
 tags:
+- drought
+- extremes
 - united states
+- western united states
 zotero_key: W5FNJSBB
 item_type: journalArticle
 url: https://openalex.org/W4414139433
 source_url: 'unpaywall: https://www.researchsquare.com/article/rs-7576317/latest.pdf'
 fulltext_status: fulltext
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Snow-eater heat waves of the western United States
@@ -2181,5 +2184,3 @@ Table S7 The top 25 seasons (March 19th to July 1st) of maximum five day melt po
 
 
 65 
-
-

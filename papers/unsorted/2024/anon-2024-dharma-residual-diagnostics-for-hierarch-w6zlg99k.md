@@ -5,13 +5,17 @@ year: '2024'
 journal: null
 doi: null
 tags:
+- fulltext:check-needed
 - mixed models
+- modeling
+- r package
+- statistics
 zotero_key: W6ZLG99K
 item_type: computerProgram
 url: https://cran.r-project.org/web/packages/DHARMa/index.html
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # DHARMa: Residual Diagnostics for Hierarchical (Multi-Level / Mixed) Regression Models

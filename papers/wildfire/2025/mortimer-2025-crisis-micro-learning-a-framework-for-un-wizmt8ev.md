@@ -6,13 +6,17 @@ authors:
 year: '2025'
 journal: Australian Journal of Public Administration
 doi: 10.1111/1467-8500.70025
-tags: []
+tags:
+- australia
+- environmental health
+- survey research
+- wildfire
 zotero_key: WIZMT8EV
 item_type: journalArticle
 url: https://onlinelibrary.wiley.com/doi/10.1111/1467-8500.70025
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Crisis micro‐learning: A framework for understanding the micro‐flow of policy learning and Australia's COVID‐19 response

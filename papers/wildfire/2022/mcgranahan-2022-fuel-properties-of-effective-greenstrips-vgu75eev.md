@@ -11,6 +11,7 @@ tags:
 - fire behavior
 - fire ecology
 - fuels
+- fulltext:pdf-missing
 - great basin
 - landscape ecology
 zotero_key: VGU75EEV
@@ -18,7 +19,7 @@ item_type: journalArticle
 url: https://doi.org/10.1007/s00267-022-01659-y
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Fuel Properties of Effective Greenstrips in Simulated Cheatgrass Fires

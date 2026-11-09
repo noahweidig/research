@@ -11,13 +11,17 @@ authors:
 year: '2025'
 journal: In Review
 doi: 10.21203/rs.3.rs-6726538/v1
-tags: []
+tags:
+- prescribed burning
+- remote sensing
+- united states
+- wildfire
 zotero_key: WZPA9RIL
 item_type: preprint
 url: https://www.researchsquare.com/article/rs-6726538/v1
 source_url: 'unpaywall: https://www.researchsquare.com/article/rs-6726538/latest.pdf'
 fulltext_status: fulltext
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Mitigation of US wildfires through prescribed burning revealed by four decades of satellite data
@@ -668,5 +672,3 @@ Competing interests
 This is a list of supplementary �les associated with this preprint. Click to download. 
 
 SUPPLEMENTARYINFORMATION.pdf 
-
-

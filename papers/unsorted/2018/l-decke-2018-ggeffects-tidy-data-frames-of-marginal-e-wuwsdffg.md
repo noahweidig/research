@@ -5,13 +5,17 @@ authors:
 year: '2018'
 journal: Journal of Open Source Software
 doi: 10.21105/joss.00772
-tags: []
+tags:
+- generalized linear models
+- r package
+- software
+- statistics
 zotero_key: WUWSDFFG
 item_type: journalArticle
 url: http://joss.theoj.org/papers/10.21105/joss.00772
 source_url: 'unpaywall: https://joss.theoj.org/papers/10.21105/joss.00772.pdf'
 fulltext_status: fulltext
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # ggeffects: Tidy Data Frames of Marginal Effects from Regression Models
@@ -177,5 +181,3 @@ Wickham, Hadley. 2009. _Ggplot2: Elegant Graphics for Data Analysis_ . Springer-
 5 
 
 Lüdecke, (2018). ggeffects: Tidy Data Frames of Marginal Effects from Regression Models. _Journal of Open Source Software_ , 3(26), 772. https://doi.org/10.21105/joss.00772 
-
-

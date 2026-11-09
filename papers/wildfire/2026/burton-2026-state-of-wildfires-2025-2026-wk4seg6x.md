@@ -65,6 +65,7 @@ year: '2026'
 journal: Earth System Science Data
 doi: 10.5194/essd-2026-587
 tags:
+- climate change
 - drivers
 - ignition
 - wildfire
@@ -73,7 +74,7 @@ item_type: journalArticle
 url: https://openalex.org/W7172316608
 source_url: 'unpaywall: https://essd.copernicus.org/preprints/essd-2026-587/essd-2026-587.pdf'
 fulltext_status: fulltext
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # State of Wildfires 2025–2026
@@ -2955,5 +2956,3 @@ https://doi.org/10.5194/essd-2026-587 Preprint. Discussion started: 3 August 202
 - 4044 
 
 111 
-
-

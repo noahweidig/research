@@ -9,15 +9,20 @@ year: '2024'
 journal: Environmental Hazards
 doi: 10.1080/17477891.2024.2304201
 tags:
+- Kansas
+- Oklahoma
+- Texas
 - disaster
 - megafire
+- preparedness
 - risk
+- wildfire
 zotero_key: VJX5VDAZ
 item_type: journalArticle
 url: https://doi.org/10.1080/17477891.2024.2304201
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Wildfire across agricultural landscapes: farmer and rancher experiences and perceptions in the southern great plains

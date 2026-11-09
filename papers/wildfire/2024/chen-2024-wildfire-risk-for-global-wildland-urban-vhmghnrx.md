@@ -13,13 +13,18 @@ authors:
 year: '2024'
 journal: Nature Sustainability
 doi: 10.1038/s41893-024-01291-0
-tags: []
+tags:
+- exposure
+- fire risk
+- global
+- wildfire
+- wildland-urban interface
 zotero_key: VHMGHNRX
 item_type: journalArticle
 url: https://www.nature.com/articles/s41893-024-01291-0
 source_url: 'unpaywall: https://www.researchsquare.com/article/rs-2147308/latest.pdf'
 fulltext_status: fulltext
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Wildfire risk for global wildland–urban interface areas
@@ -274,5 +279,3 @@ This is a list of supplementary �les associated with this preprint. Click to d
 - ChenWUIMSSI20221009.docx 
 
 Page 11/11 
-
-

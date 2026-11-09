@@ -7,15 +7,17 @@ year: '2020'
 journal: Science of The Total Environment
 doi: 10.1016/j.scitotenv.2019.135592
 tags:
+- fulltext:pdf-missing
 - megafire
 - risk management
+- wildfire
 - wildland-urban interface
 zotero_key: VJNJWX7K
 item_type: journalArticle
 url: https://www.sciencedirect.com/science/article/pii/S0048969719355871
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Wildfires in the wildland-urban interface: Key concepts and evaluation methodologies

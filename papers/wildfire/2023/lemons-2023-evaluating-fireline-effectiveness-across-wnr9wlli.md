@@ -7,13 +7,17 @@ authors:
 year: '2023'
 journal: Fire Ecology
 doi: 10.1186/s42408-023-00167-6
-tags: []
+tags:
+- fire severity
+- fire suppression
+- western united states
+- wildfire
 zotero_key: WNR9WLLI
 item_type: journalArticle
 url: https://fireecology.springeropen.com/articles/10.1186/s42408-023-00167-6
 source_url: 'unpaywall: https://fireecology.springeropen.com/counter/pdf/10.1186/s42408-023-00167-6'
 fulltext_status: fulltext
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Evaluating fireline effectiveness across large wildfire events in north-central Washington State
@@ -524,5 +528,3 @@ Springer Nature remains neutral with regard to jurisdictional claims in publishe
 - Parson, A., P.R. Robichaud, S.A. Lewis, C. Napper, and J.T. Clark. 2010. Field guide for mapping post-fire soil burn severity. In _Gen. Tech. Rep. RMRS-GTR-243_ , 49. Fort Collins: US Department of Agriculture, Forest Service, Rocky Mountain Research Station. 
 
 - Perry, D.A., P.F. Hessburg, C.N. Skinner, T.A. Spies, S.L. Stephens, A.H. Taylor, J.F. Franklin, B. McComb, and G. Riegel. 2011. The ecology of mixed severity fire regimes in Washington, Oregon, and Northern California. _Forest Ecology and Management_ 262 (5): 703–717. 
-
-

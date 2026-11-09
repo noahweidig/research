@@ -9,13 +9,17 @@ authors:
 year: '2017'
 journal: null
 doi: 10.6028/NIST.SP.1215
-tags: []
+tags:
+- government report
+- survey research
+- united states
+- wildfire
 zotero_key: VYSFNLNE
 item_type: report
 url: https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1215.pdf
 source_url: 'unpaywall: https://doi.org/10.6028/nist.sp.1215'
 fulltext_status: fulltext
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # The costs and losses of wildfires: a literature survey
@@ -2044,5 +2048,3 @@ Zawacki, William T., Allan Marsinko, and J. Michael Bowker. 2000. "A travel cost
 Zhuang, J. et al. (Forthcoming). ‘Measurement of the Economic Impact of Fire.’ National Fire Protection Association. 
 
 64 
-
-

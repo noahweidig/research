@@ -7,14 +7,16 @@ year: '2021'
 journal: Scientific Reports
 doi: 10.1038/s41598-021-88131-9
 tags:
+- california
 - fire ecology
 - natural hazards
+- wildfire
 zotero_key: X2QAPGFJ
 item_type: journalArticle
 url: https://www.nature.com/articles/s41598-021-88131-9
 source_url: 'unpaywall: https://www.nature.com/articles/s41598-021-88131-9.pdf'
 fulltext_status: fulltext
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Spatial and temporal pattern of wildfires in California from 2000 to 2019
@@ -559,5 +561,3 @@ www.nature.com/scientificreports/
 https://doi.org/10.1038/s41598-021-88131-9 
 
 17 
-
-

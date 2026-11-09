@@ -7,6 +7,8 @@ year: '2026'
 journal: Discover Cities
 doi: 10.1007/s44327-026-00374-1
 tags:
+- climate
+- resilience
 - united states
 - wildfire
 zotero_key: WGGFA47H
@@ -14,7 +16,7 @@ item_type: journalArticle
 url: https://openalex.org/W7221608115
 source_url: 'unpaywall: https://link.springer.com/content/pdf/10.1007/s44327-026-00374-1.pdf'
 fulltext_status: fulltext
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Compound and cascading climate risks in urban infrastructure governance and resilience across North America
@@ -531,5 +533,3 @@ Methodological references (reported separately from the 81-source evidentiary co
 #### **Publisher’s note** 
 
 Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations. 
-
-

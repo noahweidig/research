@@ -11,6 +11,7 @@ tags:
 - econometrics
 - ecosystem management
 - ecosystems
+- fulltext:pdf-missing
 - lakes
 - management
 - state transition
@@ -19,7 +20,7 @@ item_type: journalArticle
 url: https://onlinelibrary.wiley.com/doi/abs/10.1890/1051-0761%281999%29009%5B0751%3AMOEFLS%5D2.0.CO%3B2
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Management of Eutrophication for Lakes Subject to Potentially Irreversible Change

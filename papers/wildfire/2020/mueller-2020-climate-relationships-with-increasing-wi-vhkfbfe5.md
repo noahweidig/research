@@ -10,13 +10,17 @@ authors:
 year: '2020'
 journal: Forest Ecology and Management
 doi: 10.1016/j.foreco.2019.117861
-tags: []
+tags:
+- climate
+- united states
+- western united states
+- wildfire
 zotero_key: VHKFBFE5
 item_type: journalArticle
 url: https://www.sciencedirect.com/science/article/pii/S0378112719314744
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Climate relationships with increasing wildfire in the southwestern US from 1984 to 2015

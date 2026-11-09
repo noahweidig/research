@@ -9,6 +9,7 @@ year: '2026'
 journal: Environmental Research Climate
 doi: 10.1088/2752-5295/aeab03
 tags:
+- drought
 - united states
 - wildfire
 - wildfire occurrence
@@ -17,7 +18,7 @@ item_type: journalArticle
 url: https://openalex.org/W7214034685
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Triple jeopardy: trends in the co-occurrence of extreme heat, drought, and PM2.5 across the conterminous United States

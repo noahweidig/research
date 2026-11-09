@@ -6,13 +6,17 @@ year: '2024'
 journal: U.S. Geological Survey
 doi: 10.5066/P96WBCHS
 tags:
+- fulltext:pdf-missing
+- geospatial data
 - land use change
+- protected areas
+- united states
 zotero_key: VR6IRP45
 item_type: dataset
 url: https://www.sciencebase.gov/catalog/item/65294599d34e44db0e2ed7cf
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Protected Areas Database of the United States (PAD-US) 4

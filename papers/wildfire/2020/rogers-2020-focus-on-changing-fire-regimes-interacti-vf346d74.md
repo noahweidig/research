@@ -9,13 +9,17 @@ authors:
 year: '2020'
 journal: Environmental Research Letters
 doi: 10.1088/1748-9326/ab6d3a
-tags: []
+tags:
+- climate
+- ecosystems
+- fire
+- fire regime
 zotero_key: VF346D74
 item_type: journalArticle
 url: https://dx.doi.org/10.1088/1748-9326/ab6d3a
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # Focus on changing fire regimes: interactions with climate, ecosystems, and society

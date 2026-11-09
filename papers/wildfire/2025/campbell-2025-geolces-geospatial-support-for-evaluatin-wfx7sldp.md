@@ -11,6 +11,7 @@ doi: 10.1016/j.ijdrr.2025.105714
 tags:
 - decision support
 - fire suppression
+- fulltext:pdf-missing
 - gis
 - lidar
 - wildfire
@@ -19,7 +20,7 @@ item_type: journalArticle
 url: https://www.sciencedirect.com/science/article/pii/S2212420925005382
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-09'
 ---
 
 # GeoLCES: Geospatial support for evaluating wildland firefighter lookouts, communications, escape routes, and safety zones
