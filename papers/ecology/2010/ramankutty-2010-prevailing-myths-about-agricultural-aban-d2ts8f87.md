@@ -9,16 +9,18 @@ journal: Annals of the Association of American Geographers
 doi: 10.1080/00045601003788876
 tags:
 - agriculture
-- fulltext:check-needed
+- forests
 - land cover
-- survey research
+- refwright:read:unread
+- remote sensing
+- statistics
 - united states
 zotero_key: D2TS8F87
 item_type: journalArticle
 url: https://doi.org/10.1080/00045601003788876
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Prevailing Myths About Agricultural Abandonment and Forest Regrowth in the United States

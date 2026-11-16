@@ -9,16 +9,18 @@ year: '2013'
 journal: Journal of Applied Ecology
 doi: 10.1111/1365-2664.12105
 tags:
-- ecosystems
-- grazing
-- soil properties
-- woody encroachment
+- management
+- rangelands
+- refwright:read:unread
+- soils
+- wildfire
+- woody cover
 zotero_key: E45CVX93
 item_type: journalArticle
 url: https://onlinelibrary.wiley.com/doi/abs/10.1111/1365-2664.12105
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Grazing dampens the positive effects of shrub encroachment on ecosystem functions in a semi-arid woodland

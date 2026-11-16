@@ -6,16 +6,19 @@ year: '2025'
 journal: null
 doi: 10.7302/25378
 tags:
-- biomass
 - fia
+- forests
+- fuels
+- refwright:read:unread
 - remote sensing
-- validation
+- statistics
+- united states
 zotero_key: DRA7ZGGX
 item_type: thesis
 url: http://deepblue.lib.umich.edu/handle/2027.42/196880
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-16'
 ---
 
 # Validating Remotely Sensed Biomass with Forest Inventory Data in the Western US

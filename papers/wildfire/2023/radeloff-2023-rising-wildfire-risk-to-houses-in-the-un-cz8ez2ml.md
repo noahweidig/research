@@ -2,22 +2,22 @@
 title: Rising wildfire risk to houses in the United States, especially in grasslands and shrublands
 authors:
 - Radeloff, Volker C.
-- Mockrin, M. H.
-- Helmers, D.
-- Carlson, A.
-- Hawbaker, T. J.
-- Martinuzzi, Sebastian
+- Mockrin, Miranda H.
+- Helmers, David P.
+- Carlson, Amanda R.
+- Hawbaker, Todd J.
+- Martinuzzi, Sebastián
 - Schug, Franz
 - Alexandre, Patricia M.
-- Kramer, H. Anu
+- Kramer, Heather Anu
 - Pidgeon, Anna M.
 year: '2023'
 journal: Science
 doi: 10.1126/science.ade9223
 tags:
 - fire risk
-- fulltext:check-needed
-- grassland
+- rangelands
+- refwright:read:unread
 - united states
 - wildfire
 zotero_key: CZ8EZ2ML
@@ -25,7 +25,7 @@ item_type: journalArticle
 url: https://www.science.org/doi/10.1126/science.ade9223
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Rising wildfire risk to houses in the United States, especially in grasslands and shrublands

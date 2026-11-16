@@ -9,17 +9,17 @@ year: '2013'
 journal: International Journal of Wildland Fire
 doi: 10.1071/WF12177
 tags:
-- eastern united states
-- fulltext:check-needed
+- WUI
 - natural hazards
+- refwright:read:unread
+- united states
 - wildfire
-- wildland-urban interface
 zotero_key: E9H5UMQH
 item_type: journalArticle
 url: https://www.publish.csiro.au/wf/WF12177
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Wildfire hazard mapping: exploring site conditions in eastern US wildland–urban interfaces

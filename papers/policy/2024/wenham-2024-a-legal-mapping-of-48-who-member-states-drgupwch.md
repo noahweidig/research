@@ -7,16 +7,16 @@ year: '2024'
 journal: The Lancet
 doi: 10.1016/S0140-6736(24)00156-9
 tags:
-- disaster
-- environmental health
-- legal statutes
+- exposure
+- policy
 - public health
+- refwright:read:unread
 zotero_key: DRGUPWCH
 item_type: journalArticle
 url: https://linkinghub.elsevier.com/retrieve/pii/S0140673624001569
 source_url: 'unpaywall: http://eprints.lse.ac.uk/121602/3/Wenham_a_legal_mapping_of_48_who_member_states_published.pdf'
 fulltext_status: fulltext
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # A legal mapping of 48 WHO member states' inclusion of public health emergency of international concern, pandemic, and health emergency terminology within national emergency legislation in responding to health emergencies

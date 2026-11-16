@@ -8,9 +8,9 @@ year: '2019'
 journal: International Journal of Wildland Fire
 doi: 10.1071/WF18229
 tags:
-- forest management
-- fulltext:pdf-missing
+- forests
 - ignition
+- refwright:read:unread
 - weather
 - wildfire
 zotero_key: DFSUR4UG
@@ -18,7 +18,7 @@ item_type: journalArticle
 url: https://www.publish.csiro.au/wf/WF18229
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Wildfire ignition from forestry machines in boreal Sweden

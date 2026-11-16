@@ -2,21 +2,24 @@
 title: 'The wildland fuel cell concept: an approach to characterize fine-scale variation in fuels and fire in frequently burned longleaf pine forests'
 authors:
 - Hiers, J. Kevin
-- O’Brien, Joseph J.
-- Mitchell, R. J.
+- O'Brien, Joseph J.
+- Mitchell, Rory
 - Grego, John M.
 - Loudermilk, E. Louise
 year: '2009'
 journal: International Journal of Wildland Fire
 doi: 10.1071/WF08084
 tags:
-- fulltext:pdf-missing
+- fuels
+- longleaf pine
+- refwright:read:unread
+- wildfire
 zotero_key: CZVHVMKA
 item_type: journalArticle
 url: https://connectsci.au/wf/article/18/3/315/23181/The-wildland-fuel-cell-concept-an-approach-to
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # The wildland fuel cell concept: an approach to characterize fine-scale variation in fuels and fire in frequently burned longleaf pine forests

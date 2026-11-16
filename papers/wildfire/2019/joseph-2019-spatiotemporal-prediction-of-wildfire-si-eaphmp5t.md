@@ -16,18 +16,16 @@ journal: Ecological Applications
 doi: 10.1002/eap.1898
 tags:
 - climate
-- climate change
 - extremes
-- fire
-- modeling
-- spatiotemporal
+- refwright:read:unread
+- statistics
 - wildfire
 zotero_key: EAPHMP5T
 item_type: journalArticle
 url: https://onlinelibrary.wiley.com/doi/abs/10.1002/eap.1898
 source_url: 'unpaywall: https://www.biorxiv.org/content/biorxiv/early/2019/02/16/384115.full.pdf'
 fulltext_status: fulltext
-synced: '2026-11-06'
+synced: '2026-11-16'
 ---
 
 # Spatiotemporal prediction of wildfire size extremes with Bayesian finite sample maxima
@@ -1327,5 +1325,3 @@ n tot<br>=<br>� Weibull( yi|κ,  exp( α  +  X ( si,ti ) β  +  φsi,ti )) ×<
 Normal( _α|_ 0 _,_ 5<sup>2</sup> ) _×_ Inv-Gamma( _c_<sup>2</sup> _|_ 2 _._ 5 _,_ 10) _×_ Normal<sup>+</sup> ( _τ |_ 0 _,_ 5<sup>2</sup> ) _×_ Normal<sup>+</sup> ( _κ|_ 0 _,_ 5<sup>2</sup> ) _×_ Beta( _η|_ 1 _,_ 1) _×_ Normal<sup>+</sup> ( _σ_<sup>(</sup><sup>_φ_)</sup> _|_ 0 _,_ 1<sup>2</sup> ) _._ 
 
 59/59 
-
-

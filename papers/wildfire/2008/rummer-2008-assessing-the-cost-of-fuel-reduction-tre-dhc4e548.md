@@ -6,17 +6,17 @@ year: '2008'
 journal: Forest Policy and Economics
 doi: 10.1016/j.forpol.2008.01.001
 tags:
-- cost
-- fuel treatments
+- fire risk
 - fuels
-- fulltext:pdf-missing
-- thinning
+- rangelands
+- refwright:read:unread
+- wildfire
 zotero_key: DHC4E548
 item_type: journalArticle
 url: https://www.sciencedirect.com/science/article/pii/S1389934108000051
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Assessing the cost of fuel reduction treatments: A critical review

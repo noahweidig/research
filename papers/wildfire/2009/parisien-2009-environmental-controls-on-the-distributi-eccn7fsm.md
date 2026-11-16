@@ -7,18 +7,17 @@ year: '2009'
 journal: Ecological Monographs
 doi: 10.1890/07-1289.1
 tags:
-- disturbance ecology
-- fire regime
-- fulltext:check-needed
-- machine learning
-- modeling
+- ecology
+- fire regimes
+- refwright:read:unread
+- statistics
 - wildfire
 zotero_key: ECCN7FSM
 item_type: journalArticle
 url: https://onlinelibrary.wiley.com/doi/abs/10.1890/07-1289.1
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Environmental controls on the distribution of wildfire at multiple spatial scales

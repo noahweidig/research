@@ -13,16 +13,19 @@ year: '2016'
 journal: Scientific Reports
 doi: 10.1038/srep28426
 tags:
+- climate
 - disturbance
 - ecology
-- environmental sciences
+- refwright:read:unread
 - resilience
+- united states
+- wildfire
 zotero_key: D857V794
 item_type: journalArticle
 url: https://www.nature.com/articles/srep28426
 source_url: 'unpaywall: https://www.nature.com/articles/srep28426.pdf'
 fulltext_status: fulltext
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Defining and quantifying the resilience of responses to disturbance: a conceptual and modelling approach from soil science

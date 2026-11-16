@@ -5,17 +5,16 @@ year: '2025'
 journal: null
 doi: null
 tags:
-- econometrics
-- environmetrics
 - finance
-- fulltext:check-needed
-- time series
+- fulltext:pdf-missing
+- refwright:read:unread
+- statistics
 zotero_key: DPBKTGIN
 item_type: computerProgram
 url: https://cran.r-project.org/web/packages/forecast/index.html
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # forecast: Forecasting Functions for Time Series and Linear Models

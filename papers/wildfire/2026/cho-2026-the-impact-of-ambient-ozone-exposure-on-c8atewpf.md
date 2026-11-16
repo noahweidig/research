@@ -11,8 +11,12 @@ year: '2026'
 journal: Current Environmental Health Reports
 doi: 10.1007/s40572-026-00568-0
 tags:
+- air quality
+- climate
 - exposure
+- prescribed fire
 - public health
+- refwright:read:unread
 - united states
 - wildfire
 zotero_key: C8ATEWPF
@@ -20,7 +24,7 @@ item_type: journalArticle
 url: https://openalex.org/W7222791995
 source_url: 'unpaywall: https://link.springer.com/content/pdf/10.1007/s40572-026-00568-0.pdf'
 fulltext_status: fulltext
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # The Impact of Ambient Ozone Exposure on Respiratory Health in the U.S. Populations: A Systematic Review

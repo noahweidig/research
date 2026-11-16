@@ -8,16 +8,19 @@ year: '2018'
 journal: EDIS
 doi: 10.32473/edis-fr411-2018
 tags:
-- cogongrass
-- invasive grass
+- agriculture
+- forests
+- fuels
 - invasive species
-- temperate forest
+- plant species
+- refwright:read:unread
+- united states
 zotero_key: E6ABITBU
 item_type: journalArticle
 url: https://journals.flvc.org/edis/article/view/104449
 source_url: 'unpaywall: https://journals.flvc.org/edis/article/download/104449/118670'
 fulltext_status: fulltext
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Biology and Control of Cogongrass (Imperata cylindrica) in Southern Forests: FR342/FR411, 3/2018

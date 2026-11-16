@@ -22,19 +22,18 @@ year: '2024'
 journal: Plant, Cell & Environment
 doi: 10.1111/pce.14846
 tags:
-- climate change
+- climate
 - drought
-- ecosystem management
-- land atmosphere interactions
+- management
 - plant physiology
-- terrestrial ecosystems
-- vapour pressure deficit
+- refwright:read:unread
+- weather
 zotero_key: CYZURS8P
 item_type: journalArticle
 url: https://onlinelibrary.wiley.com/doi/10.1111/pce.14846
 source_url: 'unpaywall: https://www.dora.lib4ri.ch/wsl/dload/wsl:36172/PDF/view'
 fulltext_status: fulltext
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # The impacts of rising vapour pressure deficit in natural and managed ecosystems

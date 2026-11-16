@@ -2,28 +2,31 @@
 title: 'Generating annual estimates of forest fire disturbance in Canada: the National Burned Area Composite'
 authors:
 - Hall, R. J.
-- Skakun, R. S.
+- Skakun, Rob
 - Metsaranta, J. M.
 - Landry, R.
 - Fraser, R.H.
 - Raymond, D.
 - Gartrell, M.
 - Decker, V.
-- Little, J.
+- Little, John M.
 year: '2020'
 journal: International Journal of Wildland Fire
 doi: 10.1071/WF19201
 tags:
-- burned area
+- climate
 - disturbance
-- fire
+- fire regimes
+- forests
+- refwright:read:unread
 - remote sensing
+- wildfire
 zotero_key: DCBIENAA
 item_type: journalArticle
 url: https://doi.org/10.1071/WF19201
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Generating annual estimates of forest fire disturbance in Canada: the National Burned Area Composite

@@ -3,7 +3,7 @@ title: Pervasive shifts in forest dynamics in a changing world
 authors:
 - McDowell, Nate G.
 - Allen, Craig D.
-- Anderson-Teixeira, Kristina
+- Anderson-Teixeira, Kristina J.
 - Aukema, Brian H.
 - Bond-Lamberty, Ben
 - Chini, Louise
@@ -28,16 +28,20 @@ year: '2020'
 journal: Science
 doi: 10.1126/science.aaz9463
 tags:
+- conservation
 - disturbance
-- forest dynamics
-- forest ecology
-- vegetation
+- forests
+- fuels
+- land cover
+- refwright:read:unread
+- united states
+- wildfire
 zotero_key: DZTWST6V
 item_type: journalArticle
 url: https://www.science.org/doi/10.1126/science.aaz9463
 source_url: 'unpaywall: https://www.dora.lib4ri.ch/wsl/dload/wsl:23827/PDF2/view'
 fulltext_status: fulltext
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Pervasive shifts in forest dynamics in a changing world

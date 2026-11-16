@@ -9,16 +9,20 @@ year: '2021'
 journal: Scientific Data
 doi: 10.1038/s41597-020-00782-x
 tags:
-- contiguous united states
-- ecological modeling
-- environmental sciences
-- forestry
+- ecology
+- fia
+- forests
+- refwright:read:unread
+- remote sensing
+- trees
+- united states
+- wildfire
 zotero_key: BFUSSV5F
 item_type: journalArticle
 url: https://www.nature.com/articles/s41597-020-00782-x
 source_url: 'unpaywall: https://www.nature.com/articles/s41597-020-00782-x.pdf'
 fulltext_status: fulltext
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # TreeMap, a tree-level model of conterminous US forests circa 2014 produced by imputation of FIA plot data

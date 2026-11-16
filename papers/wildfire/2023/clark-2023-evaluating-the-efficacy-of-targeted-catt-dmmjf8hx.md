@@ -10,17 +10,17 @@ year: '2023'
 journal: Rangeland Ecology & Management
 doi: 10.1016/j.rama.2023.02.005
 tags:
-- fulltext:pdf-missing
-- grass-fire cycle
-- grazing
-- invasive species
+- management
+- plant species
+- rangelands
+- refwright:read:unread
 - wildfire
 zotero_key: DMMJF8HX
 item_type: journalArticle
 url: https://www.sciencedirect.com/science/article/pii/S1550742423000246
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Evaluating the Efficacy of Targeted Cattle Grazing for Fuel Break Creation and Maintenance

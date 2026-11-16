@@ -10,16 +10,22 @@ year: '2024'
 journal: Landscape Ecology
 doi: 10.1007/s10980-024-01985-y
 tags:
+- WUI
 - disturbance
-- ecosystem management
 - fia
-- invasive species
+- management
+- plant species
+- refwright:read:unread
+- remote sensing
+- united states
+- urbanization
+- wildfire
 zotero_key: DEY49HPA
 item_type: journalArticle
 url: https://doi.org/10.1007/s10980-024-01985-y
 source_url: 'unpaywall: https://link.springer.com/content/pdf/10.1007/s10980-024-01985-y.pdf'
 fulltext_status: fulltext
-synced: '2026-11-06'
+synced: '2026-11-16'
 ---
 
 # Forest plant invasions in the eastern United States: evidence of invasion debt in the wildland-urban interface
@@ -654,5 +660,3 @@ Landsc Ecol (2024) 39:207
 - Vila M, Ibanez I (2011) Plant invasions in the landscape. Landsc Ecol 26(4):461–472 
 
 Vol.: (0123456789) 
-
-

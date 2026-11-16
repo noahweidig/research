@@ -9,16 +9,17 @@ year: '2026'
 journal: Fire Ecology
 doi: 10.1186/s42408-026-00576-3
 tags:
-- prescribed burning
+- natural hazards
+- prescribed fire
+- refwright:read:unread
 - united states
-- western united states
 - wildfire
 zotero_key: E3QRQTU5
 item_type: journalArticle
 url: https://openalex.org/W7221651948
 source_url: 'unpaywall: https://link.springer.com/content/pdf/10.1186/s42408-026-00576-3.pdf'
 fulltext_status: fulltext
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Understanding the wildfire adaptation communications landscape in the western United States: examining actors, media type, and geographies

@@ -5,9 +5,7 @@ year: '2024'
 journal: null
 doi: null
 tags:
-- fulltext:check-needed
-- modeling
-- r package
+- refwright:read:unread
 - software
 - statistics
 zotero_key: EBM5A9D3
@@ -15,7 +13,7 @@ item_type: computerProgram
 url: https://cran.r-project.org/web/packages/easystats/index.html
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # easystats: Framework for Easy Statistical Modeling, Visualization, and Reporting

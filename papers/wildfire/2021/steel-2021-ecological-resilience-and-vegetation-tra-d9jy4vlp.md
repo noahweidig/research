@@ -14,21 +14,18 @@ year: '2021'
 journal: Journal of Ecology
 doi: 10.1111/1365-2745.13764
 tags:
-- california
-- climate change
-- fire suppression
-- forest ecology
-- fulltext:pdf-missing
-- lidar
+- climate
+- forests
+- refwright:read:unread
 - resilience
-- resistance
+- suppression
 - wildfire
 zotero_key: D9JY4VLP
 item_type: journalArticle
 url: https://onlinelibrary.wiley.com/doi/abs/10.1111/1365-2745.13764
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Ecological resilience and vegetation transition in the face of two successive large wildfires

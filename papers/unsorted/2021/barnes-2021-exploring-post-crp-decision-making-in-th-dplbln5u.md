@@ -6,13 +6,15 @@ authors:
 year: '2021'
 journal: null
 doi: null
-tags: []
+tags:
+- CRP
+- refwright:read:unread
 zotero_key: DPLBLN5U
 item_type: journalArticle
 url: http://hdl.handle.net/10919/106779
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Exploring Post-CRP Decision-Making in the Southern Great Plains

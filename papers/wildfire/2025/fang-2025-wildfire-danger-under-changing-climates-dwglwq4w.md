@@ -11,17 +11,15 @@ year: '2025'
 journal: Ecological Indicators
 doi: 10.1016/j.ecolind.2024.112994
 tags:
-- Burning index
-- Climate change
-- Southern great plains
-- Wildfire danger
-- fulltext:pdf-missing
+- climate
+- refwright:read:unread
+- wildfire
 zotero_key: DWGLWQ4W
 item_type: journalArticle
 url: https://www.sciencedirect.com/science/article/pii/S1470160X24014511
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Wildfire danger under changing climates in the southern Great Plains throughout the 21st century

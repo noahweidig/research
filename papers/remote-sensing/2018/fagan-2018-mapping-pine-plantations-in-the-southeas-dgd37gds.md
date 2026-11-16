@@ -4,25 +4,23 @@ authors:
 - Fagan, M. E.
 - Morton, D. C.
 - Cook, B. D.
-- Masek, J.
+- Masek, Jeffrey G.
 - Zhao, F.
 - Nelson, R. F.
-- Huang, C.
+- Huang, Chengquan
 year: '2018'
 journal: Remote Sensing of Environment
 doi: 10.1016/j.rse.2018.07.007
 tags:
-- eastern united states
-- fulltext:pdf-missing
+- refwright:read:unread
 - remote sensing
-- southeastern united states
 - united states
 zotero_key: DGD37GDS
 item_type: journalArticle
 url: https://www.sciencedirect.com/science/article/pii/S0034425718303341
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Mapping pine plantations in the southeastern U.S. using structural, spectral, and temporal remote sensing data

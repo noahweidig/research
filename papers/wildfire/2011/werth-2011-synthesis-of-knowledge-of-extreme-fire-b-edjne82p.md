@@ -15,18 +15,22 @@ journal: 'Gen. Tech. Rep. PNW-GTR-854. Portland, OR: U.S. Department of Agricult
 doi: 10.2737/PNW-GTR-854
 tags:
 - extremes
-- fire
-- fire behavior
-- megafire
+- forests
+- refwright:read:unread
+- wildfire
 zotero_key: EDJNE82P
 item_type: journalArticle
 url: https://www.fs.usda.gov/research/treesearch/39553
 source_url: 'unpaywall: https://scholarworks.sjsu.edu/meteorology_pub/42'
 fulltext_status: fulltext
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Synthesis of knowledge of extreme fire behavior: volume I for fire managers
+
+## Abstract
+
+The National Wildfire Coordinating Group definition of extreme fire behavior (EFB) indicates a level of fire behavior characteristics that ordinarily precludes methods of direct control action. One or more of the following is usually involved: high rate of spread, prolific crowning/ spotting, presence of fire whirls, and strong convection column. Predictability is difficult because such fires often exercise some degree of influence on their environment and behave erratically, sometimes dangerously. Alternate terms include “blow up” and “fire storm.” Fire managers examining fires over the last 100 years have come to understand many of the factors necessary for EFB development. This work produced guidelines included in current firefighter training, which presents the current methods of predicting EFB by using the crown fire model, which is based on the environmental influences of weather, fuels, and topography. Current training does not include the full extent of scientific understanding. Material in current training programs is also not the most recent scientific knowledge. National Fire Plan funds have sponsored newer research related to wind profiles’ influence on fire behavior, plume growth, crown fires, fire dynamics in live fuels, and conditions associated with vortex development. Of significant concern is that characteristic features of EFB depend on conditions undetectable on the ground, relying fundamentally on invisible properties such as wind shear or atmospheric stability. Obviously no one completely understands all the factors contributing to EFB because of gaps in our knowledge. These gaps, as well as the limitations as to when various models or indices apply should be noted to avoid application where they are not appropriate or warranted. This synthesis will serve as a summary of existing extreme fire behavior knowledge for use by fire managers, firefighters, and fire researchers. The objective of this project is to synthesize existing EFB knowledge in a way that connects the weather, fuel, and topographic factors that contribute to development of EFB. This synthesis will focus on the state of the science, but will also consider how that science is currently presented to the fire management community, including incident commanders, fire behavior analysts, incident meteorologists, National Weather Service office forecasters, and firefighters. It will seek to clearly delineate the known, the unknown, and areas of research with the greatest potential impact on firefighter protection.
 
 ## Full text
 
