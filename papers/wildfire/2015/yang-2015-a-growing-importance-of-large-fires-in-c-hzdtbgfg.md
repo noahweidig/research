@@ -12,16 +12,19 @@ year: '2015'
 journal: 'Journal of Geophysical Research: Biogeosciences'
 doi: 10.1002/2015JG002965
 tags:
-- burned area
-- carbon sequestration
-- climate change
-- fire severity
+- climate
+- ecology
+- fire regimes
+- forests
+- refwright:read:unread
+- remote sensing
+- wildfire
 zotero_key: HZDTBGFG
 item_type: journalArticle
 url: https://onlinelibrary.wiley.com/doi/abs/10.1002/2015JG002965
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # A growing importance of large fires in conterminous United States during 1984–2012

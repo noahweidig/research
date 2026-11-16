@@ -1,38 +1,41 @@
 ---
 title: A human-driven decline in global burned area
 authors:
-- Andela, N.
+- Andela, Niels
 - Morton, D. C.
-- Giglio, L.
-- Chen, Y.
-- van der Werf, G. R.
+- Giglio, Louis
+- Chen, Yang
+- van der Werf, Guido R.
 - Kasibhatla, P. S.
-- DeFries, R. S.
+- DeFries, Ruth S.
 - Collatz, G. J.
-- Hantson, S.
-- Kloster, S.
+- Hantson, Stijn
+- Kloster, Silvia
 - Bachelet, D.
-- Forrest, M.
-- Lasslop, G.
+- Forrest, Matthew
+- Lasslop, Gitta
 - Li, F.
 - Mangeon, S.
 - Melton, J. R.
 - Yue, C.
-- Randerson, J. T.
+- Randerson, James T.
 year: '2017'
 journal: Science
 doi: 10.1126/science.aal4108
 tags:
-- burned area
-- fire
+- agriculture
+- climate
+- fire regimes
+- rangelands
+- refwright:read:unread
 - remote sensing
-- savanna
+- wildfire
 zotero_key: H92P8V5W
 item_type: journalArticle
 url: https://www.science.org/doi/10.1126/science.aal4108
 source_url: 'unpaywall: https://research.vu.nl/en/publications/02ac0358-40b8-4cde-ad1d-48a30e23eb7d'
 fulltext_status: fulltext
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # A human-driven decline in global burned area

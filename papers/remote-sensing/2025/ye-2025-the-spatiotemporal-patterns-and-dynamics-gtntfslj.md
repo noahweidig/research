@@ -7,15 +7,19 @@ year: '2025'
 journal: Landscape and Urban Planning
 doi: 10.1016/j.landurbplan.2025.105488
 tags:
-- Conservation reserve program (CRP)
-- Cropland abandonment
-- Land use/land cover change (LULC)
+- CRP
+- agriculture
+- rangelands
+- refwright:read:unread
+- remote sensing
+- statistics
+- united states
 zotero_key: GTNTFSLJ
 item_type: journalArticle
 url: https://www.sciencedirect.com/science/article/pii/S0169204625001951
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # The spatiotemporal patterns and dynamics of grassland established in the US conservation reserve program (CRP)

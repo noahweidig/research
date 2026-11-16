@@ -10,16 +10,18 @@ year: '2009'
 journal: PLOS ONE
 doi: 10.1371/journal.pone.0005102
 tags:
-- climate change
-- fire suppression technology
-- modeling
+- climate
+- ecology
+- fuels
+- refwright:read:unread
+- statistics
 - wildfire
 zotero_key: HPLQ2Q8Z
 item_type: journalArticle
 url: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0005102
 source_url: 'unpaywall: https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0005102&type=printable'
 fulltext_status: fulltext
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Global Pyrogeography: the Current and Future Distribution of Wildfire

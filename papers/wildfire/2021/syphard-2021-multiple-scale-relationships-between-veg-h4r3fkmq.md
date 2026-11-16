@@ -8,21 +8,20 @@ year: '2021'
 journal: Fire
 doi: 10.3390/fire4010012
 tags:
-- defensible space
-- fire
+- WUI
+- ecology
 - fire risk
-- fuel load
-- housing
+- fuels
 - land cover
-- land use
-- scale
-- wildland-urban interface
+- refwright:read:unread
+- urbanization
+- wildfire
 zotero_key: H4R3FKMQ
 item_type: journalArticle
 url: https://www.mdpi.com/2571-6255/4/1/12
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-16'
 ---
 
 # Multiple-Scale Relationships between Vegetation, the Wildland–Urban Interface, and Structure Loss to Wildfire in California

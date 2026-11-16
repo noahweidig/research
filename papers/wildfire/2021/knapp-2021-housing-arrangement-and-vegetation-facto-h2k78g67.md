@@ -9,17 +9,17 @@ year: '2021'
 journal: Fire Ecology
 doi: 10.1186/s42408-021-00117-0
 tags:
-- defensible space
+- WUI
+- exposure
 - fuels
-- structure loss
+- refwright:read:unread
 - wildfire
-- wildland-urban interface
 zotero_key: H2K78G67
 item_type: journalArticle
 url: https://doi.org/10.1186/s42408-021-00117-0
 source_url: 'unpaywall: https://fireecology.springeropen.com/track/pdf/10.1186/s42408-021-00117-0'
 fulltext_status: fulltext
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Housing arrangement and vegetation factors associated with single-family home survival in the 2018 Camp Fire, California

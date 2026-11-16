@@ -11,15 +11,18 @@ journal: Global Change Biology
 doi: 10.1111/gcb.15625
 tags:
 - climate
-- megafire
-- restoration
+- conservation
+- forests
+- fuels
+- refwright:read:unread
 - trees
+- wildfire
 zotero_key: HYMP4YI9
 item_type: journalArticle
 url: https://onlinelibrary.wiley.com/doi/abs/10.1111/gcb.15625
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Tree planting: A double-edged sword to fight climate change in an era of megafires

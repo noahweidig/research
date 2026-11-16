@@ -8,19 +8,18 @@ year: '2022'
 journal: Fire
 doi: 10.3390/fire5060188
 tags:
-- defensible space
-- fire prevention
-- fire suppression
-- fuel treatments
-- grazing
-- wildland-urban interface
-- woody encroachment
+- WUI
+- fuels
+- management
+- refwright:read:unread
+- suppression
+- woody cover
 zotero_key: GSHE99DA
 item_type: journalArticle
 url: https://www.mdpi.com/2571-6255/5/6/188
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-16'
 ---
 
 # Virtually Fenced Goats for Grazing Fire Prone Juniper in Coastal Norway Wildland–Urban Interface

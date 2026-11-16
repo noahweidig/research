@@ -6,19 +6,18 @@ year: '2020'
 journal: Remote Sensing
 doi: 10.3390/rs12182966
 tags:
+- WUI
 - agriculture
-- forest ecology
-- machine learning
-- mtbs
-- nlcd
-- vegetation
-- wildland-urban interface
+- forests
+- fuels
+- refwright:read:unread
+- statistics
 zotero_key: GKPIDXGN
 item_type: journalArticle
 url: https://www.mdpi.com/2072-4292/12/18/2966
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-16'
 ---
 
 # Classifying Large Wildfires in the United States by Land Cover

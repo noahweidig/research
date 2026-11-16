@@ -10,17 +10,16 @@ year: '2024'
 journal: Nature Communications
 doi: 10.1038/s41467-024-53460-6
 tags:
-- carbon cycle
-- ecological modeling
-- environmental health
-- fire ecology
-- forestry
+- ecology
+- forests
+- public health
+- refwright:read:unread
 zotero_key: HACWFUYH
 item_type: journalArticle
 url: https://www.nature.com/articles/s41467-024-53460-6
 source_url: 'unpaywall: https://www.nature.com/articles/s41467-024-53460-6.pdf'
 fulltext_status: fulltext
-synced: '2026-11-06'
+synced: '2026-11-16'
 ---
 
 # Road fragment edges enhance wildfire incidence and intensity, while suppressing global burned area
@@ -775,5 +774,3 @@ Open Access This article is licensed under a Creative Commons Attribution-NonCom
 Nature Communications |  (2024) 15:9176 
 
 16 
-
-

@@ -15,13 +15,9 @@ year: '2013'
 journal: Journal of Biogeography
 doi: 10.1111/jbi.12065
 tags:
-- australia
 - climate
-- climate change
-- fire history
-- fire regime
-- fulltext:check-needed
-- pyrogeography
+- fire regimes
+- refwright:read:unread
 - remote sensing
 - wildfire
 zotero_key: HUCUATHG
@@ -29,7 +25,7 @@ item_type: journalArticle
 url: https://onlinelibrary.wiley.com/doi/abs/10.1111/jbi.12065
 source_url: 'unpaywall: https://figshare.com/articles/journal_contribution/Fire_regimes_of_Australia_a_pyrogeographic_model_system/22896521'
 fulltext_status: fulltext
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Fire regimes of Australia: a pyrogeographic model system

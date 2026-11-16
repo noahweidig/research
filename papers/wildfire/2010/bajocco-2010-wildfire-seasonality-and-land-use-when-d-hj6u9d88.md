@@ -10,16 +10,15 @@ journal: Environmental Monitoring and Assessment
 doi: 10.1007/s10661-009-0905-x
 tags:
 - climate
-- climate change
-- fire season
-- human-related causes
-- landscape analysis
+- fire regimes
+- human dimensions
+- refwright:read:unread
 zotero_key: HJ6U9D88
 item_type: journalArticle
 url: https://doi.org/10.1007/s10661-009-0905-x
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Wildfire seasonality and land use: when do wildfires prefer to burn?

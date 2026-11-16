@@ -7,16 +7,20 @@ year: '2026'
 journal: null
 doi: 10.31223/x5nn5r
 tags:
+- air quality
 - climate
 - mortality
 - public health
+- refwright:read:unread
+- resilience
+- united states
 - wildfire
 zotero_key: GWQ7GV33
-item_type: journalArticle
+item_type: preprint
 url: https://openalex.org/W7213530259
 source_url: 'unpaywall: https://doi.org/10.31223/x5nn5r'
 fulltext_status: fulltext
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Forecasting Lives Lost to Climate Change: A Precautionary Empirical Framework for Climate-Related Mortality

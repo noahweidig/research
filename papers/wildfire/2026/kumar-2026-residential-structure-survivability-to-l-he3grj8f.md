@@ -9,16 +9,20 @@ year: '2026'
 journal: Earth's Future
 doi: 10.1029/2026EF008372
 tags:
-- housing
-- large wildfires
+- WUI
+- exposure
+- fuels
+- refwright:read:unread
 - united states
+- urbanization
+- weather
 - wildfire
 zotero_key: HE3GRJ8F
 item_type: journalArticle
 url: https://onlinelibrary.wiley.com/doi/abs/10.1029/2026EF008372
 source_url: 'unpaywall: https://arxiv.org/pdf/2512.19514'
 fulltext_status: fulltext
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Residential Structure Survivability to Large Wildfires in the United States

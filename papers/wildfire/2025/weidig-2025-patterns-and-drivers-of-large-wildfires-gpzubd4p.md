@@ -6,16 +6,18 @@ year: '2025'
 journal: null
 doi: null
 tags:
-- eastern united states
-- large wildfires
+- WUI
+- fuels
+- refwright:read:done
+- remote sensing
+- united states
 - wildfire
-- wildland-urban interface
 zotero_key: GPZUBD4P
 item_type: thesis
 url: https://patron.uflib.ufl.edu/UFE0062783/00001/pdf
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Patterns and drivers of large wildfires within and surrounding the wildland-urban interface of the eastern United States

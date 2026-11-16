@@ -1,30 +1,27 @@
 ---
 title: Disentangling the role of prefire vegetation vs. burning conditions on fire severity in a large forest fire in SE Spain
 authors:
-- Viedma, O.
+- Viedma, Olga
 - Chico, F.
 - Fernández, J. J.
 - Madrigal, C.
-- Safford, H. D.
-- Moreno, J. M.
+- Safford, Hugh
+- Moreno, José M.
 year: '2020'
 journal: Remote Sensing of Environment
 doi: 10.1016/j.rse.2020.111891
 tags:
-- fire history
-- fire severity
-- fire weather
-- fulltext:pdf-missing
-- landsat
-- lidar
+- fire regimes
+- refwright:read:unread
 - remote sensing
 - topography
+- weather
 zotero_key: H47JQSEL
 item_type: journalArticle
 url: https://www.sciencedirect.com/science/article/pii/S0034425720302613
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Disentangling the role of prefire vegetation vs. burning conditions on fire severity in a large forest fire in SE Spain

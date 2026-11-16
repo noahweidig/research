@@ -5,17 +5,17 @@ year: '2025'
 journal: null
 doi: null
 tags:
-- eastern united states
-- fire regime
-- fulltext:check-needed
-- large wildfires
+- WUI
+- fire regimes
+- refwright:read:done
+- united states
 - wildfire
 zotero_key: GKCZHAW8
 item_type: presentation
 url: https://vimeo.com/1125882277
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Changing large wildfire regime dynamics in the eastern United States

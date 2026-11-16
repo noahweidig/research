@@ -7,17 +7,16 @@ year: '2021'
 journal: 'Journal of Geophysical Research: Atmospheres'
 doi: 10.1029/2020JD033740
 tags:
-- climate change
+- climate
 - drought
-- fulltext:pdf-missing
-- hydrological modeling
-- modeling
+- refwright:read:unread
+- statistics
 zotero_key: H6FQ3TDU
 item_type: journalArticle
 url: https://onlinelibrary.wiley.com/doi/abs/10.1029/2020JD033740
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Evolution of Dry and Wet Spells Under Climate Change Over North-Eastern North America

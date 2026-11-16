@@ -32,7 +32,7 @@ authors:
 - Champreux, Antoine
 - Chaste, Emeline
 - Chavardès, Raphaël Daniel
-- Chipman, Melissa
+- Chipman, Melissa L.
 - Conedera, Marco
 - Connor, Simon
 - Constantine, Mark
@@ -42,7 +42,7 @@ authors:
 - De Boer, Erik
 - Dietze, Elisabeth
 - Estrany, Joan
-- Fernandes, Paulo
+- Fernandes, Paulo M.
 - Finsinger, Walter
 - Flantua, Suzette G. A.
 - Fox-Hughes, Paul
@@ -76,7 +76,7 @@ authors:
 - Maezumi, S. Yoshi
 - Marcisz, Katarzyna
 - Mariani, Michela
-- McWethy, David
+- McWethy, David B.
 - Meyer, Grant
 - Molinari, Chiara
 - Montoya, Encarni
@@ -112,17 +112,17 @@ year: '2024'
 journal: Fire Ecology
 doi: 10.1186/s42408-023-00237-9
 tags:
-- biomes
-- climate change
-- ecosystem services
-- fire regime
+- climate
+- ecology
+- fire regimes
 - management
+- refwright:read:unread
 zotero_key: H4HW6QQB
 item_type: journalArticle
 url: https://doi.org/10.1186/s42408-023-00237-9
 source_url: 'unpaywall: https://fireecology.springeropen.com/counter/pdf/10.1186/s42408-023-00237-9'
 fulltext_status: fulltext
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Assessing changes in global fire regimes

@@ -9,20 +9,17 @@ year: '2023'
 journal: Geophysical Research Letters
 doi: 10.1029/2023GL107051
 tags:
-- fire regime
-- fulltext:check-needed
+- fire regimes
 - longleaf pine
-- mesophication
-- prescribed burning
 - prescribed fire
-- pyrogeography
-- savanna
+- rangelands
+- refwright:read:unread
 zotero_key: GJPSTIFG
 item_type: journalArticle
 url: https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023GL107051
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Increasing Large Wildfire in the Eastern United States

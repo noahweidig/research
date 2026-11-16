@@ -15,16 +15,20 @@ year: '2024'
 journal: Communications Earth & Environment
 doi: 10.1038/s43247-024-01654-7
 tags:
-- atmospheric science
-- environmental health
+- climate
 - fire risk
 - natural hazards
+- public health
+- refwright:read:unread
+- united states
+- weather
+- wildfire
 zotero_key: H23KPVSJ
 item_type: journalArticle
 url: https://www.nature.com/articles/s43247-024-01654-7
 source_url: 'unpaywall: https://www.nature.com/articles/s43247-024-01654-7.pdf'
 fulltext_status: fulltext
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # South America is becoming warmer, drier, and more flammable

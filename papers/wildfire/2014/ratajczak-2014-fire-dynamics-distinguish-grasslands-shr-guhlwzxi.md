@@ -9,17 +9,17 @@ year: '2014'
 journal: Journal of Ecology
 doi: 10.1111/1365-2745.12311
 tags:
+- rangelands
+- refwright:read:unread
 - resilience
-- restoration
-- stability
-- tallgrass prairie
-- woody encroachment
+- wildfire
+- woody cover
 zotero_key: GUHLWZXI
 item_type: journalArticle
 url: https://onlinelibrary.wiley.com/doi/abs/10.1111/1365-2745.12311
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-16'
 ---
 
 # Fire dynamics distinguish grasslands, shrublands and woodlands as alternative attractors in the Central Great Plains of North America

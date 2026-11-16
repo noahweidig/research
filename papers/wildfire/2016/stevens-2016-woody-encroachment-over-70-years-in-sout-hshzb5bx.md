@@ -3,22 +3,26 @@ title: 'Woody encroachment over 70 years in South African savannahs: overgrazing
 authors:
 - Stevens, Nicola
 - Erasmus, B. F. N.
-- Archibald, S.
-- Bond, W. J.
+- Archibald, Sally
+- Bond, William
 year: '2016'
 journal: 'Philosophical Transactions of the Royal Society B: Biological Sciences'
 doi: 10.1098/rstb.2015.0437
 tags:
-- global change
-- savanna
+- climate
+- conservation
+- fuels
+- land cover
+- rangelands
+- refwright:read:unread
+- trees
 - woody cover
-- woody encroachment
 zotero_key: HSHZB5BX
 item_type: journalArticle
 url: https://royalsocietypublishing.org/doi/full/10.1098/rstb.2015.0437
 source_url: 'unpaywall: https://www.ncbi.nlm.nih.gov/pmc/articles/4978877'
 fulltext_status: fulltext
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Woody encroachment over 70 years in South African savannahs: overgrazing, global change or extinction aftershock?

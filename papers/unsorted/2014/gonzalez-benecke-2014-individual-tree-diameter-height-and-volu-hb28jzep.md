@@ -11,17 +11,17 @@ year: '2014'
 journal: Forest Science
 doi: 10.5849/forsci.12-074
 tags:
-- fulltext:check-needed
 - longleaf pine
 - plant physiology
-- southeastern united states
+- refwright:read:unread
 - trees
+- united states
 zotero_key: HB28JZEP
 item_type: journalArticle
 url: http://dx.doi.org/10.5849/forsci.12-074
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Individual Tree Diameter, Height, and Volume Functions for Longleaf Pine

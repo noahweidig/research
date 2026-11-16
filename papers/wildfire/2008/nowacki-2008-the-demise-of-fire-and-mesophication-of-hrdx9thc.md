@@ -7,20 +7,19 @@ year: '2008'
 journal: BioScience
 doi: 10.1641/B580207
 tags:
-- eastern united states
-- ecological succession
-- fire regime
-- fire suppression
-- forest dynamics
-- fulltext:check-needed
-- mesophication
-- temperate forest
+- fire regimes
+- forests
+- fuels
+- refwright:read:unread
+- suppression
+- united states
+- wildfire
 zotero_key: HRDX9THC
 item_type: journalArticle
 url: https://doi.org/10.1641/B580207
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # The Demise of Fire and “Mesophication” of Forests in the Eastern United States

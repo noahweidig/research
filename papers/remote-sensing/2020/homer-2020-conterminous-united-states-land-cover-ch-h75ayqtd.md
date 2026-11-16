@@ -4,23 +4,21 @@ authors:
 - Homer, Collin
 - Dewitz, Jon
 - Jin, Suming
-- Xian, George
+- Xian, George Z.
 - Costello, Catherine
 - Danielson, Patrick
 - Gass, Leila
 - Funk, Michelle
-- Wickham, James
-- Stehman, Stephen
-- Auch, Roger
-- Riitters, Kurt
+- Wickham, James D.
+- Stehman, Stephen V.
+- Auch, Roger F.
+- Riitters, Kurt H.
 year: '2020'
 journal: ISPRS Journal of Photogrammetry and Remote Sensing
 doi: 10.1016/j.isprsjprs.2020.02.019
 tags:
-- fulltext:pdf-found
-- land use change
-- landsat
-- nlcd
+- land cover
+- refwright:read:unread
 - remote sensing
 - united states
 zotero_key: H75AYQTD
@@ -28,7 +26,7 @@ item_type: journalArticle
 url: https://www.sciencedirect.com/science/article/pii/S0924271620300587
 source_url: 'unpaywall: https://www.ncbi.nlm.nih.gov/pmc/articles/9214659'
 fulltext_status: fulltext
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Conterminous United States land cover change patterns 2001–2016 from the 2016 National Land Cover Database

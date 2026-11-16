@@ -9,16 +9,17 @@ year: '2024'
 journal: International Journal of Wildland Fire
 doi: 10.1071/WF24110
 tags:
-- eastern united states
+- WUI
+- refwright:read:done
+- statistics
 - united states
 - wildfire
-- wildland-urban interface
 zotero_key: GMCJX75Z
 item_type: journalArticle
 url: https://www.publish.csiro.au/WF/WF24110
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Changing large wildfire dynamics in the wildland–urban interface of the eastern United States

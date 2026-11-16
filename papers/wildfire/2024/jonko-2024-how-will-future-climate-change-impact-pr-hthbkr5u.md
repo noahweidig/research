@@ -12,7 +12,7 @@ authors:
 - Godwin, Daniel
 - Kupfer, John A.
 - Hiers, J. Kevin
-- Hoffman, Chad
+- Hoffman, Chad M.
 - North, Malcolm
 - Restaino, Joseph
 - Sieg, Carolyn
@@ -21,16 +21,19 @@ year: '2024'
 journal: npj Climate and Atmospheric Science
 doi: 10.1038/s41612-024-00649-7
 tags:
-- climate change
-- contiguous united states
-- environmental impact
-- forestry
+- climate
+- forests
+- prescribed fire
+- refwright:read:unread
+- united states
+- weather
+- wildfire
 zotero_key: HTHBKR5U
 item_type: journalArticle
 url: https://www.nature.com/articles/s41612-024-00649-7
 source_url: 'unpaywall: https://www.nature.com/articles/s41612-024-00649-7.pdf'
 fulltext_status: fulltext
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # How will future climate change impact prescribed fire across the contiguous United States?

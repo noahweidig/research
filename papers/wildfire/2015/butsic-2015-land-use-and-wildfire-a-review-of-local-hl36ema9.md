@@ -8,18 +8,19 @@ year: '2015'
 journal: Land
 doi: 10.3390/land4010140
 tags:
-- climate change
+- WUI
+- climate
 - fire risk
-- land use change
-- legal statutes
+- land cover
+- policy
+- refwright:read:unread
 - wildfire
-- wildland-urban interface
 zotero_key: HL36EMA9
 item_type: journalArticle
 url: https://www.mdpi.com/2073-445X/4/1/140
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-16'
 ---
 
 # Land Use and Wildfire: A Review of Local Interactions and Teleconnections

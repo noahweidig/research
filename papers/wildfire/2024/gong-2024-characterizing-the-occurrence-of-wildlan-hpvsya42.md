@@ -8,17 +8,16 @@ year: '2024'
 journal: Ecological Indicators
 doi: 10.1016/j.ecolind.2024.112179
 tags:
-- china
-- fire regime
-- random forest
-- spatiotemporal
-- wildland-urban interface
+- WUI
+- fire regimes
+- refwright:read:unread
+- statistics
 zotero_key: HPVSYA42
 item_type: journalArticle
 url: https://www.sciencedirect.com/science/article/pii/S1470160X24006368
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Characterizing the occurrence of wildland-urban interface fires and their important factors in China

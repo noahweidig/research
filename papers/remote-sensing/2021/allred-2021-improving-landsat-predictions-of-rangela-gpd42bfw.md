@@ -27,17 +27,16 @@ journal: Methods in Ecology and Evolution
 doi: 10.1111/2041-210X.13564
 tags:
 - conservation
-- convolutional neural network
-- grassland
-- machine learning
-- rangeland
+- rangelands
+- refwright:read:unread
 - remote sensing
+- statistics
 zotero_key: GPD42BFW
 item_type: journalArticle
 url: https://onlinelibrary.wiley.com/doi/abs/10.1111/2041-210X.13564
 source_url: 'unpaywall: https://www.biorxiv.org/content/biorxiv/early/2020/08/04/2020.06.10.142489.full.pdf'
 fulltext_status: fulltext
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Improving Landsat predictions of rangeland fractional cover with multitask learning and uncertainty

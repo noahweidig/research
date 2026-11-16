@@ -7,9 +7,10 @@ year: '1990'
 journal: Government Information Quarterly
 doi: 10.1016/0740-624X(90)90026-K
 tags:
-- fulltext:pdf-missing
-- geospatial data
-- gis
+- WUI
+- dataset
+- refwright:read:unread
+- remote sensing
 - statistics
 - united states
 zotero_key: HZDJK5I7
@@ -17,7 +18,7 @@ item_type: journalArticle
 url: https://www.sciencedirect.com/science/article/pii/0740624X9090026K
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # The TIGER system: A census bureau innovation serving data analysts

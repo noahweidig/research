@@ -10,15 +10,19 @@ journal: null
 doi: 10.31223/x5t50k
 tags:
 - air quality
+- fire risk
+- prescribed fire
+- public health
+- refwright:read:unread
+- smoke
 - united states
 - wildfire
-- wildfire smoke
 zotero_key: GSVPS7SH
-item_type: journalArticle
+item_type: preprint
 url: https://openalex.org/W7204567181
 source_url: 'unpaywall: https://eartharxiv.org/repository/object/14682/download/25540/'
 fulltext_status: fulltext
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # A qualitative content analysis of wildfire smoke preparedness and response plans in the United States and Canada

@@ -10,15 +10,17 @@ journal: Proceedings of the National Academy of Sciences
 doi: 10.1073/pnas.1713885114
 tags:
 - climate
-- fire
+- fire regimes
+- refwright:read:unread
 - united states
-- wildfire occurrence
+- weather
+- wildfire
 zotero_key: H4Q56C9G
 item_type: journalArticle
 url: https://www.pnas.org/doi/10.1073/pnas.1713885114
 source_url: 'unpaywall: https://www.ncbi.nlm.nih.gov/pmc/articles/5748195'
 fulltext_status: fulltext
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Human presence diminishes the importance of climate in driving fire activity across the United States
