@@ -16,16 +16,21 @@ year: '2026'
 journal: null
 doi: 10.5194/egusphere-2026-3303
 tags:
-- disaster
+- WUI
+- exposure
 - finance
-- large wildfires
+- natural hazards
+- refwright:read:unread
+- smoke
+- united states
+- weather
 - wildfire
 zotero_key: BC2D34EH
 item_type: journalArticle
 url: https://openalex.org/W7208726690
 source_url: 'unpaywall: https://egusphere.copernicus.org/preprints/2026/egusphere-2026-3303/egusphere-2026-3303.pdf'
 fulltext_status: fulltext
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # The Netherlands flooded by flames: a rapid-response analysis of the Apr/May 2026 simultaneous wildfire events

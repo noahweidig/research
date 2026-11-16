@@ -8,17 +8,19 @@ year: '2020'
 journal: International Journal of Wildland Fire
 doi: 10.1071/WF20066
 tags:
-- atmospheric science
 - climate
-- fulltext:pdf-found
+- fire risk
+- fuels
+- refwright:read:unread
+- suppression
+- united states
 - wildfire
-- wildfire occurrence
 zotero_key: CQ9HDAFI
 item_type: journalArticle
 url: https://www.publish.csiro.au/wf/WF20066
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # High-severity wildfire potential – associating meteorology, climate, resource demand and wildfire activity with preparedness levels

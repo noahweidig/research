@@ -1,23 +1,23 @@
 ---
 title: 'Chronic Disease and Disability in the United States: Trends, Inequities, and Imperatives for Policy Reform'
 authors:
-- MOKDAD, ALI H.
+- Mokdad, Ali H.
 - Dwyer-Lindgren, Laura
-- MURRAY, CHRISTOPHER J.L.
+- Murray, Christopher J.L.
 year: '2026'
 journal: Milbank Quarterly
 doi: 10.1111/1468-0009.70109
 tags:
-- environmental justice
-- large wildfires
 - mortality
+- refwright:read:unread
 - united states
+- wildfire
 zotero_key: BAQ997UK
 item_type: journalArticle
 url: https://openalex.org/W7203501228
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Chronic Disease and Disability in the United States: Trends, Inequities, and Imperatives for Policy Reform

@@ -11,9 +11,7 @@ journal: Ecological Applications
 doi: 10.1002/eap.2597
 tags:
 - fragmentation
-- fulltext:pdf-missing
-- housing
-- rural development
+- refwright:read:unread
 - urbanization
 - wildfire
 zotero_key: BVRHFJYE
@@ -21,7 +19,7 @@ item_type: journalArticle
 url: https://onlinelibrary.wiley.com/doi/abs/10.1002/eap.2597
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # The wildland–urban interface in the United States based on 125 million building locations

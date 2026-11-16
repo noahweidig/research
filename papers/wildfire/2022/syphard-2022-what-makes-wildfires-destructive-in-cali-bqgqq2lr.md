@@ -10,17 +10,18 @@ year: '2022'
 journal: Fire
 doi: 10.3390/fire5050133
 tags:
-- fire spread
-- fire weather
-- structure loss
+- WUI
+- exposure
+- fire behavior
+- refwright:read:unread
+- weather
 - wildfire
-- wildland-urban interface
 zotero_key: BQGQQ2LR
 item_type: journalArticle
 url: https://www.mdpi.com/2571-6255/5/5/133
 source_url: 'unpaywall: https://commons.clarku.edu/faculty_geography/620'
 fulltext_status: fulltext
-synced: '2026-11-06'
+synced: '2026-11-16'
 ---
 
 # What Makes Wildfires Destructive in California?

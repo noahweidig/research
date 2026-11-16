@@ -12,7 +12,7 @@ authors:
 - Henry, Lionel
 - Hester, Jim
 - Kuhn, Max
-- Pedersen, Thomas
+- Pedersen, Thomas Lin
 - Miller, Evan
 - Bache, Stephan
 - Müller, Kirill
@@ -29,19 +29,22 @@ year: '2019'
 journal: Journal of Open Source Software
 doi: 10.21105/joss.01686
 tags:
-- data science
-- r package
+- refwright:read:unread
 - software
-- statistical software
+- statistics
 zotero_key: AT98GUN5
 item_type: journalArticle
 url: https://joss.theoj.org/papers/10.21105/joss.01686
 source_url: 'unpaywall: https://joss.theoj.org/papers/10.21105/joss.01686.pdf'
 fulltext_status: fulltext
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Welcome to the Tidyverse
+
+## Abstract
+
+At a high level, the tidyverse is a language for solving data science challenges with R code.Its primary goal is to facilitate a conversation between a human and a computer about data.Less abstractly, the tidyverse is a collection of R packages that share a high-level design philosophy and low-level grammar and data structures, so that learning one package makes it easier to learn the next.
 
 ## Full text
 

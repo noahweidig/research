@@ -1,28 +1,31 @@
 ---
-title: Forest and Land Fires Are Mainly Associated with Deforestation in Riau Province, Indonesia
+title: Forest and land fires are mainly associated with deforestation in riau province, indonesia
 authors:
 - Adrianto, Hari A.
 - Spracklen, Dominick V.
 - Arnold, Stephen R.
 - Sitanggang, Imas S.
 - Syaufina, Lailan
-year: '2020'
+year: '2019'
 journal: Remote Sensing
 doi: 10.3390/rs12010003
 tags:
-- deforestation
+- agriculture
+- forests
 - land cover
-- pine plantation
+- refwright:read:unread
+- remote sensing
+- united states
 - wildfire
 zotero_key: BZPIDSQH
 item_type: journalArticle
 url: https://www.mdpi.com/2072-4292/12/1/3
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
-# Forest and Land Fires Are Mainly Associated with Deforestation in Riau Province, Indonesia
+# Forest and land fires are mainly associated with deforestation in riau province, indonesia
 
 ## Abstract
 

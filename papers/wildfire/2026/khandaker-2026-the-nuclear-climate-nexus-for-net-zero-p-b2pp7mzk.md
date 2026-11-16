@@ -7,16 +7,17 @@ journal: Next Sustainability
 doi: 10.1016/j.nxsust.2026.100498
 tags:
 - climate
-- fulltext:check-needed
-- large wildfires
+- refwright:read:unread
 - resilience
+- statistics
 - united states
+- wildfire
 zotero_key: B2PP7MZK
 item_type: journalArticle
 url: https://openalex.org/W7214015050
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # The nuclear-climate nexus for net-zero pathways: Opportunities, challenges, and policy directions: A review

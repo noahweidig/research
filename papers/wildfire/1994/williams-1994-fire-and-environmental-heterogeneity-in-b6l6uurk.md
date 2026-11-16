@@ -1,24 +1,22 @@
 ---
 title: 'Fire and Environmental Heterogeneity in Southern Temperate Forest Ecosystems: Implications for Management'
 authors:
-- Williams, J. E.
+- Williams, Jerry
 - Whelan, R. J.
-- Gill, A. M.
+- Gill, A. Malcolm
 year: '1994'
 journal: Australian Journal of Botany
 doi: 10.1071/bt9940125
 tags:
-- ecosystems
-- fire
-- fulltext:pdf-missing
-- heterogeneity
-- temperate forest
+- forests
+- refwright:read:unread
+- wildfire
 zotero_key: B6L6UURK
 item_type: journalArticle
 url: https://www.publish.csiro.au/bt/bt9940125
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Fire and Environmental Heterogeneity in Southern Temperate Forest Ecosystems: Implications for Management

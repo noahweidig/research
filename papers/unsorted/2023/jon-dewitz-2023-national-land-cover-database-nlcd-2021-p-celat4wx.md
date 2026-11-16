@@ -8,15 +8,15 @@ doi: 10.5066/P9JZ7AO3
 tags:
 - dataset
 - fulltext:pdf-missing
-- land use change
-- nlcd
-- survey research
+- land cover
+- refwright:read:unread
+- statistics
 zotero_key: CELAT4WX
 item_type: dataset
 url: https://www.sciencebase.gov/catalog/item/647626cbd34e4e58932d9d4e
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # National Land Cover Database (NLCD) 2021 Products

@@ -14,17 +14,19 @@ year: '2022'
 journal: Frontiers in Forests and Global Change
 doi: 10.3389/ffgc.2022.848254
 tags:
-- fuel treatments
+- WUI
+- fire risk
 - fuels
-- fulltext:pdf-missing
+- refwright:read:unread
+- resilience
+- suppression
 - wildfire
-- wildland-urban interface
 zotero_key: AJJKM3G2
 item_type: journalArticle
 url: https://www.frontiersin.org/articles/10.3389/ffgc.2022.848254
 source_url: 'unpaywall: https://doi.org/10.3389/ffgc.2022.848254'
 fulltext_status: fulltext
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Beyond a Focus on Fuel Reduction in the WUI: The Need for Regional Wildfire Mitigation to Address Multiple Risks

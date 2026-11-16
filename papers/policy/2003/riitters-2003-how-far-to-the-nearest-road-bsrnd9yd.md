@@ -7,17 +7,16 @@ year: '2003'
 journal: Frontiers in Ecology and the Environment
 doi: 10.1890/1540-9295(2003)001[0125:HFTTNR]2.0.CO;2
 tags:
-- beta regression
-- fulltext:pdf-missing
-- proportional data
-- road network
+- WUI
+- refwright:read:unread
+- statistics
 - united states
 zotero_key: BSRND9YD
 item_type: journalArticle
 url: https://onlinelibrary.wiley.com/doi/abs/10.1890/1540-9295%282003%29001%5B0125%3AHFTTNR%5D2.0.CO%3B2
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # How far to the nearest road?

@@ -9,16 +9,17 @@ year: '2022'
 journal: GeoHealth
 doi: 10.1029/2022GH000648
 tags:
+- CRP
 - agriculture
 - air quality
 - conservation
-- conservation reserve program
+- refwright:read:unread
 zotero_key: 957EPII4
 item_type: journalArticle
 url: https://onlinelibrary.wiley.com/doi/abs/10.1029/2022GH000648
 source_url: 'unpaywall: https://www.ncbi.nlm.nih.gov/pmc/articles/9553094'
 fulltext_status: fulltext
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # The Unintended Benefits of the Conservation Reserve Program for Air Quality

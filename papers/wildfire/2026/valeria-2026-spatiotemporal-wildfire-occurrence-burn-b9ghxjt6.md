@@ -14,16 +14,18 @@ year: '2026'
 journal: Trees Forests and People
 doi: 10.1016/j.tfp.2026.101511
 tags:
-- fire severity
-- vegetation
+- fire regimes
+- fuels
+- prescribed fire
+- refwright:read:unread
+- united states
 - wildfire
-- wildfire occurrence
 zotero_key: B9GHXJT6
 item_type: journalArticle
 url: https://openalex.org/W7214963579
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Spatiotemporal wildfire occurrence, burn severity and early post-fire vegetation recovery in a tropical Andean landscape: Quilanga, southern Ecuador

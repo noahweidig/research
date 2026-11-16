@@ -7,7 +7,7 @@ authors:
 - Fleishman, Erica
 - Short, Karen C.
 - Reeves, Matthew C.
-- Nauslar, Nicholas
+- Nauslar, Nicholas J.
 - Higuera, Philip E.
 - Henderson, Eric
 - Ball, Sawyer
@@ -20,7 +20,10 @@ journal: Earth System Science Data
 doi: 10.5194/essd-16-3045-2024
 tags:
 - dataset
+- human dimensions
 - ignition
+- refwright:read:unread
+- topography
 - united states
 - wildfire
 zotero_key: AZN3C2SM
@@ -28,7 +31,7 @@ item_type: journalArticle
 url: https://essd.copernicus.org/articles/16/3045/2024/
 source_url: 'unpaywall: https://essd.copernicus.org/articles/16/3045/2024/essd-16-3045-2024.pdf'
 fulltext_status: fulltext
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Physical, social, and biological attributes for improved understanding and prediction of wildfires: FPA FOD-Attributes dataset

@@ -1,22 +1,24 @@
 ---
 title: The spatial domain of wildfire risk and response in the wildland urban interface in Sydney, Australia
 authors:
-- Price, O. F.
-- Bradstock, R. A.
+- Price, Owen
+- Bradstock, Ross A.
 year: '2013'
 journal: Natural Hazards and Earth System Sciences
 doi: 10.5194/nhess-13-3385-2013
 tags:
-- australia
+- WUI
 - fire risk
+- refwright:read:unread
+- suppression
+- urbanization
 - wildfire
-- wildland-urban interface
 zotero_key: A6CCTVT5
 item_type: journalArticle
 url: https://nhess.copernicus.org/articles/13/3385/2013/
 source_url: 'unpaywall: https://nhess.copernicus.org/articles/13/3385/2013/nhess-13-3385-2013.pdf'
 fulltext_status: fulltext
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # The spatial domain of wildfire risk and response in the wildland urban interface in Sydney, Australia

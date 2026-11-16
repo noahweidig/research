@@ -1,22 +1,26 @@
 ---
 title: 'Prescribed Fire in Oak Savanna: Fire Frequency Effects on Stand Structure and Dynamics'
 authors:
-- Peterson, David
+- Peterson, David L.
 - Reich, Peter B.
 year: '2001'
 journal: Ecological Applications
 doi: 10.2307/3061125
 tags:
-- fire
-- fire frequency
-- forest structure
-- savanna
+- biodiversity
+- fire regimes
+- forests
+- prescribed fire
+- rangelands
+- refwright:read:unread
+- trees
+- wildfire
 zotero_key: BS9JR55M
 item_type: journalArticle
 url: https://www.jstor.org/stable/3061125
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Prescribed Fire in Oak Savanna: Fire Frequency Effects on Stand Structure and Dynamics

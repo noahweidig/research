@@ -11,16 +11,21 @@ year: '2026'
 journal: Agricultural and Forest Meteorology
 doi: 10.1016/j.agrformet.2026.111436
 tags:
-- human-related causes
+- fire regimes
+- forests
+- human dimensions
 - ignition
-- prescribed burning
+- prescribed fire
+- refwright:read:unread
+- suppression
+- united states
 - wildfire
 zotero_key: CKCQ4BT3
 item_type: journalArticle
 url: https://openalex.org/W7204250310
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Distinct seasonality and trends of natural and anthropogenic wildfires in boreal forests

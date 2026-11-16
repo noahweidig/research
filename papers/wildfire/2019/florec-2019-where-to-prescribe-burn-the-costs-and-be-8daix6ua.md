@@ -15,16 +15,18 @@ year: '2019'
 journal: International Journal of Wildland Fire
 doi: 10.1071/WF18192
 tags:
-- australia
-- prescribed burning
+- WUI
+- fire risk
+- prescribed fire
+- refwright:read:unread
+- united states
 - wildfire
-- wildland-urban interface
 zotero_key: 8DAIX6UA
 item_type: journalArticle
 url: https://www.publish.csiro.au/wf/WF18192
 source_url: 'unpaywall: https://research-repository.uwa.edu.au/en/publications/0395da9c-0efc-4644-8d31-9bf073d78003'
 fulltext_status: fulltext
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Where to prescribe burn: the costs and benefits of prescribed burning close to houses

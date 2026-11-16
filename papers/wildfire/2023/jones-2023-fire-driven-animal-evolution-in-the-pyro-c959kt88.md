@@ -13,17 +13,18 @@ year: '2023'
 journal: Trends in Ecology & Evolution
 doi: 10.1016/j.tree.2023.06.003
 tags:
-- animals
-- climate change
-- fire
-- fire regime
-- fulltext:check-needed
+- climate
+- fire regimes
+- plant species
+- refwright:read:unread
+- wildfire
+- wildlife
 zotero_key: C959KT88
 item_type: journalArticle
 url: https://www.sciencedirect.com/science/article/pii/S0169534723001519
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Fire-driven animal evolution in the Pyrocene

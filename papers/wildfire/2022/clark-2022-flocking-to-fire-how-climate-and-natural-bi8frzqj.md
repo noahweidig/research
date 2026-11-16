@@ -3,24 +3,31 @@ title: 'Flocking to fire: How climate and natural hazards shape human migration 
 authors:
 - Clark, Mahalia B.
 - Nkonya, Ephraim
-- Galford, Gillian L.
+- Galford, Gillian L
 year: '2022'
 journal: Frontiers in Human Dynamics
-doi: https://doi.org/10.3389/fhumd.2022.886545
+doi: 10.3389/fhumd.2022.886545
 tags:
+- WUI
 - climate
-- fire
+- human dimensions
 - natural hazards
+- refwright:read:unread
 - united states
+- wildfire
 zotero_key: BI8FRZQJ
 item_type: journalArticle
 url: https://www.frontiersin.org/articles/10.3389/fhumd.2022.886545
 source_url: 'unpaywall: https://doi.org/10.3389/fhumd.2022.886545'
 fulltext_status: fulltext
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Flocking to fire: How climate and natural hazards shape human migration across the United States
+
+## Abstract
+
+As global climate change progresses, the United States (US) is expected to experience warmer temperatures as well as more frequent and severe extreme weather events, including heat waves, hurricanes, and wildfires. Each year, these events cost dozens of lives and do billions of dollars' worth of damage, but there has been limited research on how they influence human decisions about migration. Are people moving toward or away from areas most at risk from these climate threats? Here, we examine recent (2010–2020) trends in human migration across the US in relation to features of the natural landscape and climate, as well as frequencies of various natural hazards. Controlling for socioeconomic and environmental factors, we found that people have moved away from areas most affected by heat waves and hurricanes, but toward areas most affected by wildfires. This relationship may suggest that, for many, the dangers of wildfires do not yet outweigh the perceived benefits of life in fire-prone areas. We also found that people have been moving toward metropolitan areas with relatively hot summers, a dangerous public health trend if mean and maximum temperatures continue to rise, as projected in most climate scenarios. These results have implications for policymakers and planners as they prepare strategies to mitigate climate change and natural hazards in areas attracting migrants.
 
 ## Full text
 

@@ -8,17 +8,20 @@ year: '2010'
 journal: Wetlands
 doi: 10.1007/s13157-010-0060-8
 tags:
-- animals
-- forest management
+- biodiversity
+- forests
 - freshwater ecosystems
-- fulltext:pdf-missing
+- fuels
+- habitats
+- refwright:read:unread
 - united states
+- wildlife
 zotero_key: CDUI3BBL
 item_type: journalArticle
 url: https://doi.org/10.1007/s13157-010-0060-8
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Managing the Southern Pine Forest—Retained Wetland Interface for Wildlife Diversity: Research Priorities

@@ -10,16 +10,17 @@ year: '2022'
 journal: PLOS ONE
 doi: 10.1371/journal.pone.0263757
 tags:
+- WUI
 - fire risk
+- refwright:read:unread
 - united states
-- western united states
 - wildfire
 zotero_key: B7749TCI
 item_type: journalArticle
 url: https://doi.org/10.1371/journal.pone.0263757
 source_url: 'unpaywall: https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0263757&type=printable'
 fulltext_status: fulltext
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Engagement in local and collaborative wildfire risk mitigation planning across the western US—Evaluating participation and diversity in Community Wildfire Protection Plans

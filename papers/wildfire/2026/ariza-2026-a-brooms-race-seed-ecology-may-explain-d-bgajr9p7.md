@@ -9,16 +9,17 @@ year: '2026'
 journal: Ecología Austral
 doi: 10.25260/ea.26.36.3.0.2691
 tags:
-- grassland
-- invasive species
-- prescribed burning
+- plant species
+- prescribed fire
+- rangelands
+- refwright:read:unread
 - wildfire
 zotero_key: BGAJR9P7
 item_type: journalArticle
 url: https://openalex.org/W7203542638
 source_url: 'unpaywall: https://ojs.ecologiaaustral.com.ar/index.php/Ecologia_Austral/article/download/2691/1665'
 fulltext_status: fulltext
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # A brooms race: Seed ecology may explain differences in spread of two invasive legumes

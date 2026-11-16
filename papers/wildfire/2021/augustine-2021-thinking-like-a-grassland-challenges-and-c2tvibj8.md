@@ -9,17 +9,18 @@ year: '2021'
 journal: Rangeland Ecology & Management
 doi: 10.1016/j.rama.2019.09.001
 tags:
-- connectivity
-- conservation reserve program
-- fire
+- CRP
 - fragmentation
-- grazing
+- fuels
+- management
+- refwright:read:unread
+- wildfire
 zotero_key: C2TVIBJ8
 item_type: journalArticle
 url: https://www.sciencedirect.com/science/article/pii/S1550742419300697
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-16'
 ---
 
 # Thinking Like a Grassland: Challenges and Opportunities for Biodiversity Conservation in the Great Plains of North America

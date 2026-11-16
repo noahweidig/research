@@ -3,22 +3,23 @@ title: 'Multi-scale drivers of wildfire burn severity in Central Zagros: insight
 authors:
 - Shahidinejad, F
 - Jourgholami, M
-- Pourhanifeh, MM
+- Pourhanifeh, Mm
 - Esfandyar, A
 year: '2026'
 journal: iForest - Biogeosciences and Forestry
 doi: 10.3832/ifor5027-019
 tags:
-- drivers
-- fire severity
-- machine learning
+- fire regimes
+- fuels
+- refwright:read:unread
+- statistics
 - wildfire
 zotero_key: B76T94C3
 item_type: journalArticle
 url: https://openalex.org/W7211926672
 source_url: 'unpaywall: https://iforest.sisef.org/pdf/?id=ifor5027-019'
 fulltext_status: fulltext
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Multi-scale drivers of wildfire burn severity in Central Zagros: insights from remote sensing and machine learning
