@@ -6,16 +6,19 @@ year: '2026'
 journal: Frontiers in Cognition
 doi: 10.3389/fcogn.2026.1881278
 tags:
-- environmental health
-- large wildfires
-- risk perception
+- climate
+- fire risk
+- public health
+- refwright:read:unread
+- resilience
 - united states
+- wildfire
 zotero_key: I7B23K76
 item_type: journalArticle
 url: https://openalex.org/W7202267975
 source_url: 'unpaywall: https://www.frontiersin.org/journals/cognition/articles/10.3389/fcogn.2026.1881278/pdf'
 fulltext_status: fulltext
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # The eco-affective health assessment protocol: a standardized multimodal instrument battery for measuring affective, cognitive, and functional responses to environmental change

@@ -10,22 +10,24 @@ year: '2006'
 journal: Frontiers in Ecology and the Environment
 doi: 10.1890/1540-9295(2006)4[481:MFFITW]2.0.CO;2
 tags:
-- fire ecology
-- forest management
-- fulltext:check-needed
-- restoration
-- temperate forest
-- western united states
+- ecology
+- forests
+- refwright:read:unread
+- united states
 - wildfire
 zotero_key: JNM2LB78
 item_type: journalArticle
 url: http://doi.wiley.com/10.1890/1540-9295(2006)4[481:MFFITW]2.0.CO;2
 source_url: 'unpaywall: https://stars.library.ucf.edu/facultybib2000/6479'
 fulltext_status: fulltext
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Managing fire-prone forests in the western United States
+
+## Abstract
+
+The management of fire-prone forests is one of the most controversial natural resource issues in the US today, particularly in the west of the country. Although vegetation and wildlife in these forests are adapted to fire, the historical range of fire frequency and severity was huge. When fire regimes are altered by human activity, major effects on biodiversity and ecosystem function are unavoidable. We review the ecological science relevant to developing and implementing fire and fuel management policies for forests before, during, and after wildfires. Fire exclusion led to major deviations from historical variability in many dry, low-elevation forests, but not in other forests, such as those characterized by high severity fires recurring at intervals longer than the period of active fire exclusion. Restoration and management of fire-prone forests should be precautionary, allow or mimic natural fire regimes as much as possible, and generally avoid intensive practices such as post-fire logging and planting.
 
 ## Full text
 

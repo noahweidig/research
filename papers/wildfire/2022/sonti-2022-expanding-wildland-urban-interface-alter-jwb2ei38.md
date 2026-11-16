@@ -2,23 +2,25 @@
 title: Expanding wildland-urban interface alters forest structure and landscape context in the northern United States
 authors:
 - Sonti, Nancy F.
-- Riemann, Rachel
+- Riemann, Rachel I.
 - Mockrin, Miranda H.
 - Domke, Grant M.
 year: '2022'
 journal: Environmental Research Letters
 doi: 10.1088/1748-9326/aca77b
 tags:
-- forest structure
-- housing
+- WUI
+- forests
+- refwright:read:unread
 - united states
-- wildland-urban interface
+- urbanization
+- wildfire
 zotero_key: JWB2EI38
 item_type: journalArticle
 url: https://dx.doi.org/10.1088/1748-9326/aca77b
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Expanding wildland-urban interface alters forest structure and landscape context in the northern United States

@@ -5,24 +5,28 @@ authors:
 - Qiu, Minghao
 - Heft-Neal, Sam
 - Sandoval, Rebecca
-- Schollaert, Claire
+- Schollaert, Claire L.
 - Marlier, Miriam
 - Burke, Marshall
-- Diffenbaugh, Noah
+- Diffenbaugh, Noah S.
 year: '2026'
 journal: EarthArXiv
 doi: 10.31223/x5cn4w
 tags:
 - agriculture
-- environmental health
-- prescribed burning
+- air quality
+- prescribed fire
+- public health
+- refwright:read:unread
+- smoke
+- united states
 - wildfire
 zotero_key: JR8BGPRW
 item_type: journalArticle
 url: https://openalex.org/W7172040203
 source_url: 'unpaywall: https://eartharxiv.org/repository/object/14116/download/24836/'
 fulltext_status: fulltext
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Competing Health Impacts of Smoke from Wildfires, Agricultural Burning, and Prescribed Fires in California

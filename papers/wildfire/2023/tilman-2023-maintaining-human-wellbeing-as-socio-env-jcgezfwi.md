@@ -7,18 +7,18 @@ authors:
 - Watson, James R.
 year: '2023'
 journal: arXiv
-doi: null
+doi: 10.1016/j.ecolecon.2024.108194
 tags:
+- climate
+- refwright:read:unread
 - resilience
-- social-ecological systems
-- stability
-- state transition
+- wildfire
 zotero_key: JCGEZFWI
 item_type: preprint
 url: http://arxiv.org/abs/2309.04578
 source_url: 'arxiv: https://arxiv.org/pdf/2309.04578'
 fulltext_status: fulltext
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Maintaining human wellbeing as socio-environmental systems undergo regime shifts

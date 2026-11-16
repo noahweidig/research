@@ -9,9 +9,8 @@ year: '2025'
 journal: Oak Woodlands & Forests Fire Consortium
 doi: null
 tags:
-- eastern united states
 - fire risk
-- fulltext:check-needed
+- refwright:read:done
 - united states
 - wildfire
 zotero_key: JT88ZP8I
@@ -19,7 +18,7 @@ item_type: newspaperArticle
 url: https://oakfirescience.com/research-brief/woody-cover-fuels-large-wildfire-risk-in-the-eastern-u-s/
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Woody Cover Fuels Large Wildfire Risk in the Eastern U.S.

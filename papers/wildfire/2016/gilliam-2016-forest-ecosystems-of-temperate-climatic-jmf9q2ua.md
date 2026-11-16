@@ -6,17 +6,18 @@ year: '2016'
 journal: New Phytologist
 doi: 10.1111/nph.14255
 tags:
-- climate change
-- forest ecology
-- fulltext:pdf-found
-- global change
-- temperate forest
+- climate
+- disturbance
+- drought
+- forests
+- refwright:read:unread
+- wildfire
 zotero_key: JMF9Q2UA
 item_type: journalArticle
 url: https://onlinelibrary.wiley.com/doi/abs/10.1111/nph.14255
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Forest ecosystems of temperate climatic regions: from ancient use to climate change

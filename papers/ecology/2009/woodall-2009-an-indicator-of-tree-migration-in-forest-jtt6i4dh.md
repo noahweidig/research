@@ -2,26 +2,25 @@
 title: An indicator of tree migration in forests of the eastern United States
 authors:
 - Woodall, C.W.
-- Oswalt, C.M.
+- Oswalt, Christopher M.
 - Westfall, J.A.
 - Perry, C.H.
-- Nelson, M.D.
-- Finley, A.O.
+- Nelson, Mark D.
+- Finley, Andrew O.
 year: '2009'
 journal: Forest Ecology and Management
 doi: 10.1016/j.foreco.2008.12.013
 tags:
-- climate change
-- eastern united states
-- forest ecology
-- fulltext:pdf-missing
+- climate
+- forests
+- refwright:read:unread
 - united states
 zotero_key: JTT6I4DH
 item_type: journalArticle
 url: https://www.sciencedirect.com/science/article/pii/S037811270800902X
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # An indicator of tree migration in forests of the eastern United States

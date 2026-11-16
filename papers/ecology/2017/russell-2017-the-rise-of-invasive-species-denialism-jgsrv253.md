@@ -8,15 +8,17 @@ journal: Trends in Ecology & Evolution
 doi: 10.1016/j.tree.2016.10.012
 tags:
 - biodiversity
+- climate
 - conservation
-- invasive species
-- science denialism
+- plant species
+- refwright:read:unread
+- statistics
 zotero_key: JGSRV253
 item_type: journalArticle
 url: https://www.cell.com/trends/ecology-evolution/abstract/S0169-5347(16)30193-8
 source_url: 'unpaywall: https://discovery.ucl.ac.uk/1521969/3/Blackburn_Invasive%20Species%20Come%20Of%20Age%20V5%202%20-%20accept.pdf'
 fulltext_status: fulltext
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # The Rise of Invasive Species Denialism

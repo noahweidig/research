@@ -14,9 +14,9 @@ authors:
 - Krawchuk, Meg A.
 - Krenz, Jennifer E.
 - Lydersen, Jamie M.
-- Marlier, Miriam E.
+- Marlier, Miriam
 - Masuda, Yuta J.
-- Metlen, Kerry
+- Metlen, Kerry L
 - Mittelstaedt, Gillian
 - Prichard, Susan J.
 - Schollaert, Claire L.
@@ -34,18 +34,17 @@ journal: Current Environmental Health Reports
 doi: 10.1007/s40572-022-00355-7
 tags:
 - air quality
-- environmental justice
 - exposure
-- prescribed burning
+- prescribed fire
 - public health
-- restoration
+- refwright:read:unread
 - wildfire
 zotero_key: I5FKSHZG
 item_type: journalArticle
 url: https://doi.org/10.1007/s40572-022-00355-7
 source_url: 'unpaywall: https://link.springer.com/content/pdf/10.1007/s40572-022-00355-7.pdf'
 fulltext_status: fulltext
-synced: '2026-11-06'
+synced: '2026-11-16'
 ---
 
 # Wildfire, Smoke Exposure, Human Health, and Environmental Justice Need to be Integrated into Forest Restoration and Management
@@ -799,5 +798,3 @@ Current Environmental Health Reports (2022) 9:366–385
 - 17 Evan’s School of Public Policy and Governance and The Department of Global Health, University of Washington, 3980 15th Ave NE, Seattle, WA 98105, USA 
 
 1 3 
-
-

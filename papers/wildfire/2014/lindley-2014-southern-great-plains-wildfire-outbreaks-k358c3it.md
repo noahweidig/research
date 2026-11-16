@@ -13,13 +13,16 @@ authors:
 year: '2014'
 journal: E-Journal of Severe Storms Meteorology
 doi: 10.55599/ejssm.v9i2.54
-tags: []
+tags:
+- rangelands
+- refwright:read:unread
+- wildfire
 zotero_key: K358C3IT
 item_type: journalArticle
 url: https://ejssm.com/ojs/index.php/site/article/view/54
 source_url: 'unpaywall: https://ejssm.com/ojs/index.php/site/article/download/54/53'
 fulltext_status: fulltext
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Southern Great Plains Wildfire Outbreaks
@@ -1106,5 +1109,3 @@ _[Minor comments omitted...]_
 **General comment** :  No further comments on the review.  Great paper for operationally oriented forecasters.  Thanks for the opportunity to contribute. 
 
 43 
-
-

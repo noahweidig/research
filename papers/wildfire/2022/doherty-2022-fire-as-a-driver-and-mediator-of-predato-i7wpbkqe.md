@@ -18,17 +18,20 @@ year: '2022'
 journal: Biological Reviews
 doi: 10.1111/brv.12853
 tags:
-- animals
-- fulltext:pdf-found
-- megafire
-- prescribed burning
+- fire regimes
+- fire risk
+- management
+- plant species
+- prescribed fire
+- refwright:read:unread
 - wildfire
+- wildlife
 zotero_key: I7WPBKQE
 item_type: journalArticle
 url: https://onlinelibrary.wiley.com/doi/abs/10.1111/brv.12853
 source_url: 'unpaywall: https://www.ncbi.nlm.nih.gov/pmc/articles/9546118'
 fulltext_status: fulltext
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Fire as a driver and mediator of predator–prey interactions

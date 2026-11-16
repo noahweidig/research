@@ -8,16 +8,16 @@ journal: Science of Remote Sensing
 doi: 10.1016/j.srs.2026.100492
 tags:
 - agriculture
-- drivers
-- fulltext:check-needed
-- prescribed burning
+- fire regimes
+- prescribed fire
+- refwright:read:unread
 - remote sensing
 zotero_key: JJGU8MXS
 item_type: journalArticle
 url: https://openalex.org/W7203989964
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Artificial intelligence for agricultural residue burning monitoring: A systematic review

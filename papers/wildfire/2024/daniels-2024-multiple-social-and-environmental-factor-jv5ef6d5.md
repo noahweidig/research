@@ -11,17 +11,15 @@ year: '2024'
 journal: Journal of Environmental Management
 doi: 10.1016/j.jenvman.2023.119731
 tags:
-- fire management
-- fire suppression
-- fulltext:pdf-missing
-- landscape analysis
-- social-ecological systems
+- refwright:read:unread
+- suppression
+- wildfire
 zotero_key: JV5EF6D5
 item_type: journalArticle
 url: https://www.sciencedirect.com/science/article/pii/S0301479723025197
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Multiple social and environmental factors affect wildland fire response of full or less-than-full suppression

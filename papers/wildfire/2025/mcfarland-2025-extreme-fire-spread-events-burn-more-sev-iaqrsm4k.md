@@ -11,19 +11,16 @@ year: '2025'
 journal: Global Change Biology
 doi: 10.1111/gcb.70106
 tags:
-- area burned
-- burn severity
-- daily fire progression
-- extreme fire spread events
-- fast fires
-- forest resilience
-- landscape metrics
+- fire regimes
+- forests
+- refwright:read:unread
+- wildfire
 zotero_key: IAQRSM4K
 item_type: journalArticle
 url: https://onlinelibrary.wiley.com/doi/abs/10.1111/gcb.70106
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Extreme Fire Spread Events Burn More Severely and Homogenize Postfire Landscapes in the Southwestern United States

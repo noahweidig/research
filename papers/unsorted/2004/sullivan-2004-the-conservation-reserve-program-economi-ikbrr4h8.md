@@ -16,14 +16,15 @@ year: '2004'
 journal: null
 doi: 10.22004/AG.ECON.33987
 tags:
-- Community/Rural/Urban Development
-- Land Economics/Use
+- CRP
+- agriculture
+- refwright:read:unread
 zotero_key: IKBRR4H8
 item_type: journalArticle
 url: https://ageconsearch.umn.edu/record/33987
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # The Conservation Reserve Program: Economic Implications for Rural America

@@ -11,9 +11,8 @@ year: '2025'
 journal: International Association for Landscape Ecology - North America Annual Conference
 doi: null
 tags:
-- eastern united states
-- fire regime
-- fulltext:check-needed
+- fire regimes
+- refwright:read:done
 - united states
 - wildfire
 zotero_key: JEBKFECI
@@ -21,7 +20,7 @@ item_type: conferencePaper
 url: https://www.ialena.org/uploads/9/4/8/2/94821076/iale_program_handout_final.pdf
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Unravelling changing wildfire regime dynamics in the eastern United States

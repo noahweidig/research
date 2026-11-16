@@ -8,16 +8,17 @@ year: '2026'
 journal: Özgür Yayınları eBooks
 doi: 10.58830/ozgur.pub1507.c6039
 tags:
-- climate change
-- drivers
-- large wildfires
+- climate
+- fire regimes
+- forests
+- refwright:read:unread
 - wildfire
 zotero_key: I46SIIE7
 item_type: journalArticle
 url: https://openalex.org/W7222502365
 source_url: 'unpaywall: https://www.ozguryayinlari.com/site/tr/catalog/download/1507/8386/24071'
 fulltext_status: fulltext
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # The Interaction between Global Fire Dynamics and Climate Change: Causes, Consequences, and Future Strategies

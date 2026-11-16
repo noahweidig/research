@@ -8,16 +8,16 @@ doi: null
 tags:
 - climate
 - dataset
-- fulltext:check-needed
-- geospatial data
+- refwright:read:unread
+- remote sensing
+- united states
 - weather
-- western united states
 zotero_key: JXS5J2RG
 item_type: dataset
 url: https://developers.google.com/earth-engine/datasets/catalog/IDAHO_EPSCOR_GRIDMET
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # IDAHO EPSCOR GRIDMET

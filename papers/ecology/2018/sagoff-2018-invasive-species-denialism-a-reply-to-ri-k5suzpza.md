@@ -8,15 +8,15 @@ doi: 10.1007/s10530-018-1752-x
 tags:
 - biodiversity
 - climate
-- fulltext:pdf-missing
-- invasive species
-- science denialism
+- conservation
+- plant species
+- refwright:read:unread
 zotero_key: K5SUZPZA
 item_type: journalArticle
 url: https://doi.org/10.1007/s10530-018-1752-x
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Invasive species denialism: a reply to Ricciardi and Ryan

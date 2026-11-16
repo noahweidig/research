@@ -9,19 +9,17 @@ year: '2020'
 journal: Ecological Indicators
 doi: 10.1016/j.ecolind.2020.106303
 tags:
-- Conservation Reserve Enhancement Program
-- Field management
-- Land sparing
-- Mowing
-- Private land conservation
-- Woody encroachment
-- fulltext:pdf-missing
+- conservation
+- fuels
+- management
+- refwright:read:unread
+- woody cover
 zotero_key: I4SYFM8G
 item_type: journalArticle
 url: https://www.sciencedirect.com/science/article/pii/S1470160X20302405
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Variability in the management of agricultural fields spared for conservation

@@ -1,25 +1,23 @@
 ---
 title: 'Forest fires in the wildland–urban interface: A spatial analysis of forest fragmentation and human impacts'
 authors:
-- Chas-Amil, M. L.
-- Touza, J.
-- García-Martínez, E.
+- Chas-Amil, María-Luisa
+- Touza, Julia
+- García-Martínez, Eduardo D.
 year: '2013'
 journal: Applied Geography
 doi: 10.1016/j.apgeog.2013.06.010
 tags:
-- fulltext:pdf-missing
-- galicia
-- spain
-- spatial analysis
+- WUI
+- refwright:read:unread
+- remote sensing
 - wildfire
-- wildland-urban interface
 zotero_key: JD2MI7I2
 item_type: journalArticle
 url: https://www.sciencedirect.com/science/article/pii/S0143622813001446
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Forest fires in the wildland–urban interface: A spatial analysis of forest fragmentation and human impacts

@@ -8,17 +8,17 @@ year: '2020'
 journal: Forest Ecology and Management
 doi: 10.1016/j.foreco.2020.118256
 tags:
-- ecological succession
-- ecosystems
-- fulltext:pdf-found
+- land cover
+- rangelands
+- refwright:read:unread
 - trees
-- understory vegetation
+- wildfire
 zotero_key: JSMME4J5
 item_type: journalArticle
 url: https://www.sciencedirect.com/science/article/pii/S0378112720310252
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Open forest ecosystems: An excluded state

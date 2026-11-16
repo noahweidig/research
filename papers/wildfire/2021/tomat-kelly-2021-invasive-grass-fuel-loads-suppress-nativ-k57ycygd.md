@@ -8,19 +8,18 @@ year: '2021'
 journal: Journal of Applied Ecology
 doi: 10.1111/1365-2664.13881
 tags:
-- cogongrass
-- fire severity
-- fuel load
-- fulltext:pdf-missing
-- grass-fire cycle
+- fire regimes
+- fuels
 - invasive species
-- savanna
+- plant species
+- rangelands
+- refwright:read:unread
 zotero_key: K57YCYGD
 item_type: journalArticle
 url: https://onlinelibrary.wiley.com/doi/abs/10.1111/1365-2664.13881
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Invasive grass fuel loads suppress native species by increasing fire intensity and soil heating

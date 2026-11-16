@@ -1,27 +1,28 @@
 ---
 title: Rapid Growth of Large Forest Fires Drives the Exponential Response of Annual Forest-Fire Area to Aridity in the Western United States
 authors:
-- Juang, C. S.
-- Williams, A. P.
-- Abatzoglou, J. T.
-- Balch, J. K.
-- Hurteau, M. D.
-- Moritz, M. A.
+- Juang, Caroline S.
+- Williams, A. Park
+- Abatzoglou, John T.
+- Balch, Jennifer K.
+- Hurteau, Matthew D.
+- Moritz, Max A.
 year: '2022'
 journal: Geophysical Research Letters
 doi: 10.1029/2021GL097131
 tags:
-- climate change
+- climate
 - drought
 - extremes
-- western united states
+- refwright:read:unread
+- united states
 - wildfire
 zotero_key: IX3VMPHS
 item_type: journalArticle
 url: https://onlinelibrary.wiley.com/doi/abs/10.1029/2021GL097131
 source_url: 'unpaywall: https://www.ncbi.nlm.nih.gov/pmc/articles/9286820'
 fulltext_status: fulltext
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Rapid Growth of Large Forest Fires Drives the Exponential Response of Annual Forest-Fire Area to Aridity in the Western United States

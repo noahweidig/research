@@ -8,16 +8,17 @@ year: '2022'
 journal: Nature Communications
 doi: 10.1038/s41467-022-28835-2
 tags:
-- atmospheric science
-- climate change
-- fire
-- fire ecology
+- climate
+- ecology
+- refwright:read:unread
+- united states
+- wildfire
 zotero_key: JETXFRBD
 item_type: journalArticle
 url: https://www.nature.com/articles/s41467-022-28835-2
 source_url: 'unpaywall: https://www.nature.com/articles/s41467-022-28835-2.pdf'
 fulltext_status: fulltext
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Spatial and temporal expansion of global wildland fire activity in response to climate change

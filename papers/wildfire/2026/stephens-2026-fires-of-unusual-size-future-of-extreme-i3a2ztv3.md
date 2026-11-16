@@ -2,11 +2,11 @@
 title: 'Fires of Unusual Size: Future of Extreme and Emerging Wildfire in a Warming United States (2020–2060)'
 authors:
 - Stephens, Jilmarie
-- Joseph, Maxwell
+- Joseph, Maxwell B.
 - Bitters, Matthew E.
 - Iglesias, Virginia
 - Tuff, Ty
-- Mahood, Adam
+- Mahood, Adam L.
 - Rangwala, Imtiaz
 - Wolken, Jane
 - O’Connor, Christopher D.
@@ -15,16 +15,19 @@ year: '2026'
 journal: Fire
 doi: 10.3390/fire9050208
 tags:
-- climate change
-- megafire
+- climate
+- fire regimes
+- refwright:read:unread
+- remote sensing
 - united states
+- weather
 - wildfire
 zotero_key: I3A2ZTV3
 item_type: journalArticle
 url: https://www.mdpi.com/2571-6255/9/5/208
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Fires of Unusual Size: Future of Extreme and Emerging Wildfire in a Warming United States (2020–2060)

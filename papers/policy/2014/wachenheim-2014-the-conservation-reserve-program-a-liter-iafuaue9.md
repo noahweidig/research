@@ -8,13 +8,16 @@ year: '2014'
 journal: null
 doi: 10.22004/AG.ECON.164829
 tags:
-- Environmental Economics and Policy
+- CRP
+- agriculture
+- policy
+- refwright:read:unread
 zotero_key: IAFUAUE9
 item_type: journalArticle
 url: https://ageconsearch.umn.edu/record/164829
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # The Conservation Reserve Program: A Literature Review

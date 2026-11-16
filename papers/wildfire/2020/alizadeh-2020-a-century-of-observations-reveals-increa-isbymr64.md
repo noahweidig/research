@@ -5,29 +5,33 @@ authors:
 - Adamowski, Jan
 - Nikoo, Mohammad Reza
 - AghaKouchak, Amir
-- Dennison, Philip
+- Dennison, Philip E.
 - Sadegh, Mojtaba
 year: '2020'
 journal: Science Advances
 doi: 10.1126/sciadv.aaz4571
 tags:
-- climate change
+- climate
+- drought
 - extremes
+- refwright:read:unread
 - statistics
 - united states
+- weather
+- wildfire
 zotero_key: ISBYMR64
 item_type: journalArticle
 url: https://www.science.org/doi/10.1126/sciadv.aaz4571
 source_url: 'unpaywall: https://www.ncbi.nlm.nih.gov/pmc/articles/7531886'
 fulltext_status: fulltext
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # A century of observations reveals increasing likelihood of continental-scale compound dry-hot extremes
 
 ## Abstract
 
-Using over a century of ground-based observations over the contiguous United States, we show that the frequency of compound dry and hot extremes has increased substantially in the past decades, with an alarming increase in very rare dry-hot extremes. Our results indicate that the area affected by concurrent extremes has also increased significantly. Further, we explore homogeneity (i.e., connectedness) of dry-hot extremes across space. We show that dry-hot extremes have homogeneously enlarged over the past 122 years, pointing to spatial propagation of extreme dryness and heat and increased probability of continental-scale compound extremes. Last, we show an interesting shift between the main driver of dry-hot extremes over time. While meteorological drought was the main driver of dry-hot events in the 1930s, the observed warming trend has become the dominant driver in recent decades. Our results provide a deeper understanding of spatiotemporal variation of compound dry-hot extremes.
+Compound dry-hot events enlarge homogenously due to teleconnected land-atmosphere feedbacks. , Using over a century of ground-based observations over the contiguous United States, we show that the frequency of compound dry and hot extremes has increased substantially in the past decades, with an alarming increase in very rare dry-hot extremes. Our results indicate that the area affected by concurrent extremes has also increased significantly. Further, we explore homogeneity (i.e., connectedness) of dry-hot extremes across space. We show that dry-hot extremes have homogeneously enlarged over the past 122 years, pointing to spatial propagation of extreme dryness and heat and increased probability of continental-scale compound extremes. Last, we show an interesting shift between the main driver of dry-hot extremes over time. While meteorological drought was the main driver of dry-hot events in the 1930s, the observed warming trend has become the dominant driver in recent decades. Our results provide a deeper understanding of spatiotemporal variation of compound dry-hot extremes.
 
 ## Full text
 
