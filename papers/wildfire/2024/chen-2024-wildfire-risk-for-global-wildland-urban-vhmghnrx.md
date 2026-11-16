@@ -14,20 +14,24 @@ year: '2024'
 journal: Nature Sustainability
 doi: 10.1038/s41893-024-01291-0
 tags:
+- WUI
 - exposure
 - fire risk
-- global
+- refwright:read:unread
 - wildfire
-- wildland-urban interface
 zotero_key: VHMGHNRX
 item_type: journalArticle
 url: https://www.nature.com/articles/s41893-024-01291-0
 source_url: 'unpaywall: https://www.researchsquare.com/article/rs-2147308/latest.pdf'
 fulltext_status: fulltext
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Wildfire risk for global wildland–urban interface areas
+
+## Abstract
+
+Abstract Intensifying wildfires and human settlement expansion have placed more people and infrastructure at the wildland–urban interface (WUI) areas under risk. Wildfire management and policy response are needed to protect ecosystems and residential communities; however, maps containing spatially explicit information on the distribution of WUI areas are limited to certain countries or local regions, and therefore global WUI patterns and associated wildfire exposure risk remain unclear. Here, we generated the first global WUI data layer with 400-m spatial resolution for 2020 by incorporating fine-resolution housing and vegetation mapping. We estimated the total global WUI area to be 6.62 million km2. By overlapping 2015–2020 wildfire burned area maps and fine-resolution population dataset, our analysis revealed that globally, 6.16% (11.27%) of WUI areas housing 3.83 million (9.0 million) people are within a 2400-m (4800-m) buffer zone of wildfire threat. Regionally, we found that the United States, Brazil, China, India, and Australia account for the majority of WUI areas, but African countries experience higher wildfire risk. Our analysis is the first to quantify global WUI patterns and the associated wildfire risk, and could support improvement of wildfire management.
 
 ## Full text
 

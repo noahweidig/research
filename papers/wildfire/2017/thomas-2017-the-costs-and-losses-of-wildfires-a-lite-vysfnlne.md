@@ -10,8 +10,10 @@ year: '2017'
 journal: null
 doi: 10.6028/NIST.SP.1215
 tags:
-- government report
-- survey research
+- policy
+- refwright:read:unread
+- statistics
+- suppression
 - united states
 - wildfire
 zotero_key: VYSFNLNE
@@ -19,7 +21,7 @@ item_type: report
 url: https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1215.pdf
 source_url: 'unpaywall: https://doi.org/10.6028/nist.sp.1215'
 fulltext_status: fulltext
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # The costs and losses of wildfires: a literature survey

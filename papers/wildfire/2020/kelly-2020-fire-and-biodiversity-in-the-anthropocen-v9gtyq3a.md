@@ -33,16 +33,19 @@ journal: Science
 doi: 10.1126/science.abb0355
 tags:
 - biodiversity
+- climate
 - conservation
-- fire
-- fulltext:pdf-found
-- wildfire occurrence
+- human dimensions
+- land cover
+- plant species
+- refwright:read:unread
+- wildfire
 zotero_key: V9GTYQ3A
 item_type: journalArticle
 url: https://www.science.org/doi/full/10.1126/science.abb0355
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Fire and biodiversity in the Anthropocene

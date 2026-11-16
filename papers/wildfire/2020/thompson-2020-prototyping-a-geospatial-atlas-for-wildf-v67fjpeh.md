@@ -1,19 +1,22 @@
 ---
 title: Prototyping a geospatial atlas for wildfire planning and management
 authors:
-- Thompson, Matthew P
-- Gannon, Benjamin M
-- Caggiano, Michael D
-- O'Connor, Christopher D
+- Thompson, Matthew P.
+- Gannon, Benjamin M.
+- Caggiano, Michael D.
+- O’Connor, Christopher D.
 - Brough, April
 - Gilbertson-Day, Julie W
-- Scott, Joe H
+- Scott, Joe H.
 year: '2020'
 journal: Forests
 doi: 10.3390/f11090909
 tags:
-- decision support
-- geospatial data
+- fire risk
+- prescribed fire
+- refwright:read:unread
+- remote sensing
+- suppression
 - united states
 - wildfire
 zotero_key: V67FJPEH
@@ -21,7 +24,7 @@ item_type: journalArticle
 url: https://doi.org/10.3390/f11090909
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Prototyping a geospatial atlas for wildfire planning and management

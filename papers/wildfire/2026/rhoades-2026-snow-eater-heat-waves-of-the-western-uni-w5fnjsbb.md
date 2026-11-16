@@ -15,28 +15,30 @@ authors:
 - Mahesh, Ankur
 - Marshall, Adrienne
 - McCrary, Rachel
-- McEvoy, Daniel
+- McEvoy, Daniel J.
 - Rahimi, Stefan
 - Raleigh, Mark S.
 - Randall, Calen
 - Srivastava, Abhishekh
-- Wehner, Michael
+- Wehner, Michael F.
 - Zhou, Yang
 - Jones, Andrew D.
 year: '2026'
 journal: Science Advances
 doi: 10.1126/sciadv.aeb3361
 tags:
+- climate
 - drought
 - extremes
+- refwright:read:unread
 - united states
-- western united states
+- wildfire
 zotero_key: W5FNJSBB
 item_type: journalArticle
 url: https://openalex.org/W4414139433
 source_url: 'unpaywall: https://www.researchsquare.com/article/rs-7576317/latest.pdf'
 fulltext_status: fulltext
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Snow-eater heat waves of the western United States

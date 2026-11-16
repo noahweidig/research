@@ -1,27 +1,19 @@
 ---
 title: 'The US Conservation Reserve Program: The evolution of an enrollment mechanism'
 authors:
-- Hellerstein, Daniel M.
+- Hellerstein, Daniel
 year: '2017'
 journal: Land Use Policy
 doi: 10.1016/j.landusepol.2015.07.017
 tags:
-- Auctions
-- Bid caps
 - CRP
-- Conservation reserve program
-- Enrollment mechanism
-- Environmental benefits index
-- General signup
-- Quota price auction
-- Reference price auction
-- fulltext:check-needed
+- refwright:read:unread
 zotero_key: V4V79Q88
 item_type: journalArticle
 url: https://www.sciencedirect.com/science/article/pii/S0264837715002264
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # The US Conservation Reserve Program: The evolution of an enrollment mechanism

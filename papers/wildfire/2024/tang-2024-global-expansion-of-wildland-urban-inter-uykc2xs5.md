@@ -3,22 +3,25 @@ title: 'Global expansion of wildland-urban interface (WUI) and WUI fires: insigh
 authors:
 - Tang, Wenfu
 - He, Cenlin
-- Emmons, Louisa
+- Emmons, Louisa K.
 - Zhang, Junzhe
 year: '2024'
 journal: Environmental Research Letters
 doi: 10.1088/1748-9326/ad31da
 tags:
-- burned area
+- WUI
 - dataset
-- fire
-- wildland-urban interface
+- fire regimes
+- policy
+- refwright:read:unread
+- united states
+- wildfire
 zotero_key: UYKC2XS5
 item_type: journalArticle
 url: https://dx.doi.org/10.1088/1748-9326/ad31da
 source_url: 'unpaywall: https://repository.library.noaa.gov/view/noaa/64054'
 fulltext_status: fulltext
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Global expansion of wildland-urban interface (WUI) and WUI fires: insights from a multiyear worldwide unified database (WUWUI)

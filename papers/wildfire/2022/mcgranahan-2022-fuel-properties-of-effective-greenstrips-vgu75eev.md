@@ -7,19 +7,16 @@ year: '2022'
 journal: Environmental Management
 doi: 10.1007/s00267-022-01659-y
 tags:
-- bromus tectorum
-- fire behavior
-- fire ecology
+- ecology
 - fuels
-- fulltext:pdf-missing
-- great basin
-- landscape ecology
+- refwright:read:unread
+- wildfire
 zotero_key: VGU75EEV
 item_type: journalArticle
 url: https://doi.org/10.1007/s00267-022-01659-y
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Fuel Properties of Effective Greenstrips in Simulated Cheatgrass Fires

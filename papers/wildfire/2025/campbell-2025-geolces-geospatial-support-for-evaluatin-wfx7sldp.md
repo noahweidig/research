@@ -9,18 +9,16 @@ year: '2025'
 journal: International Journal of Disaster Risk Reduction
 doi: 10.1016/j.ijdrr.2025.105714
 tags:
-- decision support
-- fire suppression
-- fulltext:pdf-missing
-- gis
-- lidar
+- refwright:read:unread
+- remote sensing
+- suppression
 - wildfire
 zotero_key: WFX7SLDP
 item_type: journalArticle
 url: https://www.sciencedirect.com/science/article/pii/S2212420925005382
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # GeoLCES: Geospatial support for evaluating wildland firefighter lookouts, communications, escape routes, and safety zones

@@ -1,23 +1,23 @@
 ---
 title: 'Fire in the Northeast: Learning from the Past, Planning for the Future'
 authors:
-- Poulos, Helen
+- Poulos, Helen M.
 year: '2015'
 journal: Journal of Sustainable Forestry
 doi: 10.1080/10549811.2014.973608
 tags:
-- fire history
-- forest ecology
-- fulltext:check-needed
-- prescribed burning
-- savanna
+- fire regimes
+- forests
+- prescribed fire
+- rangelands
+- refwright:read:unread
 - united states
 zotero_key: WA39L85E
 item_type: journalArticle
 url: https://doi.org/10.1080/10549811.2014.973608
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Fire in the Northeast: Learning from the Past, Planning for the Future

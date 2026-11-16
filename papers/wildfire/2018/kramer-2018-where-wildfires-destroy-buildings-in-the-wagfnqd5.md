@@ -1,7 +1,7 @@
 ---
 title: Where wildfires destroy buildings in the US relative to the wildland–urban interface and national fire outreach programs
 authors:
-- Kramer, H. Anu
+- Kramer, Heather Anu
 - Mockrin, Miranda H.
 - Alexandre, Patricia M.
 - Stewart, Susan I.
@@ -10,17 +10,20 @@ year: '2018'
 journal: International Journal of Wildland Fire
 doi: 10.1071/WF17135
 tags:
-- fulltext:check-needed
+- WUI
+- exposure
+- fire regimes
+- fuels
+- refwright:read:unread
+- remote sensing
 - united states
-- vegetation
 - wildfire
-- wildland-urban interface
 zotero_key: WAGFNQD5
 item_type: journalArticle
 url: https://www.publish.csiro.au/wf/WF17135
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Where wildfires destroy buildings in the US relative to the wildland–urban interface and national fire outreach programs

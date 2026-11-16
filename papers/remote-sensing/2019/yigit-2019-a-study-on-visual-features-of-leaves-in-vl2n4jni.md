@@ -10,16 +10,15 @@ journal: Computers and Electronics in Agriculture
 doi: 10.1016/j.compag.2018.11.036
 tags:
 - agriculture
-- fulltext:pdf-missing
-- image analysis
-- machine learning
-- plant identification
+- refwright:read:unread
+- remote sensing
+- statistics
 zotero_key: VL2N4JNI
 item_type: journalArticle
 url: https://www.sciencedirect.com/science/article/pii/S0168169918308524
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # A study on visual features of leaves in plant identification using artificial intelligence techniques

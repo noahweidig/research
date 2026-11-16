@@ -10,20 +10,20 @@ year: '2023'
 journal: Land
 doi: 10.3390/land12122180
 tags:
-- fire management
-- modeling
-- prescribed burning
-- pyrogeography
+- fire regimes
+- fire risk
+- prescribed fire
+- refwright:read:unread
 - resilience
-- risk management
-- social vulnerability
+- statistics
+- suppression
 - wildfire
 zotero_key: W42FIWK6
 item_type: journalArticle
 url: https://www.mdpi.com/2073-445X/12/12/2180
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-16'
 ---
 
 # Mapping Firescapes for Wild and Prescribed Fire Management: A Landscape Classification Approach

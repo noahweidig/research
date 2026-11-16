@@ -7,22 +7,22 @@ authors:
 - Meredith, Gwendwr
 - Pape, Timothy
 - Stephenson, Mitch
-- Allen, Craig
+- Allen, Craig R.
 - Sandahl, David
 year: '2025'
 journal: null
 doi: 10.22004/ag.econ.361175
 tags:
-- Environmental Economics and Policy
-- Rotational
-- Winter Grazing
-- fulltext:check-needed
+- CRP
+- policy
+- rangelands
+- refwright:read:unread
 zotero_key: VIHWDAP2
 item_type: journalArticle
 url: https://ageconsearch.umn.edu/record/361175
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Rancher Preferences for Grassland Conservation Reserve Programs in the Northern U.S. Great Plains

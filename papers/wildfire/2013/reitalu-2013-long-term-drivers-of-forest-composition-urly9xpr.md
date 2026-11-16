@@ -19,19 +19,17 @@ year: '2013'
 journal: Journal of Biogeography
 doi: 10.1111/jbi.12092
 tags:
-- environmental impact
-- fire history
-- forest ecology
-- fulltext:pdf-missing
-- modeling
-- scale
-- social vulnerability
+- ecology
+- fire regimes
+- forests
+- refwright:read:unread
+- statistics
 zotero_key: URLY9XPR
 item_type: journalArticle
 url: https://onlinelibrary.wiley.com/doi/abs/10.1111/jbi.12092
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Long-term drivers of forest composition in a boreonemoral region: the relative importance of climate and human impact

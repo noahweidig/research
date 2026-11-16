@@ -7,16 +7,18 @@ year: '2026'
 journal: Environmental Research Letters
 doi: 10.1088/1748-9326/ae89cf
 tags:
-- biomes
-- climate change
-- prescribed burning
+- climate
+- fire risk
+- prescribed fire
+- refwright:read:unread
 - united states
+- wildfire
 zotero_key: VK5K3WMF
 item_type: journalArticle
 url: https://openalex.org/W7171666786
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Climate change increases risks of wildfire and biome shifts in United States national parks in California

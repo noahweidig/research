@@ -14,16 +14,18 @@ year: '2008'
 journal: The Auk
 doi: 10.1525/auk.2008.07002
 tags:
+- CRP
+- agriculture
 - conservation
-- conservation reserve program
 - habitats
+- refwright:read:unread
 - statistics
 zotero_key: VXFRVEA8
 item_type: journalArticle
 url: https://doi.org/10.1525/auk.2008.07002
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Estimating the Response of Ring-Necked Pheasants (Phasianus Colchicus) to the Conservation Reserve Program

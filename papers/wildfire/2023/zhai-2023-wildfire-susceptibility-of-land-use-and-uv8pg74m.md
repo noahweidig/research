@@ -9,18 +9,18 @@ year: '2023'
 journal: Forests
 doi: 10.3390/f14040807
 tags:
+- ecology
 - fire risk
-- land use
-- landscape ecology
-- landscape management
+- land cover
+- refwright:read:unread
 - topography
-- western united states
+- united states
 zotero_key: UV8PG74M
 item_type: journalArticle
 url: https://www.mdpi.com/1999-4907/14/4/807
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Wildfire Susceptibility of Land Use and Topographic Features in the Western United States: Implications for the Landscape Management

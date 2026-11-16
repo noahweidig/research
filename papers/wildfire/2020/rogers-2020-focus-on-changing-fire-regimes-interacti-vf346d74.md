@@ -1,25 +1,26 @@
 ---
 title: 'Focus on changing fire regimes: interactions with climate, ecosystems, and society'
 authors:
-- Rogers, Brendan M
-- Balch, Jennifer K
-- Goetz, Scott J
-- Lehmann, Caroline E R
+- Rogers, Brendan M.
+- Balch, Jennifer K.
+- Goetz, Scott J.
+- Lehmann, Caroline E. R.
 - Turetsky, Merritt
 year: '2020'
 journal: Environmental Research Letters
 doi: 10.1088/1748-9326/ab6d3a
 tags:
 - climate
-- ecosystems
-- fire
-- fire regime
+- fire regimes
+- land cover
+- refwright:read:unread
+- wildfire
 zotero_key: VF346D74
 item_type: journalArticle
 url: https://dx.doi.org/10.1088/1748-9326/ab6d3a
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Focus on changing fire regimes: interactions with climate, ecosystems, and society

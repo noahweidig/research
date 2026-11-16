@@ -9,11 +9,10 @@ year: '2026'
 journal: Communications Earth & Environment
 doi: 10.1038/s43247-026-04011-y
 tags:
-- fire spread
-- flash drought
-- hydrological modeling
-- prescribed burning
-- soil moisture
+- fire behavior
+- prescribed fire
+- refwright:read:unread
+- soils
 - united states
 - wildfire
 zotero_key: V78SNVPX
@@ -21,7 +20,7 @@ item_type: journalArticle
 url: https://openalex.org/W7203477223
 source_url: 'unpaywall: https://www.nature.com/articles/s43247-026-04011-y_reference.pdf'
 fulltext_status: fulltext
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Rapid soil moisture depletion during flash droughts accelerates wildfire spread in the United States

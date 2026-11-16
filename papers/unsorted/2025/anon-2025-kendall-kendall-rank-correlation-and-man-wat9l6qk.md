@@ -5,18 +5,15 @@ year: '2025'
 journal: null
 doi: null
 tags:
-- fulltext:check-needed
-- nonparametric statistics
-- r package
+- refwright:read:unread
 - software
 - statistics
-- trend analysis
 zotero_key: WAT9L6QK
 item_type: computerProgram
 url: https://cran.r-project.org/web/packages/Kendall/index.html
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Kendall: Kendall Rank Correlation and Mann-Kendall Trend Test

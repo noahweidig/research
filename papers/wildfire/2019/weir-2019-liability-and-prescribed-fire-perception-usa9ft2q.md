@@ -7,22 +7,21 @@ authors:
 - Twidwell, Dirac
 - Stroman, Dianne A.
 - Russell, Morgan
-- Taylor, Charles A.
+- Taylor, Charles A. “Butch”
 year: '2019'
 journal: Rangeland Ecology & Management
 doi: 10.1016/j.rama.2018.11.010
 tags:
-- fulltext:pdf-missing
-- legal statutes
-- negligence
-- prescribed burning
-- risk assessment
+- fire risk
+- policy
+- prescribed fire
+- refwright:read:unread
 zotero_key: USA9FT2Q
 item_type: journalArticle
 url: https://www.sciencedirect.com/science/article/pii/S1550742418301283
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Liability and Prescribed Fire: Perception and Reality

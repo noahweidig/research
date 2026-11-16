@@ -6,17 +6,18 @@ year: '2000'
 journal: Annual Review of Ecology, Evolution, and Systematics
 doi: 10.1146/annurev.ecolsys.31.1.197
 tags:
-- fulltext:pdf-missing
-- grassland
-- herbivory
-- invasive species
+- fuels
+- plant species
+- rangelands
+- refwright:read:unread
 - united states
+- woody cover
 zotero_key: V4QJAWNK
 item_type: journalArticle
 url: https://www.annualreviews.org/content/journals/10.1146/annurev.ecolsys.31.1.197
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Shrub Invasions of North American Semiarid Grasslands

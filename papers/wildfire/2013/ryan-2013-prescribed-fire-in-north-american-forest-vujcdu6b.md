@@ -2,23 +2,22 @@
 title: 'Prescribed fire in North American forests and woodlands: history, current practice, and challenges'
 authors:
 - Ryan, Kevin C
-- Knapp, Eric E
-- Varner, J Morgan
+- Knapp, Eric E.
+- Varner, J. Morgan
 year: '2013'
 journal: Frontiers in Ecology and the Environment
 doi: 10.1890/120329
 tags:
-- ecosystems
-- fire
-- fulltext:pdf-missing
-- prescribed burning
+- prescribed fire
+- refwright:read:unread
 - united states
+- wildfire
 zotero_key: VUJCDU6B
 item_type: journalArticle
 url: https://onlinelibrary.wiley.com/doi/abs/10.1890/120329
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Prescribed fire in North American forests and woodlands: history, current practice, and challenges

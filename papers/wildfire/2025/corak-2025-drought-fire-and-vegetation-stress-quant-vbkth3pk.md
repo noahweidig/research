@@ -6,17 +6,20 @@ year: '2025'
 journal: null
 doi: null
 tags:
+- climate
 - drought
-- ecosystems
-- fire
-- fulltext:check-needed
-- vegetation
+- fire behavior
+- fuels
+- land cover
+- refwright:read:unread
+- united states
+- wildfire
 zotero_key: VBKTH3PK
 item_type: thesis
 url: https://search.proquest.com/openview/e2fc6229ddebfaa2342d889aae13dc21/1?pq-origsite=gscholar&cbl=18750&diss=y
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Drought, Fire, and Vegetation Stress: Quantifying Ecosystem Responses to Extreme Events

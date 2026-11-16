@@ -7,20 +7,18 @@ year: '2020'
 journal: Remote Sensing
 doi: 10.3390/rs12182959
 tags:
-- burned area
-- fire frequency
-- fire history
-- fire severity
-- gis
-- time series
-- western united states
+- fire regimes
+- refwright:read:unread
+- remote sensing
+- statistics
+- united states
 - wildfire
 zotero_key: VNNVKS9G
 item_type: journalArticle
 url: https://www.mdpi.com/2072-4292/12/18/2959
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-16'
 ---
 
 # Spatiotemporal Trends in Wildfires across the Western United States (1950–2019)
