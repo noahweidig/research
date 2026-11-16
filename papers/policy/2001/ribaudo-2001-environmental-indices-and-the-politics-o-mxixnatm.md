@@ -8,13 +8,17 @@ authors:
 year: '2001'
 journal: Ecological Indicators
 doi: 10.1016/S1470-160X(01)00002-4
-tags: []
+tags:
+- CRP
+- conservation
+- policy
+- refwright:read:unread
 zotero_key: MXIXNATM
 item_type: journalArticle
 url: https://linkinghub.elsevier.com/retrieve/pii/S1470160X01000024
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Environmental indices and the politics of the Conservation Reserve Program

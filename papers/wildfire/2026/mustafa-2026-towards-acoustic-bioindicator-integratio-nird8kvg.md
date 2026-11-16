@@ -9,8 +9,11 @@ year: '2026'
 journal: Sensors
 doi: 10.3390/s26185851
 tags:
-- drivers
+- fire regimes
 - ignition
+- refwright:read:unread
+- remote sensing
+- statistics
 - united states
 - wildfire
 zotero_key: NIRD8KVG
@@ -18,7 +21,7 @@ item_type: journalArticle
 url: https://openalex.org/W7169618140
 source_url: 'unpaywall: https://pmc.ncbi.nlm.nih.gov/articles/PMC13611778/'
 fulltext_status: fulltext
-synced: '2026-11-06'
+synced: '2026-11-16'
 ---
 
 # Towards Acoustic Bioindicator Integration in AI-Based Wildfire Monitoring: A Systematic Review

@@ -9,17 +9,16 @@ year: '2022'
 journal: Ecological Applications
 doi: 10.1002/eap.2626
 tags:
-- california
-- fire
-- fulltext:pdf-missing
-- land use change
-- vegetation
+- fuels
+- land cover
+- refwright:read:unread
+- wildfire
 zotero_key: N68THBFY
 item_type: journalArticle
 url: https://esajournals.onlinelibrary.wiley.com/doi/10.1002/eap.2626
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Fire‐driven vegetation type conversion in Southern California

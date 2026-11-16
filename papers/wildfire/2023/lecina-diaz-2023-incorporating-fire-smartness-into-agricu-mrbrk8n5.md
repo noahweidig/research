@@ -12,16 +12,18 @@ year: '2023'
 journal: Journal of Environmental Management
 doi: 10.1016/j.jenvman.2023.117707
 tags:
-- cost
-- fire smart
-- fire suppression
-- modeling
+- agriculture
+- refwright:read:unread
+- statistics
+- suppression
+- united states
+- wildfire
 zotero_key: MRBRK8N5
 item_type: journalArticle
 url: https://www.sciencedirect.com/science/article/pii/S0301479723004954
 source_url: 'unpaywall: https://www.biorxiv.org/content/biorxiv/early/2023/01/21/2023.01.20.524753.full.pdf'
 fulltext_status: fulltext
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Incorporating fire-smartness into agricultural policies reduces suppression costs and ecosystem services damages from wildfires

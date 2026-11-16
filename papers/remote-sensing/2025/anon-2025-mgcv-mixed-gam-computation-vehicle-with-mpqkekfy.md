@@ -5,17 +5,15 @@ year: '2025'
 journal: null
 doi: null
 tags:
-- econometrics
-- environmetrics
-- fulltext:check-needed
-- modeling
-- spatial analysis
+- refwright:read:unread
+- remote sensing
+- statistics
 zotero_key: MPQKEKFY
 item_type: computerProgram
 url: https://cran.r-project.org/web/packages/mgcv/index.html
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # mgcv: Mixed GAM Computation Vehicle with Automatic Smoothness Estimation

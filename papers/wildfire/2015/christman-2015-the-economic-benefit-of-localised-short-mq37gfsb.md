@@ -7,19 +7,16 @@ year: '2015'
 journal: International Journal of Wildland Fire
 doi: 10.1071/WF14003
 tags:
-- cost benefit analysis
-- fire suppression
-- fulltext:pdf-missing
-- resource allocation
-- risk assessment
-- wildfire economics
-- wildfire forecasting
+- fire risk
+- refwright:read:unread
+- suppression
+- wildfire
 zotero_key: MQ37GFSB
 item_type: journalArticle
 url: https://www.publish.csiro.au/wf/WF14003
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # The economic benefit of localised, short-term, wildfire-potential information

@@ -6,17 +6,17 @@ year: '1977'
 journal: null
 doi: 10.2172/7278093
 tags:
-- ecosystems
-- forest ecology
-- fulltext:check-needed
+- conservation
+- forests
 - habitats
-- net primary productivity
+- refwright:read:unread
+- wildfire
 zotero_key: M7IMZFVE
 item_type: report
 url: https://www.osti.gov/biblio/7278093
 source_url: 'unpaywall: https://www.osti.gov/servlets/purl/7278093'
 fulltext_status: fulltext
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Forest Island edges: their structure, development, and importance to regional forest ecosystem dynamics

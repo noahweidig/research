@@ -1,33 +1,30 @@
 ---
-title: 'Restoring Longleaf Pine: Effects of Seasonal Prescribed Fire and Overstory Density on Vegetation Structure of a Young Longleaf Pine Plantation'
+title: 'Restoring longleaf pine: effects of seasonal prescribed fire and overstory density on vegetation structure of a young longleaf pine plantation'
 authors:
-- Addington, Robert
-- Greene, Thomas
-- Harrison, Wade
-- Sorrell, Geoffrey
-- Elmore, Michele
-- Hermann, Sharon
+- Addington, Robert N.
+- Greene, Thomas A.
+- Harrison, Wade C.
+- Sorrell, Geoffrey G.
+- Elmore, Michele L.
+- Hermann, Sharon M.
 year: '2015'
 journal: Forest Science
 doi: 10.5849/forsci.13-618
 tags:
-- fire season
-- forest restoration
-- fulltext:check-needed
+- fire regimes
+- forests
 - longleaf pine
-- pine plantation
-- pinus palustris
-- prescribed burning
-- vegetation structure
+- prescribed fire
+- refwright:read:unread
 zotero_key: ML424ELK
 item_type: journalArticle
-url: https://doi.org/10.5849/forsci.13-618
+url: https://academic.oup.com/forestscience/article/61/1/135-143/4583832
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
-# Restoring Longleaf Pine: Effects of Seasonal Prescribed Fire and Overstory Density on Vegetation Structure of a Young Longleaf Pine Plantation
+# Restoring longleaf pine: effects of seasonal prescribed fire and overstory density on vegetation structure of a young longleaf pine plantation
 
 ## Abstract
 

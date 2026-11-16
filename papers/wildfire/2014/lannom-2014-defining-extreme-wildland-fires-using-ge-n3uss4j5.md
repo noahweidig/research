@@ -4,7 +4,7 @@ authors:
 - Lannom, Karen O.
 - Tinkham, Wade T.
 - Smith, Alistair M. S.
-- Abatzoglou, John
+- Abatzoglou, John T.
 - Newingham, Beth A.
 - Hall, Troy E.
 - Morgan, Penelope
@@ -18,15 +18,15 @@ doi: 10.1071/WF13065
 tags:
 - climate
 - extremes
-- fire
-- fire severity
-- fulltext:pdf-missing
+- fire regimes
+- refwright:read:unread
+- wildfire
 zotero_key: N3USS4J5
 item_type: journalArticle
 url: https://www.publish.csiro.au/wf/WF13065
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Defining extreme wildland fires using geospatial and ancillary metrics

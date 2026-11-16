@@ -6,15 +6,18 @@ authors:
 - Ganz, Taylor R.
 - Germino, Matthew J.
 - Johnson, Tracey N.
-- Karl, Jason W.
+- Karl, Jason
 - Olsoy, Peter J.
 - Winford, Eric M.
 year: '2026'
 journal: Rangeland Ecology & Management
 doi: 10.1016/j.rama.2026.09.009
 tags:
-- fire severity
-- rangeland
+- fire behavior
+- fire regimes
+- plant species
+- rangelands
+- refwright:read:unread
 - united states
 - wildfire
 zotero_key: MRGK798N
@@ -22,7 +25,7 @@ item_type: journalArticle
 url: https://openalex.org/W7223390064
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Sagebrush Are Not Small Trees: Need and Considerations for Improved, Uniform Burn Severity Assessment in Shrub-Steppe Rangelands

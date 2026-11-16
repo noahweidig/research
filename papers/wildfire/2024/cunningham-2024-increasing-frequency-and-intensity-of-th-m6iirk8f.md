@@ -8,17 +8,20 @@ year: '2024'
 journal: Nature Ecology & Evolution
 doi: 10.1038/s41559-024-02452-2
 tags:
+- climate
+- ecology
+- exposure
 - extremes
-- fire ecology
-- fulltext:pdf-missing
-- megafire
+- fire behavior
+- natural hazards
+- refwright:read:unread
 - wildfire
 zotero_key: M6IIRK8F
 item_type: journalArticle
 url: https://www.nature.com/articles/s41559-024-02452-2
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Increasing frequency and intensity of the most extreme wildfires on Earth

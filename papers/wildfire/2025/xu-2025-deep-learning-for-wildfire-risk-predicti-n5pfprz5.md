@@ -16,17 +16,17 @@ year: '2025'
 journal: ISPRS Journal of Photogrammetry and Remote Sensing
 doi: 10.1016/j.isprsjprs.2025.06.002
 tags:
-- Deep learning
-- Remote sensing
-- Review
-- Risk prediction
-- Wildfire
+- fire risk
+- refwright:read:unread
+- remote sensing
+- statistics
+- wildfire
 zotero_key: N5PFPRZ5
 item_type: journalArticle
 url: https://www.sciencedirect.com/science/article/pii/S0924271625002217
 source_url: 'unpaywall: https://arxiv.org/pdf/2405.01607'
 fulltext_status: fulltext
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Deep learning for wildfire risk prediction: Integrating remote sensing and environmental data
@@ -2243,5 +2243,3 @@ united states. Forest Ecology and Management 305, 48–59.
 - Zhang, P., Hu, X., Ban, Y., Nascetti, A., Gong, M., 2024b. Assessing sentinel- 
 
 58 
-
-

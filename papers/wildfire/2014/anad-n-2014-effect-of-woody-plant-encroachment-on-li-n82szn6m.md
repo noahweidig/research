@@ -9,16 +9,19 @@ year: '2014'
 journal: Proceedings of the National Academy of Sciences
 doi: 10.1073/pnas.1320585111
 tags:
-- ecosystem services
-- grazing
-- rangeland
+- ecology
+- fuels
+- management
+- rangelands
+- refwright:read:unread
 - united states
+- woody cover
 zotero_key: N82SZN6M
 item_type: journalArticle
 url: https://www.pnas.org/doi/abs/10.1073/pnas.1320585111
 source_url: 'unpaywall: https://www.ncbi.nlm.nih.gov/pmc/articles/4156688'
 fulltext_status: fulltext
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Effect of woody-plant encroachment on livestock production in North and South America

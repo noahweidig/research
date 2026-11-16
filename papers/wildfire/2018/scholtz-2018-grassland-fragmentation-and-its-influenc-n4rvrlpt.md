@@ -1,25 +1,27 @@
 ---
 title: Grassland fragmentation and its influence on woody plant cover in the southern Great Plains, USA
 authors:
-- Scholtz, R.
-- Polo, J. A.
+- Scholtz, Rheinhardt
+- Polo, John A.
 - Tanner, E. P.
-- Fuhlendorf, S. D.
+- Fuhlendorf, Samuel D.
 year: '2018'
 journal: Landscape Ecology
 doi: 10.1007/s10980-018-0702-4
 tags:
-- fire
 - fragmentation
-- fulltext:pdf-missing
-- grassland
+- prescribed fire
+- rangelands
+- refwright:read:unread
 - united states
+- wildfire
+- woody cover
 zotero_key: N4RVRLPT
 item_type: journalArticle
 url: https://doi.org/10.1007/s10980-018-0702-4
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Grassland fragmentation and its influence on woody plant cover in the southern Great Plains, USA

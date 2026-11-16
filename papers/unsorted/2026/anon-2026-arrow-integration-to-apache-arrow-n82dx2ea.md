@@ -5,17 +5,15 @@ year: '2026'
 journal: null
 doi: null
 tags:
-- data management
-- fulltext:check-needed
-- r package
+- refwright:read:unread
 - software
-- statistical software
+- statistics
 zotero_key: N82DX2EA
 item_type: computerProgram
 url: https://cran.r-project.org/web/packages/arrow/index.html
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # arrow: Integration to 'Apache' 'Arrow'

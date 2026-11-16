@@ -5,17 +5,15 @@ year: '2023'
 journal: null
 doi: null
 tags:
-- data science
-- fulltext:check-needed
-- r package
+- refwright:read:unread
 - software
-- statistical software
+- statistics
 zotero_key: MZFK76YK
 item_type: computerProgram
 url: https://cran.r-project.org/web/packages/tidyverse/index.html
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # tidyverse: Easily Install and Load the 'Tidyverse'

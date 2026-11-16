@@ -1,5 +1,5 @@
 ---
-title: AIC, BIC and Recent Advances in Model Selection
+title: AIC, BIC and recent advances in model selection
 authors:
 - Chakrabarti, Arijit
 - Ghosh, Jayanta K.
@@ -7,20 +7,17 @@ year: '2011'
 journal: null
 doi: 10.1016/B978-0-444-51862-0.50018-6
 tags:
-- akaike information criterion
-- bayesian information criterion
-- fulltext:pdf-missing
-- model averaging
+- refwright:read:unread
 - statistics
 zotero_key: MSDET43M
 item_type: bookSection
 url: https://www.sciencedirect.com/science/article/pii/B9780444518620500186
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
-# AIC, BIC and Recent Advances in Model Selection
+# AIC, BIC and recent advances in model selection
 
 ## Abstract
 

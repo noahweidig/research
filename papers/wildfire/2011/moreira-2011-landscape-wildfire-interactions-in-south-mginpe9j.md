@@ -17,19 +17,18 @@ year: '2011'
 journal: Journal of Environmental Management
 doi: 10.1016/j.jenvman.2011.06.028
 tags:
-- climate change
-- fire hazard
-- fire regime
-- fulltext:check-needed
-- land use change
-- landscape dynamics
+- climate
+- fire regimes
+- fire risk
+- land cover
 - management
+- refwright:read:unread
 zotero_key: MGINPE9J
 item_type: journalArticle
 url: https://www.sciencedirect.com/science/article/pii/S0301479711002258
 source_url: 'unpaywall: https://hal.science/hal-00653523v1/document'
 fulltext_status: fulltext
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Landscape – wildfire interactions in southern Europe: Implications for landscape management

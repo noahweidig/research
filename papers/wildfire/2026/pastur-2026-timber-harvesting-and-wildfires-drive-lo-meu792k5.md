@@ -11,16 +11,18 @@ year: '2026'
 journal: Ecological Processes
 doi: 10.1186/s13717-026-00744-y
 tags:
+- climate
 - disturbance
-- forest structure
+- forests
+- refwright:read:unread
+- united states
 - wildfire
-- wildfire occurrence
 zotero_key: MEU792K5
 item_type: journalArticle
 url: https://openalex.org/W7138835726
 source_url: 'unpaywall: https://link.springer.com/content/pdf/10.1186/s13717-026-00744-y.pdf'
 fulltext_status: fulltext
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Timber harvesting and wildfires drive long-term modification in forest structure of Nothofagus pumilio: resilience characterization based on disturbance legacies

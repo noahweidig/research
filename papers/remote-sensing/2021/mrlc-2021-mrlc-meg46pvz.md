@@ -7,17 +7,15 @@ journal: null
 doi: null
 tags:
 - dataset
-- fulltext:check-needed
-- geospatial data
 - land cover
-- nlcd
+- refwright:read:unread
 - remote sensing
 zotero_key: MEG46PVZ
 item_type: dataset
 url: https://www.mrlc.gov/
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # MRLC

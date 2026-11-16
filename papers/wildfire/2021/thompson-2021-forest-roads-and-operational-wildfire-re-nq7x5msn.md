@@ -8,16 +8,19 @@ year: '2021'
 journal: Forests
 doi: 10.3390/f12020110
 tags:
-- road network
+- WUI
+- climate
+- forests
+- refwright:read:unread
+- suppression
 - united states
-- western united states
 - wildfire
 zotero_key: NQ7X5MSN
 item_type: journalArticle
 url: https://www.mdpi.com/1999-4907/12/2/110
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Forest Roads and Operational Wildfire Response Planning

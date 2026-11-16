@@ -5,13 +5,17 @@ authors:
 year: '2005'
 journal: Annual Review of Ecology, Evolution, and Systematics
 doi: 10.1146/annurev.ecolsys.36.102003.152614
-tags: []
+tags:
+- ecology
+- fuels
+- refwright:read:unread
+- wildfire
 zotero_key: MCRV5WHP
 item_type: journalArticle
 url: https://www.annualreviews.org/content/journals/10.1146/annurev.ecolsys.36.102003.152614
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Landscape Ecology: What Is the State of the Science?

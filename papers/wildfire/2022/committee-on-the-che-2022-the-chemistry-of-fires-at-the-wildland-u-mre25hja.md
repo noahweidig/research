@@ -1,26 +1,29 @@
 ---
-title: The Chemistry of Fires at the Wildland-Urban Interface
+title: The chemistry of fires at the wildland-urban interface
 authors:
-- Committee on the Chemistry of Urban Wildfires
-- Board on Chemical Sciences and Technology
-- Division on Earth and Life Studies
-- National Academies of Sciences, Engineering, and Medicine
+- Committee On The Chemistry Of Urban Wildfires
+- Board On Chemical Sciences And Technology
+- Division On Earth And Life Studies
+- National Academies Of Sciences, Engineering, And Medicine
 year: '2022'
 journal: null
 doi: 10.17226/26460
 tags:
-- air pollution
-- fire
-- fulltext:pdf-missing
-- wildfire smoke
-- wildland-urban interface
+- WUI
+- air quality
+- refwright:read:unread
+- smoke
+- suppression
+- united states
+- urbanization
+- wildfire
 zotero_key: MRE25HJA
 item_type: book
 url: https://www.nap.edu/catalog/26460
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
-# The Chemistry of Fires at the Wildland-Urban Interface
+# The chemistry of fires at the wildland-urban interface
 

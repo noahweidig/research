@@ -8,16 +8,17 @@ year: '2022'
 journal: Environmental Research, Engineering and Management
 doi: 10.5755/j01.erem.78.1.25581
 tags:
-- decision support
-- ecosystems
-- fire
-- fire suppression
+- fire risk
+- management
+- refwright:read:unread
+- suppression
+- wildfire
 zotero_key: MSZFLSIT
 item_type: journalArticle
 url: https://erem.ktu.lt/index.php/erem/article/view/25581
 source_url: 'unpaywall: https://erem.ktu.lt/index.php/erem/article/download/25581/15314'
 fulltext_status: fulltext
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Optimization of Fire Station Locations to Increase the Efficiency of Firefighting in Natural Ecosystems

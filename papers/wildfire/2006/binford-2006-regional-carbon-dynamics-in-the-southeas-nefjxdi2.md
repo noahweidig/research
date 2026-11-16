@@ -4,21 +4,23 @@ authors:
 - Binford, M. W.
 - Gholz, H. L.
 - Starr, G.
-- Martin, T. A.
+- Martín, Teodoro
 year: '2006'
 journal: 'Journal of Geophysical Research: Atmospheres'
 doi: 10.1029/2005JD006820
 tags:
-- forest management
-- southeastern united states
-- timber harvest
+- forests
+- land cover
+- refwright:read:unread
+- remote sensing
 - united states
+- wildfire
 zotero_key: NEFJXDI2
 item_type: journalArticle
 url: https://onlinelibrary.wiley.com/doi/abs/10.1029/2005JD006820
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Regional carbon dynamics in the southeastern U.S. coastal plain: Balancing land cover type, timber harvesting, fire, and environmental variation

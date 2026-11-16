@@ -9,16 +9,16 @@ year: '2023'
 journal: Nature Communications
 doi: 10.1038/s41467-023-39221-x
 tags:
-- conservation biology
-- forest ecology
+- conservation
+- forests
 - fragmentation
-- sustainability
+- refwright:read:unread
 zotero_key: MEGDGA8Q
 item_type: journalArticle
 url: https://www.nature.com/articles/s41467-023-39221-x
 source_url: 'unpaywall: https://www.nature.com/articles/s41467-023-39221-x.pdf'
 fulltext_status: fulltext
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Global forest fragmentation change from 2000 to 2020

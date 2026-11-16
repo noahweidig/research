@@ -1,5 +1,5 @@
 ---
-title: 'Rumble in the Cogongrass Jungle: Shrub Resiliency from Round 1'
+title: 'Rumble in the cogongrass jungle: shrub resiliency from round 1'
 authors:
 - Carl, Noah
 - Shows, Caden
@@ -10,19 +10,22 @@ year: '2024'
 journal: Gulf of Mexico Conference
 doi: null
 tags:
-- cogongrass
-- fire
-- invasive grass
+- agriculture
+- invasive species
+- plant species
+- refwright:read:done
 - resilience
+- united states
+- wildfire
 zotero_key: MKG9SPSS
 item_type: conferencePaper
 url: https://gulfofamericaalliance.org/wp-content/uploads/2024/02/GOMCON-Poster-Session-Floor-Plan-02.13.24.pdf
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
-# Rumble in the Cogongrass Jungle: Shrub Resiliency from Round 1
+# Rumble in the cogongrass jungle: shrub resiliency from round 1
 
 ## Abstract
 

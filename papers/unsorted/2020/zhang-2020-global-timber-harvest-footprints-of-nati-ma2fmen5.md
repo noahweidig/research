@@ -12,17 +12,13 @@ year: '2020'
 journal: Journal of Cleaner Production
 doi: 10.1016/j.jclepro.2019.119503
 tags:
-- environmental footprint
-- fulltext:pdf-missing
-- input output model
-- international trade
-- timber harvest
+- refwright:read:unread
 zotero_key: MA2FMEN5
 item_type: journalArticle
 url: https://www.sciencedirect.com/science/article/pii/S0959652619343732
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Global timber harvest footprints of nations and virtual timber trade flows

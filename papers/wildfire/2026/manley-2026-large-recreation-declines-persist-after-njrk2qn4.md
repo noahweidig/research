@@ -4,14 +4,14 @@ authors:
 - Manley, Kyle
 - Wood, Spencer
 - Evers, Cody
-- Nowell, Holly
+- Nowell, Holly K.
 - Anna, Lopresti
 - Siegel, Katherine
-- Balch, Jennifer
+- Balch, Jennifer K.
 - Braun, Laura
 - Cale, Ash
 - Kreitler, Jason
-- McIntosh, Tyler
+- McIntosh, Tyler L.
 - Peeler, Jamie
 - Villarreal, Miguel
 - Dee, Laura
@@ -19,17 +19,17 @@ year: '2026'
 journal: null
 doi: 10.22541/essoar.15002752/v2
 tags:
-- drivers
-- fulltext:pdf-found
-- large wildfires
-- prescribed burning
+- fire regimes
+- prescribed fire
+- refwright:read:unread
+- united states
 - wildfire
 zotero_key: NJRK2QN4
 item_type: journalArticle
 url: https://openalex.org/W7221662149
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Large Recreation Declines Persist after Severe Wildfire but Not after Low-Severity or Prescribed Fire

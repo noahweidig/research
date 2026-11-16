@@ -8,16 +8,17 @@ year: '2022'
 journal: Natural Hazards and Earth System Sciences
 doi: 10.5194/nhess-22-1181-2022
 tags:
-- burned area
-- fire suppression
-- southeastern united states
+- fire regimes
+- refwright:read:unread
+- suppression
+- united states
 - wildfire
 zotero_key: M5DNCR94
 item_type: journalArticle
 url: https://nhess.copernicus.org/articles/22/1181/2022/
 source_url: 'unpaywall: https://doi.org/10.5194/nhess-22-1181-2022'
 fulltext_status: fulltext
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Environmental factors affecting wildfire-burned areas in southeastern France, 1970–2019
