@@ -7,16 +7,19 @@ year: '2018'
 journal: Food Policy
 doi: 10.1016/j.foodpol.2018.02.001
 tags:
-- Cropland expansion
-- Grassland loss
-- Land-use change
-- agricultural policy
+- CRP
+- agriculture
+- conservation
+- land cover
+- rangelands
+- refwright:read:unread
+- united states
 zotero_key: 9MWK9QUM
 item_type: journalArticle
 url: https://www.sciencedirect.com/science/article/pii/S0306919217305560
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Changes in cropland area in the United States and the role of CRP

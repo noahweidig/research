@@ -14,19 +14,18 @@ year: '2020'
 journal: Sustainability
 doi: 10.3390/su12208321
 tags:
-- adaptive management
 - agriculture
 - conservation
-- ecosystem management
-- invasive species
-- sustainability
-- woody encroachment
+- management
+- plant species
+- refwright:read:unread
+- woody cover
 zotero_key: 9IGUPN5A
 item_type: journalArticle
 url: https://www.mdpi.com/2071-1050/12/20/8321
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-16'
 ---
 
 # Woody Plant Encroachment and the Sustainability of Priority Conservation Areas

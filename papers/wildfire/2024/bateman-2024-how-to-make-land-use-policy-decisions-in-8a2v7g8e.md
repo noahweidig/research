@@ -43,15 +43,20 @@ journal: Proceedings of the National Academy of Sciences
 doi: 10.1073/pnas.2407961121
 tags:
 - biodiversity
-- carbon cycle
 - climate
-- land use
+- ecology
+- land cover
+- policy
+- prescribed fire
+- refwright:read:unread
+- united states
+- wildfire
 zotero_key: 8A2V7G8E
 item_type: journalArticle
 url: https://www.pnas.org/doi/full/10.1073/pnas.2407961121
 source_url: 'unpaywall: https://www.research.ed.ac.uk/en/publications/f1aae8c3-4ac8-4ef7-9cd4-3997ef31eb83'
 fulltext_status: fulltext
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # How to make land use policy decisions: Integrating science and economics to deliver connected climate, biodiversity, and food objectives

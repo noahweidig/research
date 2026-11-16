@@ -3,21 +3,24 @@ title: 'TreeMap 2020, 2022, and 2023: Improved species range mapping in a tree-l
 authors:
 - Riley, Karin L.
 - Houtman, Rachel M.
-- Zimmer, Scott
-- Leatherman, Lila
+- Zimmer, Scott N.
+- Leatherman, Lila S. T.
 - Peeler, Jamie
-- Shaw, John
-- Grenfell, Isaac
+- Shaw, John D.
+- Grenfell, Isaac C.
 - Arboleda, Maria Borja
 - Shrestha, Abhinav
-- Housman, Ian
-- Finney, Mark
+- Housman, Ian W.
+- Finney, Mark A.
 year: '2026'
 journal: Earth System Science Data Discussions
 doi: 10.5194/essd-2026-633
 tags:
+- dataset
 - fia
-- forest structure
+- forests
+- refwright:read:unread
+- remote sensing
 - trees
 - united states
 zotero_key: A7PBH5TC
@@ -25,7 +28,7 @@ item_type: journalArticle
 url: https://openalex.org/W7221472141
 source_url: 'unpaywall: https://essd.copernicus.org/preprints/essd-2026-633/essd-2026-633.pdf'
 fulltext_status: fulltext
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # TreeMap 2020, 2022, and 2023: Improved species range mapping in a tree-level forest dataset for the conterminous United States

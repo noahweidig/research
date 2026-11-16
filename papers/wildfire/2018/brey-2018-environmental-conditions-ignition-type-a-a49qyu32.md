@@ -11,15 +11,18 @@ journal: Earth's Future
 doi: 10.1029/2018EF000972
 tags:
 - air quality
+- dataset
+- fuels
 - ignition
-- western united states
+- refwright:read:unread
+- united states
 - wildfire
 zotero_key: A49QYU32
 item_type: journalArticle
 url: https://onlinelibrary.wiley.com/doi/abs/10.1029/2018EF000972
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-16'
 ---
 
 # Environmental Conditions, Ignition Type, and Air Quality Impacts of Wildfires in the Southeastern and Western United States

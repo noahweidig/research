@@ -11,17 +11,19 @@ year: '2025'
 journal: Journal of Environmental Management
 doi: 10.1016/j.jenvman.2025.125097
 tags:
+- agriculture
 - climate
-- earth system models
-- ecosystems
-- fulltext:pdf-missing
-- land use change
+- fire risk
+- land cover
+- refwright:read:unread
+- united states
+- wildfire
 zotero_key: AIGCLREP
 item_type: journalArticle
 url: https://www.sciencedirect.com/science/article/pii/S0301479725010734
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Land use change-induced abrupt changes in vegetation and the role of climate factors

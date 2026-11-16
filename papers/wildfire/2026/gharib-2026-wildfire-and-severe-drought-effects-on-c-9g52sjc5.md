@@ -2,7 +2,7 @@
 title: Wildfire and Severe Drought Effects on Conservation Reserve Program (CRP) Persistence
 authors:
 - Gharib, Mariam
-- Bergtold, Jason
+- Bergtold, Jason S.
 - Avocat, Helene
 - Caldas, Marcellus M.
 - Joslin, Audrey
@@ -10,17 +10,20 @@ year: '2026'
 journal: null
 doi: 10.22004/ag.econ.404737
 tags:
+- CRP
+- agriculture
 - conservation
-- conservation reserve program
 - drought
-- fulltext:pdf-missing
+- rangelands
+- refwright:read:unread
+- united states
 - wildfire
 zotero_key: 9G52SJC5
 item_type: journalArticle
 url: https://ageconsearch.umn.edu/record/404737
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Wildfire and Severe Drought Effects on Conservation Reserve Program (CRP) Persistence

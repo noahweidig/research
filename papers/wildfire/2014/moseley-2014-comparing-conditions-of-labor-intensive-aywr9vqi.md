@@ -8,17 +8,18 @@ year: '2014'
 journal: Society & Natural Resources
 doi: 10.1080/08941920.2014.888792
 tags:
-- fire
-- fire suppression
-- forest management
-- fulltext:pdf-missing
+- forests
+- refwright:read:unread
+- statistics
+- suppression
 - united states
+- wildfire
 zotero_key: AYWR9VQI
 item_type: journalArticle
 url: https://doi.org/10.1080/08941920.2014.888792
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Comparing Conditions of Labor-Intensive Forestry and Fire Suppression Workers

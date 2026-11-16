@@ -9,18 +9,17 @@ journal: Agriculture, Ecosystems & Environment
 doi: 10.1016/j.agee.2015.04.011
 tags:
 - agriculture
-- fire hazard
+- climate
 - fire risk
-- fulltext:pdf-missing
-- global change
-- land use change
-- modeling
+- land cover
+- refwright:read:unread
+- statistics
 zotero_key: AAJK9KD2
 item_type: journalArticle
 url: https://www.sciencedirect.com/science/article/pii/S0167880915001437
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Changes in landscape fire-hazard during the second half of the 20th century: Agriculture abandonment and the changing role of driving factors

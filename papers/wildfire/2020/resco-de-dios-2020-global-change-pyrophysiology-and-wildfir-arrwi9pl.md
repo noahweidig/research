@@ -1,25 +1,24 @@
 ---
-title: Global Change, Pyrophysiology, and Wildfires
+title: Global change, pyrophysiology, and wildfires
 authors:
 - Resco de Dios, Víctor
 year: '2020'
 journal: null
 doi: 10.1007/978-3-030-41192-3_10
 tags:
-- fulltext:pdf-missing
-- global change
+- climate
 - plant physiology
+- refwright:read:unread
 - wildfire
-- wildfire occurrence
 zotero_key: ARRWI9PL
 item_type: bookSection
 url: https://doi.org/10.1007/978-3-030-41192-3_10
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
-# Global Change, Pyrophysiology, and Wildfires
+# Global change, pyrophysiology, and wildfires
 
 ## Abstract
 

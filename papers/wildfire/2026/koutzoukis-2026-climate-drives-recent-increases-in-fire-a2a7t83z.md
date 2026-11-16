@@ -7,22 +7,22 @@ authors:
 - McIlroy, Susan K.
 - Downing, Rosemary L.
 - Rogers, Paul C.
-- Kreitler, Jason R.
+- Kreitler, Jason
 year: '2026'
 journal: International Journal of Wildland Fire
 doi: 10.1071/wf25176
 tags:
-- burning
-- drivers
-- fulltext:check-needed
-- western united states
+- fire regimes
+- prescribed fire
+- refwright:read:unread
+- united states
 - wildfire
 zotero_key: A2A7T83Z
 item_type: journalArticle
 url: https://openalex.org/W7221433018
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Climate drives recent increases in fire activity in aspen ( Populus tremuloides Michx.) forests of the western US

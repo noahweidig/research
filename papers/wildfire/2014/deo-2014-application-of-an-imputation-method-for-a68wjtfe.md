@@ -6,22 +6,18 @@ year: '2014'
 journal: null
 doi: 10.37099/mtu.dc.etds/808
 tags:
-- biomass
-- forest inventory
-- forest management
-- forestry
-- lakes
-- lidar
-- michigan
-- natural resource management
+- fia
+- forests
+- fuels
+- management
+- refwright:read:unread
 - remote sensing
-- sustainability
 zotero_key: A68WJTFE
 item_type: thesis
 url: https://www.proquest.com/docview/1625043446/abstract/746728D27FF34B4CPQ/1
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Application of an imputation method for geospatial inventory of forest structural attributes across multiple spatial scales in the Lake States, U.S.A.

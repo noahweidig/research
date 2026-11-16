@@ -8,28 +8,23 @@ authors:
 - Hutcherson, Thomas F.
 - Matusick, George
 - Parker, James M.
-- Addington, Robert N.
-- Hudson, Stephen J.
-- Hiers, J. Kevin
-- Hurteau, Matthew D.
-- Hutcherson, Thomas F.
-- Matusick, George
-- Parker, James M.
 year: '2015'
 journal: International Journal of Wildland Fire
 doi: 10.1071/WF14187
 tags:
+- WUI
+- climate
 - drought
-- fulltext:pdf-found
-- prescribed burning
+- prescribed fire
+- refwright:read:unread
 - united states
 - wildfire
 zotero_key: ANMPMSIL
 item_type: journalArticle
-url: https://www.publish.csiro.au/wf/WF14187
+url: https://connectsci.au/wf/article/24/6/778/21087/Relationships-among-wildfire-prescribed-fire-and
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Relationships among wildfire, prescribed fire, and drought in a fire-prone landscape in the south-eastern United States

@@ -5,7 +5,7 @@ authors:
 - Veraverbeke, Sander
 - Andela, Niels
 - Doerr, Stefan H.
-- Kolden, Crystal
+- Kolden, Crystal A.
 - Mataveli, Guilherme
 - Pettinari, M. Lucrecia
 - Le Quéré, Corinne
@@ -17,16 +17,19 @@ year: '2024'
 journal: Science
 doi: 10.1126/science.adl5889
 tags:
-- air pollution
-- climate change
-- ecoregions
-- fire
+- air quality
+- climate
+- forests
+- human dimensions
+- refwright:read:unread
+- united states
+- wildfire
 zotero_key: 9PW7RKD7
 item_type: journalArticle
 url: https://www.science.org/doi/full/10.1126/science.adl5889
 source_url: 'unpaywall: https://research.vu.nl/en/publications/c86836a0-5854-4f87-aa1f-0704cb243b6e'
 fulltext_status: fulltext
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Global rise in forest fire emissions linked to climate change in the extratropics

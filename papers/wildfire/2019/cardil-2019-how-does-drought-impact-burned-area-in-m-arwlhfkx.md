@@ -1,27 +1,27 @@
 ---
 title: How does drought impact burned area in Mediterranean vegetation communities?
 authors:
-- Cardil, A.
+- Cardil, Adrián
 - Vega-García, C.
-- Ascoli, D.
-- Molina-Terrén, D. M.
-- Silva, C. A.
-- Rodrigues, M.
+- Ascoli, Davide
+- Molina-Terrén, Domingo
+- Silva, Carlos A.
+- Rodrigues, Marcos
 year: '2019'
 journal: Science of The Total Environment
 doi: 10.1016/j.scitotenv.2019.133603
 tags:
-- burned area
 - drought
-- fulltext:pdf-missing
-- mediterranean grassland
-- vegetation
+- fire regimes
+- fuels
+- rangelands
+- refwright:read:unread
 zotero_key: ARWLHFKX
 item_type: journalArticle
 url: https://www.sciencedirect.com/science/article/pii/S0048969719335284
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # How does drought impact burned area in Mediterranean vegetation communities?

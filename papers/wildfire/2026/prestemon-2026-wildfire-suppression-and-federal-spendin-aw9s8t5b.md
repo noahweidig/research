@@ -5,9 +5,9 @@ authors:
 - Kay, Shannon
 - Costanza, Jennifer
 - Joyce, Linda A.
-- Riley, Karin
-- Short, Karen
-- Belval, Erin
+- Riley, Karin L.
+- Short, Karen C.
+- Belval, Erin J.
 - Kanieski da Silva, Bruno
 - Nepal, Prakash
 - Morisette, Jeffrey
@@ -15,17 +15,16 @@ year: '2026'
 journal: Earth's Future
 doi: 10.1029/2025EF007985
 tags:
-- cost
-- fire suppression
-- forest management
-- fulltext:check-needed
+- forests
+- refwright:read:unread
+- suppression
 - wildfire
 zotero_key: AW9S8T5B
 item_type: journalArticle
 url: https://onlinelibrary.wiley.com/doi/abs/10.1029/2025EF007985
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Wildfire, Suppression, and Federal Spending, 2020–2100

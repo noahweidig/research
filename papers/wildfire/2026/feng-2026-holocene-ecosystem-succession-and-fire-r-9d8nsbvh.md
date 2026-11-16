@@ -1,7 +1,7 @@
 ---
 title: Holocene ecosystem succession and fire regime evolution at Tannersville Bog, northeastern United States
 authors:
-- Feng, yufan
+- Feng, Yufan
 - Vachula, Richard S.
 - Karmalkar, Ambarish V.
 - Tsalickis, Alexandra
@@ -10,16 +10,18 @@ year: '2026'
 journal: null
 doi: 10.5194/egusphere-2026-6310
 tags:
-- ecological succession
-- ecosystems
-- fire
+- climate
+- fire regimes
+- forests
+- refwright:read:unread
 - united states
+- wildfire
 zotero_key: 9D8NSBVH
 item_type: journalArticle
 url: https://openalex.org/W7223102672
 source_url: 'unpaywall: https://egusphere.copernicus.org/preprints/2026/egusphere-2026-6310/egusphere-2026-6310.pdf'
 fulltext_status: fulltext
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Holocene ecosystem succession and fire regime evolution at Tannersville Bog, northeastern United States

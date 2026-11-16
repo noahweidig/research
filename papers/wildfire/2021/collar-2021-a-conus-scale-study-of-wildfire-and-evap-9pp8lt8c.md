@@ -9,17 +9,17 @@ year: '2021'
 journal: Journal of Hydrology
 doi: 10.1016/j.jhydrol.2021.127162
 tags:
-- contiguous united states
-- fulltext:pdf-missing
-- machine learning
+- refwright:read:unread
 - remote sensing
+- statistics
+- united states
 - wildfire
 zotero_key: 9PP8LT8C
 item_type: journalArticle
 url: https://www.sciencedirect.com/science/article/pii/S0022169421012129
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # A CONUS-scale study of wildfire and evapotranspiration: Spatial and temporal response and controlling factors

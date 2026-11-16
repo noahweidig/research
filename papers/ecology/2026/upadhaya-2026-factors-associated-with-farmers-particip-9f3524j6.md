@@ -9,18 +9,15 @@ journal: Environmental Management
 doi: 10.1007/s00267-026-02600-3
 tags:
 - agriculture
-- conservation adoption
-- conservation policy
-- ecosystem services
-- farm bill
-- private land
-- working lands conservation
+- ecology
+- policy
+- refwright:read:unread
 zotero_key: 9F3524J6
 item_type: journalArticle
 url: https://doi.org/10.1007/s00267-026-02600-3
 source_url: 'unpaywall: https://link.springer.com/content/pdf/10.1007/s00267-026-02600-3.pdf'
 fulltext_status: fulltext
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Factors Associated with Farmers’ Participation in the U.S. Conservation Reserve Program (CRP)

@@ -9,16 +9,16 @@ journal: Global Change Biology
 doi: 10.1111/j.1365-2486.2009.02030.x
 tags:
 - conservation
-- fulltext:pdf-missing
-- land use
-- savanna
+- land cover
+- rangelands
+- refwright:read:unread
 - trees
 zotero_key: 9RVIRMSV
 item_type: journalArticle
 url: https://doi.org/10.1111/j.1365-2486.2009.02030.x
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Thicket expansion in a South African savanna under divergent land use: Local vs. global drivers?

@@ -14,16 +14,17 @@ year: '2026'
 journal: mSystems
 doi: 10.1128/msystems.00852-26
 tags:
-- nutritive value
-- prescribed burning
-- soil properties
+- prescribed fire
+- refwright:read:unread
+- soils
 - united states
+- wildfire
 zotero_key: A8XAIMKZ
 item_type: journalArticle
 url: https://openalex.org/W7125372033
 source_url: 'unpaywall: https://www.biorxiv.org/content/biorxiv/early/2026/01/21/2026.01.21.700861.full.pdf'
 fulltext_status: fulltext
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Prescribed burns drive lasting changes in soil nitrogen cycling and microbial function

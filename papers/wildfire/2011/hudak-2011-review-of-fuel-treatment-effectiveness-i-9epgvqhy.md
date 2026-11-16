@@ -4,26 +4,26 @@ authors:
 - Hudak, Andrew T.
 - Rickert, Ian
 - Morgan, Penelope
-- Strand, Eva
+- Strand, Eva K.
 - Lewis, Sarah A.
 - Robichaud, Peter R.
-- Hoffman, Chad
+- Hoffman, Chad M.
 - Holden, Zachary A.
 year: '2011'
 journal: null
 doi: 10.2737/rmrs-gtr-252
 tags:
-- fuel treatments
 - fuels
-- fulltext:pdf-missing
-- rangeland
+- rangelands
+- refwright:read:unread
+- united states
 - wildfire
 zotero_key: 9EPGVQHY
 item_type: journalArticle
 url: https://www.academia.edu/download/46990126/rmrs_gtr252.pdf
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Review of Fuel Treatment Effectiveness in Forests and Rangelands

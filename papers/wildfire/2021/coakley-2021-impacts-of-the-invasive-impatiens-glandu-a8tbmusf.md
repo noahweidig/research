@@ -7,16 +7,18 @@ year: '2021'
 journal: Biology
 doi: 10.3390/biology10070619
 tags:
-- climate change
+- biodiversity
+- climate
 - conservation
-- ecosystems
-- invasive species
+- plant species
+- refwright:read:unread
+- wildfire
 zotero_key: A8TBMUSF
 item_type: journalArticle
 url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8301180/
 source_url: 'unpaywall: https://www.ncbi.nlm.nih.gov/pmc/articles/8301180'
 fulltext_status: fulltext
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Impacts of the Invasive Impatiens glandulifera: Lessons Learned from One of Europe’s Top Invasive Species

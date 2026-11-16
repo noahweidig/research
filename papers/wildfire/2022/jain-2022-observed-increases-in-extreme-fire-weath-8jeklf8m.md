@@ -10,16 +10,20 @@ year: '2022'
 journal: Nature Climate Change
 doi: 10.1038/s41558-021-01224-1
 tags:
-- climate change
-- fire
-- fire ecology
+- climate
+- ecology
+- fire risk
+- human dimensions
+- refwright:read:unread
+- united states
 - weather
+- wildfire
 zotero_key: 8JEKLF8M
 item_type: journalArticle
 url: https://www.nature.com/articles/s41558-021-01224-1
 source_url: 'unpaywall: https://www.researchsquare.com/article/rs-595210/latest.pdf'
 fulltext_status: fulltext
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Observed increases in extreme fire weather driven by atmospheric humidity and temperature

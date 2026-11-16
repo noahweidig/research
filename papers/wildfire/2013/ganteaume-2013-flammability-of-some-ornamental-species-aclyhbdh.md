@@ -10,17 +10,17 @@ year: '2013'
 journal: Environmental Management
 doi: 10.1007/s00267-013-0067-z
 tags:
-- fire hazard
-- flammability
-- fulltext:pdf-missing
-- ornamental vegetation
-- wildland-urban interface
+- WUI
+- fire risk
+- fuels
+- refwright:read:unread
+- wildfire
 zotero_key: ACLYHBDH
 item_type: journalArticle
 url: https://doi.org/10.1007/s00267-013-0067-z
 source_url: 'unpaywall: https://hal.science/hal-00941751'
 fulltext_status: fulltext
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Flammability of Some Ornamental Species in Wildland–Urban Interfaces in Southeastern France: Laboratory Assessment at Particle Level

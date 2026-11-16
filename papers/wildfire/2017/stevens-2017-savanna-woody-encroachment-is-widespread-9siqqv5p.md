@@ -9,17 +9,19 @@ year: '2017'
 journal: Global Change Biology
 doi: 10.1111/gcb.13409
 tags:
-- australia
-- fulltext:pdf-missing
-- savanna
-- vegetation
-- woody encroachment
+- fragmentation
+- fuels
+- rangelands
+- refwright:read:unread
+- trees
+- weather
+- woody cover
 zotero_key: 9SIQQV5P
 item_type: journalArticle
 url: https://onlinelibrary.wiley.com/doi/abs/10.1111/gcb.13409
 source_url: 'unpaywall: https://www.research.ed.ac.uk/en/publications/ff572887-5c50-4c25-8b65-a9ce5bd8ea2a'
 fulltext_status: fulltext
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Savanna woody encroachment is widespread across three continents

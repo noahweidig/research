@@ -7,16 +7,19 @@ year: '2015'
 journal: GIScience & Remote Sensing
 doi: 10.1080/15481603.2015.1055451
 tags:
-- fire severity
-- landsat
-- ndvi
+- fire regimes
+- fuels
+- prescribed fire
+- refwright:read:unread
+- remote sensing
+- united states
 - wildfire
 zotero_key: A3Z54INE
 item_type: journalArticle
 url: https://doi.org/10.1080/15481603.2015.1055451
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Post-wildfire assessment of vegetation regeneration in Bastrop, Texas, using Landsat imagery

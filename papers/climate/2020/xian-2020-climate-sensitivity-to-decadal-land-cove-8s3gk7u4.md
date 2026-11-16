@@ -2,25 +2,24 @@
 title: Climate sensitivity to decadal land cover and land use change across the conterminous United States
 authors:
 - Xian, George Z.
-- Loveland, Thomas
+- Loveland, Thomas R.
 - Munson, Seth M.
 - Vogelmann, James E.
 - Zeng, Xubin
-- Homer, Collin J.
+- Homer, Collin
 year: '2020'
 journal: Global and Planetary Change
 doi: 10.1016/j.gloplacha.2020.103262
 tags:
 - climate
-- climate change
-- ecoregions
 - land cover
+- refwright:read:unread
 zotero_key: 8S3GK7U4
 item_type: journalArticle
 url: https://www.sciencedirect.com/science/article/pii/S0921818120301533
 source_url: 'unpaywall: http://hdl.handle.net/10150/643329'
 fulltext_status: fulltext
-synced: '2026-11-06'
+synced: '2026-11-16'
 ---
 
 # Climate sensitivity to decadal land cover and land use change across the conterminous United States
