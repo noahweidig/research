@@ -10,7 +10,9 @@ journal: arXiv (Cornell University)
 doi: null
 tags:
 - air quality
-- prescribed burning
+- prescribed fire
+- public health
+- refwright:read:unread
 - united states
 - wildfire
 zotero_key: T7IZ4X62
@@ -18,7 +20,7 @@ item_type: journalArticle
 url: https://openalex.org/W7213372814
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Evaluating differential air quality impacts of prescribed fire and wildfire in the United States

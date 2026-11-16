@@ -10,16 +10,17 @@ year: '2022'
 journal: Global Ecology and Conservation
 doi: 10.1016/j.gecco.2022.e02142
 tags:
-- grassland
-- lesser prairie-chicken
-- megafire
+- fuels
+- prescribed fire
+- rangelands
+- refwright:read:unread
 - wildfire
 zotero_key: U276TYBV
 item_type: journalArticle
 url: https://www.sciencedirect.com/science/article/pii/S2351989422001445
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-16'
 ---
 
 # Recovery of working grasslands following a megafire in the southern mixed-grass prairie

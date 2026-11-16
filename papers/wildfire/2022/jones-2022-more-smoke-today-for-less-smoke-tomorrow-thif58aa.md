@@ -9,17 +9,19 @@ year: '2022'
 journal: International Journal of Wildland Fire
 doi: 10.1071/WF22025
 tags:
-- environmental health
-- fire
-- fulltext:pdf-found
-- prescribed burning
+- air quality
+- prescribed fire
 - public health
+- refwright:read:unread
+- smoke
+- united states
+- wildfire
 zotero_key: THIF58AA
 item_type: journalArticle
 url: https://www.publish.csiro.au/wf/WF22025
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # More smoke today for less smoke tomorrow? We need to better understand the public health benefits and costs of prescribed fire

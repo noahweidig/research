@@ -9,16 +9,19 @@ year: '2021'
 journal: 'Journal of Geophysical Research: Atmospheres'
 doi: 10.1029/2020JD033384
 tags:
-- atmospheric science
-- burning
-- fire
-- grasses
+- climate
+- prescribed fire
+- rangelands
+- refwright:read:unread
+- statistics
+- weather
+- wildfire
 zotero_key: UAWSL3W3
 item_type: journalArticle
 url: https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2020JD033384
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Sensitivity of Grass Fires Burning in Marginal Conditions to Atmospheric Turbulence

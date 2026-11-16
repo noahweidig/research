@@ -9,18 +9,16 @@ year: '2017'
 journal: Forest Ecology and Management
 doi: 10.1016/j.foreco.2017.08.043
 tags:
-- crown fire
 - drought
-- fire severity
-- fuel load
-- fulltext:check-needed
-- thinning
+- fire regimes
+- fuels
+- refwright:read:unread
 zotero_key: TJNAQHCM
 item_type: journalArticle
 url: https://www.sciencedirect.com/science/article/pii/S0378112717312860
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Fire behavior in Pinus halepensis thickets: Effects of thinning and woody debris decomposition in two rainfall scenarios

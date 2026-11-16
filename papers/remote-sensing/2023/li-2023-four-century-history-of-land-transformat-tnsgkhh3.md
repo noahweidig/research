@@ -10,16 +10,16 @@ journal: Earth System Science Data
 doi: 10.5194/essd-15-1005-2023
 tags:
 - agriculture
-- fulltext:pdf-found
-- humans
-- land use change
+- land cover
+- refwright:read:unread
+- remote sensing
 - united states
 zotero_key: TNSGKHH3
 item_type: journalArticle
 url: https://essd.copernicus.org/articles/15/1005/2023/
 source_url: 'unpaywall: https://essd.copernicus.org/articles/15/1005/2023/essd-15-1005-2023.pdf'
 fulltext_status: fulltext
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Four-century history of land transformation by humans in the United States (1630–2020): annual and 1 km grid data for the HIStory of LAND changes (HISLAND-US)

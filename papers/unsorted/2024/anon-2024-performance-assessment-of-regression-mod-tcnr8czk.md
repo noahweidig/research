@@ -5,17 +5,15 @@ year: '2024'
 journal: null
 doi: null
 tags:
-- fulltext:check-needed
-- mixed models
+- refwright:read:unread
 - software
-- statistical software
 - statistics
 zotero_key: TCNR8CZK
 item_type: computerProgram
 url: https://cran.r-project.org/web/packages/performance/index.html
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # performance: Assessment of Regression Models Performance

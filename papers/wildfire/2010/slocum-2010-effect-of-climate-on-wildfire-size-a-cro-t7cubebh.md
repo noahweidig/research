@@ -11,17 +11,16 @@ journal: Ecosystems
 doi: 10.1007/s10021-010-9357-y
 tags:
 - climate
-- drivers
-- fulltext:pdf-missing
-- large wildfires
-- scale
+- ecology
+- fire regimes
+- refwright:read:unread
 - wildfire
 zotero_key: T7CUBEBH
 item_type: journalArticle
 url: http://link.springer.com/10.1007/s10021-010-9357-y
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Effect of Climate on Wildfire Size: A Cross-Scale Analysis

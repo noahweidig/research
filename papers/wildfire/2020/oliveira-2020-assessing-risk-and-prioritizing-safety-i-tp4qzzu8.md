@@ -11,16 +11,17 @@ year: '2020'
 journal: Forests
 doi: 10.3390/f11080859
 tags:
+- WUI
 - fire risk
-- forest management
-- vulnerability assessment
+- forests
+- refwright:read:unread
 - wildfire
 zotero_key: TP4QZZU8
 item_type: journalArticle
 url: https://www.mdpi.com/1999-4907/11/8/859
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Assessing Risk and Prioritizing Safety Interventions in Human Settlements Affected by Large Wildfires

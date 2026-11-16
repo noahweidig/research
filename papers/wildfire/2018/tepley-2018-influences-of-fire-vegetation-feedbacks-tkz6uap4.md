@@ -4,7 +4,7 @@ authors:
 - Tepley, Alan J.
 - Thomann, Enrique
 - Veblen, Thomas T.
-- Perry, George L. W.
+- Perry, George LW.
 - Holz, Andrés
 - Paritsis, Juan
 - Kitzberger, Thomas
@@ -13,18 +13,17 @@ year: '2018'
 journal: Journal of Ecology
 doi: 10.1111/1365-2745.12950
 tags:
-- fire ecology
-- fire regime
-- flammability
-- forest ecology
-- modeling
-- state transition
+- ecology
+- fire regimes
+- forests
+- refwright:read:unread
+- statistics
 zotero_key: TKZ6UAP4
 item_type: journalArticle
 url: https://onlinelibrary.wiley.com/doi/abs/10.1111/1365-2745.12950
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Influences of fire–vegetation feedbacks and post-fire recovery rates on forest landscape vulnerability to altered fire regimes

@@ -19,16 +19,21 @@ year: '2022'
 journal: Land
 doi: 10.3390/land11111942
 tags:
-- fire hazard
+- agriculture
+- fire behavior
+- fire regimes
 - fire risk
-- land use change
+- fuels
+- land cover
+- natural hazards
+- refwright:read:unread
 - wildfire
 zotero_key: UEIHP4VK
 item_type: journalArticle
 url: https://www.mdpi.com/2073-445X/11/11/1942
 source_url: 'unpaywall: https://hdl.handle.net/11388/305088'
 fulltext_status: fulltext
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Spatial Patterns and Intensity of Land Abandonment Drive Wildfire Hazard and Likelihood in Mediterranean Agropastoral Areas

@@ -10,16 +10,19 @@ year: '2023'
 journal: Fire
 doi: 10.3390/fire6050198
 tags:
-- burned area
+- agriculture
+- climate
+- fire regimes
+- fire risk
 - land cover
-- land use change
+- refwright:read:unread
 - wildfire
 zotero_key: TWA2WDKA
 item_type: journalArticle
 url: https://www.mdpi.com/2571-6255/6/5/198
 source_url: 'unpaywall: https://serval.unil.ch/resource/serval:BIB_CDB5CC4B87BF.P001/REF.pdf'
 fulltext_status: fulltext
-synced: '2026-11-06'
+synced: '2026-11-16'
 ---
 
 # Quantitative Assessment of the Relationship between Land Use/Land Cover Changes and Wildfires in Southern Europe

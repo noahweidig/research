@@ -1,7 +1,7 @@
 ---
 title: Global maps of cropland extent and change show accelerated cropland expansion in the twenty-first century
 authors:
-- Potapov, Peter
+- Potapov, Peter V.
 - Turubanova, Svetlana
 - Hansen, Matthew C.
 - Tyukavina, Alexandra
@@ -16,15 +16,16 @@ journal: Nature Food
 doi: 10.1038/s43016-021-00429-z
 tags:
 - agriculture
-- environmental impact
-- net primary productivity
-- sustainability
+- land cover
+- refwright:read:unread
+- remote sensing
+- united states
 zotero_key: UFKSG32U
 item_type: journalArticle
 url: https://www.nature.com/articles/s43016-021-00429-z
 source_url: 'unpaywall: https://www.nature.com/articles/s43016-021-00429-z.pdf'
 fulltext_status: fulltext
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Global maps of cropland extent and change show accelerated cropland expansion in the twenty-first century

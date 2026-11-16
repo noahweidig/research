@@ -11,17 +11,19 @@ year: '2017'
 journal: Proceedings of the National Academy of Sciences
 doi: 10.1073/pnas.1617394114
 tags:
-- climate change
-- fulltext:pdf-found
+- WUI
+- climate
+- fire regimes
+- prescribed fire
+- refwright:read:unread
 - united states
 - wildfire
-- wildfire occurrence
 zotero_key: UH49ESI7
 item_type: journalArticle
 url: https://www.pnas.org/doi/full/10.1073/pnas.1617394114
 source_url: 'unpaywall: https://www.ncbi.nlm.nih.gov/pmc/articles/5358354'
 fulltext_status: fulltext
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Human-started wildfires expand the fire niche across the United States

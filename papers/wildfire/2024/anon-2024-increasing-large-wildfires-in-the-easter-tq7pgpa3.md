@@ -5,9 +5,7 @@ year: '2024'
 journal: null
 doi: null
 tags:
-- eastern united states
-- fulltext:check-needed
-- large wildfires
+- refwright:read:done
 - united states
 - wildfire
 zotero_key: TQ7PGPA3
@@ -15,7 +13,7 @@ item_type: presentation
 url: https://www.youtube.com/watch?v=vdZSXsaz7c0
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Increasing Large Wildfires in the Eastern United States

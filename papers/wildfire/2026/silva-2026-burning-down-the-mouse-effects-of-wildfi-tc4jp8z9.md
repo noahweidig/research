@@ -12,16 +12,20 @@ year: '2026'
 journal: bioRxiv (Cold Spring Harbor Laboratory)
 doi: 10.64898/2026.09.02.748549
 tags:
+- conservation
 - finance
 - habitats
-- prescribed burning
+- prescribed fire
+- rangelands
+- refwright:read:unread
+- united states
 - wildfire
 zotero_key: TC4JP8Z9
 item_type: journalArticle
 url: https://openalex.org/W7208823988
 source_url: 'unpaywall: https://www.biorxiv.org/content/biorxiv/early/2026/09/03/2026.09.02.748549.full.pdf'
 fulltext_status: fulltext
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Burning down the mouse: Effects of wildfire and post-fire reseeding on Sin Nombre virus prevalence in its reservoir host

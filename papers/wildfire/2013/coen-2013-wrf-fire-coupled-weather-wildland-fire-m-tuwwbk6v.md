@@ -11,16 +11,18 @@ year: '2013'
 journal: Journal of Applied Meteorology and Climatology
 doi: 10.1175/JAMC-D-12-023.1
 tags:
-- atmospheric science
-- fire
-- modeling
+- climate
+- fuels
+- refwright:read:unread
+- statistics
 - weather
+- wildfire
 zotero_key: TUWWBK6V
 item_type: journalArticle
 url: https://journals.ametsoc.org/view/journals/apme/52/1/jamc-d-12-023.1.xml
 source_url: 'unpaywall: https://zenodo.org/record/1234579'
 fulltext_status: fulltext
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # WRF-Fire: Coupled Weather–Wildland Fire Modeling with the Weather Research and Forecasting Model

@@ -14,14 +14,15 @@ doi: 10.15287/afr.2026.4628
 tags:
 - fire behavior
 - fuels
-- modeling
+- refwright:read:unread
+- statistics
 - wildfire
 zotero_key: UBCEEJ2T
 item_type: journalArticle
 url: https://openalex.org/W7213455885
 source_url: 'unpaywall: https://afrjournal.org/index.php/afr/article/download/4628/1378'
 fulltext_status: fulltext
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Developing a FARSITE wildfire simulation framework for Romania: fuel model mapping and evaluation using historical wildfires

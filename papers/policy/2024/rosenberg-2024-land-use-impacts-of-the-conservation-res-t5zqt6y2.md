@@ -7,17 +7,17 @@ year: '2024'
 journal: American Journal of Agricultural Economics
 doi: 10.1111/ajae.12425
 tags:
-- Conservation Reserve Program
+- CRP
 - conservation
-- land policy
-- land retirement
-- land use
+- land cover
+- policy
+- refwright:read:unread
 zotero_key: T5ZQT6Y2
 item_type: journalArticle
 url: https://onlinelibrary.wiley.com/doi/abs/10.1111/ajae.12425
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Land use impacts of the Conservation Reserve Program: An analysis of rejected offers

@@ -7,7 +7,7 @@ authors:
 - Dennison, Philip E.
 - Harvey, Brian J.
 - Krawchuk, Meg A.
-- Mietkiewicz, Nathan
+- Mietkiewicz, Nathan P.
 - Morgan, Penelope
 - Moritz, Max A.
 - Rasker, Ray
@@ -17,7 +17,10 @@ year: '2017'
 journal: Proceedings of the National Academy of Sciences
 doi: 10.1073/pnas.1617464114
 tags:
-- climate change
+- WUI
+- climate
+- fuels
+- refwright:read:unread
 - resilience
 - united states
 - wildfire
@@ -26,7 +29,7 @@ item_type: journalArticle
 url: https://www.pnas.org/doi/full/10.1073/pnas.1617464114
 source_url: 'unpaywall: https://www.ncbi.nlm.nih.gov/pmc/articles/5422781'
 fulltext_status: fulltext
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Adapt to more wildfire in western North American forests as climate changes

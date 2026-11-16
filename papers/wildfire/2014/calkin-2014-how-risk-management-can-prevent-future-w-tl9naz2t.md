@@ -9,16 +9,19 @@ year: '2014'
 journal: Proceedings of the National Academy of Sciences
 doi: 10.1073/pnas.1315088111
 tags:
-- disaster
-- risk management
+- WUI
+- exposure
+- fire risk
+- refwright:read:unread
+- suppression
+- united states
 - wildfire
-- wildland-urban interface
 zotero_key: TL9NAZ2T
 item_type: journalArticle
 url: https://www.pnas.org/doi/10.1073/pnas.1315088111
 source_url: 'unpaywall: https://www.ncbi.nlm.nih.gov/pmc/articles/3896199'
 fulltext_status: fulltext
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # How risk management can prevent future wildfire disasters in the wildland-urban interface

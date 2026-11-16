@@ -11,16 +11,19 @@ year: '2020'
 journal: null
 doi: 10.3133/ds1127
 tags:
-- geospatial data
-- government report
-- land use change
+- agriculture
+- forests
+- land cover
+- policy
+- refwright:read:unread
+- remote sensing
 - united states
 zotero_key: UIYRR3YC
 item_type: report
 url: https://pubs.usgs.gov/publication/ds1127
 source_url: 'unpaywall: https://pubs.usgs.gov/ds/1127/ds1127.pdf'
 fulltext_status: fulltext
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Causes of land change in the U.S. Interior Highlands, 2001–2011

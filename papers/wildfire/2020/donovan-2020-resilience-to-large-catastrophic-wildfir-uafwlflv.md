@@ -15,17 +15,17 @@ year: '2020'
 journal: Earth's Future
 doi: 10.1029/2020EF001487
 tags:
-- erosion
-- rangeland
-- scale
-- state transition
+- ecology
+- rangelands
+- refwright:read:unread
+- soils
 - wildfire
 zotero_key: UAFWLFLV
 item_type: journalArticle
 url: https://onlinelibrary.wiley.com/doi/abs/10.1029/2020EF001487
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-16'
 ---
 
 # Resilience to Large, “Catastrophic” Wildfires in North America's Grassland Biome

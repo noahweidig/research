@@ -6,16 +6,19 @@ year: '2024'
 journal: Disasters
 doi: 10.1111/disa.12594
 tags:
-- australia
-- disaster
-- legal statutes
+- exposure
 - natural hazards
+- policy
+- public health
+- refwright:read:unread
+- united states
+- wildfire
 zotero_key: U3ILALKA
 item_type: journalArticle
 url: https://onlinelibrary.wiley.com/doi/10.1111/disa.12594
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Evidence of policy learning in emergency declarations as communication tools in Australia

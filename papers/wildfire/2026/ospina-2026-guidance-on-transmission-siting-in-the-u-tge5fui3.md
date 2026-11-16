@@ -2,7 +2,7 @@
 title: Guidance on Transmission Siting in the United States Transmission Siting Roadmap for the Chiefs’ Trail Project
 authors:
 - Ospina, Juan
-- (OE), USDOE Office of Electricity Delivery and Energy Reliability
+- (Oe), USDOE Office of Electricity Delivery and Energy Reliability
 - Ewers, Mary
 - Bent, Russell W.
 - Máté, Ádám
@@ -10,17 +10,16 @@ year: '2026'
 journal: null
 doi: 10.2172/3991173
 tags:
-- energy infrastructure
-- government report
-- transmission siting
+- policy
+- refwright:read:unread
 - united states
-- wildfire transmission
+- wildfire
 zotero_key: TGE5FUI3
 item_type: journalArticle
 url: https://openalex.org/W7214623173
 source_url: 'unpaywall: https://www.osti.gov/servlets/purl/3991173'
 fulltext_status: fulltext
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Guidance on Transmission Siting in the United States Transmission Siting Roadmap for the Chiefs’ Trail Project

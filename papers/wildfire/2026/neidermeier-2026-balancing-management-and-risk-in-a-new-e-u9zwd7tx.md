@@ -6,17 +6,17 @@ year: '2026'
 journal: null
 doi: 10.5463/thesis.1907
 tags:
-- climate change
-- fulltext:check-needed
-- prescribed burning
-- pyrogeography
+- climate
+- fire regimes
+- prescribed fire
+- refwright:read:unread
 - wildfire
 zotero_key: U9ZWD7TX
 item_type: journalArticle
 url: https://openalex.org/W7223465559
 source_url: 'unpaywall: https://doi.org/10.5463/thesis.1907'
 fulltext_status: fulltext
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Balancing Management and Risk in a New European Pyrogeography
