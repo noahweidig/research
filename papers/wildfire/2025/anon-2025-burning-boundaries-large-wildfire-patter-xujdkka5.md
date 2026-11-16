@@ -5,17 +5,16 @@ year: '2025'
 journal: null
 doi: null
 tags:
-- eastern united states
-- fulltext:check-needed
-- large wildfires
+- WUI
+- refwright:read:done
+- united states
 - wildfire
-- wildland-urban interface
 zotero_key: XUJDKKA5
 item_type: presentation
 url: https://www.youtube.com/watch?v=HdklLrpJKkM
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Burning Boundaries: Large Wildfire Patterns and Drivers in the Eastern United States Wildland-Urban Interface

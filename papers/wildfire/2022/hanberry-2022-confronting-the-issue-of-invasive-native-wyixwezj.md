@@ -9,16 +9,17 @@ tags:
 - agriculture
 - biodiversity
 - disturbance
-- fire history
-- invasive species
-- state transition
-- woody encroachment
+- fire regimes
+- fuels
+- plant species
+- refwright:read:unread
+- woody cover
 zotero_key: WYIXWEZJ
 item_type: journalArticle
 url: https://www.mdpi.com/2073-445X/11/2/161
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-16'
 ---
 
 # Confronting the Issue of Invasive Native Tree Species Due to Land Use Change in the Eastern United States

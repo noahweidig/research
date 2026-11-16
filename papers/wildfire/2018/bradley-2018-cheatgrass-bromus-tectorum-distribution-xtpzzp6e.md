@@ -12,18 +12,16 @@ year: '2018'
 journal: Biological Invasions
 doi: 10.1007/s10530-017-1641-8
 tags:
-- bromus tectorum
-- burned area
-- fire regime
-- grass-fire cycle
-- invasive grass
-- invasive species
+- fire regimes
+- plant species
+- rangelands
+- refwright:read:unread
 zotero_key: XTPZZP6E
 item_type: journalArticle
 url: https://doi.org/10.1007/s10530-017-1641-8
 source_url: 'unpaywall: https://hdl.handle.net/20.500.14394/37659'
 fulltext_status: fulltext
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Cheatgrass (Bromus tectorum) distribution in the intermountain Western United States and its relationship to fire frequency, seasonality, and ignitions

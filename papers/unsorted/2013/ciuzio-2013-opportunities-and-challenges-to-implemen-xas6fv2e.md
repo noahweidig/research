@@ -5,7 +5,7 @@ authors:
 - Hohman, William L.
 - Martin, Brian
 - Smith, Mark D.
-- Stephens, Scott
+- Stephens, Scott L.
 - Strong, Allan M.
 - Vercauteren, Tammy
 year: '2013'
@@ -13,16 +13,15 @@ journal: Wildlife Society Bulletin
 doi: 10.1002/wsb.266
 tags:
 - agriculture
-- birds
 - conservation
-- fulltext:pdf-missing
-- private land
+- refwright:read:unread
+- wildlife
 zotero_key: XAS6FV2E
 item_type: journalArticle
 url: https://onlinelibrary.wiley.com/doi/abs/10.1002/wsb.266
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Opportunities and challenges to implementing bird conservation on private lands

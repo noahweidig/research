@@ -10,16 +10,16 @@ journal: 'Progress in Physical Geography: Earth and Environment'
 doi: 10.1177/0309133307079365
 tags:
 - climate
-- fuel moisture
 - fuels
-- fulltext:pdf-missing
+- refwright:read:unread
+- statistics
 - wildfire
 zotero_key: WPV9Z876
 item_type: journalArticle
 url: http://journals.sagepub.com/doi/10.1177/0309133307079365
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Environmental drivers of large, infrequent wildfires: the emerging conceptual model

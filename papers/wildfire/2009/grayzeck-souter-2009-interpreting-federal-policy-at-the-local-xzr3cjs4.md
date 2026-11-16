@@ -10,17 +10,16 @@ year: '2009'
 journal: International Journal of Wildland Fire
 doi: 10.1071/WF08081
 tags:
-- eastern united states
-- fulltext:pdf-missing
+- WUI
+- refwright:read:unread
 - united states
 - wildfire
-- wildland-urban interface
 zotero_key: XZR3CJS4
 item_type: journalArticle
 url: http://www.publish.csiro.au/?paper=WF08081
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Interpreting federal policy at the local level: the wildland - urban interface concept in wildfire protection planning in the eastern United States

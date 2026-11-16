@@ -6,16 +6,18 @@ year: '2026'
 journal: Chemical Innovation & Technology
 doi: 10.61784/cit3009
 tags:
-- climate change
-- housing
-- large wildfires
+- climate
+- refwright:read:unread
 - united states
+- urbanization
+- weather
+- wildfire
 zotero_key: XSTH5RTP
 item_type: journalArticle
 url: https://openalex.org/W7204147142
 source_url: 'unpaywall: https://upubjournals.com/cit/article/download/2681/73'
 fulltext_status: fulltext
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # CURBING THE TREND OF GLOBAL WARMING AND PROTECTING OUR HOME PLANET: CAUSES, IMPACTS, GLOBAL EFFORTS, AND REFLECTIONS

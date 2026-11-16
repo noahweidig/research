@@ -14,7 +14,10 @@ journal: 'Environmental Research: Ecology'
 doi: 10.1088/2752-664X/ae5300
 tags:
 - conservation
-- forest management
+- fia
+- forests
+- fuels
+- refwright:read:unread
 - remote sensing
 - united states
 zotero_key: XG936G3U
@@ -22,7 +25,7 @@ item_type: journalArticle
 url: https://iopscience.iop.org/article/10.1088/2752-664X/ae5300
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Baseline maps of U.S. mature and old-growth forests for conservation and management

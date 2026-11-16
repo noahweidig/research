@@ -9,17 +9,14 @@ year: '2023'
 journal: Earth's Future
 doi: 10.1029/2023EF003823
 tags:
-- fire danger and potential
-- fire danger indices
-- future projections
-- historical trend
-- wildfires
+- refwright:read:unread
+- wildfire
 zotero_key: WR7HSUY6
 item_type: journalArticle
 url: https://onlinelibrary.wiley.com/doi/abs/10.1029/2023EF003823
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Performance of Fire Danger Indices and Their Utility in Predicting Future Wildfire Danger Over the Conterminous United States

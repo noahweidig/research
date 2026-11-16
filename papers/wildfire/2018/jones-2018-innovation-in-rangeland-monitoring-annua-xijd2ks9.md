@@ -9,8 +9,8 @@ authors:
 - Metz, Loretta J.
 - Karl, Jason
 - Smith, Rob
-- Bestelmeyer, Brandon
-- Boyd, Chad
+- Bestelmeyer, Brandon T.
+- Boyd, Chad S.
 - Kerby, Jay D.
 - McIver, James D.
 year: '2018'
@@ -18,20 +18,19 @@ journal: Ecosphere
 doi: 10.1002/ecs2.2430
 tags:
 - conservation
-- grazing
 - land cover
-- landsat
-- machine learning
-- rangeland
+- management
+- rangelands
+- refwright:read:unread
 - remote sensing
-- time series
+- statistics
 - wildfire
 zotero_key: XIJD2KS9
 item_type: journalArticle
 url: https://onlinelibrary.wiley.com/doi/abs/10.1002/ecs2.2430
 source_url: 'unpaywall: https://digitalcommons.usu.edu/sagestep_articles/41'
 fulltext_status: fulltext
-synced: '2026-11-06'
+synced: '2026-11-16'
 ---
 
 # Innovation in rangeland monitoring: annual, 30 m, plant functional type percent cover maps for U.S. rangelands, 1984–2017

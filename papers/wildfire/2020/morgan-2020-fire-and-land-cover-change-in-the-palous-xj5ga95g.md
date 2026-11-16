@@ -14,16 +14,17 @@ journal: Fire Ecology
 doi: 10.1186/s42408-019-0061-9
 tags:
 - conservation
-- fire ecology
-- fire history
-- land use
-- landscape dynamics
+- ecology
+- fire regimes
+- land cover
+- refwright:read:unread
+- wildfire
 zotero_key: XJ5GA95G
 item_type: journalArticle
 url: https://doi.org/10.1186/s42408-019-0061-9
 source_url: 'unpaywall: https://fireecology.springeropen.com/track/pdf/10.1186/s42408-019-0061-9'
 fulltext_status: fulltext
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Fire and land cover change in the Palouse Prairie–forest ecotone, Washington and Idaho, USA

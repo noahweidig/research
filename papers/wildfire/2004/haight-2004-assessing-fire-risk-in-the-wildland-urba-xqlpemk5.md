@@ -10,17 +10,17 @@ year: '2004'
 journal: Journal of Forestry
 doi: 10.1093/jof/102.7.41
 tags:
-- fire
+- WUI
 - fire risk
-- fulltext:pdf-missing
-- housing
-- wildland-urban interface
+- refwright:read:unread
+- urbanization
+- wildfire
 zotero_key: XQLPEMK5
 item_type: journalArticle
 url: https://doi.org/10.1093/jof/102.7.41
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Assessing Fire Risk in the Wildland-Urban Interface

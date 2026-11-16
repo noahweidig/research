@@ -8,16 +8,19 @@ year: '2015'
 journal: Forest Ecosystems
 doi: 10.1186/s40663-015-0033-8
 tags:
-- fire suppression
+- WUI
+- fire risk
+- refwright:read:unread
 - resilience
+- suppression
+- united states
 - wildfire
-- wildland-urban interface
 zotero_key: WM8V9CCY
 item_type: journalArticle
 url: https://doi.org/10.1186/s40663-015-0033-8
 source_url: 'unpaywall: https://forestecosyst.springeropen.com/counter/pdf/10.1186/s40663-015-0033-8'
 fulltext_status: fulltext
-synced: '2026-11-06'
+synced: '2026-11-16'
 ---
 
 # Negative consequences of positive feedbacks in US wildfire management
@@ -397,5 +400,3 @@ for fire and fuels management: status and needs. Int J Wildland Fire 22(1):37–
 - Scott JH, Thompson MP, Calkin DE (2013) A wildfire risk assessment framework for land and resource management. Gen. Tech. Rep. RMRS-GTR-315. U.S. Department of Agriculture, Forest Service, Rocky Mountain Research Station, Fort Collins, CO, USA, p 83 
 
 - Scott JH, Helmbrecht DJ, Thompson MP (2014 [In Press]) Assessing the expected effects of wildfire on vegetation condition on the Bridger-Teton National Forest, Wyoming, USA. Research Note RMRS-RN-XX. U.S. Department of Agriculture, Forest Service, Rocky Mountain Research Station 
-
-

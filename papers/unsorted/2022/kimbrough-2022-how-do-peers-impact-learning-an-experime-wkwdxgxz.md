@@ -8,17 +8,13 @@ year: '2022'
 journal: Journal of Human Resources
 doi: 10.3368/jhr.57.1.0918-9770R2
 tags:
-- education
-- field experiment
-- fulltext:pdf-missing
-- peer effects
-- teaching
+- refwright:read:unread
 zotero_key: WKWDXGXZ
 item_type: journalArticle
 url: https://jhr.uwpress.org/content/57/1/304
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # How Do Peers Impact Learning? An Experimental Investigation of Peer-to-Peer Teaching and Ability Tracking

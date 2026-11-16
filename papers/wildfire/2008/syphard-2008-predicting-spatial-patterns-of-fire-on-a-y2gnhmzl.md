@@ -12,17 +12,16 @@ year: '2008'
 journal: International Journal of Wildland Fire
 doi: 10.1071/WF07087
 tags:
-- california
-- fire
-- fulltext:pdf-missing
 - ignition
-- spatial analysis
+- refwright:read:unread
+- remote sensing
+- wildfire
 zotero_key: Y2GNHMZL
 item_type: journalArticle
 url: https://www.publish.csiro.au/wf/WF07087
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Predicting spatial patterns of fire on a southern California landscape

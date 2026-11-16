@@ -6,7 +6,7 @@ authors:
 - Jones, Matthew W.
 - Kelley, Douglas I.
 - Barbosa, Maria Lucia Ferreira
-- McNorton, Joe
+- McNorton, Joe R.
 - Potts, Robert
 - Segura-Garcia, Carlota
 - Abatzoglou, John T.
@@ -36,7 +36,7 @@ authors:
 - Keeping, Theodore R.
 - Kolden, Crystal A.
 - Kouassi, Jean‐Luc
-- Kukavskaya, Elena
+- Kukavskaya, Elena A.
 - Lampe, Seppe
 - Liu, Zhongwei
 - Mataveli, Guilherme
@@ -65,16 +65,18 @@ year: '2026'
 journal: Earth System Science Data
 doi: 10.5194/essd-2026-587
 tags:
-- climate change
-- drivers
+- climate
+- fire regimes
 - ignition
+- refwright:read:unread
+- weather
 - wildfire
 zotero_key: WK4SEG6X
 item_type: journalArticle
 url: https://openalex.org/W7172316608
 source_url: 'unpaywall: https://essd.copernicus.org/preprints/essd-2026-587/essd-2026-587.pdf'
 fulltext_status: fulltext
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # State of Wildfires 2025–2026

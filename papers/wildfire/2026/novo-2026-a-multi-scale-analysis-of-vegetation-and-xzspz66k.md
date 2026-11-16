@@ -7,16 +7,18 @@ year: '2026'
 journal: GIScience & Remote Sensing
 doi: 10.1080/15481603.2026.2724597
 tags:
-- drivers
+- fire regimes
 - ignition
-- large wildfires
+- refwright:read:unread
+- united states
+- weather
 - wildfire
 zotero_key: XZSPZ66K
 item_type: journalArticle
 url: https://openalex.org/W7204463420
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-16'
 ---
 
 # A multi-scale analysis of vegetation and soil burn severity drivers during the 2025 wildfire season in NW Spain

@@ -1,5 +1,5 @@
 ---
-title: The relative impacts of vegetation, topography and spatial arrangement on building loss to wildfires in case studies of California and Colorado
+title: The relative impacts of vegetation, topography and spatial arrangement on building loss to wildfires in case studies of california and colorado
 authors:
 - Alexandre, Patricia M.
 - Stewart, Susan I.
@@ -13,19 +13,23 @@ year: '2016'
 journal: Landscape Ecology
 doi: 10.1007/s10980-015-0257-6
 tags:
-- modeling
-- structure loss
+- WUI
+- exposure
+- fire risk
+- fuels
+- refwright:read:unread
+- statistics
+- topography
 - wildfire
-- wildland-urban interface
 zotero_key: WUUWJU7X
 item_type: journalArticle
-url: https://doi.org/10.1007/s10980-015-0257-6
+url: http://link.springer.com/10.1007/s10980-015-0257-6
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
-# The relative impacts of vegetation, topography and spatial arrangement on building loss to wildfires in case studies of California and Colorado
+# The relative impacts of vegetation, topography and spatial arrangement on building loss to wildfires in case studies of california and colorado
 
 ## Abstract
 

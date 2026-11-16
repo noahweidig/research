@@ -6,8 +6,7 @@ year: '2018'
 journal: Journal of Open Source Software
 doi: 10.21105/joss.00772
 tags:
-- generalized linear models
-- r package
+- refwright:read:unread
 - software
 - statistics
 zotero_key: WUWSDFFG
@@ -15,7 +14,7 @@ item_type: journalArticle
 url: http://joss.theoj.org/papers/10.21105/joss.00772
 source_url: 'unpaywall: https://joss.theoj.org/papers/10.21105/joss.00772.pdf'
 fulltext_status: fulltext
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # ggeffects: Tidy Data Frames of Marginal Effects from Regression Models

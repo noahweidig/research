@@ -3,27 +3,26 @@ title: 'Pyric herbivory: rewilding landscapes through the recoupling of fire and
 authors:
 - Fuhlendorf, Samuel D.
 - Engle, David M.
-- Kerby, Jay
+- Kerby, Jay D.
 - Hamilton, Robert
 year: '2009'
 journal: 'Conservation Biology: The Journal of the Society for Conservation Biology'
 doi: 10.1111/j.1523-1739.2008.01139.x
 tags:
-- animals
 - biodiversity
 - conservation
-- ecosystems
-- fire
-- fulltext:pdf-missing
-- herbivory
-- poaceae
+- fuels
+- rangelands
+- refwright:read:unread
 - united states
+- wildfire
+- wildlife
 zotero_key: Y37QAB8G
 item_type: journalArticle
 url: https://doi.org/10.1111/j.1523-1739.2008.01139.x
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Pyric herbivory: rewilding landscapes through the recoupling of fire and grazing

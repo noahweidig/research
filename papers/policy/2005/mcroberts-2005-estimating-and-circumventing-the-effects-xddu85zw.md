@@ -16,17 +16,16 @@ year: '2005'
 journal: Journal of Forestry
 doi: 10.1093/jof/103.6.275
 tags:
-- data obfuscation
 - fia
-- fulltext:pdf-missing
-- legal statutes
-- modeling
+- policy
+- refwright:read:unread
+- statistics
 zotero_key: XDDU85ZW
 item_type: journalArticle
 url: https://doi.org/10.1093/jof/103.6.275
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Estimating and Circumventing the Effects of Perturbing and Swapping Inventory Plot Locations

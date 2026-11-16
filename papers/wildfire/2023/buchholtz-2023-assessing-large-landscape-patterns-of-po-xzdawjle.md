@@ -5,22 +5,20 @@ authors:
 - Kreitler, Jason
 - Shinneman, Douglas J.
 - Crist, Michele
-- Heinrichs, Julie
+- Heinrichs, Julie A.
 year: '2023'
 journal: Landscape Ecology
 doi: 10.1007/s10980-022-01581-y
 tags:
-- connectivity
-- fuel breaks
-- fuel treatments
-- sagebrush
+- fuels
+- refwright:read:unread
 - wildfire
 zotero_key: XZDAWJLE
 item_type: journalArticle
 url: https://doi.org/10.1007/s10980-022-01581-y
 source_url: 'unpaywall: https://link.springer.com/content/pdf/10.1007/s10980-022-01581-y.pdf'
 fulltext_status: fulltext
-synced: '2026-11-06'
+synced: '2026-11-16'
 ---
 
 # Assessing large landscape patterns of potential fire connectivity using circuit methods
@@ -449,5 +447,3 @@ Landsc Ecol (2023) 38:1663–1676
 - Rottler CM, Noseworthy CE, Fowers B, Beck JL (2015) Effects of conversion from sagebrush to non-native grasslands on sagebrush-associated species. Rangelands 37:1–6 
 
 Vol:. (1234567890) 1 3 
-
-

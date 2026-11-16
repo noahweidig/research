@@ -7,17 +7,17 @@ year: '2008'
 journal: Journal of Statistical Software
 doi: 10.18637/jss.v023.i10
 tags:
-- forest inventory
-- fulltext:pdf-found
-- r package
-- spatial analysis
+- fia
+- forests
+- refwright:read:unread
+- remote sensing
 - statistics
 zotero_key: WTVVMHQK
 item_type: journalArticle
 url: http://www.jstatsoft.org/v23/i10/
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # yaImpute: An R Package for k NN Imputation

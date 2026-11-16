@@ -8,16 +8,18 @@ year: '2023'
 journal: Fire Ecology
 doi: 10.1186/s42408-023-00167-6
 tags:
-- fire severity
-- fire suppression
-- western united states
+- climate
+- fire regimes
+- refwright:read:unread
+- suppression
+- united states
 - wildfire
 zotero_key: WNR9WLLI
 item_type: journalArticle
 url: https://fireecology.springeropen.com/articles/10.1186/s42408-023-00167-6
 source_url: 'unpaywall: https://fireecology.springeropen.com/counter/pdf/10.1186/s42408-023-00167-6'
 fulltext_status: fulltext
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Evaluating fireline effectiveness across large wildfire events in north-central Washington State

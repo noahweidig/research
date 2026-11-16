@@ -6,16 +6,18 @@ year: '2020'
 journal: Master of Science in Integrative Biology Theses
 doi: null
 tags:
-- fire
-- fire suppression
+- longleaf pine
 - plant physiology
-- southeastern united states
+- refwright:read:unread
+- suppression
+- united states
+- wildfire
 zotero_key: Y45FX9GB
 item_type: journalArticle
 url: https://digitalcommons.kennesaw.edu/integrbiol_etd/53
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # The Historic Fire Return Interval and the Ecological Effects of Fire Suppression on Montane Longleaf Pine Dominated Ecosystems in Northwestern Georgia.

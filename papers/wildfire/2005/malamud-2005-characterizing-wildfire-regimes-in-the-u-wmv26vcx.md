@@ -3,14 +3,16 @@ title: Characterizing wildfire regimes in the United States
 authors:
 - Malamud, Bruce D.
 - Millington, James D. A.
-- Perry, George L. W.
+- Perry, George LW.
 year: '2005'
 journal: Proceedings of the National Academy of Sciences
 doi: 10.1073/pnas.0500880102
 tags:
-- fire regime
-- fulltext:pdf-found
-- statistical physics
+- agriculture
+- fire regimes
+- ignition
+- refwright:read:unread
+- statistics
 - united states
 - wildfire
 zotero_key: WMV26VCX
@@ -18,7 +20,7 @@ item_type: journalArticle
 url: https://www.pnas.org/doi/full/10.1073/pnas.0500880102
 source_url: 'unpaywall: https://www.ncbi.nlm.nih.gov/pmc/articles/555719'
 fulltext_status: fulltext
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Characterizing wildfire regimes in the United States

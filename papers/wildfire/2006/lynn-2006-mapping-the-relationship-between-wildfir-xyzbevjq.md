@@ -7,17 +7,19 @@ year: '2006'
 journal: 'In: Andrews, Patricia L.; Butler, Bret W., comps. 2006. Fuels Management-How to Measure Success: Conference Proceedings. 28-30 March 2006; Portland, OR. Proceedings RMRS-P-41. Fort Collins, CO: U.S. Department of Agriculture, Forest Service, Rocky Mountain Research Station. p. 401-415'
 doi: null
 tags:
+- WUI
 - fire risk
-- fire suppression
 - fuels
-- fulltext:check-needed
+- refwright:read:unread
+- suppression
+- united states
 - wildfire
 zotero_key: XYZBEVJQ
 item_type: journalArticle
 url: https://research.fs.usda.gov/treesearch/25965
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Mapping the Relationship Between Wildfire and Poverty

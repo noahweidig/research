@@ -14,18 +14,17 @@ year: '2021'
 journal: null
 doi: 10.6028/NIST.TN.2135
 tags:
-- california
-- fire
-- fire spread
-- government report
+- WUI
+- fire behavior
+- policy
+- refwright:read:unread
 - wildfire
-- wildland-urban interface
 zotero_key: X9VXFRSZ
 item_type: report
 url: https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.2135.pdf
 source_url: 'unpaywall: https://doi.org/10.6028/nist.tn.2135'
 fulltext_status: fulltext
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # A Case Study of the Camp Fire – Fire Progression Timeline

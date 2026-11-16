@@ -10,16 +10,18 @@ year: '2026'
 journal: npj natural hazards.
 doi: 10.1038/s44304-026-00267-8
 tags:
-- drivers
+- climate
+- fire regimes
+- refwright:read:unread
 - united states
 - weather
-- wildfire occurrence
+- wildfire
 zotero_key: XZ7VNEFE
 item_type: journalArticle
 url: https://openalex.org/W7213268679
 source_url: 'unpaywall: https://www.nature.com/articles/s44304-026-00267-8_reference.pdf'
 fulltext_status: fulltext
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Atmospheric drying is a primary driver of past and future fire weather trends across the Western United States
