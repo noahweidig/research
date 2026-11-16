@@ -714,6 +714,13 @@
    "status": "metadata-only",
    "zver": 31450
   },
+  "5IWCFGID": {
+   "doi": "10.1038/s41477-022-01307-7",
+   "path": "papers/wildfire/2023/ding-2023-the-success-of-woody-plant-removal-depen-5iwcfgid.md",
+   "source": null,
+   "status": "metadata-only",
+   "zver": 32198
+  },
   "5KNPN44X": {
    "doi": "10.1038/s43247-026-03909-x",
    "path": "papers/wildfire/2026/karto-2026-diverging-wildfire-regimes-and-doubling-5knpn44x.md",
@@ -1968,11 +1975,11 @@
    "zver": 31646
   },
   "BH76KRVR": {
-   "doi": null,
+   "doi": "10.5751/es-01390-100132",
    "path": "papers/ecology/2005/theobald-2005-landscape-patterns-of-exurban-growth-in-bh76krvr.md",
-   "source": null,
-   "status": "metadata-only",
-   "zver": 10837
+   "source": "unpaywall: https://www.ecologyandsociety.org/vol10/iss1/art32/ES-2005-1390.pdf",
+   "status": "fulltext",
+   "zver": 32022
   },
   "BI8FRZQJ": {
    "doi": "10.3389/fhumd.2022.886545",
@@ -2128,6 +2135,13 @@
    "status": "metadata-only",
    "zver": 32272
   },
+  "CGQYUW9Z": {
+   "doi": "10.3389/fpls.2024.1413896",
+   "path": "papers/wildfire/2024/sun-2024-woody-encroachment-induced-earlier-and-e-cgqyuw9z.md",
+   "source": "unpaywall: https://doi.org/10.3389/fpls.2024.1413896",
+   "status": "fulltext",
+   "zver": 32203
+  },
   "CJYL385S": {
    "doi": "10.1007/s10113-020-01687-6",
    "path": "papers/wildfire/2020/kinnebrew-2020-woody-plant-encroachment-into-coastal-gr-cjyl385s.md",
@@ -2246,6 +2260,13 @@
    "source": null,
    "status": "metadata-only",
    "zver": 31791
+  },
+  "D3F3WZCQ": {
+   "doi": "10.1111/nph.13147",
+   "path": "papers/wildfire/2015/saintilan-2015-woody-plant-encroachment-of-grasslands-a-d3f3wzcq.md",
+   "source": null,
+   "status": "metadata-only",
+   "zver": 32028
   },
   "D4AIAKWG": {
    "doi": null,
@@ -3899,6 +3920,13 @@
    "status": "metadata-only",
    "zver": 31864
   },
+  "LTTW92NK": {
+   "doi": "10.1674/0003-0031(2008)159[394:ruhein]2.0.co;2",
+   "path": "papers/unsorted/2008/barding-2008-raccoons-use-habitat-edges-in-northern-i-lttw92nk.md",
+   "source": null,
+   "status": "metadata-only",
+   "zver": 32042
+  },
   "LTWRXVNC": {
    "doi": "10.1002/eap.2682",
    "path": "papers/wildfire/2022/ritter-2022-restoration-and-fuel-hazard-reduction-re-ltwrxvnc.md",
@@ -4788,6 +4816,13 @@
    "status": "metadata-only",
    "zver": 31447
   },
+  "QL97EAIZ": {
+   "doi": "10.1093/jof/63.4.248",
+   "path": "papers/wildfire/1965/hare-1965-contribution-of-bark-to-fire-resistance-ql97eaiz.md",
+   "source": null,
+   "status": "metadata-only",
+   "zver": 32031
+  },
   "QLE934C6": {
    "doi": "10.3390/rs12111869",
    "path": "papers/wildfire/2020/donovan-2020-land-use-type-as-a-driver-of-large-wildf-qle934c6.md",
@@ -5635,6 +5670,13 @@
    "status": "metadata-only",
    "zver": 31265
   },
+  "U9QRLQK2": {
+   "doi": "10.1016/j.gecco.2023.e02629",
+   "path": "papers/unsorted/2023/igl-2023-converting-crp-grasslands-to-cropland-gr-u9qrlqk2.md",
+   "source": null,
+   "status": "metadata-only",
+   "zver": 31938
+  },
   "U9ZWD7TX": {
    "doi": "10.5463/thesis.1907",
    "path": "papers/wildfire/2026/neidermeier-2026-balancing-management-and-risk-in-a-new-e-u9zwd7tx.md",
@@ -5662,6 +5704,13 @@
    "source": "unpaywall: https://afrjournal.org/index.php/afr/article/download/4628/1378",
    "status": "fulltext",
    "zver": 31707
+  },
+  "UBV2VFQ3": {
+   "doi": "10.1111/avsc.12230",
+   "path": "papers/wildfire/2016/barbosa-da-silva-2016-shrub-encroachment-influences-herbaceous-ubv2vfq3.md",
+   "source": null,
+   "status": "metadata-only",
+   "zver": 32039
   },
   "UCQDTGB4": {
    "doi": null,
@@ -6188,6 +6237,13 @@
    "status": "metadata-only",
    "zver": 30964
   },
+  "WYS6CI7Z": {
+   "doi": "10.32473/edis-fr280-2009",
+   "path": "papers/wildfire/2009/minogue-2009-biology-and-control-of-japanese-climbing-wys6ci7z.md",
+   "source": "unpaywall: https://journals.flvc.org/edis/article/download/117976/115956",
+   "status": "fulltext",
+   "zver": 32130
+  },
   "WZPA9RIL": {
    "doi": "10.21203/rs.3.rs-6726538/v1",
    "path": "papers/wildfire/2025/peiro-2025-mitigation-of-us-wildfires-through-presc-wzpa9ril.md",
@@ -6482,6 +6538,13 @@
    "status": "metadata-only",
    "zver": 32071
   },
+  "YBWU6PT5": {
+   "doi": "10.2172/3015559",
+   "path": "papers/unsorted/2026/zimmer-2026-landcast-mosaic-reconstructing-global-po-ybwu6pt5.md",
+   "source": "unpaywall: https://www.osti.gov/servlets/purl/3015559",
+   "status": "fulltext",
+   "zver": 31944
+  },
   "YCGTHLAG": {
    "doi": null,
    "path": "papers/wildfire/2011/paveglio-2011-fanning-the-flames-media-coverage-during-ycgthlag.md",
@@ -6509,6 +6572,13 @@
    "source": null,
    "status": "metadata-only",
    "zver": 32004
+  },
+  "YKH56KJY": {
+   "doi": "10.1672/0277-5212(2003)023[0911:ssaiow]2.0.co;2",
+   "path": "papers/wildfire/2003/johnston-2003-shrub-species-as-indicators-of-wetland-s-ykh56kjy.md",
+   "source": null,
+   "status": "metadata-only",
+   "zver": 32024
   },
   "YKZTZRLH": {
    "doi": null,
@@ -6726,6 +6796,13 @@
    "source": null,
    "status": "metadata-only",
    "zver": 31413
+  },
+  "ZWBK5IS6": {
+   "doi": "10.1007/b97636",
+   "path": "papers/unsorted/2002/burnham-2002-model-selection-and-multimodel-inference-zwbk5is6.md",
+   "source": null,
+   "status": "metadata-only",
+   "zver": 32270
   },
   "ZZDKNM8H": {
    "doi": null,
