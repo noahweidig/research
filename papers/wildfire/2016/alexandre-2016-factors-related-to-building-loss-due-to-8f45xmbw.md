@@ -1,5 +1,5 @@
 ---
-title: Factors related to building loss due to wildfires in the conterminous United States
+title: Factors related to building loss due to wildfires in the conterminous united states
 authors:
 - Alexandre, Patricia M.
 - Stewart, Susan I.
@@ -13,21 +13,21 @@ year: '2016'
 journal: Ecological Applications
 doi: 10.1002/eap.1376
 tags:
-- ecoregions
-- modeling
-- scale
-- structure loss
+- WUI
+- ecology
+- exposure
+- refwright:read:unread
+- statistics
 - wildfire
-- wildland-urban interface
 zotero_key: 8F45XMBW
 item_type: journalArticle
-url: https://onlinelibrary.wiley.com/doi/abs/10.1002/eap.1376
+url: https://esajournals.onlinelibrary.wiley.com/doi/10.1002/eap.1376
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-16'
 ---
 
-# Factors related to building loss due to wildfires in the conterminous United States
+# Factors related to building loss due to wildfires in the conterminous united states
 
 ## Abstract
 

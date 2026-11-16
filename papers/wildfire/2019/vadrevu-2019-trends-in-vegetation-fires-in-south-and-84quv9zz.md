@@ -12,15 +12,18 @@ journal: Scientific Reports
 doi: 10.1038/s41598-019-43940-x
 tags:
 - ecology
-- fire
+- fire regimes
+- fuels
 - natural hazards
-- vegetation
+- prescribed fire
+- refwright:read:unread
+- wildfire
 zotero_key: 84QUV9ZZ
 item_type: journalArticle
 url: https://www.nature.com/articles/s41598-019-43940-x
 source_url: 'unpaywall: https://www.nature.com/articles/s41598-019-43940-x.pdf'
 fulltext_status: fulltext
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Trends in Vegetation fires in South and Southeast Asian Countries

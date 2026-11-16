@@ -6,13 +6,16 @@ authors:
 year: '2024'
 journal: Biogeosciences
 doi: 10.5194/bg-21-279-2024
-tags: []
+tags:
+- fuels
+- refwright:read:unread
+- wildfire
 zotero_key: 7D3Q8VBM
 item_type: journalArticle
 url: https://bg.copernicus.org/articles/21/279/2024/
 source_url: 'unpaywall: https://doi.org/10.5194/bg-21-279-2024'
 fulltext_status: fulltext
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # A global fuel characteristic model and dataset for wildfire prediction

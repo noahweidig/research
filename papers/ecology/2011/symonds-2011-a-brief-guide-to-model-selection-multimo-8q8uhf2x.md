@@ -7,17 +7,14 @@ year: '2011'
 journal: Behavioral Ecology and Sociobiology
 doi: 10.1007/s00265-010-1037-6
 tags:
-- akaike information criterion
-- behavioral ecology
-- fulltext:pdf-missing
-- model averaging
+- refwright:read:unread
 - statistics
 zotero_key: 8Q8UHF2X
 item_type: journalArticle
 url: http://link.springer.com/10.1007/s00265-010-1037-6
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # A brief guide to model selection, multimodel inference and model averaging in behavioural ecology using Akaike’s information criterion

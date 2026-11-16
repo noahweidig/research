@@ -7,16 +7,19 @@ year: '2026'
 journal: Ecological Engineering & Environmental Technology
 doi: 10.12912/27197050/225431
 tags:
-- air pollution
-- large wildfires
-- vegetation
+- air quality
+- climate
+- fuels
+- prescribed fire
+- refwright:read:unread
+- united states
 - wildfire
 zotero_key: 6DVGHH2B
 item_type: journalArticle
 url: https://openalex.org/W7172125292
 source_url: 'unpaywall: https://www.ecoeet.com/pdf-225431-143043?filename=Vegetation-type-shapes-wi.pdf'
 fulltext_status: fulltext
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Vegetation type shapes wildfire emissions in northern Algeria: Implications for Mediterranean forest management

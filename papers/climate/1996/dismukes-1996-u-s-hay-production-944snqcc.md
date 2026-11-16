@@ -10,14 +10,14 @@ tags:
 - agriculture
 - drought
 - finance
-- fulltext:check-needed
+- refwright:read:unread
 - united states
 zotero_key: 944SNQCC
 item_type: report
 url: https://ageconsearch.umn.edu/record/278805
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # U.S. Hay Production

@@ -2,27 +2,27 @@
 title: A Comprehensive Guide to Fuel Management Practices for Dry Mixed Conifer Forests in the Northwestern United States
 authors:
 - Jain, Theresa B.
-- Battaglia, Mike
+- Battaglia, Mike A.
 - Han, Han-Sup
 - Graham, Russell
 - Keyes, Christopher
-- Fried, Jeremy
+- Fried, Jeremy S.
 - Sandquist, Johnathan
 year: '2012'
 journal: JFSP Synthesis Reports
 doi: 10.2737/rmrs-gtr-292
 tags:
-- fuel treatments
 - fuels
-- fulltext:pdf-found
+- prescribed fire
+- refwright:read:unread
 - united states
-- western united states
+- wildfire
 zotero_key: 8KI8EHWZ
 item_type: journalArticle
 url: https://digitalcommons.unl.edu/jfspsynthesis/13
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # A Comprehensive Guide to Fuel Management Practices for Dry Mixed Conifer Forests in the Northwestern United States

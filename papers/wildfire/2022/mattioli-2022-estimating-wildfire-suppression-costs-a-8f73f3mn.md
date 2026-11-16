@@ -4,24 +4,23 @@ authors:
 - Mattioli, W.
 - Ferrara, C.
 - Lombardo, E.
-- Barbati, A.
+- Barbati, Anna
 - Salvati, L.
-- Tomao, A.
+- Tomao, Antonio
 year: '2022'
 journal: International Forestry Review
 doi: 10.1505/146554822835224801
 tags:
-- climate change
-- fire suppression
-- fulltext:pdf-missing
+- climate
+- refwright:read:unread
+- suppression
 - wildfire
-- wildfire economics
 zotero_key: 8F73F3MN
 item_type: journalArticle
 url: https://www.ingentaconnect.com/content/10.1505/146554822835224801
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Estimating wildfire suppression costs: a systematic review

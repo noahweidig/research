@@ -16,17 +16,18 @@ year: '2014'
 journal: Nature
 doi: 10.1038/nature13946
 tags:
+- climate
 - ecology
-- ecosystems
-- fire suppression
-- fulltext:pdf-missing
+- fire risk
+- refwright:read:unread
+- suppression
 - wildfire
 zotero_key: 93N5N8PM
 item_type: journalArticle
 url: https://www.nature.com/articles/nature13946
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Learning to coexist with wildfire

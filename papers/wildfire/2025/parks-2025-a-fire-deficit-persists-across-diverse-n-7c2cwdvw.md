@@ -24,16 +24,19 @@ year: '2025'
 journal: Nature Communications
 doi: 10.1038/s41467-025-56333-8
 tags:
-- burned area
-- fire ecology
-- forest ecology
+- climate
+- ecology
+- fire regimes
+- forests
+- refwright:read:unread
 - united states
+- wildfire
 zotero_key: 7C2CWDVW
 item_type: journalArticle
 url: https://www.nature.com/articles/s41467-025-56333-8
 source_url: 'unpaywall: https://www.nature.com/articles/s41467-025-56333-8.pdf'
 fulltext_status: fulltext
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # A fire deficit persists across diverse North American forests despite recent increases in area burned

@@ -1,31 +1,30 @@
 ---
 title: 'Retrofitting for wildfire resilience: What is the cost?'
 authors:
-- Penman, Trent D
+- Penman, Trent D.
 - Eriksen, Christine
 - Horsey, B
 - Green, Alan
 - Lemcke, D
 - Cooper, Paul
-- Bradstock, Ross A
+- Bradstock, Ross A.
 year: '2017'
 journal: International Journal of Disaster Risk Reduction
 doi: 10.1016/j.ijdrr.2016.10.020
 tags:
-- cost
-- fire mitigation
-- fulltext:check-needed
-- housing
+- exposure
+- management
 - natural hazards
+- refwright:read:unread
 - resilience
-- structure loss
+- urbanization
 - wildfire
 zotero_key: 89FYXKDX
 item_type: journalArticle
 url: https://doi.org/10.1016/j.ijdrr.2016.10.020
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Retrofitting for wildfire resilience: What is the cost?

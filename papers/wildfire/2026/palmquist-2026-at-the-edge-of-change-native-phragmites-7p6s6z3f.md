@@ -12,16 +12,17 @@ year: '2026'
 journal: American Journal of Botany
 doi: 10.1002/ajb2.70258
 tags:
-- invasive species
-- large wildfires
+- plant species
+- policy
+- refwright:read:unread
 - united states
-- western united states
+- wildfire
 zotero_key: 7P6S6Z3F
 item_type: journalArticle
 url: https://openalex.org/W7212572897
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # At the edge of change: Native Phragmites persistence and nonnative arrival along the dam‐regulated Colorado River

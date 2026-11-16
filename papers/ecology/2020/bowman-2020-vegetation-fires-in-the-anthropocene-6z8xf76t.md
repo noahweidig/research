@@ -6,23 +6,21 @@ authors:
 - Abatzoglou, John T.
 - Johnston, Fay H.
 - van der Werf, Guido R.
-- Flannigan, Mike
+- Flannigan, Mike D.
 year: '2020'
 journal: Nature Reviews Earth & Environment
 doi: 10.1038/s43017-020-0085-3
 tags:
-- carbon cycle
-- climate change
-- environmental impact
-- fire ecology
-- fulltext:pdf-missing
+- climate
+- ecology
 - natural hazards
+- refwright:read:unread
 zotero_key: 6Z8XF76T
 item_type: journalArticle
 url: https://www.nature.com/articles/s43017-020-0085-3
 source_url: 'unpaywall: https://research.vu.nl/en/publications/ef2e9785-0178-4f01-8863-c2020369323a'
 fulltext_status: fulltext
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Vegetation fires in the Anthropocene

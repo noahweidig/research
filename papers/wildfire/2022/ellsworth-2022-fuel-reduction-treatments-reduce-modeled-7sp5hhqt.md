@@ -1,35 +1,30 @@
 ---
 title: Fuel reduction treatments reduce modeled fire intensity in the sagebrush steppe
 authors:
-- Ellsworth, L. M.
-- Newingham, B. A.
+- Ellsworth, Lisa M.
+- Newingham, Beth A.
 - Shaff, S. E.
 - Williams, C. L.
-- Strand, E. K.
-- Reeves, M.
-- Pyke, D. A.
+- Strand, Eva K.
+- Reeves, Matthew C.
+- Pyke, David
 - Schupp, E. W.
-- Chambers, J. C.
+- Chambers, Jeanne
 year: '2022'
 journal: Ecosphere
 doi: 10.1002/ecs2.4064
 tags:
-- bromus tectorum
-- fire modeling
-- fuel breaks
-- fuel characteristic classification system
-- fuel load
-- fulltext:check-needed
-- great basin
-- invasive species
-- rangeland
-- sagebrush
+- fire behavior
+- fuels
+- plant species
+- rangelands
+- refwright:read:unread
 zotero_key: 7SP5HHQT
 item_type: journalArticle
 url: https://onlinelibrary.wiley.com/doi/abs/10.1002/ecs2.4064
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Fuel reduction treatments reduce modeled fire intensity in the sagebrush steppe

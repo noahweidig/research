@@ -6,17 +6,17 @@ year: '2020'
 journal: null
 doi: null
 tags:
-- econometrics
-- fulltext:check-needed
-- road network
-- structure loss
+- WUI
+- exposure
+- refwright:read:unread
+- united states
 - wildfire
 zotero_key: 8LCLXRMT
 item_type: webpage
 url: https://headwaterseconomics.org/natural-hazards/structures-destroyed-by-wildfire/
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Wildfires destroy thousands of structures each year

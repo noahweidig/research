@@ -8,17 +8,19 @@ year: '2000'
 journal: Plant Ecology
 doi: 10.1023/A:1009846507652
 tags:
+- climate
 - conservation
-- edge effects
+- forests
 - fragmentation
-- fulltext:pdf-missing
-- vegetation
+- fuels
+- refwright:read:unread
+- soils
 zotero_key: 8DVCP47C
 item_type: journalArticle
 url: https://doi.org/10.1023/A:1009846507652
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Vegetation and microclimatic edge effects in two mixed-mesophytic forest fragments

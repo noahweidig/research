@@ -1,32 +1,34 @@
 ---
-title: Multi-season evaluation of temperature and wind in the marine boundary layer along the United States northeast coast in the High-Resolution Rapid Refresh model
+title: Multi-season evaluation of temperature and wind in the marine boundary layer along the United States northeast coast in the high-resolution rapid refresh model
 authors:
 - Adler, Bianca
 - Bianco, Laura
 - Turner, David D.
-- Olson, Joseph
+- Olson, Joseph B.
 - Sun, Xia
 - Gebauer, Joshua
 - Bodini, Nicola
 - Letizia, Stefano
 - Wilczak, James M.
 year: '2026'
-journal: Geoscientific model development
+journal: Geoscientific Model Development
 doi: 10.5194/gmd-19-8627-2026
 tags:
-- fire season
-- large wildfires
-- stability
+- climate
+- fire regimes
+- refwright:read:unread
+- statistics
 - united states
+- wildfire
 zotero_key: 7PW279BA
 item_type: journalArticle
-url: https://openalex.org/W7213452031
+url: https://gmd.copernicus.org/articles/19/8627/2026/
 source_url: 'unpaywall: https://gmd.copernicus.org/articles/19/8627/2026/gmd-19-8627-2026.pdf'
 fulltext_status: fulltext
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
-# Multi-season evaluation of temperature and wind in the marine boundary layer along the United States northeast coast in the High-Resolution Rapid Refresh model
+# Multi-season evaluation of temperature and wind in the marine boundary layer along the United States northeast coast in the high-resolution rapid refresh model
 
 ## Abstract
 

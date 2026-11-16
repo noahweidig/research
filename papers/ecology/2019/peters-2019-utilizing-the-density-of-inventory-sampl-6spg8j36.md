@@ -9,8 +9,12 @@ year: '2019'
 journal: Ecology and Evolution
 doi: 10.1002/ece3.5445
 tags:
-- eastern united states
-- ecological modeling
+- conservation
+- ecology
+- fia
+- forests
+- refwright:read:unread
+- statistics
 - trees
 - united states
 zotero_key: 6SPG8J36
@@ -18,7 +22,7 @@ item_type: journalArticle
 url: https://onlinelibrary.wiley.com/doi/10.1002/ece3.5445
 source_url: 'unpaywall: https://www.ncbi.nlm.nih.gov/pmc/articles/6686326'
 fulltext_status: fulltext
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Utilizing the density of inventory samples to define a hybrid lattice for species distribution models: DISTRIB‐II for 135 eastern U.S. trees

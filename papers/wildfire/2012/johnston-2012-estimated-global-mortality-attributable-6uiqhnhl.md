@@ -7,24 +7,28 @@ authors:
 - Randerson, James T.
 - Marlier, Miriam
 - DeFries, Ruth S.
-- Kinney, Patrick
-- Bowman, David M.J.S.
+- Kinney, Patrick L.
+- Bowman, David M. J. S.
 - Brauer, Michael
 year: '2012'
 journal: Environmental Health Perspectives
 doi: 10.1289/ehp.1104422
 tags:
 - air quality
-- fire
-- fulltext:pdf-found
+- climate
 - mortality
+- prescribed fire
 - public health
+- refwright:read:unread
+- smoke
+- united states
+- wildfire
 zotero_key: 6UIQHNHL
 item_type: journalArticle
 url: https://ehp.niehs.nih.gov/doi/full/10.1289/ehp.1104422
 source_url: 'unpaywall: https://www.ncbi.nlm.nih.gov/pmc/articles/3346787'
 fulltext_status: fulltext
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Estimated Global Mortality Attributable to Smoke from Landscape Fires

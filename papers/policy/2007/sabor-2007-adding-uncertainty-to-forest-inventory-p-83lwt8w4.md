@@ -4,23 +4,23 @@ authors:
 - Sabor, Alexia A.
 - Radeloff, Volker C.
 - McRoberts, Ronald E.
-- Clayton, Murray
+- Clayton, Murray K.
 - Stewart, Susan I.
 year: '2007'
 journal: Canadian Journal of Forest Research
 doi: 10.1139/X07-067
 tags:
 - fia
-- forest inventory
-- fulltext:pdf-missing
-- geospatial data
-- spatial data quality
+- policy
+- refwright:read:unread
+- remote sensing
+- statistics
 zotero_key: 83LWT8W4
 item_type: journalArticle
 url: https://cdnsciencepub.com/doi/full/10.1139/X07-067
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Adding uncertainty to forest inventory plot locations: effects on analyses using geospatial data

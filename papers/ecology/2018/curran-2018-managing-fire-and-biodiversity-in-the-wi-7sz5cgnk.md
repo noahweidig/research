@@ -2,24 +2,24 @@
 title: 'Managing Fire and Biodiversity in the Wildland-Urban Interface: A Role for Green Firebreaks'
 authors:
 - Curran, Timothy J.
-- Perry, George L. W.
+- Perry, George LW.
 - Wyse, Sarah V.
 - Alam, Md Azharul
 year: '2018'
 journal: Fire
 doi: 10.3390/fire1010003
 tags:
+- WUI
 - biodiversity
-- fire ecology
-- flammability
-- green firebreaks
-- wildland-urban interface
+- ecology
+- management
+- refwright:read:unread
 zotero_key: 7SZ5CGNK
 item_type: journalArticle
 url: https://www.mdpi.com/2571-6255/1/1/3
 source_url: 'unpaywall: https://hdl.handle.net/10182/9430'
 fulltext_status: fulltext
-synced: '2026-11-06'
+synced: '2026-11-16'
 ---
 
 # Managing Fire and Biodiversity in the Wildland-Urban Interface: A Role for Green Firebreaks

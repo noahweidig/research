@@ -11,9 +11,10 @@ year: '2017'
 journal: Science Advances
 doi: 10.1126/sciadv.1603055
 tags:
-- climate change
-- eastern united states
-- fulltext:pdf-found
+- climate
+- forests
+- refwright:read:unread
+- topography
 - trees
 - united states
 zotero_key: 84IDXBNI
@@ -21,7 +22,7 @@ item_type: journalArticle
 url: https://www.science.org/doi/10.1126/sciadv.1603055
 source_url: 'unpaywall: https://www.ncbi.nlm.nih.gov/pmc/articles/5435420'
 fulltext_status: fulltext
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Divergence of species responses to climate change

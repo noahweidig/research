@@ -1,25 +1,22 @@
 ---
-title: Maximum likelihood identification of Gaussian autoregressive moving average models
+title: Maximum likelihood identification of gaussian autoregressive moving average models
 authors:
 - Akaike, Htrotugu
 year: '1973'
 journal: Biometrika
 doi: 10.1093/biomet/60.2.255
 tags:
-- autoregressive models
-- fulltext:pdf-missing
-- maximum likelihood
+- refwright:read:unread
 - statistics
-- time series
 zotero_key: 8N26CPKS
 item_type: journalArticle
-url: https://doi.org/10.1093/biomet/60.2.255
+url: https://academic.oup.com/biomet/article-lookup/doi/10.1093/biomet/60.2.255
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
-# Maximum likelihood identification of Gaussian autoregressive moving average models
+# Maximum likelihood identification of gaussian autoregressive moving average models
 
 ## Abstract
 

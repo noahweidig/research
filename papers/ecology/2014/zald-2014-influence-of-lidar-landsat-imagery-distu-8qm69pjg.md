@@ -13,16 +13,15 @@ journal: Remote Sensing of Environment
 doi: 10.1016/j.rse.2013.12.013
 tags:
 - disturbance
-- forest ecology
-- fulltext:pdf-missing
-- landsat time series
-- lidar
+- forests
+- refwright:read:unread
+- remote sensing
 zotero_key: 8QM69PJG
 item_type: journalArticle
 url: https://www.sciencedirect.com/science/article/pii/S0034425713004537
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Influence of lidar, Landsat imagery, disturbance history, plot location accuracy, and plot size on accuracy of imputation maps of forest composition and structure

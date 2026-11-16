@@ -6,17 +6,17 @@ year: '2000'
 journal: Landscape Ecology
 doi: 10.1023/A:1008129329289
 tags:
+- ecology
 - fragmentation
-- fulltext:pdf-missing
-- heterogeneity
-- human-related causes
-- landscape ecology
+- human dimensions
+- refwright:read:unread
+- remote sensing
 zotero_key: 7VC87HZV
 item_type: journalArticle
 url: https://doi.org/10.1023/A:1008129329289
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Landscape division, splitting index, and effective mesh size: new measures of landscape fragmentation

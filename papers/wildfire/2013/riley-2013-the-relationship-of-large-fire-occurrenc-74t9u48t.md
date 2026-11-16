@@ -10,17 +10,17 @@ year: '2013'
 journal: International Journal of Wildland Fire
 doi: 10.1071/WF12149
 tags:
+- climate
 - drought
-- fire
-- fulltext:pdf-missing
-- large wildfires
-- wildfire occurrence
+- refwright:read:unread
+- united states
+- wildfire
 zotero_key: 74T9U48T
 item_type: journalArticle
 url: https://doi.org/10.1071/WF12149
 source_url: 'unpaywall: https://scholarworks.umt.edu/ntsg_pubs/272'
 fulltext_status: fulltext
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # The relationship of large fire occurrence with drought and fire danger indices in the western USA, 1984–2008: the role of temporal scale

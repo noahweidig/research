@@ -9,16 +9,18 @@ year: '2022'
 journal: Annual Review of Resource Economics
 doi: 10.1146/annurev-resource-111920-014804
 tags:
-- fire suppression
+- climate
+- prescribed fire
+- refwright:read:unread
+- suppression
 - united states
 - wildfire
-- wildfire economics
 zotero_key: 86QDPAJR
 item_type: journalArticle
 url: https://www.annualreviews.org/doi/10.1146/annurev-resource-111920-014804
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # The Economics of Wildfire in the United States

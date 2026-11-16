@@ -8,16 +8,17 @@ year: '2022'
 journal: Frontiers in Forests and Global Change
 doi: 10.3389/ffgc.2022.855790
 tags:
-- fire
-- fire hazard
+- WUI
+- fire risk
 - natural hazards
-- wildland-urban interface
+- refwright:read:unread
+- wildfire
 zotero_key: 8P79VIMG
 item_type: journalArticle
 url: https://www.frontiersin.org/articles/10.3389/ffgc.2022.855790
 source_url: 'unpaywall: https://doi.org/10.3389/ffgc.2022.855790'
 fulltext_status: fulltext
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Fire hazard assessment at different scales in the wildland-urban interface of semiarid areas of northern Patagonia

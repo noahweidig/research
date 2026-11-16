@@ -5,17 +5,16 @@ year: '2024'
 journal: null
 doi: null
 tags:
-- fulltext:check-needed
-- machine learning
-- r package
+- refwright:read:unread
 - software
+- statistics
 - trees
 zotero_key: 8RF7CF4N
 item_type: computerProgram
 url: https://cran.r-project.org/web/packages/treeshap/index.html
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # treeshap: Compute SHAP Values for Your Tree-Based Models Using the 'TreeSHAP' Algorithm

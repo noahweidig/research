@@ -11,17 +11,17 @@ year: '2025'
 journal: International Journal of Wildland Fire
 doi: 10.1071/WF24178
 tags:
-- fire
-- fulltext:check-needed
-- prescribed burning
-- survey research
+- prescribed fire
+- refwright:read:unread
+- statistics
 - united states
+- wildfire
 zotero_key: 8YX8XDCV
 item_type: journalArticle
 url: https://doi.org/10.1071/WF24178
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Burning from the ground up: the structure and impact of Prescribed Burn Associations in the United States
