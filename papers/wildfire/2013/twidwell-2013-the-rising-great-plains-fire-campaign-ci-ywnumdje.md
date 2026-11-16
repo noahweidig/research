@@ -2,28 +2,28 @@
 title: 'The rising Great Plains fire campaign: citizens'' response to woody plant encroachment'
 authors:
 - Twidwell, Dirac
-- Rogers, William E
-- Fuhlendorf, Samuel D
-- Wonkka, Carissa L
-- Engle, David M
-- Weir, John R
-- Kreuter, Urs P
+- Rogers, William E.
+- Fuhlendorf, Samuel D.
+- Wonkka, Carissa L.
+- Engle, David M.
+- Weir, John R.
+- Kreuter, Urs P.
 - Taylor Jr, Charles A
 year: '2013'
 journal: Frontiers in Ecology and the Environment
 doi: 10.1890/130015
 tags:
-- fire
-- fulltext:pdf-missing
-- grassland
-- prescribed burning
-- woody encroachment
+- prescribed fire
+- rangelands
+- refwright:read:unread
+- wildfire
+- woody cover
 zotero_key: YWNUMDJE
 item_type: journalArticle
 url: https://onlinelibrary.wiley.com/doi/abs/10.1890/130015
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # The rising Great Plains fire campaign: citizens' response to woody plant encroachment

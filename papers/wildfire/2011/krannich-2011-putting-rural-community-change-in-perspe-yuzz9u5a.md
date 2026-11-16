@@ -1,5 +1,5 @@
 ---
-title: Putting Rural Community Change in Perspective
+title: Putting rural community change in perspective
 authors:
 - Krannich, Richard S.
 - Luloff, A. E.
@@ -8,18 +8,19 @@ year: '2011'
 journal: null
 doi: 10.1007/978-94-007-1263-8_2
 tags:
-- community change
-- fulltext:pdf-missing
-- population change
-- rural development
-- sociology
+- conservation
+- ecology
+- human dimensions
+- refwright:read:unread
+- united states
+- wildfire
 zotero_key: YUZZ9U5A
 item_type: bookSection
 url: https://doi.org/10.1007/978-94-007-1263-8_2
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
-# Putting Rural Community Change in Perspective
+# Putting rural community change in perspective
 

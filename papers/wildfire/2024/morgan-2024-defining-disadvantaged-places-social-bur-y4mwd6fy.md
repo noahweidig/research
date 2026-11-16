@@ -14,16 +14,16 @@ journal: Fire
 doi: 10.3390/fire7040124
 tags:
 - exposure
-- fire
-- modeling
+- refwright:read:unread
 - resilience
-- vulnerability assessment
+- statistics
+- wildfire
 zotero_key: Y4MWD6FY
 item_type: journalArticle
 url: https://www.mdpi.com/2571-6255/7/4/124
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-16'
 ---
 
 # Defining Disadvantaged Places: Social Burdens of Wildfire Exposure in the Eastern United States, 2000–2020

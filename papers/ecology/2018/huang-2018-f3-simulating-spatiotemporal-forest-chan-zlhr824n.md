@@ -9,17 +9,16 @@ year: '2018'
 journal: Forest Ecology and Management
 doi: 10.1016/j.foreco.2018.02.026
 tags:
-- ecosystem services
+- ecology
 - fia
-- fulltext:pdf-missing
-- modeling
-- spatiotemporal
+- refwright:read:unread
+- statistics
 zotero_key: ZLHR824N
 item_type: journalArticle
 url: https://www.sciencedirect.com/science/article/pii/S0378112717320716
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # F3: Simulating spatiotemporal forest change from field inventory, remote sensing, growth modeling, and management actions

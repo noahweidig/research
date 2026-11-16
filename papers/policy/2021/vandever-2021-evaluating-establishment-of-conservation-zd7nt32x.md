@@ -1,24 +1,28 @@
 ---
 title: Evaluating establishment of conservation practices in the Conservation Reserve Program across the central and western United States
 authors:
-- Vandever, Mark W
+- Vandever, Mark W.
 - Carter, Sarah K
-- Assal, Timothy J
+- Assal, Timothy J.
 - Elgersma, Kenneth
 - Wen, Ai
-- Welty, Justin L
-- Arkle, Robert S
+- Welty, Justin L.
+- Arkle, Robert S.
 - Iovanna, Rich
 year: '2021'
 journal: Environmental Research Letters
 doi: 10.1088/1748-9326/ac06f8
-tags: []
+tags:
+- CRP
+- management
+- refwright:read:unread
+- united states
 zotero_key: ZD7NT32X
 item_type: journalArticle
 url: https://doi.org/10.1088/1748-9326/ac06f8
 source_url: 'unpaywall: https://iopscience.iop.org/article/10.1088/1748-9326/ac06f8/pdf'
 fulltext_status: fulltext
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Evaluating establishment of conservation practices in the Conservation Reserve Program across the central and western United States
@@ -562,5 +566,3 @@ M W Vandever _et al_
 
 
 15 
-
-

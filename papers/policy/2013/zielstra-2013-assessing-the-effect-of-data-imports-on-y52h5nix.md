@@ -8,20 +8,15 @@ year: '2013'
 journal: Transactions in GIS
 doi: 10.1111/tgis.12037
 tags:
-- fulltext:pdf-found
-- longitudinal analysis
-- openstreetmap
-- road network
-- spatial data quality
-- tiger line
+- WUI
+- refwright:read:unread
 - united states
-- volunteered geographic information
 zotero_key: Y52H5NIX
 item_type: journalArticle
 url: https://onlinelibrary.wiley.com/doi/abs/10.1111/tgis.12037
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Assessing the Effect of Data Imports on the Completeness of OpenStreetMap – A United States Case Study

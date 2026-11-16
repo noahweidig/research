@@ -8,16 +8,16 @@ year: '2017'
 journal: Journal of Ecology
 doi: 10.1111/1365-2745.12691
 tags:
-- fire
-- fire ecology
-- flammability
-- scale
+- ecology
+- fire regimes
+- refwright:read:unread
+- wildfire
 zotero_key: ZLQ98ED9
 item_type: journalArticle
 url: https://onlinelibrary.wiley.com/doi/abs/10.1111/1365-2745.12691
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Flammability as an ecological and evolutionary driver

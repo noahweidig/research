@@ -3,21 +3,24 @@ title: Measuring Initial Attack Suppression Effectiveness through Burn Probabili
 authors:
 - Reimer, Jonathan
 - Thompson, Dan K.
-- Povak, Nicholas
+- Povak, Nicholas A.
 year: '2019'
 journal: Fire
 doi: 10.3390/fire2040060
 tags:
-- burning
-- contiguous united states
-- fire suppression
+- fire risk
+- natural hazards
+- prescribed fire
+- refwright:read:unread
+- suppression
+- united states
 - wildfire
 zotero_key: YFPUTBX7
 item_type: journalArticle
 url: https://www.mdpi.com/2571-6255/2/4/60
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Measuring Initial Attack Suppression Effectiveness through Burn Probability

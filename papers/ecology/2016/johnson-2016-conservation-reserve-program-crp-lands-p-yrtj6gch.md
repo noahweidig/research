@@ -13,17 +13,18 @@ year: '2016'
 journal: Ecosystem Services
 doi: 10.1016/j.ecoser.2016.03.004
 tags:
+- CRP
 - agriculture
-- conservation reserve program
-- cost
-- ecosystem services
-- fulltext:pdf-found
+- air quality
+- conservation
+- ecology
+- refwright:read:unread
 zotero_key: YRTJ6GCH
 item_type: journalArticle
 url: https://www.sciencedirect.com/science/article/pii/S2212041616300663
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Conservation Reserve Program (CRP) lands provide ecosystem service benefits that exceed land rental payment costs

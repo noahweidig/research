@@ -6,19 +6,19 @@ authors:
 - Miller, Karl V.
 year: '2009'
 journal: Journal of Forestry
-doi: null
+doi: 10.1093/jof/107.4.197
 tags:
 - biodiversity
 - conservation
-- ecological succession
-- fulltext:check-needed
+- fuels
+- refwright:read:unread
 - united states
 zotero_key: KJCT65KH
 item_type: journalArticle
 url: https://www.proquest.com/docview/220781812/abstract/F0A0AE7E3A6B436FPQ/1
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Managed Forests and Conservation of Terrestrial Biodiversity in the Southern United States

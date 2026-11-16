@@ -11,21 +11,15 @@ year: '2020'
 journal: Conservation Science and Practice
 doi: 10.1111/csp2.254
 tags:
-- Conservation Reserve Program
-- Great Plains
-- financial incentive programs
-- grasslands
-- habitat conservation
-- landowner
-- persistence
-- private lands
-- reversion
+- CRP
+- rangelands
+- refwright:read:unread
 zotero_key: Z75XQVUP
 item_type: journalArticle
 url: https://onlinelibrary.wiley.com/doi/abs/10.1111/csp2.254
 source_url: 'unpaywall: http://hdl.handle.net/10919/100789'
 fulltext_status: fulltext
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Land use decisions after the Conservation Reserve Program: Re-enrollment, reversion, and persistence in the southern Great Plains

@@ -5,21 +5,22 @@ authors:
 - Sharma, Aseem Raj
 - Acuna, Dante Castellanos
 - Abatzoglou, John T.
-- Flannigan, Mike
+- Flannigan, Mike D.
 year: '2024'
 journal: Communications Earth & Environment
 doi: 10.1038/s43247-024-01346-2
 tags:
-- fire
-- fire weather
+- fire regimes
+- refwright:read:unread
+- united states
 - weather
-- western united states
+- wildfire
 zotero_key: ZFYGSINP
 item_type: journalArticle
 url: https://www.nature.com/articles/s43247-024-01346-2
 source_url: 'unpaywall: https://www.nature.com/articles/s43247-024-01346-2.pdf'
 fulltext_status: fulltext
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Record-breaking fire weather in North America in 2021 was initiated by the Pacific northwest heat dome

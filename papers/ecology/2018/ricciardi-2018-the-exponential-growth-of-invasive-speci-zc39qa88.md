@@ -9,15 +9,15 @@ doi: 10.1007/s10530-017-1561-7
 tags:
 - biodiversity
 - climate
-- fulltext:pdf-missing
-- invasive species
-- science denialism
+- conservation
+- plant species
+- refwright:read:unread
 zotero_key: ZC39QA88
 item_type: journalArticle
 url: https://doi.org/10.1007/s10530-017-1561-7
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # The exponential growth of invasive species denialism

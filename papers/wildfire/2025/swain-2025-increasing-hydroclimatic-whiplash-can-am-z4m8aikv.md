@@ -6,7 +6,7 @@ authors:
 - Albano, Christine M.
 - Brunner, Manuela I.
 - Diffenbaugh, Noah S.
-- Kolden, Crystal
+- Kolden, Crystal A.
 - Prein, Andreas F.
 - Singh, Deepti
 - Skinner, Christopher B.
@@ -16,19 +16,26 @@ year: '2025'
 journal: Global Change Biology
 doi: 10.1111/gcb.70075
 tags:
-- california
-- climate change
-- fire weather
+- WUI
+- climate
+- fire risk
+- human dimensions
+- refwright:read:unread
+- weather
 - wildfire
 zotero_key: Z4M8AIKV
 item_type: journalArticle
 url: https://onlinelibrary.wiley.com/doi/abs/10.1111/gcb.70075
 source_url: 'unpaywall: https://www.dora.lib4ri.ch/wsl/dload/wsl:38636/PDF2/view'
 fulltext_status: fulltext
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Increasing Hydroclimatic Whiplash Can Amplify Wildfire Risk in a Warming Climate
+
+## Abstract
+
+Author(s): Swain, Daniel L; Abatzoglou, John T; Albano, Christine M; Brunner, Manuela I; Diffenbaugh, Noah S; Kolden, Crystal; Prein, Andreas F; Singh, Deepti; Skinner, Christopher B; Swetnam, Thomas W; Touma, Danielle
 
 ## Full text
 

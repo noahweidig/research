@@ -9,19 +9,19 @@ year: '2020'
 journal: Fire
 doi: 10.3390/fire3040073
 tags:
-- disaster
-- land use
-- risk assessment
-- spatial analysis
-- structure loss
+- WUI
+- exposure
+- fire risk
+- land cover
+- refwright:read:unread
+- remote sensing
 - wildfire
-- wildland-urban interface
 zotero_key: ZJNRTQW2
 item_type: journalArticle
 url: https://www.mdpi.com/2571-6255/3/4/73
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-16'
 ---
 
 # Building Loss in WUI Disasters: Evaluating the Core Components of the Wildland–Urban Interface Definition

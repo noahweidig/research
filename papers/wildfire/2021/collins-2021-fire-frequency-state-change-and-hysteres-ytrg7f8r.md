@@ -11,17 +11,19 @@ year: '2021'
 journal: Ecology Letters
 doi: 10.1111/ele.13676
 tags:
-- burning
-- fire
-- fire frequency
-- fulltext:pdf-found
-- grassland
+- fire regimes
+- prescribed fire
+- rangelands
+- refwright:read:unread
+- resilience
+- wildfire
+- woody cover
 zotero_key: YTRG7F8R
 item_type: journalArticle
 url: https://onlinelibrary.wiley.com/doi/abs/10.1111/ele.13676
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Fire frequency, state change and hysteresis in tallgrass prairie

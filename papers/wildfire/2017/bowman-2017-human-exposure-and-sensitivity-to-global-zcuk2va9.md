@@ -11,16 +11,20 @@ year: '2017'
 journal: Nature Ecology & Evolution
 doi: 10.1038/s41559-016-0058
 tags:
-- fire ecology
-- megafire
+- climate
+- ecology
+- exposure
+- fire behavior
 - natural hazards
+- refwright:read:unread
+- weather
 - wildfire
 zotero_key: ZCUK2VA9
 item_type: journalArticle
 url: https://www.nature.com/articles/s41559-016-0058
 source_url: 'unpaywall: https://www.nature.com/articles/s41559-016-0058.pdf'
 fulltext_status: fulltext
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Human exposure and sensitivity to globally extreme wildfire events

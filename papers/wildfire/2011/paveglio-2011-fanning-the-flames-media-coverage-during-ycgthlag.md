@@ -1,24 +1,24 @@
 ---
 title: Fanning the Flames? Media Coverage during Wildfire Events and its Relation to Broader Societal Understandings of the Hazard
 authors:
-- Paveglio, Travis
+- Paveglio, Travis B.
 - Norton, Todd
 - Carroll, Matthew S.
 year: '2011'
 journal: Human Ecology Review
 doi: null
 tags:
-- fire suppression
-- fulltext:check-needed
 - natural hazards
-- western united states
+- refwright:read:unread
+- suppression
+- united states
 - wildfire
 zotero_key: YCGTHLAG
 item_type: journalArticle
 url: https://www.jstor.org/stable/24707685
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Fanning the Flames? Media Coverage during Wildfire Events and its Relation to Broader Societal Understandings of the Hazard

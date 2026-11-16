@@ -9,17 +9,16 @@ year: '2007'
 journal: International Journal of Wildland Fire
 doi: 10.1071/WF05077
 tags:
-- california
-- fulltext:pdf-missing
-- housing
-- western united states
-- wildland-urban interface
+- WUI
+- refwright:read:unread
+- united states
+- urbanization
 zotero_key: YNURAZ3W
 item_type: journalArticle
 url: https://www.publish.csiro.au/wf/WF05077
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Wildland–urban interface housing growth during the 1990s in California, Oregon, and Washington

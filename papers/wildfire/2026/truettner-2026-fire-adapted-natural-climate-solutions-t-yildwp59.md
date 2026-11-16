@@ -6,10 +6,10 @@ authors:
 - Markovchick, Lisa M
 - Pansing, Elizabeth R
 - Walker, Xanthe J
-- Mack, Michelle C
+- Mack, Michelle C.
 - Link, Nicholas T
 - Sternberg, Mitch
-- Hurteau, Matthew D
+- Hurteau, Matthew D.
 - McCarley, T Ryan
 - Davidson, Kenneth J
 - Safford, Hugh
@@ -25,29 +25,36 @@ authors:
 - Restaino, Christina M
 - Flake, Samuel W
 - Trauernicht, Clay
-- Cheng, Antony S
-- Stevens-Rumann, Camille S
+- Cheng, Antony S.
+- Stevens-Rumann, Camille S.
 - Metlen, Kerry L
 - Giardina, Christian P
-- Donovan, Victoria M
+- Donovan, Victoria M.
 - Boby, Leslie
 - Meunier, Jed
 - Littlefield, Caitlin
 - Redmond, Miranda D
 - Jackson, Brian E
 - Swanston, Christopher W
-- Hudak, Andrew T
+- Hudak, Andrew T.
 - Kittler, Brian
 year: '2026'
 journal: BioScience
 doi: 10.1093/biosci/biag128
-tags: []
+tags:
+- climate
+- fire risk
+- forests
+- prescribed fire
+- refwright:read:unread
+- united states
+- wildfire
 zotero_key: YILDWP59
 item_type: journalArticle
 url: https://doi.org/10.1093/biosci/biag128
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Fire-adapted natural climate solutions to reduce wildfire emissions in US forests

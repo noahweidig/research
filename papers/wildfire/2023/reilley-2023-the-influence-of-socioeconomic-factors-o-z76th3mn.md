@@ -10,16 +10,19 @@ year: '2023'
 journal: Fire
 doi: 10.3390/fire6080300
 tags:
+- human dimensions
 - ignition
+- management
+- refwright:read:unread
+- remote sensing
 - united states
-- western united states
 - wildfire
 zotero_key: Z76TH3MN
 item_type: journalArticle
 url: https://www.mdpi.com/2571-6255/6/8/300
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # The Influence of Socioeconomic Factors on Human Wildfire Ignitions in the Pacific Northwest, USA

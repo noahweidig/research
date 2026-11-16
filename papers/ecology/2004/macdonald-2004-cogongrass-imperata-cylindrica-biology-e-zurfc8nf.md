@@ -7,16 +7,16 @@ journal: Critical Reviews in Plant Sciences
 doi: 10.1080/07352680490505114
 tags:
 - agriculture
-- deforestation
-- fulltext:pdf-missing
-- invasive grass
+- forests
 - invasive species
+- plant species
+- refwright:read:unread
 zotero_key: ZURFC8NF
 item_type: journalArticle
 url: https://doi.org/10.1080/07352680490505114
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Cogongrass (Imperata cylindrica)—Biology, Ecology, and Management

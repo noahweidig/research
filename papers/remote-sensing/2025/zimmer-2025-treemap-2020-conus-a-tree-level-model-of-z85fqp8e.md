@@ -12,19 +12,18 @@ year: '2025'
 journal: null
 doi: 10.2737/RDS-2025-0031
 tags:
-- contiguous united states
 - dataset
 - fia
-- forest inventory
-- fulltext:pdf-missing
-- geospatial data
+- refwright:read:unread
+- remote sensing
 - trees
+- united states
 zotero_key: Z85FQP8E
 item_type: dataset
 url: https://www.fs.usda.gov/rds/archive/catalog/RDS-2025-0031
 source_url: 'unpaywall: https://figshare.com/articles/dataset/TreeMap_2020_CONUS_A_tree-level_model_of_the_forests_of_the_conterminous_United_States_circa_2020/29614463'
 fulltext_status: fulltext
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # TreeMap 2020 CONUS: A tree-level model of the forests of the conterminous United States circa 2020

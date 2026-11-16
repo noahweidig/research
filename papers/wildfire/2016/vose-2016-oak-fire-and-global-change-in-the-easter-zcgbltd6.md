@@ -7,16 +7,19 @@ year: '2016'
 journal: Fire Ecology
 doi: 10.4996/fireecology.1202160
 tags:
-- eastern united states
-- fire
-- global change
+- climate
+- ecology
+- forests
+- prescribed fire
+- refwright:read:unread
 - united states
+- wildfire
 zotero_key: ZCGBLTD6
 item_type: journalArticle
 url: https://fireecology.springeropen.com/articles/10.4996/fireecology.1202160
 source_url: 'unpaywall: https://fireecology.springeropen.com/track/pdf/10.4996/fireecology.1202160'
 fulltext_status: fulltext
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Oak, Fire, and Global Change in the Eastern USA: What Might the Future Hold?

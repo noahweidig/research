@@ -7,17 +7,16 @@ year: '2006'
 journal: Forest Ecology and Management
 doi: 10.1016/j.foreco.2005.12.061
 tags:
-- fire
-- fulltext:pdf-missing
-- prescribed burning
-- thinning
+- prescribed fire
+- refwright:read:unread
 - trees
+- wildfire
 zotero_key: YB8PRDH8
 item_type: journalArticle
-url: https://www.sciencedirect.com/science/article/pii/S0378112706000533
+url: https://linkinghub.elsevier.com/retrieve/pii/S0378112706000533
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Effects of prescribed fire and thinning on tree recruitment patterns in central hardwood forests
