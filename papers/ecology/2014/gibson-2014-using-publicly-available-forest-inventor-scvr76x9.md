@@ -10,16 +10,18 @@ journal: Ecosystems
 doi: 10.1007/s10021-013-9703-y
 tags:
 - climate
-- forest ecology
-- forest inventory
-- fulltext:pdf-missing
+- fia
+- forests
+- refwright:read:unread
+- remote sensing
 - trees
+- united states
 zotero_key: SCVR76X9
 item_type: journalArticle
 url: http://link.springer.com/10.1007/s10021-013-9703-y
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Using Publicly Available Forest Inventory Data in Climate-Based Models of Tree Species Distribution: Examining Effects of True Versus Altered Location Coordinates

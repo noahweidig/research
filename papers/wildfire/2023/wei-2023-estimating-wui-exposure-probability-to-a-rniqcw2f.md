@@ -2,26 +2,28 @@
 title: Estimating WUI exposure probability to a nearby wildfire
 authors:
 - Wei, Yu
-- Gannon, Benjamin
-- Young, Jesse
-- Belval, Erin
-- Thompson, Matthew
-- O’Connor, Christopher
-- Calkin, David
+- Gannon, Benjamin M.
+- Young, Jesse D.
+- Belval, Erin J.
+- Thompson, Matthew P.
+- O’Connor, Christopher D.
+- Calkin, David E.
 year: '2023'
 journal: Fire Ecology
 doi: 10.1186/s42408-023-00191-6
 tags:
-- fire suppression
-- random forest
-- spatial analysis
-- wildland-urban interface
+- WUI
+- fire risk
+- refwright:read:unread
+- remote sensing
+- statistics
+- suppression
 zotero_key: RNIQCW2F
 item_type: journalArticle
 url: https://link.springer.com/article/10.1186/s42408-023-00191-6
 source_url: 'unpaywall: https://fireecology.springeropen.com/counter/pdf/10.1186/s42408-023-00191-6'
 fulltext_status: fulltext
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Estimating WUI exposure probability to a nearby wildfire

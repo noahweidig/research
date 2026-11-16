@@ -10,16 +10,19 @@ year: '2026'
 journal: Atmosphere
 doi: 10.3390/atmos17090867
 tags:
-- air pollution
+- air quality
 - fuels
-- prescribed burning
+- prescribed fire
+- public health
+- refwright:read:unread
+- united states
 - wildfire
 zotero_key: SVKXG234
 item_type: journalArticle
 url: https://openalex.org/W7207651163
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Exploring the Variability in Emissions for Broadcast and Pile Prescribed Burns Using Low-Cost Sensors

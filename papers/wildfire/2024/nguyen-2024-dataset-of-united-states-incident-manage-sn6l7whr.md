@@ -10,8 +10,10 @@ year: '2024'
 journal: Scientific Data
 doi: 10.1038/s41597-023-02876-8
 tags:
-- environmental sciences
+- climate
+- dataset
 - natural hazards
+- refwright:read:unread
 - united states
 - wildfire
 zotero_key: SN6L7WHR
@@ -19,7 +21,7 @@ item_type: journalArticle
 url: https://www.nature.com/articles/s41597-023-02876-8
 source_url: 'unpaywall: https://www.nature.com/articles/s41597-023-02876-8.pdf'
 fulltext_status: fulltext
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Dataset of United States Incident Management Situation Reports from 2007 to 2021

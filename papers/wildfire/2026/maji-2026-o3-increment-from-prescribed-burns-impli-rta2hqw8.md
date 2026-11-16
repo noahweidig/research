@@ -15,17 +15,20 @@ year: '2026'
 journal: Environment & Health
 doi: 10.1021/envhealth.6c00221
 tags:
-- fulltext:pdf-missing
-- prescribed burning
+- air quality
+- exposure
+- fire regimes
+- prescribed fire
 - public health
-- southeastern united states
+- refwright:read:unread
 - united states
+- wildfire
 zotero_key: RTA2HQW8
 item_type: journalArticle
 url: https://openalex.org/W7224496346
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # O3 Increment from Prescribed Burns: Implications for Air Quality and Public Health in the Southeastern United States

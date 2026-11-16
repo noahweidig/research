@@ -2,26 +2,25 @@
 title: Interacting effects of topography, vegetation, human activities and wildland-urban interfaces on wildfire ignition risk
 authors:
 - Calviño-Cancela, María
-- Chas-Amil, María L.
+- Chas-Amil, María-Luisa
 - García-Martínez, Eduardo D.
 - Touza, Julia
 year: '2017'
 journal: Forest Ecology and Management
 doi: 10.1016/j.foreco.2017.04.033
 tags:
-- galicia
-- human-related causes
+- WUI
+- human dimensions
 - ignition
-- spain
+- refwright:read:unread
 - topography
 - wildfire
-- wildland-urban interface
 zotero_key: SP8NSYEJ
 item_type: journalArticle
 url: https://www.sciencedirect.com/science/article/pii/S0378112717302232
 source_url: 'unpaywall: https://eprints.whiterose.ac.uk/id/eprint/115952/1/Manuscript_revisedCancela_Etal_2017.pdf'
 fulltext_status: fulltext
-synced: '2026-11-06'
+synced: '2026-11-16'
 ---
 
 # Interacting effects of topography, vegetation, human activities and wildland-urban interfaces on wildfire ignition risk
@@ -1270,7 +1269,9 @@ If you consider content in White Rose Research Online to be in breach of UK law,
 
 
 <!-- Start of picture text -->
-10<br>)<br>N a)   non-­‐WUI<br>8<br>S<br>W<br>6<br>E<br>4<br>2<br>0<br>-2<br>-4<br>-6<br>D ifferences in aspect frequency (%<br>-8<br>-10<br>) 20<br>N b)   WUI<br>15 S<br>W<br>10 E<br>5<br>0<br>-5<br>-10<br>-15<br>D ifferences in aspect frequency (%<br>-20<br>-25<br><!-- End of picture text -->
+10<br>)<br>N a) 
+  non-­‐WUI<br>8<br>S<br>W<br>6<br>E<br>4<br>2<br>0<br>-2<br>-4<br>-6<br>D ifferences in aspect frequency (%<br>-8<br>-10<br>) 20<br>N b) 
+  WUI<br>15 S<br>W<br>10 E<br>5<br>0<br>-5<br>-10<br>-15<br>D ifferences in aspect frequency (%<br>-20<br>-25<br><!-- End of picture text -->
 
 
 
@@ -1303,5 +1304,3 @@ If you consider content in White Rose Research Online to be in breach of UK law,
 548 
 
 33 
-
-

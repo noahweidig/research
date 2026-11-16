@@ -3,21 +3,22 @@ title: Epidemiology theory and disturbance spread on landscapes
 authors:
 - O’Neill, R. V.
 - Gardner, R. H.
-- Turner, M. G.
-- Romme, W. H.
+- Turner, Monica G.
+- Romme, William H.
 year: '1992'
 journal: Landscape Ecology
 doi: 10.1007/BF02573954
 tags:
-- Disturbance
-- landscape ecology
-- spatial pattern
+- disturbance
+- ecology
+- fire behavior
+- refwright:read:unread
 zotero_key: RQKNBRIW
 item_type: journalArticle
 url: https://doi.org/10.1007/BF02573954
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Epidemiology theory and disturbance spread on landscapes

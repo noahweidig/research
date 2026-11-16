@@ -16,23 +16,23 @@ authors:
 - Batllori, Enric
 - Bigio, Erica
 - Brando, Paulo
-- Cattau, Megan
+- Cattau, Megan E.
 - Chipman, Melissa L.
-- Coen, Janice
+- Coen, Janice L.
 - Crandall, Raelene M.
-- Daniels, Lori
+- Daniels, Lori D.
 - Enright, Neal
 - Gross, Wendy S.
 - Harvey, Brian J.
 - Hatten, Jeff A.
-- Hermann, Sharon
+- Hermann, Sharon M.
 - Hewitt, Rebecca E.
 - Kobziar, Leda N.
 - Landesmann, Jennifer B.
 - Loranty, Michael M.
 - Maezumi, S. Yoshi
 - Mearns, Linda
-- Moritz, Max
+- Moritz, Max A.
 - Myers, Jonathan A.
 - Pausas, Juli G.
 - Pellegrini, Adam F. A.
@@ -50,19 +50,17 @@ journal: Journal of Ecology
 doi: 10.1111/1365-2745.13403
 tags:
 - climate
-- climate change
-- earth system models
-- fire regime
+- fire regimes
 - fuels
-- prescribed burning
-- vegetation
+- prescribed fire
+- refwright:read:unread
 - wildfire
 zotero_key: SSMN79G9
 item_type: journalArticle
 url: https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2745.13403
 source_url: 'unpaywall: https://pure.uva.nl/ws/files/52423846/1365_2745.13403.pdf'
 fulltext_status: fulltext
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Fire as a fundamental ecological process: Research advances and frontiers

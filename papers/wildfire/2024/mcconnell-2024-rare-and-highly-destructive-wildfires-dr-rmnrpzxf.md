@@ -6,23 +6,27 @@ authors:
 - DeWaard, Jack
 - Whitaker, Stephan
 - Curtis, Katherine J.
-- St. Denis, Lise
-- Balch, Jennifer
+- St. Denis, Lise Ann
+- Balch, Jennifer K.
 - Price, Kobie
 year: '2024'
 journal: Nature Communications
 doi: 10.1038/s41467-024-50630-4
 tags:
-- climate change
-- environmental impact
-- sociology
+- WUI
+- climate
+- exposure
+- human dimensions
+- natural hazards
+- refwright:read:unread
+- united states
 - wildfire
 zotero_key: RMNRPZXF
 item_type: journalArticle
 url: https://www.nature.com/articles/s41467-024-50630-4
 source_url: 'unpaywall: https://www.nature.com/articles/s41467-024-50630-4.pdf'
 fulltext_status: fulltext
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Rare and highly destructive wildfires drive human migration in the U.S.

@@ -14,16 +14,19 @@ year: '2026'
 journal: Atmospheric chemistry and physics
 doi: 10.5194/acp-26-11695-2026
 tags:
-- air pollution
-- mediterranean grassland
-- prescribed burning
+- air quality
+- fuels
+- prescribed fire
+- rangelands
+- refwright:read:unread
+- united states
 - wildfire
 zotero_key: SX7WP5NU
 item_type: journalArticle
 url: https://openalex.org/W7136650862
 source_url: 'unpaywall: https://acp.copernicus.org/articles/26/11695/2026/acp-26-11695-2026.pdf'
 fulltext_status: fulltext
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # A comprehensive assessment of emissions from prescribed fires in two Mediterranean shrublands: chemical and morphological analysis

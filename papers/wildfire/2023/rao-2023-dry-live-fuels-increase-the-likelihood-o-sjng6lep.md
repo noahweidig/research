@@ -12,16 +12,17 @@ journal: Geophysical Research Letters
 doi: 10.1029/2022GL100975
 tags:
 - drought
-- fuel moisture
-- modeling
+- fuels
+- refwright:read:unread
 - remote sensing
+- statistics
 - wildfire
 zotero_key: SJNG6LEP
 item_type: journalArticle
 url: https://onlinelibrary.wiley.com/doi/abs/10.1029/2022GL100975
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-16'
 ---
 
 # Dry Live Fuels Increase the Likelihood of Lightning-Caused Fires

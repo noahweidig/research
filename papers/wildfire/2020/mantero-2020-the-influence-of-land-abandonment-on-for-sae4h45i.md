@@ -11,27 +11,18 @@ year: '2020'
 journal: Landscape Ecology
 doi: 10.1007/s10980-020-01147-w
 tags:
-- Avalanche
-- Disturbance ecology
-- Flooding
-- Herbivory
-- Insect outbreak
-- Land-use change
-- Landslide
-- Rockfall
-- Wildfire
-- Windthrow
-- disturbance ecology
-- herbivory
-- land use change
+- ecology
+- fuels
+- land cover
 - natural hazards
+- refwright:read:unread
 - wildfire
 zotero_key: SAE4H45I
 item_type: journalArticle
 url: https://doi.org/10.1007/s10980-020-01147-w
 source_url: 'unpaywall: https://link.springer.com/content/pdf/10.1007/s10980-020-01147-w.pdf'
 fulltext_status: fulltext
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # The influence of land abandonment on forest disturbance regimes: a global review

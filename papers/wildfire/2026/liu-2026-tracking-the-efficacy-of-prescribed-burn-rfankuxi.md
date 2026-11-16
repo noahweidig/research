@@ -8,8 +8,9 @@ year: '2026'
 journal: The international archives of the photogrammetry, remote sensing and spatial information sciences/International archives of the photogrammetry, remote sensing and spatial information sciences
 doi: 10.5194/isprs-archives-xlix-b3-2026-987-2026
 tags:
-- large wildfires
-- prescribed burning
+- fire regimes
+- prescribed fire
+- refwright:read:unread
 - united states
 - wildfire
 zotero_key: RFANKUXI
@@ -17,7 +18,7 @@ item_type: journalArticle
 url: https://openalex.org/W7171881315
 source_url: 'unpaywall: https://isprs-archives.copernicus.org/articles/XLIX-B3-2026/987/2026/isprs-archives-XLIX-B3-2026-987-2026.pdf'
 fulltext_status: fulltext
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Tracking the efficacy of prescribed burns in three phases: fuel removal, wildfire mitigation, and vegetation recovery

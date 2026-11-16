@@ -5,17 +5,15 @@ year: '2023'
 journal: null
 doi: null
 tags:
-- fulltext:check-needed
-- r package
+- refwright:read:unread
 - software
-- statistical software
-- time series
+- statistics
 zotero_key: T2BYMVXB
 item_type: computerProgram
 url: https://cran.r-project.org/web/packages/trend/index.html
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # trend: Non-Parametric Trend Tests and Change-Point Detection

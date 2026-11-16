@@ -1,24 +1,26 @@
 ---
 title: Analyzing wildfire suppression difficulty in relation to protection demand
 authors:
-- Thompson, Matthew P
+- Thompson, Matthew P.
 - Liu, Zhiwei
 - Wei, Yu
-- Caggiano, Michael D
+- Caggiano, Michael D.
 year: '2018'
 journal: Environmental Risks
 doi: 10.5772/intechopen.76937
 tags:
 - fire risk
-- fire suppression
-- western united states
+- refwright:read:unread
+- remote sensing
+- suppression
+- united states
 - wildfire
 zotero_key: RKEBB9TH
 item_type: journalArticle
 url: https://doi.org/10.5772/intechopen.76937
 source_url: 'unpaywall: https://www.intechopen.com/citation-pdf-url/61048'
 fulltext_status: fulltext
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Analyzing wildfire suppression difficulty in relation to protection demand

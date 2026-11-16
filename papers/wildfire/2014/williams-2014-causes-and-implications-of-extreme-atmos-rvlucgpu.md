@@ -18,16 +18,17 @@ year: '2014'
 journal: null
 doi: 10.1175/JAMC-D-14-0053.1
 tags:
-- atmospheric science
+- climate
+- refwright:read:unread
 - united states
-- western united states
+- weather
 - wildfire
 zotero_key: RVLUCGPU
 item_type: journalArticle
 url: https://journals.ametsoc.org/view/journals/apme/53/12/jamc-d-14-0053.1.xml
 source_url: 'unpaywall: https://www.osti.gov/servlets/purl/1514957'
 fulltext_status: fulltext
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Causes and Implications of Extreme Atmospheric Moisture Demand during the Record-Breaking 2011 Wildfire Season in the Southwestern United States

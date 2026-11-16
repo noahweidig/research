@@ -10,18 +10,18 @@ year: '2020'
 journal: Biological Invasions
 doi: 10.1007/s10530-020-02308-3
 tags:
-- connectivity
-- forest ecology
-- fulltext:pdf-missing
-- invasive species
-- landscape ecology
-- road network
+- WUI
+- ecology
+- forests
+- fuels
+- plant species
+- refwright:read:unread
 zotero_key: SDXTCRUB
 item_type: journalArticle
 url: https://link.springer.com/10.1007/s10530-020-02308-3
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Effects of terrestrial transport corridors and associated landscape context on invasion by forest plants

@@ -2,7 +2,7 @@
 title: The global drivers of wildfire
 authors:
 - Haas, Olivia
-- Keeping, Theodore
+- Keeping, Theodore R.
 - Gomez-Dans, José
 - Prentice, I. Colin
 - Harrison, Sandy P.
@@ -10,16 +10,17 @@ year: '2024'
 journal: Frontiers in Environmental Science
 doi: 10.3389/fenvs.2024.1438262
 tags:
-- drivers
-- global
-- modeling
+- climate
+- fire regimes
+- refwright:read:unread
+- statistics
 - wildfire
 zotero_key: SEGBZ4UM
 item_type: journalArticle
 url: https://www.frontiersin.org/journals/environmental-science/articles/10.3389/fenvs.2024.1438262/full
 source_url: 'unpaywall: https://public-pages-files-2025.frontiersin.org/journals/environmental-science/articles/10.3389/fenvs.2024.1438262/pdf'
 fulltext_status: fulltext
-synced: '2026-11-06'
+synced: '2026-11-16'
 ---
 
 # The global drivers of wildfire
@@ -481,5 +482,3 @@ Frontiers in Environmental Science
 frontiersin.org 
 
 11 
-
-

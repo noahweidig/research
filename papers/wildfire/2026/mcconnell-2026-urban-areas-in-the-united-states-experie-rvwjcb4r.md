@@ -9,16 +9,19 @@ year: '2026'
 journal: Communications Earth & Environment
 doi: 10.1038/s43247-026-03336-y
 tags:
-- climate change
-- environmental sciences
+- WUI
+- climate
+- exposure
 - natural hazards
+- refwright:read:unread
+- united states
 - wildfire
 zotero_key: RVWJCB4R
 item_type: journalArticle
 url: https://www.nature.com/articles/s43247-026-03336-y
 source_url: 'unpaywall: https://www.nature.com/articles/s43247-026-03336-y_reference.pdf'
 fulltext_status: fulltext
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Urban areas in the United States experience substantial wildfire impacts

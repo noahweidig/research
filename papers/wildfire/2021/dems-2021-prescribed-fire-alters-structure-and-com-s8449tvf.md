@@ -10,16 +10,17 @@ year: '2021'
 journal: Fire Ecology
 doi: 10.1186/s42408-021-00093-5
 tags:
-- fire
-- prescribed burning
-- temperate forest
+- forests
+- prescribed fire
+- refwright:read:unread
 - united states
+- wildfire
 zotero_key: S8449TVF
 item_type: journalArticle
 url: https://doi.org/10.1186/s42408-021-00093-5
 source_url: 'unpaywall: https://fireecology.springeropen.com/track/pdf/10.1186/s42408-021-00093-5'
 fulltext_status: fulltext
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Prescribed fire alters structure and composition of a mid-Atlantic oak forest up to eight years after burning

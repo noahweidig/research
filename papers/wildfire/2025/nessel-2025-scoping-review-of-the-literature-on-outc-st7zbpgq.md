@@ -11,16 +11,17 @@ journal: PLOS ONE
 doi: 10.1371/journal.pone.0329962
 tags:
 - biodiversity
-- birds
-- ecosystems
 - habitats
-- land use
+- land cover
+- refwright:read:unread
+- wildfire
+- wildlife
 zotero_key: ST7ZBPGQ
 item_type: journalArticle
 url: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0329962
 source_url: 'unpaywall: https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0329962&type=printable'
 fulltext_status: fulltext
-synced: '2026-11-06'
+synced: '2026-11-16'
 ---
 
 # Scoping review of the literature on outcomes of the conservation reserve program
@@ -611,5 +612,3 @@ PLOS One | <u>https://doi.org/10.1371/journal.pone.0329962</u> August 12, 2025
 PLOS One | <u>https://doi.org/10.1371/journal.pone.0329962</u> August 12, 2025 
 
 20 / 20 
-
-

@@ -9,16 +9,20 @@ year: '2022'
 journal: Ecological Processes
 doi: 10.1186/s13717-021-00357-7
 tags:
-- animals
 - biodiversity
-- birds
-- fire regime
+- fire regimes
+- rangelands
+- refwright:read:unread
+- united states
+- wildfire
+- wildlife
+- woody cover
 zotero_key: SYNR3DKA
 item_type: journalArticle
 url: https://doi.org/10.1186/s13717-021-00357-7
 source_url: 'unpaywall: https://ecologicalprocesses.springeropen.com/track/pdf/10.1186/s13717-021-00357-7'
 fulltext_status: fulltext
-synced: '2026-11-06'
+synced: '2026-11-16'
 ---
 
 # Effects of fire history on animal communities: a systematic review
@@ -423,7 +427,3 @@ Springer Nature remains neutral with regard to jurisdictional claims in pub‑ l
 - Sasal Y, Raffaele E, Farji‑Brener AG (2015) Consequences of fire and cattle browsing on ground beetles (Coleoptera) in NW Patagonia. Ecol Res 30:1015–1023. https:// doi. org/ 10. 1007/ s11284‑ 015‑ 1302‑2 
 
 - Shea K, Roxburgh SH, Rauschert ESJ (2004) Moving from pattern to process: coexistence mechanisms under intermediate disturbance regimes. Ecol Lett 7:491–508. https:// doi. org/ 10. 1111/j. 1461‑ 0248. 2004. 00600.x 
-
-
-
-

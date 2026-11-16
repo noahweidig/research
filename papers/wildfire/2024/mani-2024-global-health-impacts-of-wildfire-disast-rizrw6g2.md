@@ -8,12 +8,11 @@ year: '2024'
 journal: Disaster Medicine and Public Health Preparedness
 doi: 10.1017/dmp.2024.150
 tags:
-- climate change
-- disaster
-- fulltext:pdf-missing
-- global
+- climate
+- exposure
 - mortality
 - public health
+- refwright:read:unread
 - urbanization
 - wildfire
 zotero_key: RIZRW6G2
@@ -21,7 +20,7 @@ item_type: journalArticle
 url: https://www.cambridge.org/core/product/identifier/S1935789324001502/type/journal_article
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Global Health Impacts of Wildfire Disasters From 2000 to 2023: A Comprehensive Analysis of Mortality and Injuries

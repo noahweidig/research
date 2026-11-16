@@ -9,16 +9,17 @@ year: '2026'
 journal: bioRxiv (Cold Spring Harbor Laboratory)
 doi: 10.64898/2026.09.30.755816
 tags:
-- ecoregions
-- forest structure
-- large wildfires
+- climate
+- forests
+- refwright:read:unread
 - united states
+- wildfire
 zotero_key: RVAU8PAM
 item_type: journalArticle
 url: https://openalex.org/W7216041479
 source_url: 'unpaywall: https://www.biorxiv.org/content/biorxiv/early/2026/10/02/2026.09.30.755816.full.pdf'
 fulltext_status: fulltext
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Forest canopy height change due to demographic and allometric shifts

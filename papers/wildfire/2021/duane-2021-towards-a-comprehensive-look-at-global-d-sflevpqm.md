@@ -8,21 +8,20 @@ year: '2021'
 journal: Climatic Change
 doi: 10.1007/s10584-021-03066-4
 tags:
-- climate change
-- disaster
-- fire ecology
-- fire management
-- fulltext:pdf-missing
-- land use change
-- megafire
+- climate
+- ecology
+- exposure
+- land cover
 - natural hazards
-- social-ecological systems
+- refwright:read:unread
+- suppression
+- wildfire
 zotero_key: SFLEVPQM
 item_type: journalArticle
 url: https://doi.org/10.1007/s10584-021-03066-4
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Towards a comprehensive look at global drivers of novel extreme wildfire events

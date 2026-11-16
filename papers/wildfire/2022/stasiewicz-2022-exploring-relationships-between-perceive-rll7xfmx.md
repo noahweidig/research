@@ -7,17 +7,17 @@ year: '2022'
 journal: Journal of Environmental Management
 doi: 10.1016/j.jenvman.2022.115176
 tags:
-- fire suppression
-- fulltext:pdf-missing
-- housing
-- risk management
+- fire risk
+- refwright:read:unread
+- suppression
+- urbanization
 - wildfire
 zotero_key: RLL7XFMX
 item_type: journalArticle
 url: https://www.sciencedirect.com/science/article/pii/S0301479722007496
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Exploring relationships between perceived suppression capabilities and resident performance of wildfire mitigations

@@ -1,5 +1,5 @@
 ---
-title: Chapter One - Adaptive capacity in ecosystems
+title: Chapter one - adaptive capacity in ecosystems
 authors:
 - Angeler, David G.
 - Fried-Petersen, Hannah B.
@@ -16,20 +16,21 @@ year: '2019'
 journal: null
 doi: 10.1016/bs.aecr.2019.02.001
 tags:
-- ecosystems
-- fulltext:pdf-missing
-- global change
+- climate
 - management
+- refwright:read:unread
 - resilience
+- statistics
+- wildfire
 zotero_key: SE2YQL22
 item_type: bookSection
 url: https://www.sciencedirect.com/science/article/pii/S0065250419300017
 source_url: 'unpaywall: https://www.ncbi.nlm.nih.gov/pmc/articles/6944309'
 fulltext_status: fulltext
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
-# Chapter One - Adaptive capacity in ecosystems
+# Chapter one - adaptive capacity in ecosystems
 
 ## Full text
 

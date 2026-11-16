@@ -3,9 +3,9 @@ title: Recent deforestation drove the spike in Amazonian fires
 authors:
 - Cardil, Adrián
 - de-Miguel, Sergio
-- Silva, Carlos A
-- Reich, Peter B
-- Calkin, David
+- Silva, Carlos A.
+- Reich, Peter B.
+- Calkin, David E.
 - Brancalion, Pedro H S
 - Vibrans, Alexander C
 - Gamarra, Javier G P
@@ -29,16 +29,16 @@ year: '2020'
 journal: Environmental Research Letters
 doi: 10.1088/1748-9326/abcac7
 tags:
-- amazon basin
 - climate
-- deforestation
-- fire
+- forests
+- refwright:read:unread
+- wildfire
 zotero_key: S3FAX466
 item_type: journalArticle
 url: https://doi.org/10.1088/1748-9326/abcac7
 source_url: 'unpaywall: https://hal.science/hal-05177023v1/file/Cardil_2020_Environ._Res._Lett._15_121003.pdf'
 fulltext_status: fulltext
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Recent deforestation drove the spike in Amazonian fires

@@ -6,17 +6,18 @@ year: '2013'
 journal: Forest Ecology and Management
 doi: 10.1016/j.foreco.2013.06.040
 tags:
-- eastern united states
-- ecosystems
-- fulltext:pdf-found
+- agriculture
+- longleaf pine
 - plant physiology
+- refwright:read:unread
 - united states
+- wildfire
 zotero_key: SYRE6HJG
 item_type: journalArticle
 url: https://www.sciencedirect.com/science/article/pii/S0378112713004088
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Changing eastern broadleaf, southern mixed, and northern mixed forest ecosystems of the eastern United States

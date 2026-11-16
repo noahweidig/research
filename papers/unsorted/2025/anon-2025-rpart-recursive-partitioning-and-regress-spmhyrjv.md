@@ -5,8 +5,7 @@ year: '2025'
 journal: null
 doi: null
 tags:
-- fulltext:check-needed
-- recursive partitioning
+- refwright:read:unread
 - software
 - statistics
 - trees
@@ -15,7 +14,7 @@ item_type: computerProgram
 url: https://cran.r-project.org/web/packages/rpart/index.html
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # rpart: Recursive Partitioning and Regression Trees
