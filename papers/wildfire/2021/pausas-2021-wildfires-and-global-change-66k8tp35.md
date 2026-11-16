@@ -1,23 +1,23 @@
 ---
 title: Wildfires and global change
 authors:
-- Pausas, Juli G
-- Keeley, Jon E
+- Pausas, Juli G.
+- Keeley, Jon E.
 year: '2021'
 journal: Frontiers in Ecology and the Environment
 doi: 10.1002/fee.2359
 tags:
+- climate
 - drought
 - fuels
-- fulltext:check-needed
-- global change
+- refwright:read:unread
 - wildfire
 zotero_key: 66K8TP35
 item_type: journalArticle
 url: https://onlinelibrary.wiley.com/doi/abs/10.1002/fee.2359
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Wildfires and global change

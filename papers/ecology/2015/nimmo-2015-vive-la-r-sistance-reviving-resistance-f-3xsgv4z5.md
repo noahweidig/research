@@ -5,24 +5,22 @@ authors:
 - Nally, R. Mac
 - Cunningham, S. C.
 - Haslem, A.
-- Bennett, A. F.
+- Bennett, Andrew F.
 year: '2015'
 journal: Trends in Ecology & Evolution
 doi: 10.1016/j.tree.2015.07.008
 tags:
-- climate change adaptation
+- climate
 - conservation
-- conservation biology
-- disturbance ecology
-- fulltext:check-needed
+- ecology
+- refwright:read:unread
 - resilience
-- resistance
 zotero_key: 3XSGV4Z5
 item_type: journalArticle
 url: https://www.cell.com/trends/ecology-evolution/abstract/S0169-5347(15)00187-1
 source_url: 'unpaywall: https://figshare.com/articles/journal_contribution/Vive_la_r_sistance_reviving_resistance_for_21st_century_conservation/20900839'
 fulltext_status: fulltext
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Vive la résistance: reviving resistance for 21st century conservation

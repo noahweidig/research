@@ -11,17 +11,18 @@ year: '2025'
 journal: Forest Ecology and Management
 doi: 10.1016/j.foreco.2025.123085
 tags:
-- animals
 - fia
-- forestry
-- fulltext:pdf-missing
+- forests
+- fuels
+- refwright:read:unread
 - united states
+- wildlife
 zotero_key: 63L47UJV
 item_type: journalArticle
 url: https://www.sciencedirect.com/science/article/pii/S0378112725005936
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Leveraging United States Forest Inventory Analysis data to project mature and old-growth forest conditions, with three wildlife case studies showing utility

@@ -6,17 +6,14 @@ year: '1968'
 journal: Journal of the American Statistical Association
 doi: 10.1080/01621459.1968.10480934
 tags:
-- fulltext:pdf-missing
-- nonparametric statistics
-- regression analysis
+- refwright:read:unread
 - statistics
-- trend analysis
 zotero_key: 65KCJ2A6
 item_type: journalArticle
 url: https://www.tandfonline.com/doi/abs/10.1080/01621459.1968.10480934
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Estimates of the Regression Coefficient Based on Kendall's Tau

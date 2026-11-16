@@ -6,16 +6,17 @@ year: '2026'
 journal: International Journal of Advances in Engineering and Pure Sciences
 doi: 10.7240/jeps.1954934
 tags:
-- large wildfires
+- fire regimes
+- prescribed fire
+- refwright:read:unread
 - statistics
 - wildfire
-- wildfire occurrence
 zotero_key: 5WVA3I7X
 item_type: journalArticle
 url: https://openalex.org/W7214519283
 source_url: 'unpaywall: https://dergipark.org.tr/en/download/article-file/6031258'
 fulltext_status: fulltext
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Geostatistical and Spatial Clustering Analysis for Wildfire Monitoring in Türkiye

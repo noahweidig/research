@@ -8,16 +8,17 @@ year: '2014'
 journal: iForest - Biogeosciences and Forestry
 doi: 10.3832/ifor1112-007
 tags:
-- fire prevention
-- forest management
-- grazing
+- forests
+- fuels
+- management
+- refwright:read:unread
 - wildfire
 zotero_key: 6H5DY56C
 item_type: journalArticle
 url: https://iforest.sisef.org/contents/?id=ifor1112-007
 source_url: 'unpaywall: https://iforest.sisef.org/pdf/?id=ifor1112-007'
 fulltext_status: fulltext
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Goat grazing as a wildfire prevention tool: a basic review

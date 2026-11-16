@@ -1,7 +1,7 @@
 ---
 title: All-hazards dataset mined from the US National Incident Management System 1999-2020
 authors:
-- St. Denis, Lise A.
+- St. Denis, Lise Ann
 - Short, Karen C.
 - McConnell, Kathryn
 - Cook, Maxwell C.
@@ -13,15 +13,16 @@ journal: Scientific Data
 doi: 10.1038/s41597-023-01955-0
 tags:
 - dataset
-- fire
 - natural hazards
+- refwright:read:unread
 - united states
+- wildfire
 zotero_key: 63CLBSQZ
 item_type: journalArticle
 url: https://www.nature.com/articles/s41597-023-01955-0
 source_url: 'unpaywall: https://www.nature.com/articles/s41597-023-01955-0.pdf'
 fulltext_status: fulltext
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # All-hazards dataset mined from the US National Incident Management System 1999-2020

@@ -14,16 +14,15 @@ year: '2017'
 journal: The R Journal
 doi: 10.32614/rj-2017-066
 tags:
-- generalized linear models
-- mixed models
-- modeling
-- r package
+- refwright:read:unread
+- software
+- statistics
 zotero_key: 6A9B9M3I
 item_type: journalArticle
 url: https://journal.r-project.org/archive/2017/RJ-2017-066/index.html
 source_url: 'unpaywall: https://journal.r-project.org/archive/2017/RJ-2017-066/RJ-2017-066.pdf'
 fulltext_status: fulltext
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # glmmTMB Balances Speed and Flexibility Among Packages for Zero-inflated Generalized Linear Mixed Modeling

@@ -8,16 +8,17 @@ year: '2026'
 journal: Journal of Hymenoptera Research
 doi: 10.3897/jhr.99.205327
 tags:
-- fire
-- grassland
-- post fire recovery
-- prescribed burning
+- forests
+- prescribed fire
+- rangelands
+- refwright:read:unread
+- wildfire
 zotero_key: 4V2JWWVR
 item_type: journalArticle
 url: https://openalex.org/W7214917877
 source_url: 'unpaywall: https://doi.org/10.3897/jhr.99.205327'
 fulltext_status: fulltext
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Prescribed burning and post-fire recovery time shape microhymenopteran communities in high-nature-value grasslands

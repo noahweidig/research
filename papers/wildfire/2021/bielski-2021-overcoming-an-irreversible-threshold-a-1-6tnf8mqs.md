@@ -10,17 +10,19 @@ year: '2021'
 journal: Journal of Environmental Management
 doi: 10.1016/j.jenvman.2021.112550
 tags:
-- biomass
-- fire
-- fulltext:pdf-found
-- grassland
-- state transition
+- fuels
+- prescribed fire
+- rangelands
+- refwright:read:unread
+- resilience
+- wildfire
+- woody cover
 zotero_key: 6TNF8MQS
 item_type: journalArticle
 url: https://www.sciencedirect.com/science/article/pii/S0301479721006125
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Overcoming an “irreversible” threshold: A 15-year fire experiment

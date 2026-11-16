@@ -12,9 +12,9 @@ year: '2026'
 journal: Forestry Economics Review
 doi: 10.1108/fer-06-2026-0019
 tags:
-- drivers
-- fire suppression
-- fulltext:check-needed
+- fire regimes
+- refwright:read:unread
+- suppression
 - united states
 - wildfire
 zotero_key: 6HZA65H5
@@ -22,7 +22,7 @@ item_type: journalArticle
 url: https://openalex.org/W7221025286
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Factors affecting wildfire suppression costs in the United States: a systematic review

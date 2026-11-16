@@ -2,25 +2,25 @@
 title: Wildfire risk associated with different vegetation types within and outside wildland-urban interfaces
 authors:
 - Calviño-Cancela, María
-- Chas-Amil, María L.
+- Chas-Amil, María-Luisa
 - García-Martínez, Eduardo D.
 - Touza, Julia
 year: '2016'
 journal: Forest Ecology and Management
 doi: 10.1016/j.foreco.2016.04.002
 tags:
+- WUI
 - fire risk
-- human-related causes
-- land use
-- spain
+- human dimensions
+- land cover
+- refwright:read:unread
 - wildfire
-- wildland-urban interface
 zotero_key: 624WNGIW
 item_type: journalArticle
 url: https://www.sciencedirect.com/science/article/pii/S0378112716301529
 source_url: 'unpaywall: https://eprints.whiterose.ac.uk/98372/1/calvino_et_al_MSacceptedversion.pdf'
 fulltext_status: fulltext
-synced: '2026-11-06'
+synced: '2026-11-16'
 ---
 
 # Wildfire risk associated with different vegetation types within and outside wildland-urban interfaces
@@ -566,7 +566,11 @@ Table 1: Fire causes as included in Spanish forest fire reports.
 
 
 <!-- Start of picture text -->
-120<br>100<br>80<br>60<br>40<br>20<br>0<br>-­‐20<br>-­‐40<br>Departures   from   random   freqs.   (%)<br><!-- End of picture text -->
+120<br>100<br>80<br>60<br>40<br>20<br>0<br>-­‐20<br>-­‐40<br>Departures 
+  from 
+  random 
+  freqs. 
+  (%)<br><!-- End of picture text -->
 
 236 
 
@@ -1250,5 +1254,3 @@ Table 1: Fire causes as included in Spanish forest fire reports.
 - 622 maturing Mediterranean mixed pine landscape. European Journal of Forest Research 623 128(3):297-304 
 
 32 
-
-

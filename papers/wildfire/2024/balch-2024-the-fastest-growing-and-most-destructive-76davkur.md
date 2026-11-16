@@ -10,7 +10,7 @@ authors:
 - Leyk, Stefan
 - McIntosh, Tyler L.
 - Nagy, R. Chelsea
-- St. Denis, Lise
+- St. Denis, Lise Ann
 - Tuff, Ty
 - Verleye, Erick
 - Williams, A. Park
@@ -19,17 +19,16 @@ year: '2024'
 journal: Science
 doi: 10.1126/science.adk5737
 tags:
-- fire
-- fire suppression
-- fulltext:pdf-missing
+- refwright:read:unread
+- suppression
 - united states
-- western united states
+- wildfire
 zotero_key: 76DAVKUR
 item_type: journalArticle
 url: https://www.science.org/doi/full/10.1126/science.adk5737
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # The fastest-growing and most destructive fires in the US (2001 to 2020)

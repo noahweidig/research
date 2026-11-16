@@ -1,5 +1,5 @@
 ---
-title: 'Woody Plant Encroachment: Causes and Consequences'
+title: 'Woody plant encroachment: causes and consequences'
 authors:
 - Archer, Steven R.
 - Andersen, Erik M.
@@ -11,19 +11,19 @@ year: '2017'
 journal: null
 doi: 10.1007/978-3-319-46709-2_2
 tags:
-- grassland
-- rangeland
-- savanna
-- woody encroachment
+- fuels
+- rangelands
+- refwright:read:unread
+- woody cover
 zotero_key: 53D6VYVH
 item_type: bookSection
 url: http://link.springer.com/10.1007/978-3-319-46709-2_2
 source_url: 'unpaywall: https://link.springer.com/content/pdf/10.1007%2F978-3-319-46709-2_2.pdf'
 fulltext_status: fulltext
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
-# Woody Plant Encroachment: Causes and Consequences
+# Woody plant encroachment: causes and consequences
 
 ## Full text
 

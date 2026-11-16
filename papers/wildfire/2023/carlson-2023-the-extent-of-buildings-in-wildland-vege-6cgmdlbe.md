@@ -6,22 +6,22 @@ authors:
 - Helmers, David P.
 - Mockrin, Miranda H.
 - Hawbaker, Todd J.
-- Pidgeon, Anna
+- Pidgeon, Anna M.
 year: '2023'
 journal: Landscape and Urban Planning
 doi: 10.1016/j.landurbplan.2023.104810
 tags:
 - biodiversity
 - conservation
-- fulltext:pdf-missing
+- fuels
+- refwright:read:unread
 - united states
-- vegetation
 zotero_key: 6CGMDLBE
 item_type: journalArticle
 url: https://www.sciencedirect.com/science/article/pii/S0169204623001299
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # The extent of buildings in wildland vegetation of the conterminous U.S. and the potential for conservation in and near National Forest private inholdings

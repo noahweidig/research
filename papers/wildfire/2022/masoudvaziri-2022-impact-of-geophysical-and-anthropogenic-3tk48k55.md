@@ -9,17 +9,16 @@ year: '2022'
 journal: Stochastic Environmental Research and Risk Assessment
 doi: 10.1007/s00477-021-02087-w
 tags:
-- large wildfires
-- machine learning
-- modeling
-- risk assessment
-- spatiotemporal
+- fire risk
+- refwright:read:unread
+- statistics
+- wildfire
 zotero_key: 3TK48K55
 item_type: journalArticle
 url: https://doi.org/10.1007/s00477-021-02087-w
 source_url: 'unpaywall: https://www.researchsquare.com/article/rs-539684/latest.pdf'
 fulltext_status: fulltext
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Impact of geophysical and anthropogenic factors on wildfire size: a spatiotemporal data-driven risk assessment approach using statistical learning

@@ -8,16 +8,18 @@ year: '2018'
 journal: Nature Communications
 doi: 10.1038/s41467-018-04616-8
 tags:
-- carbon cycle
-- grazing
-- herbivory
-- woody encroachment
+- fuels
+- management
+- rangelands
+- refwright:read:unread
+- suppression
+- woody cover
 zotero_key: 6R32XW2Y
 item_type: journalArticle
 url: https://www.nature.com/articles/s41467-018-04616-8
 source_url: 'unpaywall: https://www.nature.com/articles/s41467-018-04616-8.pdf'
 fulltext_status: fulltext
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Drivers of woody plant encroachment over Africa

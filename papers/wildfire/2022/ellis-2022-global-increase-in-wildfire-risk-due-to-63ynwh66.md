@@ -10,20 +10,18 @@ year: '2022'
 journal: Global Change Biology
 doi: 10.1111/gcb.16006
 tags:
-- climate change
+- climate
+- fire regimes
 - fire risk
-- fuel load
-- fuel moisture
-- fulltext:pdf-missing
-- net primary productivity
-- pyrogeography
+- fuels
+- refwright:read:unread
 - wildfire
 zotero_key: 63YNWH66
 item_type: journalArticle
 url: https://onlinelibrary.wiley.com/doi/abs/10.1111/gcb.16006
 source_url: 'unpaywall: https://figshare.com/articles/journal_contribution/Global_increase_in_wildfire_risk_due_to_climate-driven_declines_in_fuel_moisture/23003417'
 fulltext_status: fulltext
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Global increase in wildfire risk due to climate-driven declines in fuel moisture

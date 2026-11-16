@@ -1,25 +1,23 @@
 ---
-title: Density Estimation for Statistics and Data Analysis
+title: Density estimation for statistics and data analysis
 authors:
 - Silverman, Bernard W.
 year: '1986'
 journal: null
 doi: 10.1201/9781315140919
 tags:
-- fulltext:check-needed
-- modeling
 - natural hazards
+- refwright:read:unread
 - statistics
-- survey research
 zotero_key: 7HZ949VH
 item_type: book
 url: https://doi.org/10.1201/9781315140919
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
-# Density Estimation for Statistics and Data Analysis
+# Density estimation for statistics and data analysis
 
 ## Abstract
 

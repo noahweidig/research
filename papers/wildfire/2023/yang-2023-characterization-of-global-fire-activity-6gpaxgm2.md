@@ -10,17 +10,16 @@ year: '2023'
 journal: Environmental Research
 doi: 10.1016/j.envres.2023.115746
 tags:
-- burned area
-- fire
-- fulltext:pdf-missing
+- fire regimes
 - land cover
-- spatiotemporal
+- refwright:read:unread
+- wildfire
 zotero_key: 6GPAXGM2
 item_type: journalArticle
 url: https://www.sciencedirect.com/science/article/pii/S0013935123005388
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Characterization of global fire activity and its spatiotemporal patterns for different land cover types from 2001 to 2020

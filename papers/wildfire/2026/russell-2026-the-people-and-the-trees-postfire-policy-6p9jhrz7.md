@@ -3,21 +3,22 @@ title: 'The people and the trees: postfire policy and rehabilitation in Washoe C
 authors:
 - Russell, Gregory
 - Jones, Rhiana
-- Schultz, Courtney
+- Schultz, Courtney A.
 year: '2026'
 journal: Ecosystems and People
 doi: 10.1080/26395916.2026.2710839
 tags:
-- drivers
-- large wildfires
+- fire regimes
+- refwright:read:unread
 - trees
+- united states
 - wildfire
 zotero_key: 6P9JHRZ7
 item_type: journalArticle
 url: https://openalex.org/W7203720209
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # The people and the trees: postfire policy and rehabilitation in Washoe Country

@@ -7,29 +7,34 @@ authors:
 - Holder, Amara L.
 - Uhl, Johannes H.
 - St. Denis, Lise Ann
-- Cook, Maxwell
+- Cook, Maxwell C.
 - Abolafia-Rosenzweig, Ronnie
 - He, Cenlin
 - Barsanti, Kelley C.
 - Leyk, Stefan
 - Abatzoglou, John T.
 - Balch, Jennifer K.
-- Worden, Helen
+- Worden, Helen M.
 - Levelt, Pieternel F.
 year: '2025'
 journal: Nature Communications
 doi: 10.1038/s41467-025-66292-9
 tags:
-- air pollution
-- atmospheric science
+- WUI
+- air quality
+- climate
 - natural hazards
+- prescribed fire
+- public health
+- refwright:read:unread
 - united states
+- wildfire
 zotero_key: 6D2LY5C4
 item_type: journalArticle
 url: https://www.nature.com/articles/s41467-025-66292-9
 source_url: 'unpaywall: https://www.nature.com/articles/s41467-025-66292-9_reference.pdf'
 fulltext_status: fulltext
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Emissions from burned structures in wildfires as significant yet unaccounted sources of US air pollution

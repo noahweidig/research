@@ -8,7 +8,10 @@ journal: Earth System Science Data Discussions
 doi: 10.5194/essd-2026-660
 tags:
 - dataset
-- spatial data quality
+- ecology
+- fire regimes
+- natural hazards
+- refwright:read:unread
 - united states
 - wildfire
 zotero_key: 57MFJ62G
@@ -16,7 +19,7 @@ item_type: journalArticle
 url: https://openalex.org/W7223091393
 source_url: 'unpaywall: https://essd.copernicus.org/preprints/essd-2026-660/essd-2026-660.pdf'
 fulltext_status: fulltext
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # An integrated wildfire event database for improved fire science research for the continental United States, 1992–2021

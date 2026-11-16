@@ -7,8 +7,8 @@ year: '2001'
 journal: Remote Sensing of Environment
 doi: 10.1016/S0034-4257(01)00227-9
 tags:
-- forest inventory
-- fulltext:pdf-found
+- fia
+- refwright:read:unread
 - remote sensing
 - statistics
 - united states
@@ -17,7 +17,7 @@ item_type: journalArticle
 url: https://www.sciencedirect.com/science/article/pii/S0034425701002279
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Improving the accuracy of multisource forest inventory estimates to reducing plot location error — a multicriteria approach

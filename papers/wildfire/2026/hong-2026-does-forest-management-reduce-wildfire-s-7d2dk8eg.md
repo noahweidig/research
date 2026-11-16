@@ -11,17 +11,18 @@ year: '2026'
 journal: Forest Ecology and Management
 doi: 10.1016/j.foreco.2026.124307
 tags:
-- fire severity
-- fulltext:pdf-missing
-- large wildfires
+- climate
+- fire regimes
+- forests
+- fuels
+- refwright:read:unread
 - wildfire
-- wildfire occurrence
 zotero_key: 7D2DK8EG
 item_type: journalArticle
 url: https://openalex.org/W7220973462
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Does forest management reduce wildfire severity? Evidence from 1050 plots in a South Korean Megafire

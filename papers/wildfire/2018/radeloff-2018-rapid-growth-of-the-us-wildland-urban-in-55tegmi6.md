@@ -2,31 +2,31 @@
 title: Rapid growth of the US wildland-urban interface raises wildfire risk
 authors:
 - Radeloff, Volker C.
-- Helmers, D. P.
-- Kramer, H. A.
-- Mockrin, M. H.
-- Alexandre, P. M.
-- Bar-Massada, A.
-- Butsic, V.
-- Hawbaker, T. J.
-- Martinuzzi, S.
-- Syphard, A. D.
-- Stewart, S. I.
+- Helmers, David P.
+- Kramer, Heather Anu
+- Mockrin, Miranda H.
+- Alexandre, Patricia M.
+- Bar-Massada, Avi
+- Butsic, Van
+- Hawbaker, Todd J.
+- Martinuzzi, Sebastián
+- Syphard, Alexandra D.
+- Stewart, Susan I.
 year: '2018'
 journal: Proceedings of the National Academy of Sciences
 doi: 10.1073/pnas.1718850115
 tags:
+- WUI
 - fire risk
-- fulltext:pdf-missing
+- refwright:read:unread
 - united states
 - wildfire
-- wildland-urban interface
 zotero_key: 55TEGMI6
 item_type: journalArticle
 url: https://www.pnas.org/doi/full/10.1073/pnas.1718850115
 source_url: 'unpaywall: https://www.ncbi.nlm.nih.gov/pmc/articles/5879688'
 fulltext_status: fulltext
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Rapid growth of the US wildland-urban interface raises wildfire risk

@@ -10,16 +10,19 @@ year: '2026'
 journal: Communications Earth & Environment
 doi: 10.1038/s43247-026-03909-x
 tags:
-- burning
+- fire regimes
+- ignition
+- prescribed fire
+- refwright:read:unread
+- statistics
 - united states
-- western united states
 - wildfire
 zotero_key: 5KNPN44X
 item_type: journalArticle
 url: https://openalex.org/W7204954747
 source_url: 'unpaywall: https://www.nature.com/articles/s43247-026-03909-x_reference.pdf'
 fulltext_status: fulltext
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Diverging wildfire regimes and doubling of burn area in western United States water supply watersheds

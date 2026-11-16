@@ -7,17 +7,15 @@ year: '1957'
 journal: Ecological Monographs
 doi: 10.2307/1942268
 tags:
-- forest ecology
-- fulltext:pdf-missing
-- ordination
-- plant communities
-- wisconsin
+- forests
+- fuels
+- refwright:read:unread
 zotero_key: 65VCBZ9Y
 item_type: journalArticle
 url: https://esajournals.onlinelibrary.wiley.com/doi/10.2307/1942268
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # An Ordination of the Upland Forest Communities of Southern Wisconsin

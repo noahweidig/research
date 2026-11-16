@@ -11,17 +11,16 @@ year: '2022'
 journal: Fire Safety Journal
 doi: 10.1016/j.firesaf.2022.103674
 tags:
-- fire spread
-- firebrands
-- fulltext:pdf-missing
+- WUI
+- fire behavior
+- refwright:read:unread
 - wildfire
-- wildland-urban interface
 zotero_key: 6SVLH3FC
 item_type: journalArticle
 url: https://www.sciencedirect.com/science/article/pii/S0379711222001515
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # A review of firebrand studies on generation and transport
