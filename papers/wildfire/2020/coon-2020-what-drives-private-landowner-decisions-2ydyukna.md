@@ -9,17 +9,17 @@ year: '2020'
 journal: Journal of Environmental Management
 doi: 10.1016/j.jenvman.2020.111355
 tags:
-- fulltext:pdf-missing
-- grasses
-- invasive species
-- private land
+- fuels
+- plant species
+- rangelands
+- refwright:read:unread
 - united states
 zotero_key: 2YDYUKNA
 item_type: journalArticle
 url: https://www.sciencedirect.com/science/article/pii/S0301479720312810
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # What drives private landowner decisions? Exploring non-native grass management in the eastern Great Plains

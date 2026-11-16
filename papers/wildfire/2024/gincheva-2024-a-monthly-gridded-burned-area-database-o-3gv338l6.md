@@ -6,7 +6,7 @@ authors:
 - Edwards, Andrew
 - Provenzale, Antonello
 - Cerdà, Artemi
-- Hanes, Chelene
+- Hanes, Chelene C.
 - Royé, Dominic
 - Chuvieco, Emilio
 - Mouillot, Florent
@@ -34,16 +34,19 @@ year: '2024'
 journal: Scientific Data
 doi: 10.1038/s41597-024-03141-2
 tags:
-- burned area
-- environmental impact
-- fire
+- dataset
+- fire regimes
 - natural hazards
+- refwright:read:unread
+- remote sensing
+- united states
+- wildfire
 zotero_key: 3GV338L6
 item_type: journalArticle
 url: https://www.nature.com/articles/s41597-024-03141-2
 source_url: 'unpaywall: https://www.nature.com/articles/s41597-024-03141-2.pdf'
 fulltext_status: fulltext
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # A monthly gridded burned area database of national wildland fire data

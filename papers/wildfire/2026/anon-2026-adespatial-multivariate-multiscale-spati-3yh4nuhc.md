@@ -5,17 +5,17 @@ year: '2026'
 journal: null
 doi: null
 tags:
-- fulltext:check-needed
-- multivariate analysis
-- r package
+- refwright:read:unread
+- remote sensing
 - software
-- spatial analysis
+- statistics
+- wildfire
 zotero_key: 3YH4NUHC
 item_type: computerProgram
 url: https://cran.r-project.org/web/packages/adespatial/index.html
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # adespatial: Multivariate Multiscale Spatial Analysis

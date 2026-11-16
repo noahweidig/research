@@ -1,7 +1,7 @@
 ---
 title: Shrub cover impacts on yak growth performance and herbaceous forage quality on the Qinghai-Tibet Plateau, China
 authors:
-- Yang, C.
+- Yang, Chao
 - Yan, T.
 - Sun, Y.
 - Hou, F.
@@ -9,17 +9,15 @@ year: '2021'
 journal: Rangeland Ecology & Management
 doi: 10.1016/j.rama.2020.11.004
 tags:
-- china
-- forage quality
-- fulltext:pdf-missing
-- nutritive value
-- rangeland
+- fuels
+- rangelands
+- refwright:read:unread
 zotero_key: 34W7ZTA7
 item_type: journalArticle
 url: https://www.sciencedirect.com/science/article/pii/S1550742420301329
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Shrub cover impacts on yak growth performance and herbaceous forage quality on the Qinghai-Tibet Plateau, China

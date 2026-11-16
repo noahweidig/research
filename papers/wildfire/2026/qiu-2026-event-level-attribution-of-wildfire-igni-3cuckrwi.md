@@ -13,8 +13,12 @@ year: '2026'
 journal: Geophysical Research Letters
 doi: 10.1029/2026gl124075
 tags:
-- drivers
+- fire regimes
+- human dimensions
 - ignition
+- management
+- refwright:read:unread
+- statistics
 - united states
 - wildfire
 zotero_key: 3CUCKRWI
@@ -22,7 +26,7 @@ item_type: journalArticle
 url: https://openalex.org/W7204592177
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Event‐Level Attribution of Wildfire Ignition Cause: A Machine‐Learning Approach

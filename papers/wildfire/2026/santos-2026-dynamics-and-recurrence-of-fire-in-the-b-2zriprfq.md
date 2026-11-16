@@ -10,16 +10,18 @@ year: '2026'
 journal: Arabian Journal of Geosciences
 doi: 10.1007/s12517-026-12621-1
 tags:
-- drivers
-- fire
+- fire regimes
 - land cover
-- prescribed burning
+- prescribed fire
+- refwright:read:unread
+- statistics
+- wildfire
 zotero_key: 2ZRIPRFQ
 item_type: journalArticle
 url: https://openalex.org/W7222820332
 source_url: 'unpaywall: https://link.springer.com/content/pdf/10.1007/s12517-026-12621-1.pdf'
 fulltext_status: fulltext
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Dynamics and recurrence of fire in the Brazilian Cerrado: spatial patterns, land cover drivers, and implications for integrated fire management

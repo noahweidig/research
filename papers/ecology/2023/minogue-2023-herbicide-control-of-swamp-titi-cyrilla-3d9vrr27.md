@@ -1,7 +1,7 @@
 ---
 title: Herbicide control of swamp titi (Cyrilla racemiflora) in restoration of ephemeral wetlands
 authors:
-- Minogue, Patrick J.
+- Minogue, Patrick Joseph
 - Lauer, Dwight K.
 - Sharma, Ajay
 - Keserauskis Kunzer, Megan
@@ -12,15 +12,16 @@ journal: Restoration Ecology
 doi: 10.1111/rec.13971
 tags:
 - freshwater ecosystems
-- intermittent wetland
 - mortality
-- restoration
+- rangelands
+- refwright:read:unread
+- woody cover
 zotero_key: 3D9VRR27
 item_type: journalArticle
 url: https://onlinelibrary.wiley.com/doi/abs/10.1111/rec.13971
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Herbicide control of swamp titi (Cyrilla racemiflora) in restoration of ephemeral wetlands

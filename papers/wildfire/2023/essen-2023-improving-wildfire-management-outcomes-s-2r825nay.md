@@ -4,22 +4,22 @@ authors:
 - Essen, Maureen
 - McCaffrey, Sarah
 - Abrams, Jesse
-- Paveglio, Travis
+- Paveglio, Travis B.
 year: '2023'
 journal: Journal of Environmental Planning and Management
 doi: 10.1080/09640568.2021.2007861
 tags:
-- fire management
 - fire risk
-- fulltext:pdf-missing
-- risk assessment
+- refwright:read:unread
+- suppression
+- united states
 - wildfire
 zotero_key: 2R825NAY
 item_type: journalArticle
 url: https://doi.org/10.1080/09640568.2021.2007861
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Improving wildfire management outcomes: Shifting the paradigm of wildfire from simple to complex risk

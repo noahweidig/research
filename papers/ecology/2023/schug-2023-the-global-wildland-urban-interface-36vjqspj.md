@@ -6,7 +6,7 @@ authors:
 - Carlson, Amanda R.
 - Cox, Heather
 - Hawbaker, Todd J.
-- Helmers, David
+- Helmers, David P.
 - Hostert, Patrick
 - Kaim, Dominik
 - Kasraee, Neda K.
@@ -19,16 +19,14 @@ journal: Nature
 doi: 10.1038/s41586-023-06320-0
 tags:
 - ecology
-- environmental impact
-- fire ecology
 - natural hazards
-- sustainability
+- refwright:read:unread
 zotero_key: 36VJQSPJ
 item_type: journalArticle
 url: https://www.nature.com/articles/s41586-023-06320-0
 source_url: 'unpaywall: https://www.nature.com/articles/s41586-023-06320-0.pdf'
 fulltext_status: fulltext
-synced: '2026-11-06'
+synced: '2026-11-16'
 ---
 
 # The global wildland–urban interface
@@ -453,5 +451,3 @@ WUI area in different degree of urbanization classes. Classes according to Dijks
 
 
 WUI Area Share, Share of population and biomass in the WUI as well as population affected by fire in the WUI per World Bank Income Group 2023 (https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country-and-lending-groups). 
-
-

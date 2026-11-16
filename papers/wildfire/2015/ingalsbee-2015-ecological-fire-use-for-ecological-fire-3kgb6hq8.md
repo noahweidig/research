@@ -7,16 +7,17 @@ journal: 'In: Keane, Robert E.; Jolly, Matt; Parsons, Russell; Riley, Karin. Pro
 doi: null
 tags:
 - agriculture
-- fire management
-- fulltext:pdf-found
-- large wildfires
+- fire regimes
+- refwright:read:unread
+- suppression
+- united states
 - wildfire
 zotero_key: 3KGB6HQ8
 item_type: journalArticle
 url: https://research.fs.usda.gov/treesearch/49434
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Ecological fire use for ecological fire management: Managing large wildfires by design

@@ -11,17 +11,18 @@ year: '2026'
 journal: Utilities Policy
 doi: 10.1016/j.jup.2026.102291
 tags:
-- fulltext:check-needed
-- machine learning
+- fire risk
+- refwright:read:unread
+- resilience
+- statistics
 - united states
-- western united states
 - wildfire
 zotero_key: 35V9VCTT
 item_type: journalArticle
 url: https://openalex.org/W7197050704
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # U.S. wildfire-power grid risk: A review of policy &amp; practices in ten western states

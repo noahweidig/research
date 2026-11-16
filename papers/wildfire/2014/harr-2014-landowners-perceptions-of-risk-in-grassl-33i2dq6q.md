@@ -11,16 +11,19 @@ year: '2014'
 journal: Ecology and Society
 doi: 10.5751/ES-06404-190241
 tags:
-- fire
-- grassland
-- prescribed burning
-- private land
+- fire risk
+- management
+- prescribed fire
+- rangelands
+- refwright:read:unread
+- wildfire
+- woody cover
 zotero_key: 33I2DQ6Q
 item_type: journalArticle
 url: http://www.ecologyandsociety.org/vol19/iss2/art41/
 source_url: 'unpaywall: https://www.ecologyandsociety.org/vol19/iss2/art41/ES-2013-6404.pdf'
 fulltext_status: fulltext
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Landowners' perceptions of risk in grassland management: woody plant encroachment and prescribed fire

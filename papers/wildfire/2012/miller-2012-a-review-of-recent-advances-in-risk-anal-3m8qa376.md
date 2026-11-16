@@ -6,13 +6,16 @@ authors:
 year: '2012'
 journal: International Journal of Wildland Fire
 doi: 10.1071/WF11114
-tags: []
+tags:
+- fire risk
+- refwright:read:unread
+- suppression
 zotero_key: 3M8QA376
 item_type: journalArticle
 url: https://www.publish.csiro.au/wf/WF11114
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # A review of recent advances in risk analysis for wildfire management

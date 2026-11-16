@@ -18,21 +18,20 @@ year: '2021'
 journal: International Journal of Climatology
 doi: 10.1002/joc.7036
 tags:
-- climate change
-- climate modeling
+- climate
+- fire behavior
 - fire risk
-- fire spread
-- fire weather
-- fulltext:pdf-missing
-- land use change
+- land cover
+- refwright:read:unread
 - united states
+- weather
 - wildfire
 zotero_key: 3HATT2U6
 item_type: journalArticle
 url: https://onlinelibrary.wiley.com/doi/abs/10.1002/joc.7036
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Will land use land cover change drive atmospheric conditions to become more conducive to wildfires in the United States?

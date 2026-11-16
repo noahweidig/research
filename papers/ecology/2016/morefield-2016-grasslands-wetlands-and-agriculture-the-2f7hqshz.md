@@ -9,16 +9,18 @@ year: '2016'
 journal: Environmental Research Letters
 doi: 10.1088/1748-9326/11/9/094005
 tags:
+- CRP
 - agriculture
 - conservation
 - freshwater ecosystems
+- refwright:read:unread
 - united states
 zotero_key: 2F7HQSHZ
 item_type: journalArticle
 url: https://doi.org/10.1088/1748-9326/11/9/094005
 source_url: 'unpaywall: https://iopscience.iop.org/article/10.1088/1748-9326/11/9/094005/pdf'
 fulltext_status: fulltext
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Grasslands, wetlands, and agriculture: the fate of land expiring from the Conservation Reserve Program in the Midwestern United States

@@ -9,16 +9,18 @@ year: '2022'
 journal: Forest Ecology and Management
 doi: 10.1016/j.foreco.2022.120500
 tags:
-- eastern united states
-- environmental impact
-- forest ecology
+- fire regimes
+- forests
+- refwright:read:unread
+- suppression
+- united states
 - wildfire
 zotero_key: 3VL7GWF3
 item_type: journalArticle
 url: https://linkinghub.elsevier.com/retrieve/pii/S0378112722004947
 source_url: 'unpaywall: https://www.osti.gov/servlets/purl/2425646'
 fulltext_status: fulltext
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Drivers and ecological impacts of a wildfire outbreak in the southern Appalachian Mountains after decades of fire exclusion

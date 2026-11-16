@@ -1,24 +1,24 @@
 ---
 title: The role of defensible space for residential structure protection during wildfires
 authors:
-- Syphard, Alexandra D
-- Brennan, Teresa J
-- Keeley, Jon E
+- Syphard, Alexandra D.
+- Brennan, Teresa J.
+- Keeley, Jon E.
 year: '2014'
 journal: International Journal of Wildland Fire
 doi: 10.1071/wf13158
 tags:
-- defensible space
-- fulltext:pdf-missing
-- housing
-- vegetation
+- WUI
+- fuels
+- refwright:read:unread
+- urbanization
 - wildfire
 zotero_key: 2UTX2GZX
 item_type: journalArticle
 url: https://doi.org/10.1071/wf13158
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # The role of defensible space for residential structure protection during wildfires

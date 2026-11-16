@@ -1,24 +1,28 @@
 ---
 title: 'Unpacking the ‘black box’: Improving ecological interpretation of regression‐based models'
 authors:
-- Prasad, Anantha
-- Peters, Matthew
-- Matthews, Stephen
-- Iverson, Louis
+- Prasad, Anantha M.
+- Peters, Matthew P.
+- Matthews, Stephen N.
+- Iverson, Louis R.
 year: '2023'
 journal: Diversity and Distributions
 doi: 10.1111/ddi.13707
 tags:
+- biodiversity
 - climate
+- forests
+- refwright:read:unread
 - statistics
 - topography
 - trees
+- united states
 zotero_key: 39GELW2M
 item_type: journalArticle
 url: https://onlinelibrary.wiley.com/doi/10.1111/ddi.13707
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Unpacking the ‘black box’: Improving ecological interpretation of regression‐based models

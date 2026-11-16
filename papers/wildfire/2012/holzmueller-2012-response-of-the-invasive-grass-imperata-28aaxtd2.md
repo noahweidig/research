@@ -7,16 +7,22 @@ year: '2012'
 journal: Forests
 doi: 10.3390/f3040853
 tags:
+- conservation
 - extremes
-- fire
-- forest management
-- southeastern united states
+- forests
+- invasive species
+- longleaf pine
+- plant physiology
+- plant species
+- refwright:read:unread
+- united states
+- wildfire
 zotero_key: 28AAXTD2
 item_type: journalArticle
 url: https://www.mdpi.com/1999-4907/3/4/853
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Response of the Invasive Grass Imperata cylindrica to Disturbance in the Southeastern Forests, USA

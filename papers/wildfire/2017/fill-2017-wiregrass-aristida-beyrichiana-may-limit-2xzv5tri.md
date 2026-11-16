@@ -10,16 +10,19 @@ year: '2017'
 journal: The American Midland Naturalist
 doi: 10.1674/0003-0031-177.1.153
 tags:
-- ecosystems
+- longleaf pine
 - plant physiology
-- southeastern united states
-- woody encroachment
+- rangelands
+- refwright:read:unread
+- united states
+- wildfire
+- woody cover
 zotero_key: 2XZV5TRI
 item_type: journalArticle
 url: https://doi.org/10.1674/0003-0031-177.1.153
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Wiregrass (Aristida beyrichiana) may limit woody plant encroachment in longleaf pine (Pinus palustris) ecosystems

@@ -1,23 +1,21 @@
 ---
-title: 'ggplot2: Elegant Graphics for Data Analysis'
+title: 'ggplot2: elegant graphics for data analysis'
 authors:
 - Wickham, Hadley
 year: '2016'
 journal: null
 doi: null
 tags:
-- data visualization
-- fulltext:check-needed
-- r package
+- refwright:read:unread
 - software
-- statistical software
+- statistics
 zotero_key: 2QAMMB7K
 item_type: book
 url: https://link.springer.com/book/10.1007/978-3-319-24277-4
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
-# ggplot2: Elegant Graphics for Data Analysis
+# ggplot2: elegant graphics for data analysis
 
