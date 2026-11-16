@@ -2,26 +2,29 @@
 title: 'Description of ecological subregions: sections of the conterminous United States'
 authors:
 - McNab, W.H.
-- Cleland, D.T.
+- Cleland, David T.
 - Freeouf, J.A.
 - Keys, J.E.
-- Nowacki, G.J.
+- Nowacki, Gregory J.
 - Carpenter, C.A.
 year: '2007'
 journal: null
 doi: 10.2737/WO-GTR-76B
 tags:
+- WUI
 - agriculture
-- fulltext:pdf-missing
-- government report
+- dataset
+- fuels
+- policy
+- refwright:read:unread
+- remote sensing
 - united states
-- vegetation
 zotero_key: 5N862UYC
 item_type: report
 url: https://www.fs.usda.gov/treesearch/pubs/48669
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Description of ecological subregions: sections of the conterminous United States

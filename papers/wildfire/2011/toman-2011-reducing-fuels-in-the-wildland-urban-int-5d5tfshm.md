@@ -13,17 +13,16 @@ year: '2011'
 journal: International Journal of Wildland Fire
 doi: 10.1071/WF10042
 tags:
-- fuel treatments
+- WUI
 - fuels
-- fulltext:pdf-missing
-- western united states
-- wildland-urban interface
+- refwright:read:unread
+- united states
 zotero_key: 5D5TFSHM
 item_type: journalArticle
 url: https://www.publish.csiro.au/wf/WF10042
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Reducing fuels in the wildland–urban interface: community perceptions of agency fuels treatments

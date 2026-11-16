@@ -9,17 +9,18 @@ year: '2015'
 journal: Forests
 doi: 10.3390/f6030561
 tags:
-- fire management
-- fire severity
-- fuel treatments
-- prescribed burning
+- fire regimes
+- fuels
+- prescribed fire
+- refwright:read:unread
+- suppression
 - wildfire
 zotero_key: 4HS6N4F2
 item_type: journalArticle
 url: https://www.mdpi.com/1999-4907/6/3/561
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Perspectives on Trends, Effectiveness, and Impediments to Prescribed Burning in the Southern U.S.

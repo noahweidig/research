@@ -10,16 +10,17 @@ year: '2023'
 journal: Fire Safety Journal
 doi: 10.1016/j.firesaf.2023.103853
 tags:
-- fire
-- fire management
-- vulnerability assessment
-- wildland-urban interface
+- WUI
+- refwright:read:unread
+- suppression
+- united states
+- wildfire
 zotero_key: 5UTQ3GRI
 item_type: journalArticle
 url: https://www.sciencedirect.com/science/article/pii/S0379711223001212
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Methodology for the analysis of structural vulnerability of WUI settlements

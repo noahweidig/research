@@ -8,17 +8,16 @@ year: '2025'
 journal: Fire
 doi: 10.3390/fire8060235
 tags:
-- Grassland Fire Danger Index (GFDI)
-- Keetch–Byram Drought Index (KBDI)
-- grass curing
+- WUI
 - prescribed fire
-- wildland–urban interface (WUI)
+- rangelands
+- refwright:read:unread
 zotero_key: 5LD8NGD9
 item_type: journalArticle
 url: https://www.mdpi.com/2571-6255/8/6/235
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Characterizing Risks for Wildfires and Prescribed Fires in the Great Plains

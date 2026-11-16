@@ -10,16 +10,19 @@ year: '2018'
 journal: Fire
 doi: 10.3390/fire1010015
 tags:
-- flammability
-- fuel breaks
-- green firebreaks
-- sustainability
+- WUI
+- fire risk
+- fuels
+- management
+- refwright:read:unread
+- suppression
+- wildfire
 zotero_key: 4SN8PLAJ
 item_type: journalArticle
 url: https://www.mdpi.com/2571-6255/1/1/15
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Selecting Low-Flammability Plants as Green Firebreaks within Sustainable Urban Garden Design

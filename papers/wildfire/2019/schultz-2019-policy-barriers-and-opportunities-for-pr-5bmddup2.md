@@ -2,23 +2,22 @@
 title: Policy barriers and opportunities for prescribed fire application in the western United States
 authors:
 - Schultz, Courtney A.
-- McCaffrey, Sarah M.
+- McCaffrey, Sarah
 - Huber-Stearns, Heidi R.
 year: '2019'
 journal: International Journal of Wildland Fire
 doi: 10.1071/WF19040
 tags:
-- fire
-- fulltext:pdf-missing
-- prescribed burning
+- prescribed fire
+- refwright:read:unread
 - united states
-- western united states
+- wildfire
 zotero_key: 5BMDDUP2
 item_type: journalArticle
 url: https://www.publish.csiro.au/wf/WF19040
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Policy barriers and opportunities for prescribed fire application in the western United States

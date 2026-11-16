@@ -12,16 +12,16 @@ year: '2019'
 journal: Climate
 doi: 10.3390/cli7040052
 tags:
-- california
 - drought
-- fuel moisture
+- fuels
+- refwright:read:unread
 - wildfire
 zotero_key: 5C3PZKWZ
 item_type: journalArticle
 url: https://www.mdpi.com/2225-1154/7/4/52
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Establishing Relationships between Drought Indices and Wildfire Danger Outputs: A Test Case for the California-Nevada Drought Early Warning System

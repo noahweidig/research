@@ -10,13 +10,15 @@ year: '2024'
 journal: Environmental Modelling & Software
 doi: 10.1016/j.envsoft.2024.106181
 tags:
-- fulltext:pdf-missing
+- fuels
+- refwright:read:unread
+- wildfire
 zotero_key: 5EY5GNSM
 item_type: journalArticle
 url: https://linkinghub.elsevier.com/retrieve/pii/S1364815224002421
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Modernizing the US National Fire Danger Rating System (version 4): Simplified fuel models and improved live and dead fuel moisture calculations

@@ -12,15 +12,18 @@ journal: Scientific Data
 doi: 10.1038/s41597-025-04892-2
 tags:
 - biodiversity
-- conservation biology
-- ecological modeling
-- ecosystems
+- climate
+- conservation
+- ecology
+- refwright:read:unread
+- united states
+- wildfire
 zotero_key: 5DQ7UH5Z
 item_type: journalArticle
 url: https://www.nature.com/articles/s41597-025-04892-2
 source_url: 'unpaywall: https://www.nature.com/articles/s41597-025-04892-2.pdf'
 fulltext_status: fulltext
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Global extent and change in human modification of terrestrial ecosystems from 1990 to 2022

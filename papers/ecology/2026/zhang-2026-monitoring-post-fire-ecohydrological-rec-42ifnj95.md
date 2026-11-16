@@ -12,19 +12,16 @@ year: '2026'
 journal: Science of Remote Sensing
 doi: 10.1016/j.srs.2026.100482
 tags:
-- ecohydrology
-- ecological modeling
-- fulltext:check-needed
-- post fire recovery
+- ecology
+- refwright:read:unread
 - remote sensing
 - united states
-- western united states
 zotero_key: 42IFNJ95
 item_type: journalArticle
 url: https://openalex.org/W7172445730
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Monitoring post-fire ecohydrological recovery through integrated remote sensing and ecological modeling

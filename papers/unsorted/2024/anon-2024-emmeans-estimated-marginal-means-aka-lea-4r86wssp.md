@@ -5,17 +5,15 @@ year: '2024'
 journal: null
 doi: null
 tags:
-- fulltext:check-needed
-- generalized linear models
-- mixed models
-- r package
+- refwright:read:unread
 - software
+- statistics
 zotero_key: 4R86WSSP
 item_type: computerProgram
 url: https://cran.r-project.org/web/packages/emmeans/index.html
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # emmeans: Estimated Marginal Means, aka Least-Squares Means

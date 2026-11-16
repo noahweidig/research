@@ -7,17 +7,16 @@ year: '2012'
 journal: Soft Computing
 doi: 10.1007/s00500-011-0768-2
 tags:
-- fulltext:pdf-missing
-- private land
-- spatial analysis
-- spatial data quality
+- fia
+- refwright:read:unread
+- remote sensing
 - statistics
 zotero_key: 4GRRNYG4
 item_type: journalArticle
 url: https://doi.org/10.1007/s00500-011-0768-2
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # A fuzzy interval analysis approach to kriging with ill-known variogram and data

@@ -2,10 +2,10 @@
 title: 'Containment lines, PODs and suppression success: A case study of the 2021 Schneider Springs Fire'
 authors:
 - Young, Jesse D.
-- O'Connor, Christopher D.
+- O’Connor, Christopher D.
 - Arkowitz, Alexander
 - Orland, Elijah
-- Ritter, Scott
+- Ritter, Scott M.
 - Calkin, Dave E.
 - Wadhwani, Rahul
 - Cansler, Alina
@@ -13,17 +13,17 @@ year: '2025'
 journal: International Journal of Wildland Fire
 doi: 10.1071/WF25124
 tags:
-- fire
-- fire suppression
-- forest structure
-- fulltext:pdf-missing
+- forests
+- refwright:read:unread
+- suppression
 - topography
+- wildfire
 zotero_key: 5QCFAHLX
 item_type: journalArticle
 url: https://research.fs.usda.gov/treesearch/80978
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Containment lines, PODs and suppression success: A case study of the 2021 Schneider Springs Fire

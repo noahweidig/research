@@ -1,5 +1,5 @@
 ---
-title: Changing Large Wildfire Risk in the Southeastern U.S.
+title: Changing large wildfire risk in the southeastern U.S
 authors:
 - Donovan, Victoria M.
 - Crandall, Raelene M.
@@ -11,20 +11,21 @@ year: '2024'
 journal: Gulf of Mexico Conference
 doi: null
 tags:
-- eastern united states
+- WUI
+- fire regimes
 - fire risk
-- fulltext:check-needed
-- southeastern united states
+- refwright:read:done
+- united states
 - wildfire
 zotero_key: 4RBPKM8R
 item_type: conferencePaper
 url: https://gulfofamericaalliance.org/wp-content/uploads/2024/02/GOMCON-Schedule-of-Concurrent-Sessions-02.14.24.pdf
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
-# Changing Large Wildfire Risk in the Southeastern U.S.
+# Changing large wildfire risk in the southeastern U.S
 
 ## Abstract
 

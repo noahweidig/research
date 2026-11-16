@@ -7,16 +7,19 @@ year: '2026'
 journal: Fire Ecology
 doi: 10.1186/s42408-026-00582-5
 tags:
-- drivers
 - drought
-- protected areas
+- fire regimes
+- forests
+- refwright:read:unread
+- trees
+- united states
 - wildfire
 zotero_key: 424WNCHM
 item_type: journalArticle
 url: https://openalex.org/W7213459719
 source_url: 'unpaywall: https://link.springer.com/content/pdf/10.1186/s42408-026-00582-5.pdf'
 fulltext_status: fulltext
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # From drying to frying: drought and fire as interacting drivers of vegetation change in piñon-juniper-oak forests of the Chisos Mountains, Big Bend National Park, USA

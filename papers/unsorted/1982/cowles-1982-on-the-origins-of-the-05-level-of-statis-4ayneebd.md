@@ -7,17 +7,15 @@ year: '1982'
 journal: American Psychologist
 doi: 10.1037/0003-066X.37.5.553
 tags:
-- fulltext:pdf-found
-- history of statistics
-- hypothesis testing
-- statistical significance
+- refwright:read:unread
+- software
 - statistics
 zotero_key: 4AYNEEBD
 item_type: journalArticle
 url: https://doi.org/10.1037/0003-066X.37.5.553
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # On the origins of the .05 level of statistical significance
