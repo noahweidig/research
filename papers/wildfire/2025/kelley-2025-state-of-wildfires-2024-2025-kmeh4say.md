@@ -5,7 +5,7 @@ authors:
 - Burton, Chantelle
 - Di Giuseppe, Francesca
 - Jones, Matthew W.
-- Barbosa, Maria L. F.
+- Barbosa, Maria Lucia Ferreira
 - Brambleby, Esther
 - McNorton, Joe R.
 - Liu, Zhongwei
@@ -17,7 +17,7 @@ authors:
 - Eden, Jonathan
 - Ferreira, Igor José M.
 - Fiedler, Lukas
-- Hartley, Andrew J.
+- Hartley, Andrew James
 - Keeping, Theodore R.
 - Lampe, Seppe
 - Lombardi, Anna
@@ -28,7 +28,7 @@ authors:
 - Steinmann, Carmen B.
 - Torres-Vázquez, Miguel Ángel
 - Veiga, Renata
-- Van Wees, Dave
+- van Wees, Dave
 - Wessel, Jakob B.
 - Wright, Emily
 - Bilbao, Bibiana
@@ -56,7 +56,7 @@ authors:
 - San-Miguel-Ayanz, Jesus
 - Sedano, Fernando
 - Turco, Marco
-- Van Der Werf, Guido R.
+- van der Werf, Guido R.
 - Veraverbeke, Sander
 - Anderson, Liana O.
 - Clarke, Hamish
@@ -66,9 +66,10 @@ year: '2025'
 journal: Earth System Science Data
 doi: 10.5194/essd-17-5377-2025
 tags:
-- california
-- climate change
-- fulltext:pdf-missing
+- climate
+- ecology
+- fire regimes
+- refwright:read:unread
 - weather
 - wildfire
 zotero_key: KMEH4SAY
@@ -76,7 +77,7 @@ item_type: journalArticle
 url: https://essd.copernicus.org/articles/17/5377/2025/
 source_url: 'unpaywall: https://doi.org/10.5194/essd-17-5377-2025'
 fulltext_status: fulltext
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # State of Wildfires 2024–2025

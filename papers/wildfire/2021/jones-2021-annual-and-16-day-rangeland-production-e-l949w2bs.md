@@ -12,16 +12,20 @@ year: '2021'
 journal: Rangeland Ecology & Management
 doi: 10.1016/j.rama.2021.04.003
 tags:
-- decision support
-- rangeland
+- conservation
+- management
+- rangelands
+- refwright:read:unread
+- remote sensing
 - united states
-- western united states
+- wildfire
+- woody cover
 zotero_key: L949W2BS
 item_type: journalArticle
 url: https://linkinghub.elsevier.com/retrieve/pii/S1550742421000464
 source_url: 'unpaywall: https://www.biorxiv.org/content/biorxiv/early/2021/04/06/2020.11.06.343038.full.pdf'
 fulltext_status: fulltext
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Annual and 16-Day Rangeland Production Estimates for the Western United States

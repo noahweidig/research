@@ -8,17 +8,17 @@ year: '2025'
 journal: Trends in Ecology & Evolution
 doi: 10.1016/j.tree.2025.06.002
 tags:
-- animals
 - climate
-- fulltext:pdf-missing
 - habitats
+- refwright:read:unread
 - topography
+- wildlife
 zotero_key: LTPBPMD3
 item_type: journalArticle
 url: https://www.sciencedirect.com/science/article/pii/S0169534725001582
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Linking individual animal behavior to species range shifts under climate change

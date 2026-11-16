@@ -11,16 +11,18 @@ year: '2020'
 journal: Fire
 doi: 10.3390/fire3030043
 tags:
-- decision support
-- fire suppression
-- risk management
-- validation
+- fire risk
+- refwright:read:unread
+- statistics
+- suppression
+- united states
+- wildfire
 zotero_key: L75JVKGA
 item_type: journalArticle
 url: https://www.mdpi.com/2571-6255/3/3/43
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-16'
 ---
 
 # A Geospatial Framework to Assess Fireline Effectiveness for Large Wildfires in the Western USA

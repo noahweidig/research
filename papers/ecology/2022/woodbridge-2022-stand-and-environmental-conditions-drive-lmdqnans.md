@@ -2,22 +2,23 @@
 title: Stand and environmental conditions drive functional shifts associated with mesophication in eastern US forests
 authors:
 - Woodbridge, Margaret
-- Keyser, Tara
-- Oswalt, Christopher
+- Keyser, Tara L.
+- Oswalt, Christopher M.
 year: '2022'
 journal: Frontiers in Forests and Global Change
 doi: 10.3389/ffgc.2022.991934
 tags:
 - drought
-- eastern united states
-- mesophication
+- fia
+- forests
+- refwright:read:unread
 - united states
 zotero_key: LMDQNANS
 item_type: journalArticle
 url: https://www.frontiersin.org/articles/10.3389/ffgc.2022.991934
 source_url: 'unpaywall: https://doi.org/10.3389/ffgc.2022.991934'
 fulltext_status: fulltext
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Stand and environmental conditions drive functional shifts associated with mesophication in eastern US forests

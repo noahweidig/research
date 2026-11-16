@@ -12,23 +12,27 @@ year: '2025'
 journal: Nature Communications
 doi: 10.1038/s41467-025-61608-1
 tags:
-- climate change
+- climate
+- ecology
 - extremes
-- fire
-- fire ecology
+- forests
+- human dimensions
+- refwright:read:unread
+- weather
+- wildfire
 zotero_key: L25AJA4C
 item_type: journalArticle
 url: https://www.nature.com/articles/s41467-025-61608-1
 source_url: 'unpaywall: https://www.nature.com/articles/s41467-025-61608-1.pdf'
 fulltext_status: fulltext
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Climate change has increased the odds of extreme regional forest fire years globally
 
 ## Abstract
 
-Regions across the globe have experienced devastating fire years in the past decade with far-reaching impacts. Here, we examine the role of antecedent and concurrent climate variability in enabling extreme regional fire years across global forests. These extreme years commonly coincided with extreme (1-in-15-year) fire weather indices (FWI) and featured a four and five-fold increase in the number of large fires and fire carbon emissions, respectively, compared with non-extreme years. Years with such extreme FWI metrics are 88-152% more likely across global forested lands under a contemporary (2011–2040) climate compared to a quasi-preindustrial (1851–1900) climate, with the most pronounced increased risk in temperate and Amazonian forests. Our results show that human-caused climate change is raising the odds of extreme climate-driven fire years across forested regions of the globe, necessitating proactive measures to mitigate risks and adapt to extreme fire years.
+Abstract Regions across the globe have experienced devastating fire years in the past decade with far-reaching impacts. Here, we examine the role of antecedent and concurrent climate variability in enabling extreme regional fire years across global forests. These extreme years commonly coincided with extreme (1-in-15-year) fire weather indices (FWI) and featured a four and five-fold increase in the number of large fires and fire carbon emissions, respectively, compared with non-extreme years. Years with such extreme FWI metrics are 88-152% more likely across global forested lands under a contemporary (2011–2040) climate compared to a quasi-preindustrial (1851–1900) climate, with the most pronounced increased risk in temperate and Amazonian forests. Our results show that human-caused climate change is raising the odds of extreme climate-driven fire years across forested regions of the globe, necessitating proactive measures to mitigate risks and adapt to extreme fire years.
 
 ## Full text
 

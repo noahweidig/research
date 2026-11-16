@@ -9,26 +9,23 @@ authors:
 - Lautenberger, Chris
 - Qin, Yiren
 - Trouvé, Arnaud
-- Gollner, Michael
+- Gollner, Michael J.
 year: '2025'
 journal: Nature Communications
 doi: 10.1038/s41467-025-63386-2
 tags:
-- california
-- defensible space
+- WUI
 - fire risk
-- geography
-- machine learning
 - natural hazards
+- refwright:read:unread
 - remote sensing
-- wildland-urban interface
-- xgboost
+- statistics
 zotero_key: L8Y895ZX
 item_type: journalArticle
 url: https://www.nature.com/articles/s41467-025-63386-2
 source_url: 'unpaywall: https://www.nature.com/articles/s41467-025-63386-2.pdf'
 fulltext_status: fulltext
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Fire risk to structures in California’s Wildland-Urban Interface

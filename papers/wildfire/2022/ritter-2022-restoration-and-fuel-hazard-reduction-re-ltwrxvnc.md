@@ -9,20 +9,18 @@ year: '2022'
 journal: Ecological Applications
 doi: 10.1002/eap.2682
 tags:
-- crown fire
+- WUI
 - ecology
-- fire behavior
-- forestry
-- fuel treatments
-- restoration
+- forests
+- fuels
+- refwright:read:unread
 - wildfire
-- wildland-urban interface
 zotero_key: LTWRXVNC
 item_type: journalArticle
 url: https://onlinelibrary.wiley.com/doi/abs/10.1002/eap.2682
 source_url: 'unpaywall: https://www.ncbi.nlm.nih.gov/pmc/articles/9787879'
 fulltext_status: fulltext
-synced: '2026-11-06'
+synced: '2026-11-16'
 ---
 
 # Restoration and fuel hazard reduction result in equivalent reductions in crown fire behavior in dry conifer forests

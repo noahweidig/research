@@ -8,20 +8,15 @@ year: '2024'
 journal: Methods in Ecology and Evolution
 doi: 10.1111/2041-210X.14443
 tags:
-- R-function
-- causality
-- null models
-- random environmental sampling
-- shift-&-rotate
-- spatial autocorrelation
-- spatial confounding
-- species distribution modelling
+- conservation
+- refwright:read:unread
+- statistics
 zotero_key: M24Z3D73
 item_type: journalArticle
 url: https://onlinelibrary.wiley.com/doi/abs/10.1111/2041-210X.14443
 source_url: 'unpaywall: https://jyx.jyu.fi/bitstreams/6bc9d041-1611-4c1e-a7bf-35707c4a1ec8/download'
 fulltext_status: fulltext
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Generating spatially realistic environmental null models with the shift-&-rotate approach helps evaluate false positives in species distribution modelling
@@ -493,7 +488,3 @@ Additional supporting information can be found online in the Supporting Informat
 **Figure S2.** Heat maps of regression parameter estimates _̂ 훽_ for those parameters that were nonzero in the data generating model (i.e. parameters related to predictors for which _βkj_ ≠ 0) for different combinations of model types ( _Y_ axis) and simulated community data types ( _X_ axis). 
 
 **How to cite this article:** Ridder, G. I., Hardy, O. J., & Ovaskainen, O. (2024). Generating spatially realistic environmental null models with the shift- &- rotate approach helps evaluate false positives in species distribution modelling. _Methods in Ecology and Evolution_ , _00_ , 1–12. <u>https://doi.org/10.1111/2041-210X.14443</u> 
-
-
-
-

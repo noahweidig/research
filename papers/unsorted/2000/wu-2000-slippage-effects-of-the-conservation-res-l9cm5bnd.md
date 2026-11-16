@@ -5,13 +5,17 @@ authors:
 year: '2000'
 journal: American Journal of Agricultural Economics
 doi: 10.1111/0002-9092.00096
-tags: []
+tags:
+- CRP
+- agriculture
+- land cover
+- refwright:read:unread
 zotero_key: L9CM5BND
 item_type: journalArticle
 url: https://onlinelibrary.wiley.com/doi/10.1111/0002-9092.00096
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Slippage Effects of the Conservation Reserve Program

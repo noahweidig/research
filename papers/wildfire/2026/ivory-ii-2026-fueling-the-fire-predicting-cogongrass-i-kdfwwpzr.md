@@ -3,7 +3,7 @@ title: 'Fueling the fire: predicting cogongrass (Imperata cylindrica) impacts on
 authors:
 - Ivory II, Alan A.
 - Wonkka, Carissa L.
-- McGranahan, Devan A.
+- McGranahan, Devan Allen
 - Akpejeluh, Paul
 - Kincy, Sarah
 - Weidig, Noah C.
@@ -15,16 +15,19 @@ year: '2026'
 journal: Fire Ecology
 doi: 10.1186/s42408-026-00574-5
 tags:
-- fire behavior
-- invasive grass
+- fire regimes
+- fuels
 - invasive species
-- modeling
+- plant species
+- refwright:read:done
+- statistics
+- wildfire
 zotero_key: KDFWWPZR
 item_type: journalArticle
 url: https://doi.org/10.1186/s42408-026-00574-5
 source_url: 'unpaywall: https://link.springer.com/content/pdf/10.1186/s42408-026-00574-5.pdf'
 fulltext_status: fulltext
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Fueling the fire: predicting cogongrass (Imperata cylindrica) impacts on fire behavior across environmental and seasonal gradients

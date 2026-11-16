@@ -8,22 +8,19 @@ year: '2017'
 journal: Ecological Applications
 doi: 10.1002/eap.1488
 tags:
-- australia
 - biodiversity
-- burned area
-- fire
-- fuel load
-- fulltext:pdf-missing
-- heterogeneity
-- landscape ecology
-- patch mosaic burning
-- prescribed burning
+- ecology
+- fire regimes
+- fuels
+- prescribed fire
+- refwright:read:unread
+- wildfire
 zotero_key: M568B2I8
 item_type: journalArticle
 url: https://onlinelibrary.wiley.com/doi/abs/10.1002/eap.1488
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Prescribed burning consumes key forest structural components: implications for landscape heterogeneity

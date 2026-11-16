@@ -3,7 +3,7 @@ title: Impact of Transported Wildfire Emissions on Urban PM 2.5 and O 3 in Queen
 authors:
 - Xiao, Yang
 - Han, S.
-- Zhang, H.
+- Zhang, Hongguo
 - Morton, H.
 - Verma, Puneet Chandra
 - Ristovski, Zoran
@@ -13,16 +13,16 @@ year: '2026'
 journal: Geophysical Research Letters
 doi: 10.1029/2026gl124015
 tags:
-- air pollution
 - air quality
-- australia
+- refwright:read:unread
+- statistics
 - wildfire
 zotero_key: KKQI9W2I
 item_type: journalArticle
 url: https://openalex.org/W7214190129
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Impact of Transported Wildfire Emissions on Urban PM 2.5 and O 3 in Queensland, Australia

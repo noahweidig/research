@@ -5,22 +5,25 @@ authors:
 - Tavella, Julia
 - Marquez, Victoria
 - Ashworth, Lorena
-- Pausas, Juli G
+- Pausas, Juli G.
 - Aguilar, Ramiro
 year: '2025'
 journal: Annals of Botany
 doi: 10.1093/aob/mcae033
 tags:
-- ecosystems
-- fire
-- human-related causes
-- vegetation
+- ecology
+- fire regimes
+- fuels
+- human dimensions
+- plant species
+- refwright:read:unread
+- wildfire
 zotero_key: L25EDCQ4
 item_type: journalArticle
 url: https://doi.org/10.1093/aob/mcae033
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Fire effects on pollination and plant reproduction: a quantitative review

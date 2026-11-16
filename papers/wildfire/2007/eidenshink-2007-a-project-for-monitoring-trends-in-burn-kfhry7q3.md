@@ -11,16 +11,18 @@ year: '2007'
 journal: Fire Ecology
 doi: 10.4996/fireecology.0301003
 tags:
-- burning
-- fire severity
-- mtbs
+- WUI
+- fire regimes
+- prescribed fire
+- refwright:read:unread
 - united states
+- wildfire
 zotero_key: KFHRY7Q3
 item_type: journalArticle
 url: https://fireecology.springeropen.com/articles/10.4996/fireecology.0301003
 source_url: 'unpaywall: https://fireecology.springeropen.com/counter/pdf/10.4996/fireecology.0301003'
 fulltext_status: fulltext
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # A Project for Monitoring Trends in Burn Severity

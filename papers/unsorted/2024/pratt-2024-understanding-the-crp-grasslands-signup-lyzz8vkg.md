@@ -10,13 +10,18 @@ authors:
 year: '2024'
 journal: null
 doi: null
-tags: []
+tags:
+- CRP
+- agriculture
+- conservation
+- rangelands
+- refwright:read:unread
 zotero_key: LYZZ8VKG
 item_type: journalArticle
 url: https://ageconsearch.umn.edu/record/343916/files/28963.pdf
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Understanding the CRP Grasslands Signup

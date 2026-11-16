@@ -9,16 +9,19 @@ year: '2022'
 journal: 'IOP Conference Series: Earth and Environmental Science'
 doi: 10.1088/1755-1315/1101/2/022034
 tags:
-- fire
+- WUI
+- fire risk
 - natural hazards
+- refwright:read:unread
 - resilience
-- wildland-urban interface
+- united states
+- wildfire
 zotero_key: KAXH5MNM
 item_type: journalArticle
 url: https://dx.doi.org/10.1088/1755-1315/1101/2/022034
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Resilience of Industrial Buildings to Wildland-Urban Interface Fires

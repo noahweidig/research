@@ -9,17 +9,18 @@ year: '2025'
 journal: International Association for Landscape Ecology - North America Annual Conference
 doi: null
 tags:
-- eastern united states
-- fulltext:pdf-found
-- land use change
+- fire risk
+- land cover
+- refwright:read:done
 - united states
+- wildfire
 - woody cover
 zotero_key: KV2MXZ8V
 item_type: conferencePaper
 url: https://www.ialena.org/uploads/9/4/8/2/94821076/iale_program_handout_final.pdf
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Woody cover increases linked to forest infilling and land conversion in the eastern United States

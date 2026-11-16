@@ -12,15 +12,17 @@ journal: npj Science of Food
 doi: 10.1038/s41538-026-01111-z
 tags:
 - agriculture
+- exposure
+- natural hazards
+- refwright:read:unread
 - united states
 - wildfire
-- wildfire occurrence
 zotero_key: KQ2SU56R
 item_type: journalArticle
 url: https://openalex.org/W7211988946
 source_url: 'unpaywall: https://www.nature.com/articles/s41538-026-01111-z_reference.pdf'
 fulltext_status: fulltext
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Flood-wildfire co-occurrence risks disrupt global staple food trade and erode SDG progress

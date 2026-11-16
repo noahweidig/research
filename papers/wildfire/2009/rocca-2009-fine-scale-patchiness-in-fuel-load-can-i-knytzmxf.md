@@ -5,13 +5,17 @@ authors:
 year: '2009'
 journal: Natural Areas Journal
 doi: 10.3375/043.029.0204
-tags: []
+tags:
+- fuels
+- prescribed fire
+- refwright:read:unread
+- wildfire
 zotero_key: KNYTZMXF
 item_type: journalArticle
 url: https://bioone.org/journals/natural-areas-journal/volume-29/issue-2/043.029.0204/Fine-Scale-Patchiness-in-Fuel-Load-Can-Influence-Initial-Post/10.3375/043.029.0204.full
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Fine-Scale Patchiness in Fuel Load Can Influence Initial Post-Fire Understory Composition in a Mixed Conifer Forest, Sequoia National Park, California

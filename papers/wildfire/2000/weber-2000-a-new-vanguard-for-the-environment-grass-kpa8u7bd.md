@@ -6,16 +6,18 @@ year: '2000'
 journal: Society & Natural Resources
 doi: 10.1080/089419200279081
 tags:
-- ecosystem management
-- ecosystems
-- grasses
+- management
+- rangelands
+- refwright:read:unread
+- statistics
 - united states
+- wildfire
 zotero_key: KPA8U7BD
 item_type: journalArticle
 url: http://www.tandfonline.com/doi/abs/10.1080/089419200279081
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # A New Vanguard for the Environment: Grass-Roots Ecosystem Management as a New Environmental Movement

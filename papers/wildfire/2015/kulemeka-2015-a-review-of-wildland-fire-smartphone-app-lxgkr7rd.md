@@ -6,17 +6,15 @@ year: '2015'
 journal: International Journal of Emergency Services
 doi: null
 tags:
-- australia
-- fire
-- fire smart
-- fulltext:check-needed
+- refwright:read:unread
 - united states
+- wildfire
 zotero_key: LXGKR7RD
 item_type: journalArticle
 url: https://www.emerald.com/insight/content/doi/10.1108/IJES-07-2014-0010/full/html
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # A review of wildland fire smartphone applications: a classification study from Australia, USA, Canada and South Africa

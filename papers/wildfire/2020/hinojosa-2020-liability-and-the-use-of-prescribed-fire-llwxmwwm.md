@@ -8,16 +8,16 @@ year: '2020'
 journal: Land
 doi: 10.3390/land9090318
 tags:
-- legal statutes
-- negligence
-- prescribed burning
+- policy
+- prescribed fire
+- refwright:read:unread
 - wildfire
 zotero_key: LLWXMWWM
 item_type: journalArticle
 url: https://www.mdpi.com/2073-445X/9/9/318
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Liability and the Use of Prescribed Fire in the Southern Plains, USA: A Survey of District Court Judges

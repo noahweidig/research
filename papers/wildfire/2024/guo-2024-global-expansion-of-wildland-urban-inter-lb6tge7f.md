@@ -9,16 +9,18 @@ year: '2024'
 journal: Science Advances
 doi: 10.1126/sciadv.ado9587
 tags:
+- WUI
 - exposure
 - fire risk
+- refwright:read:unread
+- suppression
 - wildfire
-- wildland-urban interface
 zotero_key: LB6TGE7F
 item_type: journalArticle
 url: https://www.science.org/doi/10.1126/sciadv.ado9587
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Global expansion of wildland-urban interface intensifies human exposure to wildfire risk in the 21st century

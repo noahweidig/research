@@ -9,22 +9,25 @@ authors:
 - Caggiano, Michael D.
 - Meldrum, James R.
 - Alexandre, Patricia M.
-- Kramer, H. Anu
+- Kramer, Heather Anu
 - Steblein, Paul F.
 year: '2025'
 journal: Proceedings of the National Academy of Sciences
 doi: 10.1073/pnas.2505886122
 tags:
+- WUI
+- agriculture
 - exposure
+- forests
+- refwright:read:unread
 - united states
 - wildfire
-- wildland-urban interface
 zotero_key: LBPRVGYK
 item_type: journalArticle
 url: https://www.pnas.org/doi/full/10.1073/pnas.2505886122
 source_url: 'unpaywall: https://pmc.ncbi.nlm.nih.gov/articles/PMC12745683/'
 fulltext_status: fulltext
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Rising rates of wildfire building destruction in the conterminous United States

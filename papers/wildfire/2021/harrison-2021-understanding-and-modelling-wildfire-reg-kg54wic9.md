@@ -8,7 +8,7 @@ authors:
 - Forkel, Matthias
 - Forrest, Matthew
 - Ningthoujam, Ramesh K.
-- Pellegrini, Adam
+- Pellegrini, Adam F. A.
 - Shen, Yicheng
 - Baudena, Mara
 - Cardoso, Anabelle W.
@@ -21,16 +21,19 @@ year: '2021'
 journal: Environmental Research Letters
 doi: 10.1088/1748-9326/ac39be
 tags:
-- fire regime
+- climate
+- fire regimes
 - fragmentation
-- modeling
+- refwright:read:unread
+- statistics
+- suppression
 - wildfire
 zotero_key: KG54WIC9
 item_type: journalArticle
 url: https://dx.doi.org/10.1088/1748-9326/ac39be
 source_url: 'unpaywall: https://centaur.reading.ac.uk/101738/8/Harrison_2021_Environ._Res._Lett._16_125008%20%281%29.pdf'
 fulltext_status: fulltext
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Understanding and modelling wildfire regimes: an ecological perspective
