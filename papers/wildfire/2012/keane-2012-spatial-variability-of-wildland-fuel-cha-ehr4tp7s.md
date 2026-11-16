@@ -7,13 +7,15 @@ authors:
 year: '2012'
 journal: null
 doi: 10.2737/RMRS-RP-98
-tags: []
+tags:
+- fuels
+- refwright:read:unread
 zotero_key: EHR4TP7S
 item_type: report
 url: https://www.fs.usda.gov/treesearch/pubs/42170
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Spatial variability of wildland fuel characteristics in northern Rocky Mountain ecosystems

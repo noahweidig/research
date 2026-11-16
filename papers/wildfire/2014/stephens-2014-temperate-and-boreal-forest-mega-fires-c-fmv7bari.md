@@ -1,11 +1,11 @@
 ---
 title: 'Temperate and boreal forest mega-fires: characteristics and challenges'
 authors:
-- Stephens, Scott L
+- Stephens, Scott L.
 - Burrows, Neil
 - Buyantuyev, Alexander
 - Gray, Robert W
-- Keane, Robert E
+- Keane, Robert E.
 - Kubian, Rick
 - Liu, Shirong
 - Seijo, Francisco
@@ -16,17 +16,15 @@ year: '2014'
 journal: Frontiers in Ecology and the Environment
 doi: 10.1890/120332
 tags:
-- ecosystems
-- fire
-- fire regime
-- fulltext:pdf-missing
-- megafire
+- fire regimes
+- refwright:read:unread
+- wildfire
 zotero_key: FMV7BARI
 item_type: journalArticle
 url: https://onlinelibrary.wiley.com/doi/abs/10.1890/120332
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Temperate and boreal forest mega-fires: characteristics and challenges

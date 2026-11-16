@@ -7,19 +7,17 @@ year: '2016'
 journal: Journal of Climate
 doi: 10.1175/JCLI-D-15-0697.1
 tags:
-- atmospheric science
 - climate
 - drought
-- earth system models
 - extremes
-- fulltext:pdf-missing
-- modeling
+- refwright:read:unread
+- statistics
 zotero_key: F95M688A
 item_type: journalArticle
 url: https://journals.ametsoc.org/view/journals/clim/29/18/jcli-d-15-0697.1.xml
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # The Physics of Drought in the U.S. Central Great Plains

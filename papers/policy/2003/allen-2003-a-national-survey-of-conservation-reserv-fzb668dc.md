@@ -7,16 +7,19 @@ year: '2003'
 journal: null
 doi: null
 tags:
-- animals
+- CRP
+- agriculture
 - conservation
-- conservation reserve program
-- survey research
+- policy
+- refwright:read:unread
+- statistics
+- wildlife
 zotero_key: FZB668DC
 item_type: report
 url: https://pubs.usgs.gov/publication/53863
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # A national survey of Conservation Reserve Program (CRP) participants on environmental effects, wildlife issues, and vegetation management on program lands

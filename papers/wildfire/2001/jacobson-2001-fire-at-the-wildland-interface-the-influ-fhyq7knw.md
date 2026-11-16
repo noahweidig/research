@@ -8,17 +8,17 @@ year: '2001'
 journal: Wildlife Society Bulletin (1973-2006)
 doi: null
 tags:
-- fire
-- fulltext:check-needed
-- prescribed burning
-- southeastern united states
-- survey research
+- prescribed fire
+- refwright:read:unread
+- statistics
+- united states
+- wildfire
 zotero_key: FHYQ7KNW
 item_type: journalArticle
 url: https://www.jstor.org/stable/3784420
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Fire at the Wildland Interface: The Influence of Experience and Mass Media on Public Knowledge, Attitudes, and Behavioral Intentions

@@ -9,16 +9,18 @@ year: '2020'
 journal: Fire Technology
 doi: 10.1007/s10694-019-00902-z
 tags:
-- fire
-- fire hazard
+- WUI
+- fire risk
 - natural hazards
-- wildland-urban interface
+- refwright:read:unread
+- urbanization
+- wildfire
 zotero_key: FWNU7WAG
 item_type: journalArticle
 url: http://link.springer.com/10.1007/s10694-019-00902-z
 source_url: 'unpaywall: https://link.springer.com/content/pdf/10.1007/s10694-019-00902-z.pdf'
 fulltext_status: fulltext
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Guidance on Design and Construction of the Built Environment Against Wildland Urban Interface Fire Hazard: A Review

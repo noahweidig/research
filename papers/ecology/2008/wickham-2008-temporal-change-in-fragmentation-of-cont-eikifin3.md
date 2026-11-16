@@ -9,17 +9,17 @@ year: '2008'
 journal: Landscape Ecology
 doi: 10.1007/s10980-008-9258-z
 tags:
-- deforestation
-- edge effects
+- ecology
+- forests
 - land cover
+- refwright:read:unread
 - remote sensing
-- scale
 zotero_key: EIKIFIN3
 item_type: journalArticle
 url: https://doi.org/10.1007/s10980-008-9258-z
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Temporal change in fragmentation of continental US forests

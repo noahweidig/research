@@ -1,29 +1,25 @@
 ---
 title: 'Pathways to conservation persistence: Psychosocial drivers of durable grasslands following the Conservation Reserve Program'
 authors:
-- Barnes, J.C.
-- Dayer, A.A.
-- Gramza, A.R.
-- Sketch, M.
+- Barnes, Jessica C.
+- Dayer, Ashley A.
+- Gramza, Ashley R.
+- Sketch, Mary
 - Dwyer, A.M.
-- Iovanna, R.
+- Iovanna, Rich
 year: '2023'
 journal: Journal of Soil and Water Conservation
 doi: 10.2489/jswc.2023.00215
 tags:
-- Conservation Reserve Program
-- cognitions
-- fulltext:pdf-missing
-- grassland conservation
-- landowner
-- motivations
-- persistence
+- CRP
+- rangelands
+- refwright:read:unread
 zotero_key: G8IVZ7J6
 item_type: journalArticle
 url: https://doi.org/10.2489/jswc.2023.00215
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Pathways to conservation persistence: Psychosocial drivers of durable grasslands following the Conservation Reserve Program

@@ -10,16 +10,17 @@ journal: International Journal of Wildland Fire
 doi: 10.1071/WF21081
 tags:
 - climate
-- fire
-- fire regime
-- fulltext:pdf-found
-- pyrogeography
+- fire regimes
+- fuels
+- refwright:read:unread
+- weather
+- wildfire
 zotero_key: FEEHCZDY
 item_type: journalArticle
 url: https://www.publish.csiro.au/wf/WF21081
 source_url: 'unpaywall: http://zaguan.unizar.es/record/151994'
 fulltext_status: fulltext
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Understanding fire regimes in Europe

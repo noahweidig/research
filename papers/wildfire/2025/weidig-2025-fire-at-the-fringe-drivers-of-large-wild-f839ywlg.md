@@ -10,17 +10,16 @@ year: '2025'
 journal: Ecological Society of America
 doi: null
 tags:
-- eastern united states
-- fulltext:check-needed
-- large wildfires
+- WUI
+- refwright:read:done
+- united states
 - wildfire
-- wildland-urban interface
 zotero_key: F839YWLG
 item_type: conferencePaper
 url: https://events.rdmobile.com/Lists/Details/2996882
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Fire at the fringe: Drivers of large wildfires in and near the wildland-urban interface of the eastern United States

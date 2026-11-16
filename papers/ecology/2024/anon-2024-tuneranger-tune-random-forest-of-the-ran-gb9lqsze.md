@@ -5,17 +5,15 @@ year: '2024'
 journal: null
 doi: null
 tags:
-- fulltext:check-needed
-- machine learning
-- r package
-- random forest
+- refwright:read:unread
 - software
+- statistics
 zotero_key: GB9LQSZE
 item_type: computerProgram
 url: https://cran.r-project.org/web/packages/tuneRanger/index.html
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # tuneRanger: Tune Random Forest of the 'ranger' Package

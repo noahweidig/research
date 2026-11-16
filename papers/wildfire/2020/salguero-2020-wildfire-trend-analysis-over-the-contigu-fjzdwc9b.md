@@ -9,17 +9,17 @@ year: '2020'
 journal: Remote Sensing
 doi: 10.3390/rs12162565
 tags:
-- fire suppression
-- mtbs
+- refwright:read:unread
 - remote sensing
-- time series
+- statistics
+- suppression
 - wildfire
 zotero_key: FJZDWC9B
 item_type: journalArticle
 url: https://www.mdpi.com/2072-4292/12/16/2565
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Wildfire Trend Analysis over the Contiguous United States Using Remote Sensing Observations

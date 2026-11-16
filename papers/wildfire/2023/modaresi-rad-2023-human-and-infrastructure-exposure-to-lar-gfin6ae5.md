@@ -13,8 +13,10 @@ year: '2023'
 journal: Nature Sustainability
 doi: 10.1038/s41893-023-01163-z
 tags:
-- environmental health
+- WUI
 - exposure
+- public health
+- refwright:read:unread
 - united states
 - wildfire
 zotero_key: GFIN6AE5
@@ -22,7 +24,7 @@ item_type: journalArticle
 url: https://www.nature.com/articles/s41893-023-01163-z
 source_url: 'unpaywall: https://www.researchsquare.com/article/rs-2102401/latest.pdf'
 fulltext_status: fulltext
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Human and infrastructure exposure to large wildfires in the United States

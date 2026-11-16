@@ -13,8 +13,9 @@ year: '2026'
 journal: Communications Earth & Environment
 doi: 10.1038/s43247-026-04150-2
 tags:
-- atmospheric science
-- fire weather
+- climate
+- refwright:read:unread
+- united states
 - weather
 - wildfire
 zotero_key: EGREQWUE
@@ -22,7 +23,7 @@ item_type: journalArticle
 url: https://openalex.org/W7221356347
 source_url: 'unpaywall: https://www.nature.com/articles/s43247-026-04150-2_reference.pdf'
 fulltext_status: fulltext
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Land-atmosphere feedback amplifies circulation-dominant fire weather risk over eastern Siberia

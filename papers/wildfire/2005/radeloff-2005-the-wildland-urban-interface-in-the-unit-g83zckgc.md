@@ -2,27 +2,26 @@
 title: The Wildland–Urban Interface in the United States
 authors:
 - Radeloff, Volker C.
-- Hammer, R. B.
-- Stewart, S. I.
-- Fried, J. S.
+- Hammer, Roger B.
+- Stewart, Susan I.
+- Fried, Jeremy S.
 - Holcomb, S. S.
 - McKeefry, J. F.
 year: '2005'
 journal: Ecological Applications
 doi: 10.1890/04-1413
 tags:
+- WUI
 - fragmentation
-- fulltext:pdf-missing
-- housing
+- refwright:read:unread
 - urbanization
 - wildfire
-- wildland-urban interface
 zotero_key: G83ZCKGC
 item_type: journalArticle
 url: https://onlinelibrary.wiley.com/doi/abs/10.1890/04-1413
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # The Wildland–Urban Interface in the United States

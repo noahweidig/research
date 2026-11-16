@@ -5,7 +5,7 @@ authors:
 - Abatzoglou, John T.
 - Fleishman, Erica
 - Short, Karen C.
-- Shuman, Jacquelyn
+- Shuman, Jacquelyn K.
 - AghaKouchak, Amir
 - Williamson, Matthew
 - Seydi, Seyd Teymoor
@@ -14,16 +14,21 @@ year: '2025'
 journal: Earth's Future
 doi: 10.1029/2024EF005187
 tags:
-- fire prevention
-- machine learning
-- risk management
+- climate
+- fire risk
+- forests
+- ignition
+- management
+- refwright:read:unread
+- statistics
+- united states
 - wildfire
 zotero_key: EIGWI844
 item_type: journalArticle
 url: https://onlinelibrary.wiley.com/doi/abs/10.1029/2024EF005187
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-16'
 ---
 
 # Inference of Wildfire Causes From Their Physical, Biological, Social and Management Attributes

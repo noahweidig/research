@@ -11,17 +11,20 @@ year: '2013'
 journal: Environmental Management
 doi: 10.1007/s00267-012-9961-z
 tags:
-- fulltext:pdf-missing
+- WUI
+- human dimensions
 - ignition
-- mediterranean grassland
+- rangelands
+- refwright:read:unread
+- remote sensing
+- topography
 - wildfire
-- wildfire occurrence
 zotero_key: GAZXJB79
 item_type: journalArticle
 url: https://doi.org/10.1007/s00267-012-9961-z
 source_url: 'unpaywall: https://hal.science/hal-00860797'
 fulltext_status: fulltext
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # A Review of the Main Driving Factors of Forest Fire Ignition Over Europe

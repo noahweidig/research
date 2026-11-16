@@ -8,16 +8,16 @@ journal: Climatic Change
 doi: 10.1007/s10584-014-1257-2
 tags:
 - climate
-- climate modeling
-- earth system models
 - extremes
-- fulltext:pdf-missing
+- refwright:read:unread
+- united states
+- wildfire
 zotero_key: EISF5XYG
 item_type: journalArticle
 url: https://link.springer.com/article/10.1007/s10584-014-1257-2
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Changing climate extremes in the Northeast United States: observations and projections from CMIP5

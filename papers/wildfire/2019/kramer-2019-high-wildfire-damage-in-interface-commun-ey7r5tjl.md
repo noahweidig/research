@@ -9,17 +9,19 @@ year: '2019'
 journal: International Journal of Wildland Fire
 doi: 10.1071/WF18108
 tags:
-- california
+- WUI
+- fire behavior
 - fuels
-- fulltext:pdf-missing
+- refwright:read:unread
+- united states
+- urbanization
 - wildfire
-- wildland-urban interface
 zotero_key: EY7R5TJL
 item_type: journalArticle
 url: http://www.publish.csiro.au/?paper=WF18108
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # High wildfire damage in interface communities in California

@@ -6,17 +6,16 @@ year: '2015'
 journal: Current Forestry Reports
 doi: 10.1007/s40725-015-0015-7
 tags:
-- community preparedness
-- global
-- risk perception
-- sociology
+- fire risk
+- human dimensions
+- refwright:read:unread
 - wildfire
 zotero_key: F9MABFW5
 item_type: journalArticle
 url: https://doi.org/10.1007/s40725-015-0015-7
 source_url: 'unpaywall: https://link.springer.com/content/pdf/10.1007%2Fs40725-015-0015-7.pdf'
 fulltext_status: fulltext
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Community wildfire preparedness: A global state-of-the-knowledge summary of social science research

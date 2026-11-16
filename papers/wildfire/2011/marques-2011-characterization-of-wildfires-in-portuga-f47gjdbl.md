@@ -4,27 +4,29 @@ authors:
 - Marques, S.
 - Borges, J. G.
 - Garcia-Gonzalo, J.
-- Moreira, F.
+- Moreira, Francisco
 - Carreiras, J. M. B.
 - Oliveira, M. M.
 - Cantarinha, A.
 - Botequim, B.
-- Pereira, J. M. C.
+- Pereira, José Miguel
 year: '2011'
 journal: European Journal of Forest Research
 doi: 10.1007/s10342-010-0470-4
 tags:
+- fire regimes
 - fire risk
-- fulltext:pdf-missing
-- gis
-- land use
+- land cover
+- refwright:read:unread
+- remote sensing
+- united states
 - wildfire
 zotero_key: F47GJDBL
 item_type: journalArticle
 url: https://doi.org/10.1007/s10342-010-0470-4
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Characterization of wildfires in Portugal

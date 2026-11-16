@@ -9,15 +9,16 @@ journal: arXiv (Cornell University)
 doi: 10.48550/arxiv.2610.20918
 tags:
 - natural hazards
+- refwright:read:unread
 - united states
 - weather
-- wildfire occurrence
+- wildfire
 zotero_key: FZUEZAR9
 item_type: journalArticle
 url: https://openalex.org/W7222514020
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Forecast lead time and the timing of crew deployment for weather-driven power outages using AI weather models

@@ -8,17 +8,18 @@ year: '2022'
 journal: Science Advances
 doi: 10.1126/sciadv.abc0020
 tags:
+- climate
 - extremes
-- fire
-- fulltext:pdf-found
-- megafire
+- fire regimes
+- refwright:read:unread
 - united states
+- wildfire
 zotero_key: G68KN7K6
 item_type: journalArticle
 url: https://www.science.org/doi/full/10.1126/sciadv.abc0020
 source_url: 'unpaywall: https://www.ncbi.nlm.nih.gov/pmc/articles/8926334'
 fulltext_status: fulltext
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # U.S. fires became larger, more frequent, and more widespread in the 2000s

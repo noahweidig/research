@@ -10,16 +10,16 @@ journal: 'In: Proceedings of the sixth annual forest inventory and analysis symp
 doi: null
 tags:
 - agriculture
-- data obfuscation
-- forest inventory
-- fulltext:check-needed
-- spatial analysis
+- fia
+- refwright:read:unread
+- remote sensing
+- statistics
 zotero_key: FGM72SPJ
 item_type: journalArticle
 url: https://research.fs.usda.gov/treesearch/14248
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Practical Considerations When Using Perturbed Forest Inventory Plot Locations To Develop Spatial Models: A Case Study

@@ -8,26 +8,16 @@ year: '2005'
 journal: IEEE Transactions on Geoscience and Remote Sensing
 doi: 10.1109/TGRS.2005.844031
 tags:
-- Conservation reserve program
-- Decision trees
-- Machine learning
-- Satellites
-- Soil
-- Support vector machine classification
-- Support vector machines
-- US Department of Agriculture
-- Water conservation
-- Water resources
-- Wildlife
-- decision tree
-- multisource data classification
-- support vector machine (SVM)
+- CRP
+- agriculture
+- refwright:read:unread
+- statistics
 zotero_key: FG9F3SNE
 item_type: journalArticle
 url: https://ieeexplore.ieee.org/abstract/document/1411994
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Automatic CRP mapping using nonparametric machine learning approaches

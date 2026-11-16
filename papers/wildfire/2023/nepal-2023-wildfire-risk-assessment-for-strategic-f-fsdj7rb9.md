@@ -9,18 +9,18 @@ year: '2023'
 journal: Land
 doi: 10.3390/land12122172
 tags:
-- adaptive management
-- modeling
-- prescribed burning
-- regional planning
-- risk
-- spatial analysis
+- fire risk
+- management
+- prescribed fire
+- refwright:read:unread
+- remote sensing
+- statistics
 zotero_key: FSDJ7RB9
 item_type: journalArticle
 url: https://www.mdpi.com/2073-445X/12/12/2172
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-16'
 ---
 
 # Wildfire Risk Assessment for Strategic Forest Management in the Southern United States: A Bayesian Network Modeling Approach

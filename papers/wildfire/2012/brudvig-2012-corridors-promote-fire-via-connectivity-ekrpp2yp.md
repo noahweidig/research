@@ -8,22 +8,21 @@ year: '2012'
 journal: Ecological Applications
 doi: 10.1890/11-1026.1
 tags:
-- connectivity
 - disturbance
-- ecosystem management
-- edge effects
+- ecology
 - fragmentation
-- fulltext:pdf-missing
-- landscape ecology
-- modeling
-- prescribed burning
-- savanna
+- fuels
+- management
+- prescribed fire
+- rangelands
+- refwright:read:unread
+- statistics
 zotero_key: EKRPP2YP
 item_type: journalArticle
 url: https://onlinelibrary.wiley.com/doi/abs/10.1890/11-1026.1
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Corridors promote fire via connectivity and edge effects

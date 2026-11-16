@@ -4,7 +4,7 @@ authors:
 - Schwilk, Dylan W.
 - Keeley, Jon E.
 - Knapp, Eric E.
-- McIver, James
+- McIver, James D.
 - Bailey, John D.
 - Fettig, Christopher J.
 - Fiedler, Carl E.
@@ -21,19 +21,17 @@ journal: Ecological Applications
 doi: 10.1890/07-1747.1
 tags:
 - biodiversity
-- forest ecology
-- forest management
-- fuel treatments
-- fulltext:pdf-missing
+- forests
+- fuels
 - mortality
-- prescribed burning
-- thinning
+- prescribed fire
+- refwright:read:unread
 zotero_key: F44LQDEN
 item_type: journalArticle
 url: https://onlinelibrary.wiley.com/doi/abs/10.1890/07-1747.1
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # The national Fire and Fire Surrogate study: effects of fuel reduction methods on forest vegetation structure and fuels

@@ -9,8 +9,8 @@ journal: Southern Journal of Applied Forestry
 doi: 10.1093/sjaf/27.1.11
 tags:
 - fia
-- fulltext:pdf-missing
-- temperate forest
+- forests
+- refwright:read:unread
 - united states
 - wildfire
 zotero_key: F7MZKV6F
@@ -18,7 +18,7 @@ item_type: journalArticle
 url: https://academic.oup.com/sjaf/article/27/1/11/4782329
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Modeling Forest Fire Probabilities in the South Central United States Using FIA Data
