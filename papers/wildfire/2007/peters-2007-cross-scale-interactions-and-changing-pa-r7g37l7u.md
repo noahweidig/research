@@ -8,17 +8,18 @@ year: '2007'
 journal: Ecosystems
 doi: 10.1007/s10021-007-9055-6
 tags:
-- fire spread
-- fulltext:check-needed
-- heterogeneity
-- landscape ecology
-- road network
+- WUI
+- climate
+- ecology
+- fire behavior
+- refwright:read:unread
+- wildfire
 zotero_key: R7G37L7U
 item_type: journalArticle
 url: https://doi.org/10.1007/s10021-007-9055-6
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Cross–Scale Interactions and Changing Pattern–Process Relationships: Consequences for System Dynamics

@@ -19,15 +19,18 @@ journal: Environmental Research Letters
 doi: 10.1088/1748-9326/ac5c0c
 tags:
 - exposure
-- fire
 - fire risk
-- humans
+- refwright:read:unread
+- resilience
+- smoke
+- united states
+- wildfire
 zotero_key: QFT6YSRU
 item_type: journalArticle
 url: https://dx.doi.org/10.1088/1748-9326/ac5c0c
 source_url: 'unpaywall: https://repository.library.noaa.gov/view/noaa/51933'
 fulltext_status: fulltext
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Fires that matter: reconceptualizing fire risk to include interactions between humans and the natural environment

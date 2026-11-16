@@ -1,15 +1,14 @@
 ---
 title: On a Test of Whether one of Two Random Variables is Stochastically Larger than the Other
 authors:
-- Mann, H. B.
+- Mann, Henry B.
 - Whitney, D. R.
 year: '1947'
 journal: The Annals of Mathematical Statistics
 doi: 10.1214/aoms/1177730491
 tags:
-- firebrands
-- fulltext:check-needed
-- probability mapping
+- fire behavior
+- refwright:read:unread
 - statistics
 - united states
 zotero_key: R8IX7JCA
@@ -17,7 +16,7 @@ item_type: journalArticle
 url: https://projecteuclid.org/journals/annals-of-mathematical-statistics/volume-18/issue-1/On-a-Test-of-Whether-one-of-Two-Random-Variables/10.1214/aoms/1177730491.full
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # On a Test of Whether one of Two Random Variables is Stochastically Larger than the Other

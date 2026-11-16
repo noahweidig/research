@@ -1,28 +1,27 @@
 ---
 title: 'In the Line of Fire: Consequences of Human-Ignited Wildfires to Homes in the U.S. (1992–2015)'
 authors:
-- Mietkiewicz, Nathan
+- Mietkiewicz, Nathan P.
 - Balch, Jennifer K.
 - Schoennagel, Tania
 - Leyk, Stefan
-- St. Denis, Lise A.
+- St. Denis, Lise Ann
 - Bradley, Bethany A.
 year: '2020'
 journal: Fire
 doi: 10.3390/fire3030050
 tags:
-- defensible space
-- fire
-- fire suppression
-- prescribed burning
-- social vulnerability
-- wildland-urban interface
+- WUI
+- prescribed fire
+- refwright:read:unread
+- suppression
+- wildfire
 zotero_key: QF6W93LK
 item_type: journalArticle
 url: https://www.mdpi.com/2571-6255/3/3/50
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-06'
+synced: '2026-11-16'
 ---
 
 # In the Line of Fire: Consequences of Human-Ignited Wildfires to Homes in the U.S. (1992–2015)

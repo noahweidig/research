@@ -9,18 +9,16 @@ year: '2012'
 journal: Forest Ecology and Management
 doi: 10.1016/j.foreco.2011.06.040
 tags:
-- fire behavior
-- fuel characteristic classification system
-- fuel load
-- fuel treatments
-- fulltext:pdf-missing
+- fuels
+- refwright:read:unread
 - united states
+- wildfire
 zotero_key: QKGPVYFF
 item_type: journalArticle
 url: https://www.sciencedirect.com/science/article/pii/S0378112711004026
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Evaluating fuel complexes for fire hazard mitigation planning in the southeastern United States

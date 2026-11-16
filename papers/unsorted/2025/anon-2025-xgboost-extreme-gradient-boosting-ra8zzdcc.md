@@ -6,16 +6,15 @@ journal: null
 doi: null
 tags:
 - extremes
-- fulltext:check-needed
-- machine learning
-- r package
-- xgboost
+- refwright:read:unread
+- software
+- statistics
 zotero_key: RA8ZZDCC
 item_type: computerProgram
 url: https://cran.r-project.org/web/packages/xgboost/index.html
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # xgboost: Extreme Gradient Boosting

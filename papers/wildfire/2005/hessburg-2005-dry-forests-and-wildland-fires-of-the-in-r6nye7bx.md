@@ -8,17 +8,16 @@ year: '2005'
 journal: Forest Ecology and Management
 doi: 10.1016/j.foreco.2005.02.016
 tags:
-- fire
-- fire ecology
-- fire history
-- fulltext:pdf-missing
-- landscape ecology
+- ecology
+- fire regimes
+- refwright:read:unread
+- wildfire
 zotero_key: R6NYE7BX
 item_type: journalArticle
 url: https://www.sciencedirect.com/science/article/pii/S0378112705000587
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Dry forests and wildland fires of the inland Northwest USA: Contrasting the landscape ecology of the pre-settlement and modern eras

@@ -11,17 +11,17 @@ year: '2026'
 journal: null
 doi: null
 tags:
+- CRP
 - agriculture
 - conservation
-- conservation reserve program
-- fulltext:check-needed
-- housing
+- refwright:read:unread
+- urbanization
 zotero_key: QWQBVDLD
 item_type: report
 url: https://EconPapers.repec.org/RePEc:rff:report:rp-26-02
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Conservation and Community: The Local Economic Impacts of the Conservation Reserve Program

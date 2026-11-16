@@ -7,17 +7,18 @@ year: '2019'
 journal: Biological Conservation
 doi: 10.1016/j.biocon.2019.108276
 tags:
-- birds
-- fulltext:pdf-missing
-- grassland
+- conservation
+- rangelands
+- refwright:read:unread
+- united states
+- wildlife
 - woody cover
-- woody encroachment
 zotero_key: QGP5UEHF
 item_type: journalArticle
 url: https://www.sciencedirect.com/science/article/pii/S0006320719309528
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Woody plant encroachment restructures bird communities in semiarid grasslands

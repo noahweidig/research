@@ -2,23 +2,23 @@
 title: 'Stand-Level Wildlife Habitat Features and Biodiversity in Southern Pine Forests: A Review'
 authors:
 - Jones, Phillip D.
-- Hanberry, Brice
+- Hanberry, Brice B.
 - Demarais, Stephen
 year: '2009'
 journal: Journal of Forestry
 doi: 10.1093/jof/107.8.398
 tags:
-- animals
 - biodiversity
-- forest management
-- fulltext:pdf-missing
+- forests
 - habitats
+- refwright:read:unread
+- wildlife
 zotero_key: QVH27ZU7
 item_type: journalArticle
 url: https://doi.org/10.1093/jof/107.8.398
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Stand-Level Wildlife Habitat Features and Biodiversity in Southern Pine Forests: A Review

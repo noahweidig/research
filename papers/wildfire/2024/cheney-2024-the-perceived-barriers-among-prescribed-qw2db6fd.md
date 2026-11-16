@@ -7,15 +7,19 @@ journal: null
 doi: null
 tags:
 - conservation
-- firebrands
-- grassland
-- prescribed burning
+- fire behavior
+- policy
+- prescribed fire
+- rangelands
+- refwright:read:unread
+- united states
+- wildfire
 zotero_key: QW2DB6FD
 item_type: thesis
 url: https://hdl.handle.net/2097/44376
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # The perceived barriers among prescribed burn association members to burning on Kansas grasslands and Conservation Reserve Program lands

@@ -2,24 +2,26 @@
 title: Spatial prediction of wildfire probability in the Hyrcanian ecoregion using evidential belief function model and GIS
 authors:
 - Nami, M. H.
-- Jaafari, A.
+- Jaafari, Abolfazl
 - Fallah, M.
 - Nabiuni, S.
 year: '2018'
 journal: International Journal of Environmental Science and Technology
 doi: 10.1007/s13762-017-1371-6
 tags:
-- fulltext:check-needed
+- WUI
+- fire risk
 - ignition
 - natural hazards
-- probability mapping
+- refwright:read:unread
+- united states
 - wildfire
 zotero_key: R7QNTUZ8
 item_type: journalArticle
 url: https://doi.org/10.1007/s13762-017-1371-6
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Spatial prediction of wildfire probability in the Hyrcanian ecoregion using evidential belief function model and GIS

@@ -8,17 +8,16 @@ year: '2003'
 journal: Global Change Biology
 doi: 10.1046/j.1365-2486.2003.00684.x
 tags:
-- damage
 - disturbance
-- disturbance ecology
-- fire
-- fulltext:pdf-missing
+- ecology
+- refwright:read:unread
+- wildfire
 zotero_key: REB8EIJ7
 item_type: journalArticle
 url: https://onlinelibrary.wiley.com/doi/abs/10.1046/j.1365-2486.2003.00684.x
 source_url: 'unpaywall: https://research.wur.nl/en/publications/natural-disturbances-in-the-european-forests-in-the-19th-and-20th'
 fulltext_status: fulltext
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Natural disturbances in the European forests in the 19th and 20th centuries

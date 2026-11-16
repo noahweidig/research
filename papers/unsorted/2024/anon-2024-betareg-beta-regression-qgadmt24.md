@@ -5,21 +5,14 @@ year: '2024'
 journal: null
 doi: null
 tags:
-- beta regression
-- bias reduction
-- econometrics
-- finite mixture models
-- fulltext:check-needed
-- generalized linear models
-- proportional data
-- r package
-- recursive partitioning
+- refwright:read:unread
+- statistics
 zotero_key: QGADMT24
 item_type: computerProgram
 url: https://cran.r-project.org/web/packages/betareg/index.html
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # betareg: Beta Regression

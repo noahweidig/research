@@ -10,16 +10,19 @@ year: '2026'
 journal: null
 doi: 10.5194/egusphere-2026-4967
 tags:
-- burning
 - climate
 - fire risk
+- management
+- prescribed fire
+- refwright:read:unread
+- united states
 - wildfire
 zotero_key: QPDJ4RAF
 item_type: journalArticle
 url: https://openalex.org/W7220395910
 source_url: 'unpaywall: https://egusphere.copernicus.org/preprints/2026/egusphere-2026-4967/egusphere-2026-4967.pdf'
 fulltext_status: fulltext
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Heather management modifies climate sensitivity of surface peat moisture in UK upland peatlands

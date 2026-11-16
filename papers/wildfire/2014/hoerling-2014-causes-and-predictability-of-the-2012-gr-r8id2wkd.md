@@ -1,29 +1,31 @@
 ---
 title: Causes and Predictability of the 2012 Great Plains Drought
 authors:
-- Hoerling, M.
+- Hoerling, Martin P.
 - Eischeid, J.
 - Kumar, A.
 - Leung, R.
 - Mariotti, A.
 - Mo, K.
 - Schubert, S.
-- Seager, R.
+- Seager, Richard
 year: '2014'
 journal: Bulletin of the American Meteorological Society
 doi: 10.1175/BAMS-D-13-00055.1
 tags:
 - climate
 - drought
-- fulltext:pdf-found
-- modeling
-- precipitation
+- extremes
+- refwright:read:unread
+- statistics
+- weather
+- wildfire
 zotero_key: R8ID2WKD
 item_type: journalArticle
 url: https://journals.ametsoc.org/doi/10.1175/BAMS-D-13-00055.1
 source_url: 'unpaywall: https://doi.org/10.7916/d8-rz8w-4628'
 fulltext_status: fulltext
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Causes and Predictability of the 2012 Great Plains Drought

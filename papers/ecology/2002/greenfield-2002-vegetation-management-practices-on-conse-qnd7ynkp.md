@@ -9,13 +9,14 @@ year: '2002'
 journal: Wildlife Society Bulletin (1973-2006)
 doi: null
 tags:
-- fulltext:check-needed
+- CRP
+- refwright:read:unread
 zotero_key: QND7YNKP
 item_type: journalArticle
 url: https://www.jstor.org/stable/3784513
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Vegetation Management Practices on Conservation Reserve Program Fields to Improve Northern Bobwhite Habitat Quality

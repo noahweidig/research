@@ -7,17 +7,15 @@ year: null
 journal: Proceedings of the Royal Society of London
 doi: 10.1098/rspl.1895.0041
 tags:
-- fulltext:check-needed
-- genetics
-- history of statistics
-- regression analysis
+- refwright:read:unread
 - statistics
+- united states
 zotero_key: QX7IVBNP
 item_type: journalArticle
 url: https://royalsocietypublishing.org/doi/abs/10.1098/rspl.1895.0041
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # VII. Note on regression and inheritance in the case of two parents

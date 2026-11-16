@@ -6,16 +6,14 @@ year: '2024'
 journal: Entropy
 doi: 10.3390/e26060506
 tags:
-- akaike information criterion
-- mixed models
-- model averaging
+- refwright:read:unread
 - statistics
 zotero_key: QX87VGVQ
 item_type: journalArticle
 url: https://www.mdpi.com/1099-4300/26/6/506
 source_url: 'unpaywall: https://ecoevorxiv.org/repository/object/5722/download/11178/'
 fulltext_status: fulltext
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Multimodel Approaches Are Not the Best Way to Understand Multifactorial Systems

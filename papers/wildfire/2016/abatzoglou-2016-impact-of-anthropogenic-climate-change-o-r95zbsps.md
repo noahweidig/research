@@ -1,29 +1,32 @@
 ---
 title: Impact of anthropogenic climate change on wildfire across western US forests
 authors:
-- Abatzoglou, John T
-- Williams, A Park
+- Abatzoglou, John T.
+- Williams, A. Park
 year: '2016'
 journal: Proceedings of the National Academy of Sciences
 doi: 10.1073/pnas.1607171113
 tags:
-- climate change
-- human-related causes
-- western united states
+- climate
+- extremes
+- human dimensions
+- refwright:read:unread
+- united states
+- weather
 - wildfire
 zotero_key: R95ZBSPS
 item_type: journalArticle
-url: https://doi.org/10.1073/pnas.1607171113
+url: https://pnas.org/doi/full/10.1073/pnas.1607171113
 source_url: 'unpaywall: https://www.ncbi.nlm.nih.gov/pmc/articles/5081637'
 fulltext_status: fulltext
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Impact of anthropogenic climate change on wildfire across western US forests
 
 ## Abstract
 
-Increased forest fire activity across the western continental United States (US) in recent decades has likely been enabled by a number of factors, including the legacy of fire suppression and human settlement, natural climate variability, and human-caused climate change. We use modeled climate projections to estimate the contribution of anthropogenic climate change to observed increases in eight fuel aridity metrics and forest fire area across the western United States. Anthropogenic increases in temperature and vapor pressure deficit significantly enhanced fuel aridity across western US forests over the past several decades and, during 2000-2015, contributed to 75% more forested area experiencing high (>1 σ) fire-season fuel aridity and an average of nine additional days per year of high fire potential. Anthropogenic climate change accounted for ∼55% of observed increases in fuel aridity from 1979 to 2015 across western US forests, highlighting both anthropogenic climate change and natural climate variability as important contributors to increased wildfire potential in recent decades. We estimate that human-caused climate change contributed to an additional 4.2 million ha of forest fire area during 1984-2015, nearly doubling the forest fire area expected in its absence. Natural climate variability will continue to alternate between modulating and compounding anthropogenic increases in fuel aridity, but anthropogenic climate change has emerged as a driver of increased forest fire activity and should continue to do so while fuels are not limiting.
+Significance Increased forest fire activity across the western United States in recent decades has contributed to widespread forest mortality, carbon emissions, periods of degraded air quality, and substantial fire suppression expenditures. Although numerous factors aided the recent rise in fire activity, observed warming and drying have significantly increased fire-season fuel aridity, fostering a more favorable fire environment across forested systems. We demonstrate that human-caused climate change caused over half of the documented increases in fuel aridity since the 1970s and doubled the cumulative forest fire area since 1984. This analysis suggests that anthropogenic climate change will continue to chronically enhance the potential for western US forest fire activity while fuels are not limiting. , Increased forest fire activity across the western continental United States (US) in recent decades has likely been enabled by a number of factors, including the legacy of fire suppression and human settlement, natural climate variability, and human-caused climate change. We use modeled climate projections to estimate the contribution of anthropogenic climate change to observed increases in eight fuel aridity metrics and forest fire area across the western United States. Anthropogenic increases in temperature and vapor pressure deficit significantly enhanced fuel aridity across western US forests over the past several decades and, during 2000–2015, contributed to 75% more forested area experiencing high (>1 σ) fire-season fuel aridity and an average of nine additional days per year of high fire potential. Anthropogenic climate change accounted for ∼55% of observed increases in fuel aridity from 1979 to 2015 across western US forests, highlighting both anthropogenic climate change and natural climate variability as important contributors to increased wildfire potential in recent decades. We estimate that human-caused climate change contributed to an additional 4.2 million ha of forest fire area during 1984–2015, nearly doubling the forest fire area expected in its absence. Natural climate variability will continue to alternate between modulating and compounding anthropogenic increases in fuel aridity, but anthropogenic climate change has emerged as a driver of increased forest fire activity and should continue to do so while fuels are not limiting.
 
 ## Full text
 

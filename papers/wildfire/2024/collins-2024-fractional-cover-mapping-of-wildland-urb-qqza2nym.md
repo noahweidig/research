@@ -10,18 +10,18 @@ year: '2024'
 journal: Remote Sensing of Environment
 doi: 10.1016/j.rse.2024.114189
 tags:
-- fire hazard
+- exposure
+- fire risk
 - fuels
-- fulltext:pdf-missing
-- random forest
-- structure loss
+- refwright:read:unread
+- statistics
 - wildfire
 zotero_key: QQZA2NYM
 item_type: journalArticle
 url: https://www.sciencedirect.com/science/article/pii/S0034425724002074
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Fractional cover mapping of wildland-urban interface fuels using Landsat, Sentinel 1 and PALSAR imagery

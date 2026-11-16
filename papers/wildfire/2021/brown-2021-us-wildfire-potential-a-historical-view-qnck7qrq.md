@@ -9,15 +9,16 @@ journal: Environmental Research Letters
 doi: 10.1088/1748-9326/aba868
 tags:
 - climate
+- fire regimes
+- refwright:read:unread
 - united states
-- western united states
 - wildfire
 zotero_key: QNCK7QRQ
 item_type: journalArticle
 url: https://dx.doi.org/10.1088/1748-9326/aba868
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # US wildfire potential: a historical view and future projection using high-resolution climate data

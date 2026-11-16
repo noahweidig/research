@@ -9,17 +9,18 @@ year: '1993'
 journal: Conservation Biology
 doi: 10.1046/j.1523-1739.1993.07010132.x
 tags:
+- CRP
 - agriculture
 - conservation
-- conservation reserve program
-- fulltext:pdf-missing
-- soil properties
+- refwright:read:reading
+- soils
+- wildlife
 zotero_key: QRYLZZ9Q
 item_type: journalArticle
 url: https://onlinelibrary.wiley.com/doi/abs/10.1046/j.1523-1739.1993.07010132.x
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Ecological Benefits of the Conservation Reserve Program
