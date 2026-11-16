@@ -5,9 +5,7 @@ year: '1999'
 journal: null
 doi: null
 tags:
-- bootstrap
-- fulltext:check-needed
-- r package
+- refwright:read:unread
 - software
 - statistics
 zotero_key: P9J3XDJG
@@ -15,7 +13,7 @@ item_type: computerProgram
 url: https://CRAN.R-project.org/package=boot
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # boot: Bootstrap Functions (Originally by Angelo Canty for S)

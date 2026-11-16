@@ -7,15 +7,17 @@ journal: The Open Agriculture Journal
 doi: 10.2174/1874331501206010017
 tags:
 - extremes
-- fire
-- invasive species
-- megafire
+- plant species
+- prescribed fire
+- refwright:read:unread
+- united states
+- wildfire
 zotero_key: PAGZ7UZZ
 item_type: journalArticle
 url: http://benthamopen.com/ABSTRACT/TOASJ-6-17
 source_url: 'unpaywall: https://openagriculturejournal.com/VOLUME/6/PAGE/17/PDF/'
 fulltext_status: fulltext
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # An Economic Comparison of Prescribed Extreme Fire and Alternative Methods for Managing Invasive Brush Species in Texas: a Modeling Approach

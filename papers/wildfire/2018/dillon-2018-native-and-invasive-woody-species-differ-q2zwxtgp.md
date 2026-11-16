@@ -5,21 +5,22 @@ authors:
 - Lieurance, Deah
 - Hiatt, Drew T.
 - Clay, Keith
-- Flory, S. Luke
+- Flory, Stephen Luke
 year: '2018'
 journal: Forests
 doi: 10.3390/f9070381
 tags:
-- ecological succession
-- edge effects
-- invasive species
-- survival
+- forests
+- fragmentation
+- fuels
+- plant species
+- refwright:read:unread
 zotero_key: Q2ZWXTGP
 item_type: journalArticle
 url: https://www.mdpi.com/1999-4907/9/7/381
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Native and Invasive Woody Species Differentially Respond to Forest Edges and Forest Successional Age

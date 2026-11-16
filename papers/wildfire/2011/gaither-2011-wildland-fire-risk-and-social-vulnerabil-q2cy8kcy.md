@@ -3,7 +3,7 @@ title: 'Wildland fire risk and social vulnerability in the Southeastern United S
 authors:
 - Gaither, Cassandra Johnson
 - Poudyal, Neelam C.
-- Goodrick, Scott
+- Goodrick, Scott L.
 - Bowker, J. M.
 - Malone, Sparkle
 - Gan, Jianbang
@@ -11,17 +11,16 @@ year: '2011'
 journal: Forest Policy and Economics
 doi: 10.1016/j.forpol.2010.07.009
 tags:
-- fire management
-- fulltext:pdf-missing
-- risk
-- social vulnerability
+- fire risk
+- refwright:read:unread
+- suppression
 - wildfire
 zotero_key: Q2CY8KCY
 item_type: journalArticle
 url: https://www.sciencedirect.com/science/article/pii/S1389934110001243
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Wildland fire risk and social vulnerability in the Southeastern United States: An exploratory spatial data analysis approach

@@ -2,21 +2,21 @@
 title: Patterns and trends in simultaneous wildfire activity in the United States from 1984 to 2015
 authors:
 - Podschwit, Harry
-- Cullen, Alison
+- Cullen, Alison C.
 year: '2020'
 journal: International Journal of Wildland Fire
 doi: 10.1071/WF19150
 tags:
-- lightning
+- fuels
+- refwright:read:unread
 - united states
 - wildfire
-- wildfire occurrence
 zotero_key: Q3MTPPZR
 item_type: journalArticle
 url: https://www.publish.csiro.au/wf/WF19150
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Patterns and trends in simultaneous wildfire activity in the United States from 1984 to 2015

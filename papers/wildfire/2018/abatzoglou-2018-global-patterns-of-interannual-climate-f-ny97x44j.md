@@ -11,26 +11,22 @@ journal: Global Change Biology
 doi: 10.1111/gcb.14405
 tags:
 - climate
-- climate change
-- ecoregions
-- fire
-- fulltext:pdf-found
-- global
-- modeling
+- refwright:read:unread
+- statistics
+- wildfire
 zotero_key: NY97X44J
 item_type: journalArticle
 url: https://onlinelibrary.wiley.com/doi/10.1111/gcb.14405
 source_url: 'unpaywall: https://www.ncbi.nlm.nih.gov/pmc/articles/7134822'
 fulltext_status: fulltext
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Global patterns of interannual climate–fire relationships
 
 ## Abstract
 
-Abstract
-            Climate shapes geographic and seasonal patterns in global fire activity by mediating vegetation composition, productivity, and desiccation in conjunction with land‐use and anthropogenic factors. Yet, the degree to which climate variability affects interannual variability in burned area across Earth is less understood. Two decades of satellite‐derived burned area records across forested and nonforested areas were used to examine global interannual climate–fire relationships at ecoregion scales. Measures of fuel aridity exhibited strong positive correlations with forested burned area, with weaker relationships in climatologically drier regions. By contrast, cumulative precipitation antecedent to the fire season exhibited positive correlations to nonforested burned area, with stronger relationships in climatologically drier regions. Climate variability explained roughly one‐third of the interannual variability in burned area across global ecoregions. These results highlight the importance of climate variability in enabling fire activity globally, but also identify regions where anthropogenic and other influences may facilitate weaker relationships. Empirical fire modeling efforts can complement process‐based global fire models to elucidate how fire activity is likely to change amidst complex interactions among climatic, vegetation, and human factors.
+Abstract Climate shapes geographic and seasonal patterns in global fire activity by mediating vegetation composition, productivity, and desiccation in conjunction with land‐use and anthropogenic factors. Yet, the degree to which climate variability affects interannual variability in burned area across Earth is less understood. Two decades of satellite‐derived burned area records across forested and nonforested areas were used to examine global interannual climate–fire relationships at ecoregion scales. Measures of fuel aridity exhibited strong positive correlations with forested burned area, with weaker relationships in climatologically drier regions. By contrast, cumulative precipitation antecedent to the fire season exhibited positive correlations to nonforested burned area, with stronger relationships in climatologically drier regions. Climate variability explained roughly one‐third of the interannual variability in burned area across global ecoregions. These results highlight the importance of climate variability in enabling fire activity globally, but also identify regions where anthropogenic and other influences may facilitate weaker relationships. Empirical fire modeling efforts can complement process‐based global fire models to elucidate how fire activity is likely to change amidst complex interactions among climatic, vegetation, and human factors.
 
 ## Full text
 

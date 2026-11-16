@@ -7,11 +7,11 @@ year: '2015'
 journal: PLOS ONE
 doi: 10.1371/journal.pone.0140839
 tags:
-- fire ecology
-- fire season
-- fire suppression technology
-- forest ecology
+- ecology
+- fire regimes
+- forests
 - fuels
+- refwright:read:unread
 - trees
 - weather
 - wildfire
@@ -20,7 +20,7 @@ item_type: journalArticle
 url: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0140839
 source_url: 'unpaywall: https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0140839&type=printable'
 fulltext_status: fulltext
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Climatic and Landscape Influences on Fire Regimes from 1984 to 2010 in the Western United States

@@ -1596,6 +1596,13 @@
    "status": "metadata-only",
    "zver": 31256
   },
+  "9IZ54GJK": {
+   "doi": "10.1674/0003-0031(2007)157[39:tioweu]2.0.co;2",
+   "path": "papers/wildfire/2007/warren-2007-the-influence-of-woody-encroachment-upon-9iz54gjk.md",
+   "source": null,
+   "status": "metadata-only",
+   "zver": 32041
+  },
   "9MI3V6R8": {
    "doi": "10.1029/2018GL080959",
    "path": "papers/wildfire/2019/abatzoglou-2019-global-emergence-of-anthropogenic-climat-9mi3v6r8.md",
@@ -4282,7 +4289,7 @@
    "path": "papers/wildfire/2018/decker-2018-targeted-grazing-as-a-fuels-reduction-tr-nqzng6vd.md",
    "source": null,
    "status": "metadata-only",
-   "zver": 11517
+   "zver": 31089
   },
   "NR259QYY": {
    "doi": "10.1332/03055736Y2023D000000011",
@@ -4296,112 +4303,112 @@
    "path": "papers/wildfire/2026/gevorgyan-2026-exceptionally-high-temperatures-in-armen-nrqth87x.md",
    "source": "unpaywall: https://www.nature.com/articles/s41612-026-01544-z.pdf",
    "status": "fulltext",
-   "zver": 11343
+   "zver": 31777
   },
   "NRW6BAJK": {
    "doi": "10.1002/fam.70091",
    "path": "papers/wildfire/2026/svensson-2026-wildfire-emissions-from-european-boreal-nrw6bajk.md",
    "source": null,
    "status": "metadata-only",
-   "zver": 10854
+   "zver": 31659
   },
   "NS46T49Y": {
    "doi": "10.1038/s41558-023-01744-y",
-   "path": "papers/ecology/2023/sanczuk-2023-microclimate-and-forest-density-drive-pl-ns46t49y.md",
+   "path": "papers/wildfire/2023/sanczuk-2023-microclimate-and-forest-density-drive-pl-ns46t49y.md",
    "source": "unpaywall: https://hal.science/hal-04259473v1/document",
    "status": "fulltext",
-   "zver": 11658
+   "zver": 31103
   },
   "NS4IE6A5": {
    "doi": "10.1111/gcb.13585",
-   "path": "papers/ecology/2017/rogers-2017-vulnerability-of-eastern-us-tree-species-ns4ie6a5.md",
+   "path": "papers/wildfire/2017/rogers-2017-vulnerability-of-eastern-us-tree-species-ns4ie6a5.md",
    "source": null,
    "status": "metadata-only",
-   "zver": 9443
+   "zver": 31052
   },
   "NSAPH4LC": {
    "doi": "10.1016/j.foreco.2012.06.030",
    "path": "papers/wildfire/2013/williams-2013-exploring-the-onset-of-high-impact-mega-nsaph4lc.md",
    "source": null,
    "status": "metadata-only",
-   "zver": 10780
+   "zver": 30982
   },
   "NTJ3SJX9": {
    "doi": "10.2307/2344614",
    "path": "papers/unsorted/1972/nelder-1972-generalized-linear-models-ntj3sjx9.md",
    "source": null,
    "status": "metadata-only",
-   "zver": 11638
+   "zver": 31275
   },
   "NTNB2YTZ": {
    "doi": "10.1002/ecs2.2818",
    "path": "papers/unsorted/2019/woods-2019-interaction-of-seed-dispersal-and-enviro-ntnb2ytz.md",
    "source": "unpaywall: https://scholarscompass.vcu.edu/biol_pubs/55",
    "status": "fulltext",
-   "zver": 11480
+   "zver": 31355
   },
   "NY97X44J": {
    "doi": "10.1111/gcb.14405",
    "path": "papers/wildfire/2018/abatzoglou-2018-global-patterns-of-interannual-climate-f-ny97x44j.md",
    "source": "unpaywall: https://www.ncbi.nlm.nih.gov/pmc/articles/7134822",
    "status": "fulltext",
-   "zver": 12145
+   "zver": 31458
   },
   "NYX6PKT9": {
    "doi": "10.3133/pp1804",
    "path": "papers/ecology/2014/anon-2014-baseline-and-projected-future-carbon-sto-nyx6pkt9.md",
    "source": "unpaywall: https://pubs.usgs.gov/pp/1804/pdf/pp1804.pdf",
    "status": "fulltext",
-   "zver": 11457
+   "zver": 31349
   },
   "P222JGXK": {
    "doi": "10.1007/s42532-026-00272-1",
    "path": "papers/wildfire/2026/edgeley-2026-making-sense-of-wildfire-prevention-in-t-p222jgxk.md",
    "source": "unpaywall: https://link.springer.com/content/pdf/10.1007/s42532-026-00272-1.pdf",
    "status": "fulltext",
-   "zver": 11355
+   "zver": 31728
   },
   "P2CDARFB": {
    "doi": "10.15177/seefor.26-018",
    "path": "papers/wildfire/2026/nouar-2026-analysis-of-forest-fire-causes-in-algeri-p2cdarfb.md",
    "source": "unpaywall: https://www.seefor.eu/images/arhiva/vol17_no2/nouar/nouar.pdf",
    "status": "fulltext",
-   "zver": 11397
+   "zver": 31666
   },
   "P2NFJQAA": {
    "doi": null,
-   "path": "papers/unsorted/2024/usda-fsa-2024-large-share-of-conservation-reserve-prog-p2nfjqaa.md",
+   "path": "papers/policy/2024/usda-fsa-2024-large-share-of-conservation-reserve-prog-p2nfjqaa.md",
    "source": null,
    "status": "metadata-only",
-   "zver": 10812
+   "zver": 31606
   },
   "P5AHSB4P": {
    "doi": "10.1016/j.landurbplan.2014.11.020",
    "path": "papers/wildfire/2015/nielsen-pincus-2015-spatially-and-socially-segmenting-privat-p5ahsb4p.md",
    "source": null,
    "status": "metadata-only",
-   "zver": 10675
+   "zver": 31043
   },
   "P5BVHXCD": {
    "doi": "10.1073/pnas.0508985102",
    "path": "papers/wildfire/2005/moritz-2005-wildfires-complexity-and-highly-optimize-p5bvhxcd.md",
    "source": "unpaywall: https://www.ncbi.nlm.nih.gov/pmc/articles/1312407",
    "status": "fulltext",
-   "zver": 10954
+   "zver": 31108
   },
   "P82GXK3T": {
    "doi": "10.3389/fenvh.2026.1838836",
    "path": "papers/wildfire/2026/liang-2026-wildfire-contributions-to-prenatal-pm2-5-p82gxk3t.md",
    "source": "unpaywall: https://www.frontiersin.org/journals/environmental-health/articles/10.3389/fenvh.2026.1838836/pdf",
    "status": "fulltext",
-   "zver": 11019
+   "zver": 31627
   },
   "P8CXQ2GA": {
    "doi": "10.3389/ffgc.2026.1882526",
    "path": "papers/wildfire/2026/potiriadi-2026-creative-destruction-from-fire-ecology-t-p8cxq2ga.md",
    "source": "unpaywall: https://www.frontiersin.org/journals/forests-and-global-change/articles/10.3389/ffgc.2026.1882526/pdf",
    "status": "fulltext",
-   "zver": 11398
+   "zver": 31637
   },
   "P8F36B92": {
    "doi": null,
@@ -4415,224 +4422,224 @@
    "path": "papers/wildfire/2022/huang-2022-aerial-imagery-based-building-footprint-p8udzffe.md",
    "source": null,
    "status": "metadata-only",
-   "zver": 9894
+   "zver": 31074
   },
   "P8VNYWBM": {
    "doi": null,
    "path": "papers/wildfire/2020/hanberry-2020-reviewing-fire-climate-deer-and-foundati-p8vnywbm.md",
    "source": null,
    "status": "metadata-only",
-   "zver": 11533
+   "zver": 32204
   },
   "P9J3XDJG": {
    "doi": null,
    "path": "papers/unsorted/1999/anon-1999-boot-bootstrap-functions-originally-by-a-p9j3xdjg.md",
    "source": null,
    "status": "metadata-only",
-   "zver": 11508
+   "zver": 31309
   },
   "PAGZ7UZZ": {
    "doi": "10.2174/1874331501206010017",
    "path": "papers/wildfire/2012/van-liew-2012-an-economic-comparison-of-prescribed-ext-pagz7uzz.md",
    "source": "unpaywall: https://openagriculturejournal.com/VOLUME/6/PAGE/17/PDF/",
    "status": "fulltext",
-   "zver": 11377
+   "zver": 31270
   },
   "PCBXJ6IV": {
    "doi": "10.1016/j.jenvp.2017.03.002",
-   "path": "papers/policy/2017/matilainen-2017-i-feel-it-is-mine-psychological-ownershi-pcbxj6iv.md",
+   "path": "papers/ecology/2017/matilainen-2017-i-feel-it-is-mine-psychological-ownershi-pcbxj6iv.md",
    "source": null,
    "status": "metadata-only",
-   "zver": 11662
+   "zver": 31065
   },
   "PG4HP6L9": {
    "doi": null,
-   "path": "papers/unsorted/2013/epa-2013-level-iii-ecoregions-of-the-conterminous-pg4hp6l9.md",
+   "path": "papers/remote-sensing/2013/epa-2013-level-iii-ecoregions-of-the-conterminous-pg4hp6l9.md",
    "source": null,
    "status": "metadata-only",
-   "zver": 11521
+   "zver": 31018
   },
   "PH3FRKUK": {
    "doi": "10.1007/s00267-003-5197-2",
-   "path": "papers/ecology/2004/omernik-2004-perspectives-on-the-nature-and-definitio-ph3frkuk.md",
+   "path": "papers/wildfire/2004/omernik-2004-perspectives-on-the-nature-and-definitio-ph3frkuk.md",
    "source": null,
    "status": "metadata-only",
-   "zver": 11649
+   "zver": 30996
   },
   "PI4FF2G8": {
    "doi": "10.1371/journal.pone.0140839",
    "path": "papers/wildfire/2015/liu-2015-climatic-and-landscape-influences-on-fir-pi4ff2g8.md",
    "source": "unpaywall: https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0140839&type=printable",
    "status": "fulltext",
-   "zver": 9940
+   "zver": 31406
   },
   "PJAQ7EXD": {
    "doi": "10.1071/WF18025",
    "path": "papers/wildfire/2018/andreu-2018-estimating-canopy-fuel-characteristics-f-pjaq7exd.md",
    "source": null,
    "status": "metadata-only",
-   "zver": 11253
+   "zver": 31100
   },
   "PKGFXE8X": {
    "doi": "10.64898/2026.08.23.746551",
    "path": "papers/wildfire/2026/gui-2026-prior-low-severity-fires-reduce-the-risk-pkgfxe8x.md",
    "source": "unpaywall: https://www.biorxiv.org/content/biorxiv/early/2026/08/24/2026.08.23.746551.full.pdf",
    "status": "fulltext",
-   "zver": 11411
+   "zver": 31966
   },
   "PMFDEIH9": {
    "doi": "10.1371/journal.pone.0334868",
    "path": "papers/wildfire/2026/mart-n-2026-a-fuzzy-clustering-approach-to-understan-pmfdeih9.md",
    "source": "unpaywall: https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0334868&type=printable",
    "status": "fulltext",
-   "zver": 10988
+   "zver": 31625
   },
   "PPNJQNH5": {
    "doi": "10.1088/2515-7620/aebaf5",
    "path": "papers/wildfire/2026/ma-2026-future-wildfire-risk-to-population-and-p-ppnjqnh5.md",
    "source": null,
    "status": "metadata-only",
-   "zver": 11290
+   "zver": 31786
   },
   "PSCHP6SJ": {
    "doi": "10.5194/egusphere-2026-5534",
    "path": "papers/wildfire/2026/ng-2026-dark-brown-carbon-and-aerosol-mixing-imp-pschp6sj.md",
    "source": "unpaywall: https://egusphere.copernicus.org/preprints/2026/egusphere-2026-5534/egusphere-2026-5534.pdf",
    "status": "fulltext",
-   "zver": 11351
+   "zver": 31738
   },
   "PSSXVYY2": {
    "doi": "10.3390/rs11121427",
-   "path": "papers/remote-sensing/2019/robinson-2019-rangeland-productivity-partitioned-to-su-pssxvyy2.md",
+   "path": "papers/wildfire/2019/robinson-2019-rangeland-productivity-partitioned-to-su-pssxvyy2.md",
    "source": null,
    "status": "metadata-only",
-   "zver": 9953
+   "zver": 31495
   },
   "PSXUM5T2": {
    "doi": "10.1198/tast.2010.10052",
-   "path": "papers/unsorted/2010/hodges-2010-adding-spatially-correlated-errors-can-m-psxum5t2.md",
+   "path": "papers/remote-sensing/2010/hodges-2010-adding-spatially-correlated-errors-can-m-psxum5t2.md",
    "source": null,
    "status": "metadata-only",
-   "zver": 11538
+   "zver": 31749
   },
   "PSY24DSX": {
    "doi": "10.1111/gcb.17130",
    "path": "papers/wildfire/2024/cunningham-2024-pyrogeography-in-flux-reorganization-of-psy24dsx.md",
    "source": null,
    "status": "metadata-only",
-   "zver": 11329
+   "zver": 31373
   },
   "PT5M897B": {
    "doi": "10.1061/(ASCE)NH.1527-6996.0000540",
    "path": "papers/wildfire/2022/pierce-2022-households-living-in-manufactured-housin-pt5m897b.md",
    "source": null,
    "status": "metadata-only",
-   "zver": 10749
+   "zver": 31391
   },
   "PTXUIRT6": {
    "doi": "10.1016/S0022-1694(97)00125-X",
    "path": "papers/unsorted/1998/hamed-1998-a-modified-mann-kendall-trend-test-for-a-ptxuirt6.md",
    "source": null,
    "status": "metadata-only",
-   "zver": 12269
+   "zver": 31696
   },
   "PUKCC3D6": {
    "doi": "10.1038/s43247-023-00993-1",
    "path": "papers/wildfire/2023/swain-2023-climate-change-is-narrowing-and-shifting-pukcc3d6.md",
    "source": "unpaywall: https://www.nature.com/articles/s43247-023-00993-1.pdf",
    "status": "fulltext",
-   "zver": 10851
+   "zver": 32101
   },
   "PW3XCMWJ": {
    "doi": "10.1139/cjfr-2018-0293",
    "path": "papers/wildfire/2019/hanes-2019-fire-regime-changes-in-canada-over-the-l-pw3xcmwj.md",
    "source": null,
    "status": "metadata-only",
-   "zver": 10765
+   "zver": 31382
   },
   "PXDIBN96": {
    "doi": "10.1177/0263774X16667302",
    "path": "papers/wildfire/2017/crow-2017-local-media-coverage-of-wildfire-disaste-pxdibn96.md",
    "source": null,
    "status": "metadata-only",
-   "zver": 11198
+   "zver": 31515
   },
   "PZ9BU7G7": {
    "doi": "10.2307/1241970",
    "path": "papers/ecology/1988/reichelderfer-1988-government-decision-making-and-program-p-pz9bu7g7.md",
    "source": null,
    "status": "metadata-only",
-   "zver": 11797
+   "zver": 31892
   },
   "Q23BW8XC": {
    "doi": "10.1007/978-3-319-51727-8_92-1",
    "path": "papers/wildfire/2020/haynes-2020-wildfires-and-wui-fire-fatalities-q23bw8xc.md",
    "source": null,
    "status": "metadata-only",
-   "zver": 11535
+   "zver": 31102
   },
   "Q2CY8KCY": {
    "doi": "10.1016/j.forpol.2010.07.009",
    "path": "papers/wildfire/2011/gaither-2011-wildland-fire-risk-and-social-vulnerabil-q2cy8kcy.md",
    "source": null,
    "status": "metadata-only",
-   "zver": 8972
+   "zver": 32051
   },
   "Q2JXSVL9": {
    "doi": "10.3390/fire2030049",
    "path": "papers/wildfire/2019/syphard-2019-factors-associated-with-structure-loss-i-q2jxsvl9.md",
    "source": null,
    "status": "metadata-only",
-   "zver": 11370
+   "zver": 31117
   },
   "Q2ZWXTGP": {
    "doi": "10.3390/f9070381",
-   "path": "papers/ecology/2018/dillon-2018-native-and-invasive-woody-species-differ-q2zwxtgp.md",
+   "path": "papers/wildfire/2018/dillon-2018-native-and-invasive-woody-species-differ-q2zwxtgp.md",
    "source": null,
    "status": "metadata-only",
-   "zver": 11368
+   "zver": 32061
   },
   "Q3MTPPZR": {
    "doi": "10.1071/WF19150",
    "path": "papers/wildfire/2020/podschwit-2020-patterns-and-trends-in-simultaneous-wild-q3mtppzr.md",
    "source": null,
    "status": "metadata-only",
-   "zver": 11450
+   "zver": 32140
   },
   "Q49Y4J4E": {
    "doi": "10.48550/arXiv.1807.01860",
    "path": "papers/unsorted/2018/zhang-2018-privacy-preserving-machine-learning-thro-q49y4j4e.md",
    "source": "arxiv: https://arxiv.org/pdf/1807.01860",
    "status": "fulltext",
-   "zver": 11266
+   "zver": 31532
   },
   "Q5W2TWZD": {
    "doi": "10.1111/1365-2745.12342",
    "path": "papers/wildfire/2015/reyer-2015-forest-resilience-tipping-points-and-glo-q5w2twzd.md",
    "source": null,
    "status": "metadata-only",
-   "zver": 9889
+   "zver": 31033
   },
   "Q5XUFMXL": {
    "doi": "10.3375/2162-4399-44.1.2",
-   "path": "papers/unsorted/2024/hale-2024-evidence-of-mesophication-in-the-georgia-q5xufmxl.md",
+   "path": "papers/wildfire/2024/hale-2024-evidence-of-mesophication-in-the-georgia-q5xufmxl.md",
    "source": null,
    "status": "metadata-only",
-   "zver": 11433
+   "zver": 31569
   },
   "Q6J8P6TK": {
    "doi": "10.1071/WF99002",
    "path": "papers/wildfire/1999/fried-1999-assessing-the-benefits-of-reducing-fire-q6j8p6tk.md",
    "source": null,
    "status": "metadata-only",
-   "zver": 11144
+   "zver": 31022
   },
   "QBAXUW5U": {
    "doi": "10.1126/science.adu6408",
    "path": "papers/wildfire/2025/teymoor-seydi-2025-increasing-global-human-exposure-to-wild-qbaxuw5u.md",
    "source": "unpaywall: https://ueaeprints.uea.ac.uk/id/eprint/100877/1/adu6408_ArticleContent_v7.pdf",
    "status": "fulltext",
-   "zver": 10838
+   "zver": 31452
   },
   "QC357ASF": {
    "doi": null,

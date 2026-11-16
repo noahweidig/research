@@ -11,16 +11,16 @@ year: '2019'
 journal: Ecosphere
 doi: 10.1002/ecs2.2818
 tags:
-- grassland
-- heterogeneity
+- rangelands
+- refwright:read:unread
 - topography
-- woody encroachment
+- woody cover
 zotero_key: NTNB2YTZ
 item_type: journalArticle
 url: https://doi.org/10.1002/ecs2.2818
 source_url: 'unpaywall: https://scholarscompass.vcu.edu/biol_pubs/55'
 fulltext_status: fulltext
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Interaction of seed dispersal and environmental filtering affects woody encroachment patterns in coastal grassland

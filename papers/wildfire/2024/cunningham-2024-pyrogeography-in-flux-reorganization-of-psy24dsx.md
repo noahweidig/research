@@ -11,16 +11,17 @@ year: '2024'
 journal: Global Change Biology
 doi: 10.1111/gcb.17130
 tags:
-- australia
-- climate change
-- fire regime
-- pyrogeography
+- climate
+- fire regimes
+- forests
+- refwright:read:unread
+- wildfire
 zotero_key: PSY24DSX
 item_type: journalArticle
 url: https://onlinelibrary.wiley.com/doi/abs/10.1111/gcb.17130
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Pyrogeography in flux: Reorganization of Australian fire regimes in a hotter world

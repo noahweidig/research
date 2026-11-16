@@ -9,19 +9,18 @@ year: '2015'
 journal: Journal of Ecology
 doi: 10.1111/1365-2745.12342
 tags:
-- climate change
-- fire history
-- forest management
+- climate
+- ecology
+- fire regimes
+- forests
 - mortality
-- scale
-- state transition
-- survival
+- refwright:read:unread
 zotero_key: Q5W2TWZD
 item_type: journalArticle
 url: https://onlinelibrary.wiley.com/doi/abs/10.1111/1365-2745.12342
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Forest resilience, tipping points and global change processes

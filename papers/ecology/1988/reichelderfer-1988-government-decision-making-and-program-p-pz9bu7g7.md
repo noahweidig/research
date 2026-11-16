@@ -7,16 +7,15 @@ year: '1988'
 journal: American Journal of Agricultural Economics
 doi: 10.2307/1241970
 tags:
-- Conservation Reserve Program
-- government programs
-- public policy
-- soil conservation
+- CRP
+- refwright:read:unread
+- soils
 zotero_key: PZ9BU7G7
 item_type: journalArticle
 url: https://onlinelibrary.wiley.com/doi/abs/10.2307/1241970
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Government Decision Making and Program Performance: The Case of the Conservation Reserve Program

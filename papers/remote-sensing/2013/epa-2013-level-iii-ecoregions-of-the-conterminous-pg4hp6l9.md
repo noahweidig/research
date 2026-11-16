@@ -1,22 +1,22 @@
 ---
 title: Level III Ecoregions of the Conterminous United States
 authors:
-- EPA
+- Epa
 year: '2013'
 journal: null
 doi: null
 tags:
-- contiguous united states
+- agriculture
 - dataset
-- ecoregions
-- fulltext:check-needed
-- geospatial data
+- refwright:read:unread
+- remote sensing
+- united states
 zotero_key: PG4HP6L9
 item_type: dataset
 url: https://www.epa.gov/eco-research/level-iii-and-iv-ecoregions-continental-united-states
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Level III Ecoregions of the Conterminous United States

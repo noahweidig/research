@@ -11,17 +11,18 @@ year: '2019'
 journal: Canadian Journal of Forest Research
 doi: 10.1139/cjfr-2018-0293
 tags:
-- fire
-- fire regime
-- fulltext:pdf-found
+- fire regimes
+- human dimensions
 - ignition
-- large wildfires
+- refwright:read:unread
+- united states
+- wildfire
 zotero_key: PW3XCMWJ
 item_type: journalArticle
 url: https://cdnsciencepub.com/doi/full/10.1139/cjfr-2018-0293
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Fire-regime changes in Canada over the last half century

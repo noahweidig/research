@@ -11,16 +11,20 @@ year: '2019'
 journal: Remote Sensing
 doi: 10.3390/rs11121427
 tags:
-- ndvi
-- net primary productivity
-- rangeland
+- conservation
+- fuels
+- management
+- rangelands
+- refwright:read:unread
 - remote sensing
+- statistics
+- united states
 zotero_key: PSSXVYY2
 item_type: journalArticle
 url: https://www.mdpi.com/2072-4292/11/12/1427
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Rangeland Productivity Partitioned to Sub-Pixel Plant Functional Types

@@ -8,16 +8,14 @@ year: '2018'
 journal: arXiv
 doi: 10.48550/arXiv.1807.01860
 tags:
-- data obfuscation
-- data privacy
-- machine learning
+- refwright:read:unread
 - statistics
 zotero_key: Q49Y4J4E
 item_type: preprint
 url: http://arxiv.org/abs/1807.01860
 source_url: 'arxiv: https://arxiv.org/pdf/1807.01860'
 fulltext_status: fulltext
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Privacy-preserving Machine Learning through Data Obfuscation

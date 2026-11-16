@@ -9,14 +9,15 @@ doi: 10.1371/journal.pone.0334868
 tags:
 - extremes
 - fuels
-- longitudinal analysis
+- natural hazards
+- refwright:read:unread
 - united states
 zotero_key: PMFDEIH9
 item_type: journalArticle
 url: https://openalex.org/W7201902778
 source_url: 'unpaywall: https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0334868&type=printable'
 fulltext_status: fulltext
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # A fuzzy clustering approach to understanding religious and socioeconomic determinants of public perceptions of environmental regulation in the United States

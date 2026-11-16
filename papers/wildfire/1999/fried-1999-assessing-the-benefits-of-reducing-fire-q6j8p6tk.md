@@ -8,17 +8,17 @@ year: '1999'
 journal: International Journal of Wildland Fire
 doi: 10.1071/WF99002
 tags:
-- fire
+- WUI
+- exposure
 - fire risk
-- fulltext:pdf-missing
-- structure loss
-- wildland-urban interface
+- refwright:read:unread
+- wildfire
 zotero_key: Q6J8P6TK
 item_type: journalArticle
 url: http://www.publish.csiro.au/?paper=WF99002
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Assessing the benefits of reducing fire risk in the Wildland-urban interface: a contingent valuation approach

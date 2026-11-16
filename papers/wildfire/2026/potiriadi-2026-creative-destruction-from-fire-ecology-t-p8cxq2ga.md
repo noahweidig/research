@@ -9,16 +9,19 @@ year: '2026'
 journal: Frontiers in Forests and Global Change
 doi: 10.3389/ffgc.2026.1882526
 tags:
-- drivers
-- fire ecology
-- prescribed burning
+- biodiversity
+- ecology
+- fire regimes
+- prescribed fire
+- refwright:read:unread
+- suppression
 - wildfire
 zotero_key: P8CXQ2GA
 item_type: journalArticle
 url: https://openalex.org/W7171802580
 source_url: 'unpaywall: https://www.frontiersin.org/journals/forests-and-global-change/articles/10.3389/ffgc.2026.1882526/pdf'
 fulltext_status: fulltext
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Creative destruction: from fire ecology to management principles—a conceptual review

@@ -3,25 +3,28 @@ title: Climate change is narrowing and shifting prescribed fire windows in weste
 authors:
 - Swain, Daniel L.
 - Abatzoglou, John T.
-- Kolden, Crystal
+- Kolden, Crystal A.
 - Shive, Kristen
 - Kalashnikov, Dmitri A.
 - Singh, Deepti
-- Smith, Edward
+- Smith, Edward B.
 year: '2023'
 journal: Communications Earth & Environment
 doi: 10.1038/s43247-023-00993-1
 tags:
-- climate change
-- fire
-- prescribed burning
-- western united states
+- climate
+- fuels
+- prescribed fire
+- refwright:read:unread
+- suppression
+- united states
+- wildfire
 zotero_key: PUKCC3D6
 item_type: journalArticle
 url: https://www.nature.com/articles/s43247-023-00993-1
 source_url: 'unpaywall: https://www.nature.com/articles/s43247-023-00993-1.pdf'
 fulltext_status: fulltext
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Climate change is narrowing and shifting prescribed fire windows in western United States

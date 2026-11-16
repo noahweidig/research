@@ -6,17 +6,16 @@ year: '2024'
 journal: null
 doi: null
 tags:
+- CRP
 - conservation
-- conservation reserve program
-- econometrics
-- fulltext:check-needed
-- government report
+- policy
+- refwright:read:unread
 zotero_key: P2NFJQAA
 item_type: report
 url: https://www.ers.usda.gov/data-products/charts-of-note/110228
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Large share of Conservation Reserve Program enrolled land concentrated across the central part of the country | Economic Research Service

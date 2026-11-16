@@ -11,17 +11,18 @@ year: '2017'
 journal: 'Environment and Planning C: Politics and Space'
 doi: 10.1177/0263774X16667302
 tags:
-- disaster
-- fulltext:pdf-missing
+- WUI
+- exposure
 - natural hazards
-- western united states
+- refwright:read:unread
+- united states
 - wildfire
 zotero_key: PXDIBN96
 item_type: journalArticle
 url: https://doi.org/10.1177/0263774X16667302
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Local media coverage of wildfire disasters: An analysis of problems and solutions in policy narratives

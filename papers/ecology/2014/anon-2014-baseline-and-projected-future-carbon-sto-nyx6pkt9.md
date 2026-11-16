@@ -5,16 +5,16 @@ year: '2014'
 journal: null
 doi: 10.3133/pp1804
 tags:
-- carbon cycle
-- carbon sequestration
-- eastern united states
+- climate
+- ecology
+- refwright:read:unread
 - united states
 zotero_key: NYX6PKT9
 item_type: book
 url: https://doi.org/10.3133/pp1804
 source_url: 'unpaywall: https://pubs.usgs.gov/pp/1804/pdf/pp1804.pdf'
 fulltext_status: fulltext
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Baseline and projected future carbon storage and greenhouse-gas fluxes in ecosystems of the eastern United States

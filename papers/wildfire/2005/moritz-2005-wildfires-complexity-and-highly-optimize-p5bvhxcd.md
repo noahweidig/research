@@ -10,17 +10,18 @@ year: '2005'
 journal: Proceedings of the National Academy of Sciences
 doi: 10.1073/pnas.0508985102
 tags:
-- ecosystems
-- fire management
-- fulltext:pdf-missing
+- climate
+- refwright:read:unread
 - resilience
+- suppression
+- united states
 - wildfire
 zotero_key: P5BVHXCD
 item_type: journalArticle
 url: https://www.pnas.org/doi/10.1073/pnas.0508985102
 source_url: 'unpaywall: https://www.ncbi.nlm.nih.gov/pmc/articles/1312407'
 fulltext_status: fulltext
-synced: '2026-11-09'
+synced: '2026-11-16'
 ---
 
 # Wildfires, complexity, and highly optimized tolerance
