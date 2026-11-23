@@ -20,7 +20,7 @@ item_type: journalArticle
 url: https://link.springer.com/10.1007/s10980-021-01326-3
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
 # Multivariate analysis of invasive plant species distributions in southern US forests

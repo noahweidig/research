@@ -1,5 +1,5 @@
 ---
-title: 'Recent woody invasion of wetlands on the Kenai Peninsula Lowlands, south-central Alaska: a major regime shift after 18 000 years of wet Sphagnum–sedge peat recruitment'
+title: 'Recent woody invasion of wetlands on the kenai peninsula lowlands, south-central alaska: a major regime shift after 18 000 years of wet sphagnum–sedge peat recruitment'
 authors:
 - Berg, Edward E
 - Hillman, Kacy McDonnell
@@ -20,10 +20,10 @@ item_type: journalArticle
 url: https://doi.org/10.1139/x09-121
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Recent woody invasion of wetlands on the Kenai Peninsula Lowlands, south-central Alaska: a major regime shift after 18 000 years of wet Sphagnum–sedge peat recruitment
+# Recent woody invasion of wetlands on the kenai peninsula lowlands, south-central alaska: a major regime shift after 18 000 years of wet sphagnum–sedge peat recruitment
 
 ## Abstract
 

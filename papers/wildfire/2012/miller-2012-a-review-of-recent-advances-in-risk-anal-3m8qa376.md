@@ -15,7 +15,7 @@ item_type: journalArticle
 url: https://www.publish.csiro.au/wf/WF11114
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
 # A review of recent advances in risk analysis for wildfire management

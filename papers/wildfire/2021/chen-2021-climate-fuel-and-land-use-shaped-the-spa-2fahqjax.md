@@ -1,5 +1,5 @@
 ---
-title: Climate, Fuel, and Land Use Shaped the Spatial Pattern of Wildfire in California’s Sierra Nevada
+title: Climate, fuel, and land use shaped the spatial pattern of wildfire in california’s sierra nevada
 authors:
 - Chen, Bin
 - Jin, Yufang
@@ -21,10 +21,10 @@ item_type: journalArticle
 url: https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2020JG005786
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Climate, Fuel, and Land Use Shaped the Spatial Pattern of Wildfire in California’s Sierra Nevada
+# Climate, fuel, and land use shaped the spatial pattern of wildfire in california’s sierra nevada
 
 ## Abstract
 

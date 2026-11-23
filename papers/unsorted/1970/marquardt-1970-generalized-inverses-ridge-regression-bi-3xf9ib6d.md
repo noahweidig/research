@@ -1,5 +1,5 @@
 ---
-title: Generalized Inverses, Ridge Regression, Biased Linear Estimation, and Nonlinear Estimation
+title: Generalized inverses, ridge regression, biased linear estimation, and nonlinear estimation
 authors:
 - Marquardt, Donald W.
 year: '1970'
@@ -13,10 +13,10 @@ item_type: journalArticle
 url: https://www.jstor.org/stable/1267205
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Generalized Inverses, Ridge Regression, Biased Linear Estimation, and Nonlinear Estimation
+# Generalized inverses, ridge regression, biased linear estimation, and nonlinear estimation
 
 ## Abstract
 

@@ -22,7 +22,7 @@ item_type: journalArticle
 url: https://www.sciencedirect.com/science/article/pii/S0379711211001275
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
 # Experimental investigation of structure vulnerabilities to firebrand showers

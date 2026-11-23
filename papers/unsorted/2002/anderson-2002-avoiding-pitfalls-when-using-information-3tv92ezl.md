@@ -4,7 +4,7 @@ authors:
 - Anderson, David R.
 - Burnham, Kenneth P.
 year: '2002'
-journal: The Journal of wildlife management
+journal: Journal of Wildlife Management
 doi: 10.2307/3803155
 tags:
 - refwright:read:unread
@@ -14,7 +14,7 @@ item_type: journalArticle
 url: https://www.jstor.org/stable/3803155
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
 # Avoiding pitfalls when using information-theoretic methods

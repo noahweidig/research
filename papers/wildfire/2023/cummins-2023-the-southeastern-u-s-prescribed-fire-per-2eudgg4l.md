@@ -1,5 +1,5 @@
 ---
-title: 'The Southeastern U.S. Prescribed Fire Permit Database: Hot Spots and Hot Moments in Prescribed Fire across the Southeastern U.S.A.'
+title: 'The southeastern U.S. prescribed fire permit database: hot spots and hot moments in prescribed fire across the southeastern U.S.a'
 authors:
 - Cummins, Karen
 - Noble, Joseph
@@ -22,10 +22,10 @@ item_type: journalArticle
 url: https://www.mdpi.com/2571-6255/6/10/372
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# The Southeastern U.S. Prescribed Fire Permit Database: Hot Spots and Hot Moments in Prescribed Fire across the Southeastern U.S.A.
+# The southeastern U.S. prescribed fire permit database: hot spots and hot moments in prescribed fire across the southeastern U.S.a
 
 ## Abstract
 

@@ -1,5 +1,5 @@
 ---
-title: 'Event‐Level Attribution of Wildfire Ignition Cause: A Machine‐Learning Approach'
+title: 'Event-level attribution of wildfire ignition cause: a machine-learning approach'
 authors:
 - Qiu, Kairui
 - Yu, Yan
@@ -26,10 +26,10 @@ item_type: journalArticle
 url: https://openalex.org/W7204592177
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Event‐Level Attribution of Wildfire Ignition Cause: A Machine‐Learning Approach
+# Event-level attribution of wildfire ignition cause: a machine-learning approach
 
 ## Abstract
 

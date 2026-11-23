@@ -1,7 +1,7 @@
 ---
-title: 'Cutting through the noise: What can habitat selection modeling teach us about caribou‐fire space use dynamics?'
+title: 'Cutting through the noise: what can habitat selection modeling teach us about caribou-fire space use dynamics?'
 authors:
-- Degré‐Timmons, Geneviève É.
+- Degré-Timmons, Geneviève É.
 - Hendrix, Jack Graham
 - McIntire, Eliot J. B.
 - Cumming, Steven G.
@@ -15,6 +15,7 @@ year: '2026'
 journal: Journal of Wildlife Management
 doi: 10.1002/jwmg.70287
 tags:
+- data:available
 - habitats
 - prescribed fire
 - rangelands
@@ -27,10 +28,10 @@ item_type: journalArticle
 url: https://openalex.org/W7220444991
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Cutting through the noise: What can habitat selection modeling teach us about caribou‐fire space use dynamics?
+# Cutting through the noise: what can habitat selection modeling teach us about caribou-fire space use dynamics?
 
 ## Abstract
 

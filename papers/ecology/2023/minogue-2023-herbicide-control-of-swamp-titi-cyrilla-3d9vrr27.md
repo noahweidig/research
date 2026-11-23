@@ -1,5 +1,5 @@
 ---
-title: Herbicide control of swamp titi (Cyrilla racemiflora) in restoration of ephemeral wetlands
+title: Herbicide control of swamp titi (cyrilla racemiflora) in restoration of ephemeral wetlands
 authors:
 - Minogue, Patrick Joseph
 - Lauer, Dwight K.
@@ -21,10 +21,10 @@ item_type: journalArticle
 url: https://onlinelibrary.wiley.com/doi/abs/10.1111/rec.13971
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Herbicide control of swamp titi (Cyrilla racemiflora) in restoration of ephemeral wetlands
+# Herbicide control of swamp titi (cyrilla racemiflora) in restoration of ephemeral wetlands
 
 ## Abstract
 

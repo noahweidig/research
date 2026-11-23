@@ -23,7 +23,7 @@ item_type: journalArticle
 url: http://www.ecologyandsociety.org/vol19/iss2/art41/
 source_url: 'unpaywall: https://www.ecologyandsociety.org/vol19/iss2/art41/ES-2013-6404.pdf'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
 # Landowners' perceptions of risk in grassland management: woody plant encroachment and prescribed fire

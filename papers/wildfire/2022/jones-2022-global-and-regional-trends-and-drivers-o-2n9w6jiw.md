@@ -1,5 +1,5 @@
 ---
-title: Global and Regional Trends and Drivers of Fire Under Climate Change
+title: Global and regional trends and drivers of fire under climate change
 authors:
 - Jones, Matthew W.
 - Abatzoglou, John T.
@@ -32,10 +32,10 @@ item_type: journalArticle
 url: https://onlinelibrary.wiley.com/doi/abs/10.1029/2020RG000726
 source_url: 'unpaywall: https://research.vu.nl/en/publications/15e71d92-cdea-4869-82d1-fed8dd875f24'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Global and Regional Trends and Drivers of Fire Under Climate Change
+# Global and regional trends and drivers of fire under climate change
 
 ## Abstract
 

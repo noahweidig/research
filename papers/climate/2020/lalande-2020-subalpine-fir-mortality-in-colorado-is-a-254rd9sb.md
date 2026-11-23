@@ -1,5 +1,5 @@
 ---
-title: Subalpine fir mortality in Colorado is associated with stand density, warming climates and interactions among fungal diseases and the western balsam bark beetle
+title: Subalpine fir mortality in colorado is associated with stand density, warming climates and interactions among fungal diseases and the western balsam bark beetle
 authors:
 - Lalande, Bradley M.
 - Hughes, Kristina
@@ -21,10 +21,10 @@ item_type: journalArticle
 url: https://www.sciencedirect.com/science/article/pii/S0378112720304382
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Subalpine fir mortality in Colorado is associated with stand density, warming climates and interactions among fungal diseases and the western balsam bark beetle
+# Subalpine fir mortality in colorado is associated with stand density, warming climates and interactions among fungal diseases and the western balsam bark beetle
 
 ## Abstract
 

@@ -1,5 +1,5 @@
 ---
-title: Wiregrass (Aristida beyrichiana) may limit woody plant encroachment in longleaf pine (Pinus palustris) ecosystems
+title: Wiregrass (aristida beyrichiana) may limit woody plant encroachment in longleaf pine (pinus palustris) ecosystems
 authors:
 - Fill, Jennifer M.
 - Glitzenstein, Jeff S
@@ -7,7 +7,7 @@ authors:
 - Stowe, Johnny
 - Mousseau, Timothy A
 year: '2017'
-journal: The American Midland Naturalist
+journal: American Midland Naturalist
 doi: 10.1674/0003-0031-177.1.153
 tags:
 - longleaf pine
@@ -22,10 +22,10 @@ item_type: journalArticle
 url: https://doi.org/10.1674/0003-0031-177.1.153
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Wiregrass (Aristida beyrichiana) may limit woody plant encroachment in longleaf pine (Pinus palustris) ecosystems
+# Wiregrass (aristida beyrichiana) may limit woody plant encroachment in longleaf pine (pinus palustris) ecosystems
 
 ## Abstract
 

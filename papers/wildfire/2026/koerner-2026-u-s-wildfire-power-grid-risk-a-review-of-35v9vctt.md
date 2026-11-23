@@ -1,5 +1,5 @@
 ---
-title: 'U.S. wildfire-power grid risk: A review of policy &amp; practices in ten western states'
+title: 'U.S. wildfire-power grid risk: a review of policy &amp; practices in ten western states'
 authors:
 - Koerner, Cassandra
 - Araujo, Kathleen
@@ -22,10 +22,10 @@ item_type: journalArticle
 url: https://openalex.org/W7197050704
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# U.S. wildfire-power grid risk: A review of policy &amp; practices in ten western states
+# U.S. wildfire-power grid risk: a review of policy &amp; practices in ten western states
 
 ## Abstract
 

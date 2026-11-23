@@ -1,5 +1,5 @@
 ---
-title: 'Great Plains ecosystems: past, present, and future'
+title: 'Great plains ecosystems: past, present, and future'
 authors:
 - Samson, Fred B.
 - Knopf, Fritz L.
@@ -18,10 +18,10 @@ item_type: journalArticle
 url: https://onlinelibrary.wiley.com/doi/abs/10.2193/0091-7648%282004%2932%5B6%3AGPEPPA%5D2.0.CO%3B2
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Great Plains ecosystems: past, present, and future
+# Great plains ecosystems: past, present, and future
 
 ## Abstract
 

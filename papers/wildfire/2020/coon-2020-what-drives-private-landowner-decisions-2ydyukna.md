@@ -1,5 +1,5 @@
 ---
-title: What drives private landowner decisions? Exploring non-native grass management in the eastern Great Plains
+title: What drives private landowner decisions? Exploring non-native grass management in the eastern great plains
 authors:
 - Coon, Jaime J.
 - van Riper, Carena J.
@@ -19,10 +19,10 @@ item_type: journalArticle
 url: https://www.sciencedirect.com/science/article/pii/S0301479720312810
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# What drives private landowner decisions? Exploring non-native grass management in the eastern Great Plains
+# What drives private landowner decisions? Exploring non-native grass management in the eastern great plains
 
 ## Abstract
 

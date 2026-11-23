@@ -1,5 +1,5 @@
 ---
-title: Response of the Invasive Grass Imperata cylindrica to Disturbance in the Southeastern Forests, USA
+title: Response of the invasive grass imperata cylindrica to disturbance in the southeastern forests, USA
 authors:
 - Holzmueller, Eric J.
 - Jose, Shibu
@@ -22,10 +22,10 @@ item_type: journalArticle
 url: https://www.mdpi.com/1999-4907/3/4/853
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Response of the Invasive Grass Imperata cylindrica to Disturbance in the Southeastern Forests, USA
+# Response of the invasive grass imperata cylindrica to disturbance in the southeastern forests, USA
 
 ## Abstract
 

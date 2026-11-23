@@ -23,7 +23,7 @@ item_type: journalArticle
 url: https://openalex.org/W7214575323
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
 # Out of the frying pan, into the fire? Tradeoffs between drought adaptation and wildfire risk under cropland loss and urbanization in the western United States

@@ -1,5 +1,5 @@
 ---
-title: 'Biotic Invasions: Causes, Epidemiology, Global Consequences, and Control'
+title: 'Biotic invasions: causes, epidemiology, global consequences, and control'
 authors:
 - Mack, Richard N.
 - Simberloff, Daniel
@@ -21,10 +21,10 @@ item_type: journalArticle
 url: https://onlinelibrary.wiley.com/doi/abs/10.1890/1051-0761%282000%29010%5B0689%3ABICEGC%5D2.0.CO%3B2
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Biotic Invasions: Causes, Epidemiology, Global Consequences, and Control
+# Biotic invasions: causes, epidemiology, global consequences, and control
 
 ## Abstract
 

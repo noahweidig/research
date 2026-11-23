@@ -1,5 +1,5 @@
 ---
-title: 'Unpacking the ‘black box’: Improving ecological interpretation of regression‐based models'
+title: 'Unpacking the ‘black box’: improving ecological interpretation of regression-based models'
 authors:
 - Prasad, Anantha M.
 - Peters, Matthew P.
@@ -22,10 +22,10 @@ item_type: journalArticle
 url: https://onlinelibrary.wiley.com/doi/10.1111/ddi.13707
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Unpacking the ‘black box’: Improving ecological interpretation of regression‐based models
+# Unpacking the ‘black box’: improving ecological interpretation of regression-based models
 
 ## Abstract
 

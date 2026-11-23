@@ -18,7 +18,7 @@ item_type: journalArticle
 url: https://doi.org/10.1007/s00477-021-02087-w
 source_url: 'unpaywall: https://www.researchsquare.com/article/rs-539684/latest.pdf'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
 # Impact of geophysical and anthropogenic factors on wildfire size: a spatiotemporal data-driven risk assessment approach using statistical learning

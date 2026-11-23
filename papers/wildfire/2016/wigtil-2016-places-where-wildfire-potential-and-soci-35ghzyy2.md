@@ -1,5 +1,5 @@
 ---
-title: Places where wildfire potential and social vulnerability coincide in the coterminous United States
+title: Places where wildfire potential and social vulnerability coincide in the coterminous united states
 authors:
 - Wigtil, Gabriel
 - Hammer, Roger B.
@@ -21,10 +21,10 @@ item_type: journalArticle
 url: https://www.publish.csiro.au/wf/WF15109
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Places where wildfire potential and social vulnerability coincide in the coterminous United States
+# Places where wildfire potential and social vulnerability coincide in the coterminous united states
 
 ## Abstract
 

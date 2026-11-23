@@ -1,5 +1,5 @@
 ---
-title: Benefits and limitations of using standard Forest Inventory and Analysis data to describe the extent of a catastrophic weather event
+title: Benefits and limitations of using standard forest inventory and analysis data to describe the extent of a catastrophic weather event
 authors:
 - Randolph, KaDonna C.
 year: '2015'
@@ -7,8 +7,8 @@ journal: null
 doi: 10.2737/SRS-RP-55
 tags:
 - dataset
-- exposure
 - fia
+- fire risk
 - forests
 - refwright:read:unread
 - united states
@@ -18,8 +18,8 @@ item_type: report
 url: https://www.fs.usda.gov/treesearch/pubs/49275
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Benefits and limitations of using standard Forest Inventory and Analysis data to describe the extent of a catastrophic weather event
+# Benefits and limitations of using standard forest inventory and analysis data to describe the extent of a catastrophic weather event
 

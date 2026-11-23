@@ -1,5 +1,5 @@
 ---
-title: Fire, mowing, and hand-removal of woody species in restoring a native wetland prairie in the Willamette Valley of Oregon
+title: Fire, mowing, and hand-removal of woody species in restoring a native wetland prairie in the willamette valley of oregon
 authors:
 - Clark, Deborah L
 - Wilson, Mark V
@@ -19,8 +19,8 @@ item_type: journalArticle
 url: https://doi.org/10.1672/0277-5212(2001)021[0135:fmahro]2.0.co;2
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Fire, mowing, and hand-removal of woody species in restoring a native wetland prairie in the Willamette Valley of Oregon
+# Fire, mowing, and hand-removal of woody species in restoring a native wetland prairie in the willamette valley of oregon
 

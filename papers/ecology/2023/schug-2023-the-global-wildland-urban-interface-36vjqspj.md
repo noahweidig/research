@@ -18,6 +18,7 @@ year: '2023'
 journal: Nature
 doi: 10.1038/s41586-023-06320-0
 tags:
+- WUI
 - ecology
 - natural hazards
 - refwright:read:unread
@@ -26,7 +27,7 @@ item_type: journalArticle
 url: https://www.nature.com/articles/s41586-023-06320-0
 source_url: 'unpaywall: https://www.nature.com/articles/s41586-023-06320-0.pdf'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
 # The global wildland–urban interface

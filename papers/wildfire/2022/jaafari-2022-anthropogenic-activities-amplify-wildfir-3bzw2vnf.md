@@ -1,5 +1,5 @@
 ---
-title: Anthropogenic activities amplify wildfire occurrence in the Zagros eco-region of western Iran
+title: Anthropogenic activities amplify wildfire occurrence in the zagros eco-region of western Iran
 authors:
 - Jaafari, Abolfazl
 - Rahmati, Omid
@@ -22,10 +22,10 @@ item_type: journalArticle
 url: https://doi.org/10.1007/s11069-022-05397-6
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Anthropogenic activities amplify wildfire occurrence in the Zagros eco-region of western Iran
+# Anthropogenic activities amplify wildfire occurrence in the zagros eco-region of western Iran
 
 ## Abstract
 

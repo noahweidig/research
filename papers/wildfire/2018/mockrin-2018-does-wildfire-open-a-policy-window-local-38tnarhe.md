@@ -1,5 +1,5 @@
 ---
-title: Does Wildfire Open a Policy Window? Local Government and Community Adaptation After Fire in the United States
+title: Does wildfire open a policy window? Local government and community adaptation after fire in the United States
 authors:
 - Mockrin, Miranda H.
 - Fishler, Hillary K.
@@ -9,7 +9,7 @@ journal: Environmental Management
 doi: 10.1007/s00267-018-1030-9
 tags:
 - WUI
-- exposure
+- fire risk
 - natural hazards
 - refwright:read:unread
 - resilience
@@ -20,10 +20,10 @@ item_type: journalArticle
 url: https://doi.org/10.1007/s00267-018-1030-9
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Does Wildfire Open a Policy Window? Local Government and Community Adaptation After Fire in the United States
+# Does wildfire open a policy window? Local government and community adaptation after fire in the United States
 
 ## Abstract
 

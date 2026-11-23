@@ -1,5 +1,5 @@
 ---
-title: Multiscale Validation of an Operational Model of Forest Inventory Attributes Developed with Constrained Remote Sensing Data
+title: Multiscale validation of an operational model of forest inventory attributes developed with constrained remote sensing data
 authors:
 - Pond, Nan C.
 - Froese, Robert E.
@@ -18,10 +18,10 @@ item_type: journalArticle
 url: http://www.tandfonline.com/doi/abs/10.1080/07038992.2014.917581
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Multiscale Validation of an Operational Model of Forest Inventory Attributes Developed with Constrained Remote Sensing Data
+# Multiscale validation of an operational model of forest inventory attributes developed with constrained remote sensing data
 
 ## Abstract
 

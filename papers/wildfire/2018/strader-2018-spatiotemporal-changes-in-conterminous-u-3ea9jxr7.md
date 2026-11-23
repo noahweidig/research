@@ -6,7 +6,6 @@ year: '2018'
 journal: Natural Hazards
 doi: 10.1007/s11069-018-3217-z
 tags:
-- exposure
 - fire risk
 - land cover
 - refwright:read:unread
@@ -16,7 +15,7 @@ item_type: journalArticle
 url: https://doi.org/10.1007/s11069-018-3217-z
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
 # Spatiotemporal changes in conterminous US wildfire exposure from 1940 to 2010

@@ -1,5 +1,5 @@
 ---
-title: 'Improving wildfire management outcomes: Shifting the paradigm of wildfire from simple to complex risk'
+title: 'Improving wildfire management outcomes: shifting the paradigm of wildfire from simple to complex risk'
 authors:
 - Essen, Maureen
 - McCaffrey, Sarah
@@ -19,10 +19,10 @@ item_type: journalArticle
 url: https://doi.org/10.1080/09640568.2021.2007861
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Improving wildfire management outcomes: Shifting the paradigm of wildfire from simple to complex risk
+# Improving wildfire management outcomes: shifting the paradigm of wildfire from simple to complex risk
 
 ## Abstract
 

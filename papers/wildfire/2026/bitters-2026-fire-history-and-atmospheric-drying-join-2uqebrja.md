@@ -11,6 +11,7 @@ year: '2026'
 journal: Fire Ecology
 doi: 10.1186/s42408-026-00604-2
 tags:
+- code:available
 - fire regimes
 - prescribed fire
 - refwright:read:unread
@@ -22,7 +23,7 @@ item_type: journalArticle
 url: https://openalex.org/W7224180235
 source_url: 'unpaywall: https://link.springer.com/content/pdf/10.1186/s42408-026-00604-2.pdf'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
 # Fire history and atmospheric drying jointly control forest reburn severity

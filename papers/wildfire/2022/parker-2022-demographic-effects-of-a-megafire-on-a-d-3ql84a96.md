@@ -11,6 +11,7 @@ year: '2022'
 journal: Ecology and Evolution
 doi: 10.1002/ece3.9544
 tags:
+- data:available
 - rangelands
 - refwright:read:unread
 - wildfire
@@ -19,7 +20,7 @@ item_type: journalArticle
 url: https://onlinelibrary.wiley.com/doi/abs/10.1002/ece3.9544
 source_url: 'unpaywall: https://www.ncbi.nlm.nih.gov/pmc/articles/9712810'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
 # Demographic effects of a megafire on a declining prairie grouse in the mixed-grass prairie

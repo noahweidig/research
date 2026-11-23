@@ -7,7 +7,7 @@ journal: International Journal of Climatology
 doi: 10.1002/joc.3413
 tags:
 - agriculture
-- refwright:read:unread
+- refwright:read:reading
 - weather
 - wildfire
 zotero_key: 2YPUVTBD
@@ -15,7 +15,7 @@ item_type: journalArticle
 url: https://rmets.onlinelibrary.wiley.com/doi/10.1002/joc.3413
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
 # Development of gridded surface meteorological data for ecological applications and modelling

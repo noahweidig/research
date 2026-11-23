@@ -1,5 +1,5 @@
 ---
-title: The July 2026 Wildfires in Canada and Their Transboundary Smoke Problem
+title: The July 2026 wildfires in Canada and their transboundary smoke problem
 authors:
 - Seydi, Seyd Teymoor
 - Abatzoglou, John T.
@@ -21,10 +21,10 @@ item_type: journalArticle
 url: https://openalex.org/W7202393579
 source_url: 'unpaywall: https://unu.edu/sites/default/files/2026-08/INWEH-PB-July%202026%20Wildfires%20in%20Canada-Aug2026_1.pdf'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# The July 2026 Wildfires in Canada and Their Transboundary Smoke Problem
+# The July 2026 wildfires in Canada and their transboundary smoke problem
 
 ## Abstract
 

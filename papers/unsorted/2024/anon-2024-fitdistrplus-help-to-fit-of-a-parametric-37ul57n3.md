@@ -1,5 +1,5 @@
 ---
-title: 'fitdistrplus: Help to Fit of a Parametric Distribution to Non-Censored or Censored Data'
+title: 'fitdistrplus: help to fit of a parametric distribution to non-censored or censored data'
 authors: []
 year: '2024'
 journal: null
@@ -12,10 +12,10 @@ item_type: computerProgram
 url: https://cran.r-project.org/web/packages/fitdistrplus/index.html
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# fitdistrplus: Help to Fit of a Parametric Distribution to Non-Censored or Censored Data
+# fitdistrplus: help to fit of a parametric distribution to non-censored or censored data
 
 ## Abstract
 
