@@ -1,5 +1,5 @@
 ---
-title: 'betareg: Beta Regression'
+title: 'betareg: beta regression'
 authors: []
 year: '2024'
 journal: null
@@ -12,10 +12,10 @@ item_type: computerProgram
 url: https://cran.r-project.org/web/packages/betareg/index.html
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# betareg: Beta Regression
+# betareg: beta regression
 
 ## Abstract
 

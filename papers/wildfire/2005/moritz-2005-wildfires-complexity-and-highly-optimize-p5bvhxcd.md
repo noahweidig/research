@@ -21,7 +21,7 @@ item_type: journalArticle
 url: https://www.pnas.org/doi/10.1073/pnas.0508985102
 source_url: 'unpaywall: https://www.ncbi.nlm.nih.gov/pmc/articles/1312407'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
 # Wildfires, complexity, and highly optimized tolerance

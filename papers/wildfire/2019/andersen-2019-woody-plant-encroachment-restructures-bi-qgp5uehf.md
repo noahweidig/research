@@ -8,6 +8,7 @@ journal: Biological Conservation
 doi: 10.1016/j.biocon.2019.108276
 tags:
 - conservation
+- fuels
 - rangelands
 - refwright:read:unread
 - united states
@@ -18,7 +19,7 @@ item_type: journalArticle
 url: https://www.sciencedirect.com/science/article/pii/S0006320719309528
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
 # Woody plant encroachment restructures bird communities in semiarid grasslands

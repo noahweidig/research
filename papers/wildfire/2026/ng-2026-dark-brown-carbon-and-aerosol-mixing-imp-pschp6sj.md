@@ -21,7 +21,7 @@ item_type: journalArticle
 url: https://openalex.org/W7220863302
 source_url: 'unpaywall: https://egusphere.copernicus.org/preprints/2026/egusphere-2026-5534/egusphere-2026-5534.pdf'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
 # Dark brown carbon and aerosol mixing impacts on absorbing aerosol optical depth in the southeastern United States

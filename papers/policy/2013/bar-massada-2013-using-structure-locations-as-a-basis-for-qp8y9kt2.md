@@ -20,7 +20,7 @@ item_type: journalArticle
 url: https://www.fs.usda.gov/research/treesearch/43857
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
 # Using structure locations as a basis for mapping the wildland urban interface

@@ -18,7 +18,7 @@ item_type: journalArticle
 url: https://dx.doi.org/10.1088/1748-9326/aba868
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
 # US wildfire potential: a historical view and future projection using high-resolution climate data

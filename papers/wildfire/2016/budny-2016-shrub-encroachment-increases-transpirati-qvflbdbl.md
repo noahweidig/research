@@ -8,6 +8,7 @@ journal: Wetlands
 doi: 10.1007/s13157-016-0772-5
 tags:
 - freshwater ecosystems
+- fuels
 - plant physiology
 - refwright:read:unread
 - woody cover
@@ -16,7 +17,7 @@ item_type: journalArticle
 url: https://doi.org/10.1007/s13157-016-0772-5
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
 # Shrub encroachment increases transpiration water loss from a subtropical wetland

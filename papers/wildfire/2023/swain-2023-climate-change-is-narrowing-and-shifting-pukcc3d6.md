@@ -13,6 +13,7 @@ journal: Communications Earth & Environment
 doi: 10.1038/s43247-023-00993-1
 tags:
 - climate
+- data:available
 - fuels
 - prescribed fire
 - refwright:read:unread
@@ -24,7 +25,7 @@ item_type: journalArticle
 url: https://www.nature.com/articles/s43247-023-00993-1
 source_url: 'unpaywall: https://www.nature.com/articles/s43247-023-00993-1.pdf'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
 # Climate change is narrowing and shifting prescribed fire windows in western United States

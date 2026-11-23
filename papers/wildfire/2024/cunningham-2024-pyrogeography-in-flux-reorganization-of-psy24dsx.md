@@ -1,5 +1,5 @@
 ---
-title: 'Pyrogeography in flux: Reorganization of Australian fire regimes in a hotter world'
+title: 'Pyrogeography in flux: reorganization of australian fire regimes in a hotter world'
 authors:
 - Cunningham, Calum X.
 - Williamson, Grant J.
@@ -12,6 +12,7 @@ journal: Global Change Biology
 doi: 10.1111/gcb.17130
 tags:
 - climate
+- data:available
 - fire regimes
 - forests
 - refwright:read:unread
@@ -21,10 +22,10 @@ item_type: journalArticle
 url: https://onlinelibrary.wiley.com/doi/abs/10.1111/gcb.17130
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Pyrogeography in flux: Reorganization of Australian fire regimes in a hotter world
+# Pyrogeography in flux: reorganization of australian fire regimes in a hotter world
 
 ## Abstract
 

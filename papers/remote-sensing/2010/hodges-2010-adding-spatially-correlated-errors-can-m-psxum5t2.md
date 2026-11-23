@@ -1,10 +1,10 @@
 ---
-title: Adding Spatially-Correlated Errors Can Mess Up the Fixed Effect You Love
+title: Adding spatially-correlated errors can mess up the fixed effect you love
 authors:
 - Hodges, James S.
 - Reich, Brian J.
 year: '2010'
-journal: The American Statistician
+journal: American Statistician
 doi: 10.1198/tast.2010.10052
 tags:
 - refwright:read:unread
@@ -15,10 +15,10 @@ item_type: journalArticle
 url: https://amstat.tandfonline.com/doi/abs/10.1198/tast.2010.10052
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Adding Spatially-Correlated Errors Can Mess Up the Fixed Effect You Love
+# Adding spatially-correlated errors can mess up the fixed effect you love
 
 ## Abstract
 

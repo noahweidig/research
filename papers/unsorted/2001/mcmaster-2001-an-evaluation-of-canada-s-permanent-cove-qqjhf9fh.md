@@ -17,7 +17,7 @@ item_type: journalArticle
 url: https://bioone.org/journals/journal-of-field-ornithology/volume-72/issue-2/0273-8570-72.2.195/AN-EVALUATION-OF-CANADAS-PERMANENT-COVER-PROGRAM--HABITAT-FOR/10.1648/0273-8570-72.2.195.full
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
 # An evaluation of Canada's permanent cover program: habitat for grassland birds?

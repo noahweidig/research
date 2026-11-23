@@ -1,5 +1,5 @@
 ---
-title: A modified Mann-Kendall trend test for autocorrelated data
+title: A modified mann-kendall trend test for autocorrelated data
 authors:
 - Hamed, Khaled H.
 - Ramachandra Rao, A.
@@ -16,10 +16,10 @@ item_type: journalArticle
 url: https://www.sciencedirect.com/science/article/pii/S002216949700125X
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# A modified Mann-Kendall trend test for autocorrelated data
+# A modified mann-kendall trend test for autocorrelated data
 
 ## Abstract
 

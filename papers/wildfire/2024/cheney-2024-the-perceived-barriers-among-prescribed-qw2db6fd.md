@@ -1,5 +1,5 @@
 ---
-title: The perceived barriers among prescribed burn association members to burning on Kansas grasslands and Conservation Reserve Program lands
+title: The perceived barriers among prescribed burn association members to burning on kansas grasslands and conservation reserve program lands
 authors:
 - Cheney, Wyatt Charles
 year: '2024'
@@ -19,10 +19,10 @@ item_type: thesis
 url: https://hdl.handle.net/2097/44376
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# The perceived barriers among prescribed burn association members to burning on Kansas grasslands and Conservation Reserve Program lands
+# The perceived barriers among prescribed burn association members to burning on kansas grasslands and conservation reserve program lands
 
 ## Abstract
 

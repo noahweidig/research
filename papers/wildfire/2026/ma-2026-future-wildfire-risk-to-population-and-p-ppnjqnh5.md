@@ -1,5 +1,5 @@
 ---
-title: 'Future Wildfire Risk to Population and Property in the Contiguous US: A Scenario-Based Assessment'
+title: 'Future wildfire risk to population and property in the contiguous US: a scenario-based assessment'
 authors:
 - Ma, Jianyong
 - Dickinson, Ashton
@@ -11,6 +11,7 @@ journal: Environmental Research Communications
 doi: 10.1088/2515-7620/aebaf5
 tags:
 - WUI
+- data:available
 - fire risk
 - refwright:read:unread
 - united states
@@ -20,10 +21,10 @@ item_type: journalArticle
 url: https://openalex.org/W7224102501
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Future Wildfire Risk to Population and Property in the Contiguous US: A Scenario-Based Assessment
+# Future wildfire risk to population and property in the contiguous US: a scenario-based assessment
 
 ## Abstract
 

@@ -16,7 +16,6 @@ journal: Science
 doi: 10.1126/science.adu6408
 tags:
 - WUI
-- exposure
 - fire regimes
 - fire risk
 - refwright:read:unread
@@ -26,7 +25,7 @@ item_type: journalArticle
 url: https://www.science.org/doi/10.1126/science.adu6408
 source_url: 'unpaywall: https://ueaeprints.uea.ac.uk/id/eprint/100877/1/adu6408_ArticleContent_v7.pdf'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
 # Increasing global human exposure to wildland fires despite declining burned area

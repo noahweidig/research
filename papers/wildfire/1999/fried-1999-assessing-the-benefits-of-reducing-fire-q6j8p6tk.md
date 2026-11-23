@@ -1,5 +1,5 @@
 ---
-title: 'Assessing the benefits of reducing fire risk in the Wildland-urban interface: a contingent valuation approach'
+title: 'Assessing the benefits of reducing fire risk in the wildland-urban interface: a contingent valuation approach'
 authors:
 - Fried, Jeremy S.
 - Winter, Greg J.
@@ -9,7 +9,6 @@ journal: International Journal of Wildland Fire
 doi: 10.1071/WF99002
 tags:
 - WUI
-- exposure
 - fire risk
 - refwright:read:unread
 - wildfire
@@ -18,10 +17,10 @@ item_type: journalArticle
 url: http://www.publish.csiro.au/?paper=WF99002
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Assessing the benefits of reducing fire risk in the Wildland-urban interface: a contingent valuation approach
+# Assessing the benefits of reducing fire risk in the wildland-urban interface: a contingent valuation approach
 
 ## Abstract
 

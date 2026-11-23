@@ -18,7 +18,7 @@ item_type: journalArticle
 url: https://openalex.org/W7223048851
 source_url: 'unpaywall: https://egusphere.copernicus.org/preprints/2026/egusphere-2026-6022/egusphere-2026-6022.pdf'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
 # Region-specific time lags in the response of black carbon to ENSO from 46 years of MERRA-2 reanalysis

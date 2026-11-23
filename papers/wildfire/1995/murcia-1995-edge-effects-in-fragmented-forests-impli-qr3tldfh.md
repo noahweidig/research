@@ -17,7 +17,7 @@ item_type: journalArticle
 url: https://www.sciencedirect.com/science/article/pii/S0169534700889776
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
 # Edge effects in fragmented forests: implications for conservation

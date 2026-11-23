@@ -1,5 +1,5 @@
 ---
-title: 'parameters: Processing of Model Parameters'
+title: 'parameters: processing of model parameters'
 authors: []
 year: '2025'
 journal: null
@@ -13,10 +13,10 @@ item_type: computerProgram
 url: https://cran.r-project.org/web/packages/parameters/index.html
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# parameters: Processing of Model Parameters
+# parameters: processing of model parameters
 
 ## Abstract
 

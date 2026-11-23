@@ -1,5 +1,5 @@
 ---
-title: 'Local media coverage of wildfire disasters: An analysis of problems and solutions in policy narratives'
+title: 'Local media coverage of wildfire disasters: an analysis of problems and solutions in policy narratives'
 authors:
 - Crow, Deserai A
 - Berggren, John
@@ -12,7 +12,7 @@ journal: 'Environment and Planning C: Politics and Space'
 doi: 10.1177/0263774X16667302
 tags:
 - WUI
-- exposure
+- fire risk
 - natural hazards
 - refwright:read:unread
 - united states
@@ -22,10 +22,10 @@ item_type: journalArticle
 url: https://doi.org/10.1177/0263774X16667302
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Local media coverage of wildfire disasters: An analysis of problems and solutions in policy narratives
+# Local media coverage of wildfire disasters: an analysis of problems and solutions in policy narratives
 
 ## Abstract
 

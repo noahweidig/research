@@ -19,7 +19,7 @@ item_type: journalArticle
 url: https://iopscience.iop.org/article/10.1088/2632-2153/aba480
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
 # Enhancing wildfire spread modelling by building a gridded fuel moisture content product with machine learning

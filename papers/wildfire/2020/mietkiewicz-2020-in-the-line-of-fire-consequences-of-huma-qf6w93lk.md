@@ -1,5 +1,5 @@
 ---
-title: 'In the Line of Fire: Consequences of Human-Ignited Wildfires to Homes in the U.S. (1992–2015)'
+title: 'In the line of fire: consequences of human-ignited wildfires to homes in the U.S. (1992–2015)'
 authors:
 - Mietkiewicz, Nathan P.
 - Balch, Jennifer K.
@@ -21,10 +21,10 @@ item_type: journalArticle
 url: https://www.mdpi.com/2571-6255/3/3/50
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# In the Line of Fire: Consequences of Human-Ignited Wildfires to Homes in the U.S. (1992–2015)
+# In the line of fire: consequences of human-ignited wildfires to homes in the U.S. (1992–2015)
 
 ## Abstract
 

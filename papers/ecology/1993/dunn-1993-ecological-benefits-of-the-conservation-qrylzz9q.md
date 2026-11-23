@@ -1,5 +1,5 @@
 ---
-title: Ecological Benefits of the Conservation Reserve Program
+title: Ecological benefits of the conservation reserve program
 authors:
 - Dunn, Christopher P.
 - Stearns, Forest
@@ -20,10 +20,10 @@ item_type: journalArticle
 url: https://onlinelibrary.wiley.com/doi/abs/10.1046/j.1523-1739.1993.07010132.x
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Ecological Benefits of the Conservation Reserve Program
+# Ecological benefits of the conservation reserve program
 
 ## Abstract
 

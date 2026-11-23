@@ -1,5 +1,5 @@
 ---
-title: 'Stand-Level Wildlife Habitat Features and Biodiversity in Southern Pine Forests: A Review'
+title: 'Stand-level wildlife habitat features and biodiversity in southern pine forests: a review'
 authors:
 - Jones, Phillip D.
 - Hanberry, Brice B.
@@ -18,10 +18,10 @@ item_type: journalArticle
 url: https://doi.org/10.1093/jof/107.8.398
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Stand-Level Wildlife Habitat Features and Biodiversity in Southern Pine Forests: A Review
+# Stand-level wildlife habitat features and biodiversity in southern pine forests: a review
 
 ## Abstract
 

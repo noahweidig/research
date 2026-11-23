@@ -1,10 +1,10 @@
 ---
-title: Climatic and Landscape Influences on Fire Regimes from 1984 to 2010 in the Western United States
+title: Climatic and landscape influences on fire regimes from 1984 to 2010 in the western United States
 authors:
 - Liu, Zhihua
 - Wimberly, Michael C.
 year: '2015'
-journal: PLOS ONE
+journal: PLOS One
 doi: 10.1371/journal.pone.0140839
 tags:
 - ecology
@@ -20,10 +20,10 @@ item_type: journalArticle
 url: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0140839
 source_url: 'unpaywall: https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0140839&type=printable'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Climatic and Landscape Influences on Fire Regimes from 1984 to 2010 in the Western United States
+# Climatic and landscape influences on fire regimes from 1984 to 2010 in the western United States
 
 ## Abstract
 

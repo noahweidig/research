@@ -22,7 +22,7 @@ item_type: journalArticle
 url: https://cdnsciencepub.com/doi/full/10.1139/cjfr-2018-0293
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
 # Fire-regime changes in Canada over the last half century

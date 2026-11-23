@@ -1,5 +1,5 @@
 ---
-title: Native and Invasive Woody Species Differentially Respond to Forest Edges and Forest Successional Age
+title: Native and invasive woody species differentially respond to forest edges and forest successional age
 authors:
 - Dillon, Whalen W.
 - Lieurance, Deah
@@ -20,10 +20,10 @@ item_type: journalArticle
 url: https://www.mdpi.com/1999-4907/9/7/381
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Native and Invasive Woody Species Differentially Respond to Forest Edges and Forest Successional Age
+# Native and invasive woody species differentially respond to forest edges and forest successional age
 
 ## Abstract
 

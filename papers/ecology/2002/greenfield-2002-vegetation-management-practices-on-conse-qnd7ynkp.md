@@ -1,5 +1,5 @@
 ---
-title: Vegetation Management Practices on Conservation Reserve Program Fields to Improve Northern Bobwhite Habitat Quality
+title: Vegetation management practices on conservation reserve program fields to improve northern bobwhite habitat quality
 authors:
 - Greenfield, Kirk C.
 - Burger, L. Wes
@@ -16,10 +16,10 @@ item_type: journalArticle
 url: https://www.jstor.org/stable/3784513
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Vegetation Management Practices on Conservation Reserve Program Fields to Improve Northern Bobwhite Habitat Quality
+# Vegetation management practices on conservation reserve program fields to improve northern bobwhite habitat quality
 
 ## Abstract
 

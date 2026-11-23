@@ -1,5 +1,5 @@
 ---
-title: Privacy-preserving Machine Learning through Data Obfuscation
+title: Privacy-preserving machine learning through data obfuscation
 authors:
 - Zhang, Tianwei
 - He, Zecheng
@@ -15,10 +15,10 @@ item_type: preprint
 url: http://arxiv.org/abs/1807.01860
 source_url: 'arxiv: https://arxiv.org/pdf/1807.01860'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Privacy-preserving Machine Learning through Data Obfuscation
+# Privacy-preserving machine learning through data obfuscation
 
 ## Abstract
 

@@ -4,7 +4,7 @@ authors:
 - Martı́n, Juan Carlos
 - Indelicato, Alessandro
 year: '2026'
-journal: PLoS ONE
+journal: PLOS One
 doi: 10.1371/journal.pone.0334868
 tags:
 - extremes
@@ -17,7 +17,7 @@ item_type: journalArticle
 url: https://openalex.org/W7201902778
 source_url: 'unpaywall: https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0334868&type=printable'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
 # A fuzzy clustering approach to understanding religious and socioeconomic determinants of public perceptions of environmental regulation in the United States

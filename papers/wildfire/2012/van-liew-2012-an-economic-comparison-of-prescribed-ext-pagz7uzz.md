@@ -1,9 +1,9 @@
 ---
-title: 'An Economic Comparison of Prescribed Extreme Fire and Alternative Methods for Managing Invasive Brush Species in Texas: a Modeling Approach'
+title: 'An economic comparison of prescribed extreme fire and alternative methods for managing invasive brush species in texas: a modeling approach'
 authors:
 - Van Liew, Dustin
 year: '2012'
-journal: The Open Agriculture Journal
+journal: The OPEN Agriculture Journal
 doi: 10.2174/1874331501206010017
 tags:
 - extremes
@@ -17,10 +17,10 @@ item_type: journalArticle
 url: http://benthamopen.com/ABSTRACT/TOASJ-6-17
 source_url: 'unpaywall: https://openagriculturejournal.com/VOLUME/6/PAGE/17/PDF/'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# An Economic Comparison of Prescribed Extreme Fire and Alternative Methods for Managing Invasive Brush Species in Texas: a Modeling Approach
+# An economic comparison of prescribed extreme fire and alternative methods for managing invasive brush species in texas: a modeling approach
 
 ## Abstract
 

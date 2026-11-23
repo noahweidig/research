@@ -1,5 +1,5 @@
 ---
-title: 'Wildland fire risk and social vulnerability in the Southeastern United States: An exploratory spatial data analysis approach'
+title: 'Wildland fire risk and social vulnerability in the southeastern United States: an exploratory spatial data analysis approach'
 authors:
 - Gaither, Cassandra Johnson
 - Poudyal, Neelam C.
@@ -20,10 +20,10 @@ item_type: journalArticle
 url: https://www.sciencedirect.com/science/article/pii/S1389934110001243
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Wildland fire risk and social vulnerability in the Southeastern United States: An exploratory spatial data analysis approach
+# Wildland fire risk and social vulnerability in the southeastern United States: an exploratory spatial data analysis approach
 
 ## Abstract
 

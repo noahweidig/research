@@ -1,5 +1,5 @@
 ---
-title: 'Forest disturbance across the conterminous United States from 1985–2012: The emerging dominance of forest decline'
+title: 'Forest disturbance across the conterminous united states from 1985–2012: the emerging dominance of forest decline'
 authors:
 - Cohen, Warren B.
 - Yang, Zhiqiang
@@ -14,6 +14,7 @@ journal: Forest Ecology and Management
 doi: 10.1016/j.foreco.2015.10.042
 tags:
 - disturbance
+- land cover
 - refwright:read:unread
 - remote sensing
 - united states
@@ -22,10 +23,10 @@ item_type: journalArticle
 url: https://www.sciencedirect.com/science/article/pii/S037811271500599X
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Forest disturbance across the conterminous United States from 1985–2012: The emerging dominance of forest decline
+# Forest disturbance across the conterminous united states from 1985–2012: the emerging dominance of forest decline
 
 ## Abstract
 

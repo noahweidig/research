@@ -1,5 +1,5 @@
 ---
-title: Land-Use Type as a Driver of Large Wildfire Occurrence in the U.S. Great Plains
+title: Land-use type as a driver of large wildfire occurrence in the U.S. great plains
 authors:
 - Donovan, Victoria M.
 - Wonkka, Carissa L.
@@ -9,8 +9,8 @@ year: '2020'
 journal: Remote Sensing
 doi: 10.3390/rs12111869
 tags:
-- exposure
 - extremes
+- fire risk
 - rangelands
 - refwright:read:unread
 - woody cover
@@ -19,10 +19,10 @@ item_type: journalArticle
 url: https://www.mdpi.com/2072-4292/12/11/1869
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Land-Use Type as a Driver of Large Wildfire Occurrence in the U.S. Great Plains
+# Land-use type as a driver of large wildfire occurrence in the U.S. great plains
 
 ## Abstract
 

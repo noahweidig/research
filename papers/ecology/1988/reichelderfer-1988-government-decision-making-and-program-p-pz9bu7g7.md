@@ -1,5 +1,5 @@
 ---
-title: 'Government Decision Making and Program Performance: The Case of the Conservation Reserve Program'
+title: 'Government decision making and program performance: the case of the conservation reserve program'
 authors:
 - Reichelderfer, Katherine
 - Boggess, William G.
@@ -15,10 +15,10 @@ item_type: journalArticle
 url: https://onlinelibrary.wiley.com/doi/abs/10.2307/1241970
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Government Decision Making and Program Performance: The Case of the Conservation Reserve Program
+# Government decision making and program performance: the case of the conservation reserve program
 
 ## Abstract
 

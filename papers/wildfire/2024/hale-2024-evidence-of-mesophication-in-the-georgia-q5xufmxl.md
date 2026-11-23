@@ -1,5 +1,5 @@
 ---
-title: Evidence of Mesophication in the Georgia Piedmont
+title: Evidence of mesophication in the Georgia piedmont
 authors:
 - Hale, Clayton W.
 - Peterson, Chris J.
@@ -16,10 +16,10 @@ item_type: journalArticle
 url: https://bioone.org/journals/natural-areas-journal/volume-44/issue-1/2162-4399-44.1.2/Evidence-of-Mesophication-in-the-Georgia-Piedmont/10.3375/2162-4399-44.1.2.full
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Evidence of Mesophication in the Georgia Piedmont
+# Evidence of mesophication in the Georgia piedmont
 
 ## Abstract
 

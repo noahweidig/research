@@ -17,6 +17,7 @@ year: '2026'
 journal: bioRxiv (Cold Spring Harbor Laboratory)
 doi: 10.64898/2026.08.23.746551
 tags:
+- code:available
 - fire regimes
 - forests
 - prescribed fire
@@ -28,7 +29,7 @@ item_type: journalArticle
 url: https://openalex.org/W7204107632
 source_url: 'unpaywall: https://www.biorxiv.org/content/biorxiv/early/2026/08/24/2026.08.23.746551.full.pdf'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
 # Prior low-severity fires reduce the risk of persistent forest loss from subsequent fires

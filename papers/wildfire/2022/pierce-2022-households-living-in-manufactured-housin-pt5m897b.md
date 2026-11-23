@@ -1,5 +1,5 @@
 ---
-title: 'Households Living in Manufactured Housing Face Outsized Exposure to Heat and Wildfire Hazards: Evidence from California'
+title: 'Households living in manufactured housing face outsized exposure to heat and wildfire hazards: evidence from california'
 authors:
 - Pierce, Gregory
 - Gabbe, C. J.
@@ -9,7 +9,6 @@ journal: Natural Hazards Review
 doi: 10.1061/(ASCE)NH.1527-6996.0000540
 tags:
 - WUI
-- exposure
 - fire risk
 - natural hazards
 - refwright:read:unread
@@ -21,10 +20,10 @@ item_type: journalArticle
 url: https://ascelibrary.org/doi/10.1061/%28ASCE%29NH.1527-6996.0000540
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Households Living in Manufactured Housing Face Outsized Exposure to Heat and Wildfire Hazards: Evidence from California
+# Households living in manufactured housing face outsized exposure to heat and wildfire hazards: evidence from california
 
 ## Abstract
 

@@ -18,7 +18,6 @@ year: '2022'
 journal: Environmental Research Letters
 doi: 10.1088/1748-9326/ac5c0c
 tags:
-- exposure
 - fire risk
 - refwright:read:unread
 - resilience
@@ -30,7 +29,7 @@ item_type: journalArticle
 url: https://dx.doi.org/10.1088/1748-9326/ac5c0c
 source_url: 'unpaywall: https://repository.library.noaa.gov/view/noaa/51933'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
 # Fires that matter: reconceptualizing fire risk to include interactions between humans and the natural environment

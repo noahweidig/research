@@ -1,5 +1,5 @@
 ---
-title: Effects of Invasive Alien Plants on Fire Regimes
+title: Effects of invasive alien plants on fire regimes
 authors:
 - Brooks, Matthew L.
 - D'Antonio, Carla M.
@@ -11,7 +11,7 @@ authors:
 - Pellant, Mike
 - Pyke, David
 year: '2004'
-journal: BioScience
+journal: Bioscience
 doi: 10.1641/0006-3568(2004)054[0677:EOIAPO]2.0.CO;2
 tags:
 - disturbance
@@ -26,10 +26,10 @@ item_type: journalArticle
 url: https://doi.org/10.1641/0006-3568(2004)054[0677:EOIAPO]2.0.CO;2
 source_url: 'unpaywall: https://researchportal.murdoch.edu.au/view/delivery/61MUN_INST/12135977900007891/13136740140007891'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Effects of Invasive Alien Plants on Fire Regimes
+# Effects of invasive alien plants on fire regimes
 
 ## Abstract
 

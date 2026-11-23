@@ -18,7 +18,7 @@ item_type: journalArticle
 url: https://www.sciencedirect.com/science/article/pii/S0378112711004026
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
 # Evaluating fuel complexes for fire hazard mitigation planning in the southeastern United States
