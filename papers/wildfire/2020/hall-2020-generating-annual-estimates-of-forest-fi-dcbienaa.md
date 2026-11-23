@@ -1,5 +1,5 @@
 ---
-title: 'Generating annual estimates of forest fire disturbance in Canada: the National Burned Area Composite'
+title: 'Generating annual estimates of forest fire disturbance in Canada: the national burned area composite'
 authors:
 - Hall, R. J.
 - Skakun, Rob
@@ -26,10 +26,10 @@ item_type: journalArticle
 url: https://doi.org/10.1071/WF19201
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Generating annual estimates of forest fire disturbance in Canada: the National Burned Area Composite
+# Generating annual estimates of forest fire disturbance in Canada: the national burned area composite
 
 ## Abstract
 

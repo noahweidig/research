@@ -1,5 +1,5 @@
 ---
-title: 'Beyond a Focus on Fuel Reduction in the WUI: The Need for Regional Wildfire Mitigation to Address Multiple Risks'
+title: 'Beyond a focus on fuel reduction in the WUI: the need for regional wildfire mitigation to address multiple risks'
 authors:
 - Moritz, Max A.
 - Hazard, Rob
@@ -26,10 +26,10 @@ item_type: journalArticle
 url: https://www.frontiersin.org/articles/10.3389/ffgc.2022.848254
 source_url: 'unpaywall: https://doi.org/10.3389/ffgc.2022.848254'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Beyond a Focus on Fuel Reduction in the WUI: The Need for Regional Wildfire Mitigation to Address Multiple Risks
+# Beyond a focus on fuel reduction in the WUI: the need for regional wildfire mitigation to address multiple risks
 
 ## Abstract
 

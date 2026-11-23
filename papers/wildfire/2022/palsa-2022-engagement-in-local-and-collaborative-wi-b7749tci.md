@@ -1,5 +1,5 @@
 ---
-title: Engagement in local and collaborative wildfire risk mitigation planning across the western US—Evaluating participation and diversity in Community Wildfire Protection Plans
+title: Engagement in local and collaborative wildfire risk mitigation planning across the western US—evaluating participation and diversity in community wildfire protection plans
 authors:
 - Palsa, Emily
 - Bauer, Matt
@@ -7,7 +7,7 @@ authors:
 - Hamilton, Matt
 - Nielsen-Pincus, Max
 year: '2022'
-journal: PLOS ONE
+journal: PLOS One
 doi: 10.1371/journal.pone.0263757
 tags:
 - WUI
@@ -20,10 +20,10 @@ item_type: journalArticle
 url: https://doi.org/10.1371/journal.pone.0263757
 source_url: 'unpaywall: https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0263757&type=printable'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Engagement in local and collaborative wildfire risk mitigation planning across the western US—Evaluating participation and diversity in Community Wildfire Protection Plans
+# Engagement in local and collaborative wildfire risk mitigation planning across the western US—evaluating participation and diversity in community wildfire protection plans
 
 ## Abstract
 

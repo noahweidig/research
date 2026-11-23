@@ -28,7 +28,7 @@ item_type: journalArticle
 url: http://link.springer.com/10.1007/s10980-017-0540-9
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
 # The past and future of modeling forest dynamics: from growth and yield curves to forest landscape models

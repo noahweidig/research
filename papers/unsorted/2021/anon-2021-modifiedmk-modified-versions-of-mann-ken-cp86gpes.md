@@ -1,5 +1,5 @@
 ---
-title: 'modifiedmk: Modified Versions of Mann Kendall and Spearman''s Rho Trend Tests'
+title: 'modifiedmk: modified versions of mann kendall and spearman''s rho trend tests'
 authors: []
 year: '2021'
 journal: null
@@ -13,10 +13,10 @@ item_type: computerProgram
 url: https://cran.r-project.org/web/packages/modifiedmk/index.html
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# modifiedmk: Modified Versions of Mann Kendall and Spearman's Rho Trend Tests
+# modifiedmk: modified versions of mann kendall and spearman's rho trend tests
 
 ## Abstract
 

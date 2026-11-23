@@ -1,5 +1,5 @@
 ---
-title: 'TreeMap 2020, 2022, and 2023: Improved species range mapping in a tree-level forest dataset for the conterminous United States'
+title: 'TreeMap 2020, 2022, and 2023: improved species range mapping in a tree-level forest dataset for the conterminous united states'
 authors:
 - Riley, Karin L.
 - Houtman, Rachel M.
@@ -16,10 +16,11 @@ year: '2026'
 journal: Earth System Science Data Discussions
 doi: 10.5194/essd-2026-633
 tags:
+- code:available
 - dataset
 - fia
 - forests
-- refwright:read:unread
+- refwright:read:reading
 - remote sensing
 - trees
 - united states
@@ -28,10 +29,10 @@ item_type: journalArticle
 url: https://openalex.org/W7221472141
 source_url: 'unpaywall: https://essd.copernicus.org/preprints/essd-2026-633/essd-2026-633.pdf'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# TreeMap 2020, 2022, and 2023: Improved species range mapping in a tree-level forest dataset for the conterminous United States
+# TreeMap 2020, 2022, and 2023: improved species range mapping in a tree-level forest dataset for the conterminous united states
 
 ## Abstract
 

@@ -25,7 +25,7 @@ item_type: journalArticle
 url: https://www.science.org/doi/10.1126/science.ade9223
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
 # Rising wildfire risk to houses in the United States, especially in grasslands and shrublands

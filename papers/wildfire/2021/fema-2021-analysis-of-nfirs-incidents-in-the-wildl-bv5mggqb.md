@@ -1,5 +1,5 @@
 ---
-title: Analysis of NFIRS Incidents in the Wildland Urban Interface
+title: Analysis of NFIRS incidents in the wildland urban interface
 authors:
 - Fema
 year: '2021'
@@ -17,10 +17,10 @@ item_type: report
 url: https://www.usfa.fema.gov/wui/data/wildfire-report-series/nfirs-wui-incidents-california.html
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Analysis of NFIRS Incidents in the Wildland Urban Interface
+# Analysis of NFIRS incidents in the wildland urban interface
 
 ## Abstract
 

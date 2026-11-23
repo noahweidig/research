@@ -1,5 +1,5 @@
 ---
-title: Landscape Patterns of Exurban Growth in the USA from 1980 to 2020
+title: Landscape patterns of exurban growth in the USA from 1980 to 2020
 authors:
 - Theobald, David M.
 year: '2005'
@@ -17,10 +17,10 @@ item_type: journalArticle
 url: https://www.jstor.org/stable/26267722
 source_url: 'unpaywall: https://www.ecologyandsociety.org/vol10/iss1/art32/ES-2005-1390.pdf'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Landscape Patterns of Exurban Growth in the USA from 1980 to 2020
+# Landscape patterns of exurban growth in the USA from 1980 to 2020
 
 ## Abstract
 
@@ -659,5 +659,3 @@ Ecology and Society **10** (1): 32 <u>http://www.ecologyandsociety.org/vol10/iss
 **Appendix 4.** Summaries of Landscape Sprawl metric values by county for 1980, 2000, and 2020 in MS Excel format. 
 
 _<u>Please click here to download file ‘appendix4.xls’.</u>_ 
-
-

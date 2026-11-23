@@ -1,5 +1,5 @@
 ---
-title: Prevailing Myths About Agricultural Abandonment and Forest Regrowth in the United States
+title: Prevailing myths about agricultural abandonment and forest regrowth in the United States
 authors:
 - Ramankutty, Navin
 - Heller, Elizabeth
@@ -20,10 +20,10 @@ item_type: journalArticle
 url: https://doi.org/10.1080/00045601003788876
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Prevailing Myths About Agricultural Abandonment and Forest Regrowth in the United States
+# Prevailing myths about agricultural abandonment and forest regrowth in the United States
 
 ## Abstract
 

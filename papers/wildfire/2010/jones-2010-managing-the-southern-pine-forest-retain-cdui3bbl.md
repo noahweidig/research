@@ -1,5 +1,5 @@
 ---
-title: 'Managing the Southern Pine Forest—Retained Wetland Interface for Wildlife Diversity: Research Priorities'
+title: 'Managing the southern pine forest—retained wetland interface for wildlife diversity: research priorities'
 authors:
 - Jones, Phillip D.
 - Hanberry, Brice B.
@@ -21,10 +21,10 @@ item_type: journalArticle
 url: https://doi.org/10.1007/s13157-010-0060-8
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Managing the Southern Pine Forest—Retained Wetland Interface for Wildlife Diversity: Research Priorities
+# Managing the southern pine forest—retained wetland interface for wildlife diversity: research priorities
 
 ## Abstract
 

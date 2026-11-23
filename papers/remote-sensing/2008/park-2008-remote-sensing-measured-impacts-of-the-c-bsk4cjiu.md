@@ -1,5 +1,5 @@
 ---
-title: Remote Sensing-Measured Impacts of the Conservation Reserve Program (CRP) on Landscape Structure in Southwestern Kansas
+title: Remote sensing-measured impacts of the conservation reserve program (CRP) on landscape structure in southwestern kansas
 authors:
 - Park, Sunyurp
 - Egbert, Stephen L.
@@ -16,10 +16,10 @@ item_type: journalArticle
 url: https://doi.org/10.2747/1548-1603.45.1.83
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Remote Sensing-Measured Impacts of the Conservation Reserve Program (CRP) on Landscape Structure in Southwestern Kansas
+# Remote sensing-measured impacts of the conservation reserve program (CRP) on landscape structure in southwestern kansas
 
 ## Abstract
 

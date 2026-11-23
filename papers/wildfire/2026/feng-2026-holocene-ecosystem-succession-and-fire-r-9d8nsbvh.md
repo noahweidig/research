@@ -1,5 +1,5 @@
 ---
-title: Holocene ecosystem succession and fire regime evolution at Tannersville Bog, northeastern United States
+title: Holocene ecosystem succession and fire regime evolution at tannersville bog, northeastern United States
 authors:
 - Feng, Yufan
 - Vachula, Richard S.
@@ -21,10 +21,10 @@ item_type: journalArticle
 url: https://openalex.org/W7223102672
 source_url: 'unpaywall: https://egusphere.copernicus.org/preprints/2026/egusphere-2026-6310/egusphere-2026-6310.pdf'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Holocene ecosystem succession and fire regime evolution at Tannersville Bog, northeastern United States
+# Holocene ecosystem succession and fire regime evolution at tannersville bog, northeastern United States
 
 ## Abstract
 

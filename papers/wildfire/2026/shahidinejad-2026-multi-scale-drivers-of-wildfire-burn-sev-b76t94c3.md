@@ -1,5 +1,5 @@
 ---
-title: 'Multi-scale drivers of wildfire burn severity in Central Zagros: insights from remote sensing and machine learning'
+title: 'Multi-scale drivers of wildfire burn severity in central zagros: insights from remote sensing and machine learning'
 authors:
 - Shahidinejad, F
 - Jourgholami, M
@@ -19,10 +19,10 @@ item_type: journalArticle
 url: https://openalex.org/W7211926672
 source_url: 'unpaywall: https://iforest.sisef.org/pdf/?id=ifor5027-019'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Multi-scale drivers of wildfire burn severity in Central Zagros: insights from remote sensing and machine learning
+# Multi-scale drivers of wildfire burn severity in central zagros: insights from remote sensing and machine learning
 
 ## Abstract
 

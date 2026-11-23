@@ -18,7 +18,7 @@ item_type: journalArticle
 url: https://www.publish.csiro.au/wf/WF15010
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
 # Too much, too soon? A review of the effects of increasing wildfire frequency on tree mortality and regeneration in temperate eucalypt forests

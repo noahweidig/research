@@ -1,5 +1,5 @@
 ---
-title: 'Thinking Like a Grassland: Challenges and Opportunities for Biodiversity Conservation in the Great Plains of North America'
+title: 'Thinking like a grassland: challenges and opportunities for biodiversity conservation in the great plains of North America'
 authors:
 - Augustine, David
 - Davidson, Ana
@@ -20,10 +20,10 @@ item_type: journalArticle
 url: https://www.sciencedirect.com/science/article/pii/S1550742419300697
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Thinking Like a Grassland: Challenges and Opportunities for Biodiversity Conservation in the Great Plains of North America
+# Thinking like a grassland: challenges and opportunities for biodiversity conservation in the great plains of North America
 
 ## Abstract
 

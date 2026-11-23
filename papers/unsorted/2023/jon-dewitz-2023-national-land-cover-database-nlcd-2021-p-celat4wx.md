@@ -1,5 +1,5 @@
 ---
-title: National Land Cover Database (NLCD) 2021 Products
+title: National land cover database (NLCD) 2021 products
 authors:
 - Jon Dewitz
 year: '2023'
@@ -16,10 +16,10 @@ item_type: dataset
 url: https://www.sciencebase.gov/catalog/item/647626cbd34e4e58932d9d4e
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# National Land Cover Database (NLCD) 2021 Products
+# National land cover database (NLCD) 2021 products
 
 ## Abstract
 

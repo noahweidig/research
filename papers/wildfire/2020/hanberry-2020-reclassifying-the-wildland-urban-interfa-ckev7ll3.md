@@ -1,5 +1,5 @@
 ---
-title: Reclassifying the Wildland–Urban Interface Using Fire Occurrences for the United States
+title: Reclassifying the wildland–urban interface using fire occurrences for the United States
 authors:
 - Hanberry, Brice B.
 year: '2020'
@@ -18,10 +18,10 @@ item_type: journalArticle
 url: https://www.mdpi.com/2073-445X/9/7/225
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Reclassifying the Wildland–Urban Interface Using Fire Occurrences for the United States
+# Reclassifying the wildland–urban interface using fire occurrences for the United States
 
 ## Abstract
 

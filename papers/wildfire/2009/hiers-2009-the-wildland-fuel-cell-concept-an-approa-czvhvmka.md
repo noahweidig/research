@@ -19,7 +19,7 @@ item_type: journalArticle
 url: https://connectsci.au/wf/article/18/3/315/23181/The-wildland-fuel-cell-concept-an-approach-to
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
 # The wildland fuel cell concept: an approach to characterize fine-scale variation in fuels and fire in frequently burned longleaf pine forests

@@ -1,5 +1,5 @@
 ---
-title: Analysis of Forest Inventory Data Shows Disparity in Tree Mortality and Resistance in Texas National Forests
+title: Analysis of forest inventory data shows disparity in tree mortality and resistance in texas national forests
 authors:
 - Dewez, Nicholas P
 - Xi, Weimin
@@ -24,10 +24,10 @@ item_type: journalArticle
 url: https://academic.oup.com/jof/article/122/3/232/7609521
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Analysis of Forest Inventory Data Shows Disparity in Tree Mortality and Resistance in Texas National Forests
+# Analysis of forest inventory data shows disparity in tree mortality and resistance in texas national forests
 
 ## Abstract
 

@@ -1559,7 +1559,7 @@
    "path": "papers/wildfire/2026/feng-2026-holocene-ecosystem-succession-and-fire-r-9d8nsbvh.md",
    "source": "unpaywall: https://egusphere.copernicus.org/preprints/2026/egusphere-2026-6310/egusphere-2026-6310.pdf",
    "status": "fulltext",
-   "zver": 31771
+   "zver": 33682
   },
   "9DISHDZB": {
    "doi": "10.1007/s10021-001-0045-9",
@@ -1734,14 +1734,14 @@
    "path": "papers/wildfire/2013/price-2013-the-spatial-domain-of-wildfire-risk-and-a6cctvt5.md",
    "source": "unpaywall: https://nhess.copernicus.org/articles/13/3385/2013/nhess-13-3385-2013.pdf",
    "status": "fulltext",
-   "zver": 32110
+   "zver": 32987
   },
   "A7PBH5TC": {
    "doi": "10.5194/essd-2026-633",
    "path": "papers/ecology/2026/riley-2026-treemap-2020-2022-and-2023-improved-spec-a7pbh5tc.md",
    "source": "unpaywall: https://essd.copernicus.org/preprints/essd-2026-633/essd-2026-633.pdf",
    "status": "fulltext",
-   "zver": 32187
+   "zver": 34175
   },
   "A8TBMUSF": {
    "doi": "10.3390/biology10070619",
@@ -1769,7 +1769,7 @@
    "path": "papers/wildfire/2013/ganteaume-2013-flammability-of-some-ornamental-species-aclyhbdh.md",
    "source": "unpaywall: https://hal.science/hal-00941751",
    "status": "fulltext",
-   "zver": 31119
+   "zver": 32671
   },
   "AD69G7DZ": {
    "doi": "10.1007/s10021-013-9707-7",
@@ -1797,7 +1797,7 @@
    "path": "papers/wildfire/2010/pechony-2010-driving-forces-of-global-wildfires-over-ag52b7cl.md",
    "source": "unpaywall: https://www.ncbi.nlm.nih.gov/pmc/articles/2984177",
    "status": "fulltext",
-   "zver": 31154
+   "zver": 32639
   },
   "AGII56EJ": {
    "doi": null,
@@ -1825,7 +1825,7 @@
    "path": "papers/wildfire/2022/moritz-2022-beyond-a-focus-on-fuel-reduction-in-the-ajjkm3g2.md",
    "source": "unpaywall: https://doi.org/10.3389/ffgc.2022.848254",
    "status": "fulltext",
-   "zver": 30984
+   "zver": 32757
   },
   "ANMPMSIL": {
    "doi": "10.1071/WF14187",
@@ -1853,7 +1853,7 @@
    "path": "papers/unsorted/2019/wickham-2019-welcome-to-the-tidyverse-at98gun5.md",
    "source": "unpaywall: https://joss.theoj.org/papers/10.21105/joss.01686.pdf",
    "status": "fulltext",
-   "zver": 32145
+   "zver": 33246
   },
   "AW9S8T5B": {
    "doi": "10.1029/2025EF007985",
@@ -1874,7 +1874,7 @@
    "path": "papers/wildfire/2024/pourmohamad-2024-physical-social-and-biological-attribute-azn3c2sm.md",
    "source": "unpaywall: https://essd.copernicus.org/articles/16/3045/2024/essd-16-3045-2024.pdf",
    "status": "fulltext",
-   "zver": 32113
+   "zver": 34029
   },
   "B2LBIPKB": {
    "doi": null,
@@ -1916,14 +1916,14 @@
    "path": "papers/wildfire/2026/shahidinejad-2026-multi-scale-drivers-of-wildfire-burn-sev-b76t94c3.md",
    "source": "unpaywall: https://iforest.sisef.org/pdf/?id=ifor5027-019",
    "status": "fulltext",
-   "zver": 31686
+   "zver": 33567
   },
   "B7749TCI": {
    "doi": "10.1371/journal.pone.0263757",
    "path": "papers/wildfire/2022/palsa-2022-engagement-in-local-and-collaborative-wi-b7749tci.md",
    "source": "unpaywall: https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0263757&type=printable",
    "status": "fulltext",
-   "zver": 31242
+   "zver": 32865
   },
   "B9GHXJT6": {
    "doi": "10.1016/j.tfp.2026.101511",
@@ -1944,7 +1944,7 @@
    "path": "papers/wildfire/2026/mokdad-2026-chronic-disease-and-disability-in-the-un-baq997uk.md",
    "source": null,
    "status": "metadata-only",
-   "zver": 31652
+   "zver": 33522
   },
   "BC2D34EH": {
    "doi": "10.5194/egusphere-2026-3303",
@@ -1979,21 +1979,21 @@
    "path": "papers/ecology/2005/theobald-2005-landscape-patterns-of-exurban-growth-in-bh76krvr.md",
    "source": "unpaywall: https://www.ecologyandsociety.org/vol10/iss1/art32/ES-2005-1390.pdf",
    "status": "fulltext",
-   "zver": 32022
+   "zver": 32967
   },
   "BI8FRZQJ": {
    "doi": "10.3389/fhumd.2022.886545",
    "path": "papers/wildfire/2022/clark-2022-flocking-to-fire-how-climate-and-natural-bi8frzqj.md",
    "source": "unpaywall: https://doi.org/10.3389/fhumd.2022.886545",
    "status": "fulltext",
-   "zver": 32075
+   "zver": 32808
   },
   "BMYED9K5": {
    "doi": "10.1016/j.forpol.2017.04.011",
    "path": "papers/wildfire/2017/grala-2017-impact-of-human-factors-on-wildfire-occu-bmyed9k5.md",
    "source": null,
    "status": "metadata-only",
-   "zver": 31664
+   "zver": 33550
   },
   "BNFYNQI6": {
    "doi": "10.1038/s41467-026-78347-6",
@@ -2014,56 +2014,56 @@
    "path": "papers/wildfire/2022/aurfeli-d-nietes-2022-japanese-climbing-fern-lygodium-japonicu-brx4i8d2.md",
    "source": null,
    "status": "metadata-only",
-   "zver": 31408
+   "zver": 33120
   },
   "BS9JR55M": {
    "doi": "10.2307/3061125",
    "path": "papers/wildfire/2001/peterson-2001-prescribed-fire-in-oak-savanna-fire-freq-bs9jr55m.md",
    "source": null,
    "status": "metadata-only",
-   "zver": 32210
+   "zver": 33798
   },
   "BSK4CJIU": {
    "doi": "10.2747/1548-1603.45.1.83",
    "path": "papers/remote-sensing/2008/park-2008-remote-sensing-measured-impacts-of-the-c-bsk4cjiu.md",
    "source": null,
    "status": "metadata-only",
-   "zver": 31903
+   "zver": 33890
   },
   "BSRND9YD": {
    "doi": "10.1890/1540-9295(2003)001[0125:HFTTNR]2.0.CO;2",
    "path": "papers/policy/2003/riitters-2003-how-far-to-the-nearest-road-bsrnd9yd.md",
    "source": null,
    "status": "metadata-only",
-   "zver": 31177
+   "zver": 32946
   },
   "BTMEVI9H": {
    "doi": "10.1071/WF15010",
    "path": "papers/wildfire/2015/fairman-2015-too-much-too-soon-a-review-of-the-effect-btmevi9h.md",
    "source": null,
    "status": "metadata-only",
-   "zver": 31420
+   "zver": 33197
   },
   "BV5MGGQB": {
    "doi": null,
    "path": "papers/wildfire/2021/fema-2021-analysis-of-nfirs-incidents-in-the-wildl-bv5mggqb.md",
    "source": null,
    "status": "metadata-only",
-   "zver": 31112
+   "zver": 32916
   },
   "BVRHFJYE": {
    "doi": "10.1002/eap.2597",
    "path": "papers/wildfire/2022/carlson-2022-the-wildland-urban-interface-in-the-unit-bvrhfjye.md",
    "source": null,
    "status": "metadata-only",
-   "zver": 30967
+   "zver": 32628
   },
   "BY2F77IZ": {
    "doi": "10.1890/ES14-00224.1",
    "path": "papers/wildfire/2015/steel-2015-the-fire-frequency-severity-relationship-by2f77iz.md",
    "source": null,
    "status": "metadata-only",
-   "zver": 32180
+   "zver": 33575
   },
   "BZPIDSQH": {
    "doi": "10.3390/rs12010003",
@@ -2077,14 +2077,14 @@
    "path": "papers/wildfire/1983/myers-1983-site-susceptibility-to-invasion-by-the-e-c222kchn.md",
    "source": null,
    "status": "metadata-only",
-   "zver": 31083
+   "zver": 34224
   },
   "C2TVIBJ8": {
    "doi": "10.1016/j.rama.2019.09.001",
    "path": "papers/wildfire/2021/augustine-2021-thinking-like-a-grassland-challenges-and-c2tvibj8.md",
    "source": null,
    "status": "metadata-only",
-   "zver": 31699
+   "zver": 33598
   },
   "C33AUZ4Y": {
    "doi": "10.1029/2020GL091377",
@@ -2098,7 +2098,7 @@
    "path": "papers/wildfire/2019/ager-2019-wildfire-exposure-to-the-wildland-urban-c6fmh3t6.md",
    "source": null,
    "status": "metadata-only",
-   "zver": 32076
+   "zver": 32575
   },
   "C8ATEWPF": {
    "doi": "10.1007/s40572-026-00568-0",
@@ -2112,7 +2112,7 @@
    "path": "papers/wildfire/2023/jones-2023-fire-driven-animal-evolution-in-the-pyro-c959kt88.md",
    "source": null,
    "status": "metadata-only",
-   "zver": 31054
+   "zver": 32779
   },
   "C9XRISX3": {
    "doi": "10.1073/pnas.0900991106",
@@ -2126,14 +2126,14 @@
    "path": "papers/wildfire/2010/jones-2010-managing-the-southern-pine-forest-retain-cdui3bbl.md",
    "source": null,
    "status": "metadata-only",
-   "zver": 31868
+   "zver": 33708
   },
   "CELAT4WX": {
    "doi": "10.5066/P9JZ7AO3",
    "path": "papers/unsorted/2023/jon-dewitz-2023-national-land-cover-database-nlcd-2021-p-celat4wx.md",
    "source": null,
    "status": "metadata-only",
-   "zver": 32272
+   "zver": 33104
   },
   "CGQYUW9Z": {
    "doi": "10.3389/fpls.2024.1413896",
@@ -2147,42 +2147,42 @@
    "path": "papers/wildfire/2020/kinnebrew-2020-woody-plant-encroachment-into-coastal-gr-cjyl385s.md",
    "source": null,
    "status": "metadata-only",
-   "zver": 31360
+   "zver": 33094
   },
   "CK2H69J3": {
    "doi": "10.1016/j.catena.2026.110717",
    "path": "papers/wildfire/2026/mora-2026-ash-cover-accelerates-the-mineralization-ck2h69j3.md",
    "source": null,
    "status": "metadata-only",
-   "zver": 31882
+   "zver": 33686
   },
   "CKCQ4BT3": {
    "doi": "10.1016/j.agrformet.2026.111436",
    "path": "papers/wildfire/2026/gao-2026-distinct-seasonality-and-trends-of-natur-ckcq4bt3.md",
    "source": null,
    "status": "metadata-only",
-   "zver": 31672
+   "zver": 34129
   },
   "CKEV7LL3": {
    "doi": "10.3390/land9070225",
    "path": "papers/wildfire/2020/hanberry-2020-reclassifying-the-wildland-urban-interfa-ckev7ll3.md",
    "source": null,
    "status": "metadata-only",
-   "zver": 31212
+   "zver": 32900
   },
   "CP86GPES": {
    "doi": null,
    "path": "papers/unsorted/2021/anon-2021-modifiedmk-modified-versions-of-mann-ken-cp86gpes.md",
    "source": null,
    "status": "metadata-only",
-   "zver": 31716
+   "zver": 33617
   },
   "CPUJIDPV": {
    "doi": "10.2737/NRS-RMAP-8",
    "path": "papers/wildfire/2015/martinuzzi-2015-the-2010-wildland-urban-interface-of-the-cpujidpv.md",
    "source": null,
    "status": "metadata-only",
-   "zver": 30968
+   "zver": 32769
   },
   "CPY4LHF5": {
    "doi": null,
@@ -2196,28 +2196,28 @@
    "path": "papers/wildfire/2020/cullen-2020-high-severity-wildfire-potential-associa-cq9hdafi.md",
    "source": null,
    "status": "metadata-only",
-   "zver": 31250
+   "zver": 32982
   },
   "CSTE584Z": {
    "doi": "10.1093/jofore/fvad059",
    "path": "papers/wildfire/2024/dewez-2024-analysis-of-forest-inventory-data-shows-cste584z.md",
    "source": null,
    "status": "metadata-only",
-   "zver": 31559
+   "zver": 33358
   },
   "CTAVFNGJ": {
    "doi": "10.1071/wf18136",
    "path": "papers/wildfire/2019/steelman-2019-evidence-of-effectiveness-in-the-cohesiv-ctavfngj.md",
    "source": null,
    "status": "metadata-only",
-   "zver": 32021
+   "zver": 32858
   },
   "CTJJQSJK": {
    "doi": "10.1146/annurev-ento-012826-052349",
    "path": "papers/wildfire/2026/chen-2026-chemical-ecology-and-management-of-impor-ctjjqsjk.md",
    "source": null,
    "status": "metadata-only",
-   "zver": 31885
+   "zver": 33689
   },
   "CTN59IPP": {
    "doi": "10.1002/joc.2312",
@@ -2231,7 +2231,7 @@
    "path": "papers/unsorted/2024/anon-2024-sjplot-data-visualization-for-statistics-cx983fxv.md",
    "source": null,
    "status": "metadata-only",
-   "zver": 31324
+   "zver": 33071
   },
   "CYZURS8P": {
    "doi": "10.1111/pce.14846",
@@ -2245,35 +2245,35 @@
    "path": "papers/wildfire/2023/radeloff-2023-rising-wildfire-risk-to-houses-in-the-un-cz8ez2ml.md",
    "source": null,
    "status": "metadata-only",
-   "zver": 32043
+   "zver": 32621
   },
   "CZVHVMKA": {
    "doi": "10.1071/WF08084",
    "path": "papers/wildfire/2009/hiers-2009-the-wildland-fuel-cell-concept-an-approa-czvhvmka.md",
    "source": null,
    "status": "metadata-only",
-   "zver": 32221
+   "zver": 33889
   },
   "D2TS8F87": {
    "doi": "10.1080/00045601003788876",
    "path": "papers/ecology/2010/ramankutty-2010-prevailing-myths-about-agricultural-aban-d2ts8f87.md",
    "source": null,
    "status": "metadata-only",
-   "zver": 31791
+   "zver": 33807
   },
   "D3F3WZCQ": {
    "doi": "10.1111/nph.13147",
    "path": "papers/wildfire/2015/saintilan-2015-woody-plant-encroachment-of-grasslands-a-d3f3wzcq.md",
    "source": null,
    "status": "metadata-only",
-   "zver": 32028
+   "zver": 33733
   },
   "D4AIAKWG": {
    "doi": null,
    "path": "papers/remote-sensing/2024/anon-2024-sf-simple-features-for-r-d4aiakwg.md",
    "source": null,
    "status": "metadata-only",
-   "zver": 32126
+   "zver": 33108
   },
   "D857V794": {
    "doi": "10.1038/srep28426",
@@ -2287,28 +2287,28 @@
    "path": "papers/wildfire/2017/shifley-2017-the-past-and-future-of-modeling-forest-d-d8q98c2a.md",
    "source": null,
    "status": "metadata-only",
-   "zver": 31963
+   "zver": 32687
   },
   "D9JY4VLP": {
    "doi": "10.1111/1365-2745.13764",
    "path": "papers/wildfire/2021/steel-2021-ecological-resilience-and-vegetation-tra-d9jy4vlp.md",
    "source": null,
    "status": "metadata-only",
-   "zver": 31047
+   "zver": 33998
   },
   "DBK2DANI": {
    "doi": "10.1017/S1466046600000582",
    "path": "papers/wildfire/1999/bryce-1999-environmental-review-ecoregions-a-geogra-dbk2dani.md",
    "source": null,
    "status": "metadata-only",
-   "zver": 31084
+   "zver": 32713
   },
   "DCBIENAA": {
    "doi": "10.1071/WF19201",
    "path": "papers/wildfire/2020/hall-2020-generating-annual-estimates-of-forest-fi-dcbienaa.md",
    "source": null,
    "status": "metadata-only",
-   "zver": 32168
+   "zver": 33429
   },
   "DEY49HPA": {
    "doi": "10.1007/s10980-024-01985-y",
@@ -2322,7 +2322,7 @@
    "path": "papers/wildfire/2019/sj-str-m-2019-wildfire-ignition-from-forestry-machines-dfsur4ug.md",
    "source": null,
    "status": "metadata-only",
-   "zver": 31217
+   "zver": 32891
   },
   "DFXJN53E": {
    "doi": "10.1071/WF24110",
@@ -2336,7 +2336,7 @@
    "path": "papers/remote-sensing/2018/fagan-2018-mapping-pine-plantations-in-the-southeas-dgd37gds.md",
    "source": null,
    "status": "metadata-only",
-   "zver": 32195
+   "zver": 33725
   },
   "DHC4E548": {
    "doi": "10.1016/j.forpol.2008.01.001",

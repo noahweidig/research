@@ -1,5 +1,5 @@
 ---
-title: Chemical Ecology and Management of Imported Fire Ants
+title: Chemical ecology and management of imported fire ants
 authors:
 - Chen, Jian
 year: '2026'
@@ -15,10 +15,10 @@ item_type: journalArticle
 url: https://openalex.org/W7224091175
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Chemical Ecology and Management of Imported Fire Ants
+# Chemical ecology and management of imported fire ants
 
 ## Abstract
 

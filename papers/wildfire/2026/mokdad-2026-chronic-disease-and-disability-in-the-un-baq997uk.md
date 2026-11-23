@@ -1,5 +1,5 @@
 ---
-title: 'Chronic Disease and Disability in the United States: Trends, Inequities, and Imperatives for Policy Reform'
+title: 'Chronic disease and disability in the United States: trends, inequities, and imperatives for policy reform'
 authors:
 - Mokdad, Ali H.
 - Dwyer-Lindgren, Laura
@@ -17,10 +17,10 @@ item_type: journalArticle
 url: https://openalex.org/W7203501228
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Chronic Disease and Disability in the United States: Trends, Inequities, and Imperatives for Policy Reform
+# Chronic disease and disability in the United States: trends, inequities, and imperatives for policy reform
 
 ## Abstract
 

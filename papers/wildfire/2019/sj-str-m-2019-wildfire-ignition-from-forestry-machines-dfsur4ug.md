@@ -1,5 +1,5 @@
 ---
-title: Wildfire ignition from forestry machines in boreal Sweden
+title: Wildfire ignition from forestry machines in boreal sweden
 authors:
 - Sjöström, Johan
 - Plathner, Frida Vermina
@@ -18,10 +18,10 @@ item_type: journalArticle
 url: https://www.publish.csiro.au/wf/WF18229
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Wildfire ignition from forestry machines in boreal Sweden
+# Wildfire ignition from forestry machines in boreal sweden
 
 ## Abstract
 

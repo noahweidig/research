@@ -1,5 +1,5 @@
 ---
-title: Welcome to the Tidyverse
+title: Welcome to the tidyverse
 authors:
 - Wickham, Hadley
 - Averick, Mara
@@ -37,10 +37,10 @@ item_type: journalArticle
 url: https://joss.theoj.org/papers/10.21105/joss.01686
 source_url: 'unpaywall: https://joss.theoj.org/papers/10.21105/joss.01686.pdf'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Welcome to the Tidyverse
+# Welcome to the tidyverse
 
 ## Abstract
 

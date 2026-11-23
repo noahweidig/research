@@ -1,5 +1,5 @@
 ---
-title: 'Environmental Review: Ecoregions: A Geographic Framework to Guide Risk Characterization and Ecosystem Management'
+title: 'Environmental review: ecoregions: a geographic framework to guide risk characterization and ecosystem management'
 authors:
 - Bryce, Sandra A.
 - Omernik, James M.
@@ -18,10 +18,10 @@ item_type: journalArticle
 url: https://www.cambridge.org/core/journals/environmental-practice/article/abs/environmental-review-ecoregions-a-geographic-framework-to-guide-risk-characterization-and-ecosystem-management/A5025295261AE9B1BFCE505562B17350
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Environmental Review: Ecoregions: A Geographic Framework to Guide Risk Characterization and Ecosystem Management
+# Environmental review: ecoregions: a geographic framework to guide risk characterization and ecosystem management
 
 ## Abstract
 

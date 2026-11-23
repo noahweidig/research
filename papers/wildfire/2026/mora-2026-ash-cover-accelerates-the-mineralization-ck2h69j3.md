@@ -5,7 +5,7 @@ authors:
 - Escuer-Arregui, Marta
 - Badía-Villas, David
 year: '2026'
-journal: CATENA
+journal: Catena
 doi: 10.1016/j.catena.2026.110717
 tags:
 - prescribed fire
@@ -18,7 +18,7 @@ item_type: journalArticle
 url: https://openalex.org/W7225012911
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
 # Ash cover accelerates the mineralization of labile soil organic matter following experimental fire

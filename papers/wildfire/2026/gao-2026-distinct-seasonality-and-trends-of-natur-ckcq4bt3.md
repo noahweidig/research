@@ -11,6 +11,7 @@ year: '2026'
 journal: Agricultural and Forest Meteorology
 doi: 10.1016/j.agrformet.2026.111436
 tags:
+- data:available
 - fire regimes
 - forests
 - human dimensions
@@ -25,7 +26,7 @@ item_type: journalArticle
 url: https://openalex.org/W7204250310
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
 # Distinct seasonality and trends of natural and anthropogenic wildfires in boreal forests

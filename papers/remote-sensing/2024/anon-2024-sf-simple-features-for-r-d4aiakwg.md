@@ -1,5 +1,5 @@
 ---
-title: 'sf: Simple Features for R'
+title: 'sf: simple features for R'
 authors: []
 year: '2024'
 journal: null
@@ -14,10 +14,10 @@ item_type: computerProgram
 url: https://cran.r-project.org/web/packages/sf/index.html
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# sf: Simple Features for R
+# sf: simple features for R
 
 ## Abstract
 

@@ -1,5 +1,5 @@
 ---
-title: 'Flammability of Some Ornamental Species in Wildland–Urban Interfaces in Southeastern France: Laboratory Assessment at Particle Level'
+title: 'Flammability of some ornamental species in wildland–urban interfaces in southeastern France: laboratory assessment at particle level'
 authors:
 - Ganteaume, Anne
 - Jappiot, Marielle
@@ -20,10 +20,10 @@ item_type: journalArticle
 url: https://doi.org/10.1007/s00267-013-0067-z
 source_url: 'unpaywall: https://hal.science/hal-00941751'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Flammability of Some Ornamental Species in Wildland–Urban Interfaces in Southeastern France: Laboratory Assessment at Particle Level
+# Flammability of some ornamental species in wildland–urban interfaces in southeastern France: laboratory assessment at particle level
 
 ## Abstract
 

@@ -1,5 +1,5 @@
 ---
-title: 'Evidence of effectiveness in the Cohesive Strategy: Measuring and improving wildfire response'
+title: 'Evidence of effectiveness in the cohesive strategy: measuring and improving wildfire response'
 authors:
 - Steelman, Toddi
 - Nowell, Branda
@@ -17,10 +17,10 @@ item_type: journalArticle
 url: https://doi.org/10.1071/wf18136
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Evidence of effectiveness in the Cohesive Strategy: Measuring and improving wildfire response
+# Evidence of effectiveness in the cohesive strategy: measuring and improving wildfire response
 
 ## Abstract
 

@@ -1,5 +1,5 @@
 ---
-title: 'Physical, social, and biological attributes for improved understanding and prediction of wildfires: FPA FOD-Attributes dataset'
+title: 'Physical, social, and biological attributes for improved understanding and prediction of wildfires: FPA FOD-attributes dataset'
 authors:
 - Pourmohamad, Yavar
 - Abatzoglou, John T.
@@ -19,6 +19,8 @@ year: '2024'
 journal: Earth System Science Data
 doi: 10.5194/essd-16-3045-2024
 tags:
+- code:available
+- data:available
 - dataset
 - human dimensions
 - ignition
@@ -31,10 +33,10 @@ item_type: journalArticle
 url: https://essd.copernicus.org/articles/16/3045/2024/
 source_url: 'unpaywall: https://essd.copernicus.org/articles/16/3045/2024/essd-16-3045-2024.pdf'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Physical, social, and biological attributes for improved understanding and prediction of wildfires: FPA FOD-Attributes dataset
+# Physical, social, and biological attributes for improved understanding and prediction of wildfires: FPA FOD-attributes dataset
 
 ## Abstract
 

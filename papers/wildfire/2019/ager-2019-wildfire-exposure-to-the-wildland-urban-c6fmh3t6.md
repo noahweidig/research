@@ -14,14 +14,14 @@ tags:
 - WUI
 - fire risk
 - fuels
-- refwright:read:unread
+- refwright:read:reading
 - wildfire
 zotero_key: C6FMH3T6
 item_type: journalArticle
 url: https://linkinghub.elsevier.com/retrieve/pii/S014362281830897X
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
 # Wildfire exposure to the wildland urban interface in the western US

@@ -1,5 +1,5 @@
 ---
-title: 'Prescribed Fire in Oak Savanna: Fire Frequency Effects on Stand Structure and Dynamics'
+title: 'Prescribed fire in oak savanna: fire frequency effects on stand structure and dynamics'
 authors:
 - Peterson, David L.
 - Reich, Peter B.
@@ -20,10 +20,10 @@ item_type: journalArticle
 url: https://www.jstor.org/stable/3061125
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Prescribed Fire in Oak Savanna: Fire Frequency Effects on Stand Structure and Dynamics
+# Prescribed fire in oak savanna: fire frequency effects on stand structure and dynamics
 
 ## Abstract
 

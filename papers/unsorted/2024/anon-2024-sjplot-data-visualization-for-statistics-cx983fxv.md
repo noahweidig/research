@@ -1,5 +1,5 @@
 ---
-title: 'sjPlot: Data Visualization for Statistics in Social Science'
+title: 'sjPlot: data visualization for statistics in social science'
 authors: []
 year: '2024'
 journal: null
@@ -13,10 +13,10 @@ item_type: computerProgram
 url: https://cran.r-project.org/web/packages/sjPlot/index.html
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# sjPlot: Data Visualization for Statistics in Social Science
+# sjPlot: data visualization for statistics in social science
 
 ## Abstract
 

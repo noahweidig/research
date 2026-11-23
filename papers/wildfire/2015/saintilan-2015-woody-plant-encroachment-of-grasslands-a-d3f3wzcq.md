@@ -17,7 +17,7 @@ item_type: journalArticle
 url: https://doi.org/10.1111/nph.13147
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
 # Woody plant encroachment of grasslands: a comparison of terrestrial and wetland settings

@@ -16,7 +16,7 @@ item_type: journalArticle
 url: https://onlinelibrary.wiley.com/doi/abs/10.1890/1540-9295%282003%29001%5B0125%3AHFTTNR%5D2.0.CO%3B2
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
 # How far to the nearest road?

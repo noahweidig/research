@@ -1,5 +1,5 @@
 ---
-title: 'Flocking to fire: How climate and natural hazards shape human migration across the United States'
+title: 'Flocking to fire: how climate and natural hazards shape human migration across the United States'
 authors:
 - Clark, Mahalia B.
 - Nkonya, Ephraim
@@ -20,10 +20,10 @@ item_type: journalArticle
 url: https://www.frontiersin.org/articles/10.3389/fhumd.2022.886545
 source_url: 'unpaywall: https://doi.org/10.3389/fhumd.2022.886545'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Flocking to fire: How climate and natural hazards shape human migration across the United States
+# Flocking to fire: how climate and natural hazards shape human migration across the United States
 
 ## Abstract
 

@@ -1,5 +1,5 @@
 ---
-title: The 2010 wildland-urban interface of the conterminous United States
+title: The 2010 wildland-urban interface of the conterminous united states
 authors:
 - Martinuzzi, Sebastián
 - Stewart, Susan I.
@@ -25,8 +25,8 @@ item_type: report
 url: https://www.fs.usda.gov/research/treesearch/48642
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# The 2010 wildland-urban interface of the conterminous United States
+# The 2010 wildland-urban interface of the conterminous united states
 

@@ -1,5 +1,5 @@
 ---
-title: 'Japanese Climbing Fern, Lygodium japonicum (Thunb.) Sw. : A Potential Invasive and Ecological Threat'
+title: 'Japanese climbing fern, lygodium japonicum (thunb.) sw.: a potential invasive and ecological threat'
 authors:
 - Aurfeli D. Nietes
 year: '2022'
@@ -17,8 +17,8 @@ item_type: journalArticle
 url: http://doi.nrct.go.th/?page=resolve_doi&resolve_doi=10.14456/thnhmj.2022.2
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Japanese Climbing Fern, Lygodium japonicum (Thunb.) Sw. : A Potential Invasive and Ecological Threat
+# Japanese climbing fern, lygodium japonicum (thunb.) sw.: a potential invasive and ecological threat
 

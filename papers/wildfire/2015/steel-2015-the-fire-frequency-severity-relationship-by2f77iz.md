@@ -1,5 +1,5 @@
 ---
-title: The fire frequency-severity relationship and the legacy of fire suppression in California forests
+title: The fire frequency-severity relationship and the legacy of fire suppression in california forests
 authors:
 - Steel, Zachary L.
 - Safford, Hugh
@@ -17,10 +17,10 @@ item_type: journalArticle
 url: https://onlinelibrary.wiley.com/doi/abs/10.1890/ES14-00224.1
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# The fire frequency-severity relationship and the legacy of fire suppression in California forests
+# The fire frequency-severity relationship and the legacy of fire suppression in california forests
 
 ## Abstract
 

@@ -6,7 +6,7 @@ authors:
 - Galford, Gillian L
 - Neill, Christopher
 year: '2020'
-journal: Regional environmental change
+journal: Regional Environmental Change
 doi: 10.1007/s10113-020-01687-6
 tags:
 - biodiversity
@@ -20,7 +20,7 @@ item_type: journalArticle
 url: https://doi.org/10.1007/s10113-020-01687-6
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
 # Woody plant encroachment into coastal grasslands: consequences for soil properties and plant diversity

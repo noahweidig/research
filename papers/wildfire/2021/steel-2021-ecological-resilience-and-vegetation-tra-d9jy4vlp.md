@@ -15,6 +15,7 @@ journal: Journal of Ecology
 doi: 10.1111/1365-2745.13764
 tags:
 - climate
+- data:available
 - forests
 - refwright:read:unread
 - resilience
@@ -25,7 +26,7 @@ item_type: journalArticle
 url: https://onlinelibrary.wiley.com/doi/abs/10.1111/1365-2745.13764
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
 # Ecological resilience and vegetation transition in the face of two successive large wildfires
