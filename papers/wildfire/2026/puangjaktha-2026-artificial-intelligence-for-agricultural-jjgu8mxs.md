@@ -1,5 +1,5 @@
 ---
-title: 'Artificial intelligence for agricultural residue burning monitoring: A systematic review'
+title: 'Artificial intelligence for agricultural residue burning monitoring: a systematic review'
 authors:
 - Puangjaktha, Prahyat
 - Tuarob, Suppawong
@@ -17,10 +17,10 @@ item_type: journalArticle
 url: https://openalex.org/W7203989964
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Artificial intelligence for agricultural residue burning monitoring: A systematic review
+# Artificial intelligence for agricultural residue burning monitoring: a systematic review
 
 ## Abstract
 

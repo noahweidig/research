@@ -10,6 +10,7 @@ year: '2024'
 journal: Nature Communications
 doi: 10.1038/s41467-024-53460-6
 tags:
+- data:available
 - ecology
 - forests
 - public health
@@ -19,7 +20,7 @@ item_type: journalArticle
 url: https://www.nature.com/articles/s41467-024-53460-6
 source_url: 'unpaywall: https://www.nature.com/articles/s41467-024-53460-6.pdf'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
 # Road fragment edges enhance wildfire incidence and intensity, while suppressing global burned area

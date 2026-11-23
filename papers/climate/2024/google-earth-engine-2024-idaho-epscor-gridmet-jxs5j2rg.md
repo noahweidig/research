@@ -1,5 +1,5 @@
 ---
-title: IDAHO EPSCOR GRIDMET
+title: Idaho epscor gridmet
 authors:
 - Google Earth Engine
 year: '2024'
@@ -17,8 +17,8 @@ item_type: dataset
 url: https://developers.google.com/earth-engine/datasets/catalog/IDAHO_EPSCOR_GRIDMET
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# IDAHO EPSCOR GRIDMET
+# Idaho epscor gridmet
 

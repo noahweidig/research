@@ -1,5 +1,5 @@
 ---
-title: How will future climate change impact prescribed fire across the contiguous United States?
+title: How will future climate change impact prescribed fire across the contiguous united states?
 authors:
 - Jonko, Alex
 - Oliveto, Julia
@@ -22,6 +22,7 @@ journal: npj Climate and Atmospheric Science
 doi: 10.1038/s41612-024-00649-7
 tags:
 - climate
+- code:available
 - forests
 - prescribed fire
 - refwright:read:unread
@@ -33,10 +34,10 @@ item_type: journalArticle
 url: https://www.nature.com/articles/s41612-024-00649-7
 source_url: 'unpaywall: https://www.nature.com/articles/s41612-024-00649-7.pdf'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# How will future climate change impact prescribed fire across the contiguous United States?
+# How will future climate change impact prescribed fire across the contiguous united states?
 
 ## Abstract
 

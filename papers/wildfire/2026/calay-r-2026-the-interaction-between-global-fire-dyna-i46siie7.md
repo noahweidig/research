@@ -1,8 +1,8 @@
 ---
-title: 'The Interaction between Global Fire Dynamics and Climate Change: Causes, Consequences, and Future Strategies'
+title: 'The interaction between global fire dynamics and climate change: causes, consequences, and future strategies'
 authors:
 - Calayır, Fatma
-- Zambrana‐Torrelio, Carlos
+- Zambrana-Torrelio, Carlos
 - Kul, Ali Rıza
 year: '2026'
 journal: Özgür Yayınları eBooks
@@ -18,10 +18,10 @@ item_type: journalArticle
 url: https://openalex.org/W7222502365
 source_url: 'unpaywall: https://www.ozguryayinlari.com/site/tr/catalog/download/1507/8386/24071'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# The Interaction between Global Fire Dynamics and Climate Change: Causes, Consequences, and Future Strategies
+# The interaction between global fire dynamics and climate change: causes, consequences, and future strategies
 
 ## Abstract
 

@@ -20,7 +20,7 @@ item_type: journalArticle
 url: https://doi.org/10.1098/rstb.2023.0446
 source_url: 'unpaywall: http://hdl.handle.net/10261/401857'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
 # Novel wildfire regimes under climate change and human activity: patterns, driving mechanisms and ecological impacts

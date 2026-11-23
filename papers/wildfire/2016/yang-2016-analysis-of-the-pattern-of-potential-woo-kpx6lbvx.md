@@ -1,11 +1,11 @@
 ---
-title: Analysis of the pattern of potential woody cover in Texas savanna
+title: Analysis of the pattern of potential woody cover in texas savanna
 authors:
 - Yang, Xuebin
 - Crews, Kelley A
 - Yan, Bowei
 year: '2016'
-journal: International journal of applied earth observation and geoinformation
+journal: International Journal of Applied Earth Observation and Geoinformation
 doi: 10.1016/j.jag.2016.07.021
 tags:
 - ecology
@@ -19,8 +19,8 @@ item_type: journalArticle
 url: https://doi.org/10.1016/j.jag.2016.07.021
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Analysis of the pattern of potential woody cover in Texas savanna
+# Analysis of the pattern of potential woody cover in texas savanna
 

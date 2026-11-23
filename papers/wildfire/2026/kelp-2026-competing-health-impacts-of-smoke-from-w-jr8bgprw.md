@@ -1,5 +1,5 @@
 ---
-title: Competing Health Impacts of Smoke from Wildfires, Agricultural Burning, and Prescribed Fires in California
+title: Competing health impacts of smoke from wildfires, agricultural burning, and prescribed fires in california
 authors:
 - Kelp, Makoto
 - Qiu, Minghao
@@ -26,10 +26,10 @@ item_type: journalArticle
 url: https://openalex.org/W7172040203
 source_url: 'unpaywall: https://eartharxiv.org/repository/object/14116/download/24836/'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Competing Health Impacts of Smoke from Wildfires, Agricultural Burning, and Prescribed Fires in California
+# Competing health impacts of smoke from wildfires, agricultural burning, and prescribed fires in california
 
 ## Abstract
 

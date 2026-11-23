@@ -1,5 +1,5 @@
 ---
-title: 'Managing the Wildland–Urban Interface in the Northeast: Perceptions of Fire Risk and Hazard Reduction Strategies'
+title: 'Managing the wildland–urban interface in the northeast: perceptions of fire risk and hazard reduction strategies'
 authors:
 - Blanchard, Brian
 - Ryan, Robert L.
@@ -17,10 +17,10 @@ item_type: journalArticle
 url: https://academic.oup.com/njaf/article/24/3/203/4780124
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Managing the Wildland–Urban Interface in the Northeast: Perceptions of Fire Risk and Hazard Reduction Strategies
+# Managing the wildland–urban interface in the northeast: perceptions of fire risk and hazard reduction strategies
 
 ## Abstract
 

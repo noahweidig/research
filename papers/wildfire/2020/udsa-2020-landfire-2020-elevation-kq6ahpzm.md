@@ -1,5 +1,5 @@
 ---
-title: LANDFIRE 2020 Elevation
+title: LANDFIRE 2020 elevation
 authors:
 - UDSA
 - USDOI
@@ -17,8 +17,8 @@ item_type: dataset
 url: https://www.landfire.gov/version_download.php
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# LANDFIRE 2020 Elevation
+# LANDFIRE 2020 elevation
 

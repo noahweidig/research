@@ -10,6 +10,7 @@ journal: arXiv
 doi: 10.1016/j.ecolecon.2024.108194
 tags:
 - climate
+- code:available
 - refwright:read:unread
 - resilience
 - wildfire
@@ -18,7 +19,7 @@ item_type: preprint
 url: http://arxiv.org/abs/2309.04578
 source_url: 'arxiv: https://arxiv.org/pdf/2309.04578'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
 # Maintaining human wellbeing as socio-environmental systems undergo regime shifts

@@ -1,5 +1,5 @@
 ---
-title: Spatial and temporal wildfire variations within the Mid Zambezi protected areas
+title: Spatial and temporal wildfire variations within the mid zambezi protected areas
 authors:
 - Chakuya, Jeremiah
 - Mugova, Ethel Y.
@@ -20,10 +20,10 @@ item_type: journalArticle
 url: https://openalex.org/W7171628663
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Spatial and temporal wildfire variations within the Mid Zambezi protected areas
+# Spatial and temporal wildfire variations within the mid zambezi protected areas
 
 ## Abstract
 

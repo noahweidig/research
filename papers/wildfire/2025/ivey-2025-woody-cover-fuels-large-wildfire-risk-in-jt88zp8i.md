@@ -1,5 +1,5 @@
 ---
-title: Woody Cover Fuels Large Wildfire Risk in the Eastern U.S.
+title: Woody cover fuels large wildfire risk in the eastern U.S
 authors:
 - Ivey, Michaella A.
 - Wonkka, Carissa L.
@@ -18,10 +18,10 @@ item_type: newspaperArticle
 url: https://oakfirescience.com/research-brief/woody-cover-fuels-large-wildfire-risk-in-the-eastern-u-s/
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Woody Cover Fuels Large Wildfire Risk in the Eastern U.S.
+# Woody cover fuels large wildfire risk in the eastern U.S
 
 ## Abstract
 

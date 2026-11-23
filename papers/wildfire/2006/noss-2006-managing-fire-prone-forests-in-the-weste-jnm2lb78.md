@@ -20,7 +20,7 @@ item_type: journalArticle
 url: http://doi.wiley.com/10.1890/1540-9295(2006)4[481:MFFITW]2.0.CO;2
 source_url: 'unpaywall: https://stars.library.ucf.edu/facultybib2000/6479'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
 # Managing fire-prone forests in the western United States

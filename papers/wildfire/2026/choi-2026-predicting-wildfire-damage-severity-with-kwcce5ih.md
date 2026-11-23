@@ -1,5 +1,5 @@
 ---
-title: 'Predicting Wildfire Damage Severity with Composite Indexing and Fire Weather Features: A Case Study in Gangwon Province, South Korea'
+title: 'Predicting wildfire damage severity with composite indexing and fire weather features: a case study in gangwon province, south korea'
 authors:
 - Choi, Jaeun
 - Yang, Wonseok
@@ -25,10 +25,10 @@ item_type: journalArticle
 url: https://openalex.org/W7169755086
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Predicting Wildfire Damage Severity with Composite Indexing and Fire Weather Features: A Case Study in Gangwon Province, South Korea
+# Predicting wildfire damage severity with composite indexing and fire weather features: a case study in gangwon province, south korea
 
 ## Abstract
 

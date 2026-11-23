@@ -1,5 +1,5 @@
 ---
-title: 'Woody encroachment over 70 years in South African savannahs: overgrazing, global change or extinction aftershock?'
+title: 'Woody encroachment over 70 years in south African savannahs: overgrazing, global change or extinction aftershock?'
 authors:
 - Stevens, Nicola
 - Erasmus, B. F. N.
@@ -22,10 +22,10 @@ item_type: journalArticle
 url: https://royalsocietypublishing.org/doi/full/10.1098/rstb.2015.0437
 source_url: 'unpaywall: https://www.ncbi.nlm.nih.gov/pmc/articles/4978877'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Woody encroachment over 70 years in South African savannahs: overgrazing, global change or extinction aftershock?
+# Woody encroachment over 70 years in south African savannahs: overgrazing, global change or extinction aftershock?
 
 ## Abstract
 

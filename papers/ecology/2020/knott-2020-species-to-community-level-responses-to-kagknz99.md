@@ -1,5 +1,5 @@
 ---
-title: Species- To Community-Level Responses to Climate Change in Eastern U.S. Forests
+title: Species- to community-level responses to climate change in eastern U.S. forests
 authors:
 - Knott, Jonathan A.
 year: '2020'
@@ -15,8 +15,8 @@ item_type: thesis
 url: https://www.proquest.com/docview/2838331723/abstract/C146CE973C81420FPQ/1
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Species- To Community-Level Responses to Climate Change in Eastern U.S. Forests
+# Species- to community-level responses to climate change in eastern U.S. forests
 

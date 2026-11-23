@@ -11,6 +11,8 @@ year: '2026'
 journal: International Communications in Heat and Mass Transfer
 doi: 10.1016/j.icheatmasstransfer.2026.112653
 tags:
+- code:available
+- data:available
 - mortality
 - prescribed fire
 - refwright:read:unread
@@ -22,7 +24,7 @@ item_type: journalArticle
 url: https://openalex.org/W7213550802
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
 # Predictive heat transfer model for fire-induced injuries in tree stems

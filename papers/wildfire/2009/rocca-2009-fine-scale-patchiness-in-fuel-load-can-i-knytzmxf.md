@@ -1,5 +1,5 @@
 ---
-title: Fine-Scale Patchiness in Fuel Load Can Influence Initial Post-Fire Understory Composition in a Mixed Conifer Forest, Sequoia National Park, California
+title: Fine-scale patchiness in fuel load can influence initial post-fire understory composition in a mixed conifer forest, sequoia national park, california
 authors:
 - Rocca, Monique E.
 year: '2009'
@@ -15,10 +15,10 @@ item_type: journalArticle
 url: https://bioone.org/journals/natural-areas-journal/volume-29/issue-2/043.029.0204/Fine-Scale-Patchiness-in-Fuel-Load-Can-Influence-Initial-Post/10.3375/043.029.0204.full
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Fine-Scale Patchiness in Fuel Load Can Influence Initial Post-Fire Understory Composition in a Mixed Conifer Forest, Sequoia National Park, California
+# Fine-scale patchiness in fuel load can influence initial post-fire understory composition in a mixed conifer forest, sequoia national park, california
 
 ## Abstract
 

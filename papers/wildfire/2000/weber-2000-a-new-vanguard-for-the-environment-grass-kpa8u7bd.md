@@ -1,9 +1,9 @@
 ---
-title: 'A New Vanguard for the Environment: Grass-Roots Ecosystem Management as a New Environmental Movement'
+title: 'A new vanguard for the environment: grass-roots ecosystem management as a new environmental movement'
 authors:
 - Weber, Edward P.
 year: '2000'
-journal: Society & Natural Resources
+journal: Society and Natural Resources
 doi: 10.1080/089419200279081
 tags:
 - management
@@ -17,10 +17,10 @@ item_type: journalArticle
 url: http://www.tandfonline.com/doi/abs/10.1080/089419200279081
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# A New Vanguard for the Environment: Grass-Roots Ecosystem Management as a New Environmental Movement
+# A new vanguard for the environment: grass-roots ecosystem management as a new environmental movement
 
 ## Abstract
 

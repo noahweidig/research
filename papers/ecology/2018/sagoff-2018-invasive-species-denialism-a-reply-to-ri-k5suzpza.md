@@ -1,5 +1,5 @@
 ---
-title: 'Invasive species denialism: a reply to Ricciardi and Ryan'
+title: 'Invasive species denialism: a reply to ricciardi and ryan'
 authors:
 - Sagoff, Mark
 year: '2018'
@@ -16,10 +16,10 @@ item_type: journalArticle
 url: https://doi.org/10.1007/s10530-018-1752-x
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Invasive species denialism: a reply to Ricciardi and Ryan
+# Invasive species denialism: a reply to ricciardi and ryan
 
 ## Abstract
 

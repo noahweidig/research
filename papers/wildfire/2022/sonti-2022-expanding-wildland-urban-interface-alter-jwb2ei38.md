@@ -20,7 +20,7 @@ item_type: journalArticle
 url: https://dx.doi.org/10.1088/1748-9326/aca77b
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
 # Expanding wildland-urban interface alters forest structure and landscape context in the northern United States

@@ -1,5 +1,5 @@
 ---
-title: Managing Southern Pine Plantations for Wildlife
+title: Managing southern pine plantations for wildlife
 authors:
 - Thill, Ronald E.
 year: '1990'
@@ -17,8 +17,8 @@ item_type: journalArticle
 url: https://research.fs.usda.gov/treesearch/1311
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Managing Southern Pine Plantations for Wildlife
+# Managing southern pine plantations for wildlife
 

@@ -25,7 +25,7 @@ item_type: journalArticle
 url: https://onlinelibrary.wiley.com/doi/abs/10.1111/jbi.12065
 source_url: 'unpaywall: https://figshare.com/articles/journal_contribution/Fire_regimes_of_Australia_a_pyrogeographic_model_system/22896521'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
 # Fire regimes of Australia: a pyrogeographic model system

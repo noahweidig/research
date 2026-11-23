@@ -1,5 +1,5 @@
 ---
-title: 'Forest fires in the wildland–urban interface: A spatial analysis of forest fragmentation and human impacts'
+title: 'Forest fires in the wildland–urban interface: a spatial analysis of forest fragmentation and human impacts'
 authors:
 - Chas-Amil, María-Luisa
 - Touza, Julia
@@ -17,10 +17,10 @@ item_type: journalArticle
 url: https://www.sciencedirect.com/science/article/pii/S0143622813001446
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Forest fires in the wildland–urban interface: A spatial analysis of forest fragmentation and human impacts
+# Forest fires in the wildland–urban interface: a spatial analysis of forest fragmentation and human impacts
 
 ## Abstract
 

@@ -1,5 +1,5 @@
 ---
-title: Resilience of Industrial Buildings to Wildland-Urban Interface Fires
+title: Resilience of industrial buildings to wildland-urban interface fires
 authors:
 - Lopes, Rúben F. R.
 - Rodrigues, João Paulo C.
@@ -21,10 +21,10 @@ item_type: journalArticle
 url: https://dx.doi.org/10.1088/1755-1315/1101/2/022034
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Resilience of Industrial Buildings to Wildland-Urban Interface Fires
+# Resilience of industrial buildings to wildland-urban interface fires
 
 ## Abstract
 

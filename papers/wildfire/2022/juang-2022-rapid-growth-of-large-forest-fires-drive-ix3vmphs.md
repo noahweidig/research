@@ -1,5 +1,5 @@
 ---
-title: Rapid Growth of Large Forest Fires Drives the Exponential Response of Annual Forest-Fire Area to Aridity in the Western United States
+title: Rapid growth of large forest fires drives the exponential response of annual forest-fire area to aridity in the western United States
 authors:
 - Juang, Caroline S.
 - Williams, A. Park
@@ -12,6 +12,7 @@ journal: Geophysical Research Letters
 doi: 10.1029/2021GL097131
 tags:
 - climate
+- data:available
 - drought
 - extremes
 - refwright:read:unread
@@ -22,10 +23,10 @@ item_type: journalArticle
 url: https://onlinelibrary.wiley.com/doi/abs/10.1029/2021GL097131
 source_url: 'unpaywall: https://www.ncbi.nlm.nih.gov/pmc/articles/9286820'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Rapid Growth of Large Forest Fires Drives the Exponential Response of Annual Forest-Fire Area to Aridity in the Western United States
+# Rapid growth of large forest fires drives the exponential response of annual forest-fire area to aridity in the western United States
 
 ## Abstract
 

@@ -1,5 +1,5 @@
 ---
-title: 'Open forest ecosystems: An excluded state'
+title: 'Open forest ecosystems: an excluded state'
 authors:
 - Hanberry, Brice B.
 - Bragg, Don C.
@@ -18,10 +18,10 @@ item_type: journalArticle
 url: https://www.sciencedirect.com/science/article/pii/S0378112720310252
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Open forest ecosystems: An excluded state
+# Open forest ecosystems: an excluded state
 
 ## Abstract
 

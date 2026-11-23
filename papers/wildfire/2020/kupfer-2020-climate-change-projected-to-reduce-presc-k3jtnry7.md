@@ -21,7 +21,7 @@ item_type: journalArticle
 url: https://www.publish.csiro.au/wf/WF19198
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
 # Climate change projected to reduce prescribed burning opportunities in the south-eastern United States

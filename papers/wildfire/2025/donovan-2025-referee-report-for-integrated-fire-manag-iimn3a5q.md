@@ -1,5 +1,5 @@
 ---
-title: 'Referee report. For: Integrated Fire Management and Closer to Nature Forest Management at the Landscape Scale as a Holistic Approach to Foster Forest Resilience to Wildfires [version 3; peer review: 4 approved with reservations, 2 not approved]'
+title: 'Referee report. For: integrated fire management and closer to nature forest management at the landscape scale as a holistic approach to foster forest resilience to wildfires [version 3; peer review: 4 approved with reservations, 2 not approved]'
 authors:
 - Donovan, Victoria M.
 - Weidig, Noah C.
@@ -19,10 +19,10 @@ item_type: preprint
 url: https://open-research-europe.ec.europa.eu/articles/4-131/v3#referee-response-53295
 source_url: 'unpaywall: https://doi.org/10.21956/openreseurope.21420.r53295'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Referee report. For: Integrated Fire Management and Closer to Nature Forest Management at the Landscape Scale as a Holistic Approach to Foster Forest Resilience to Wildfires [version 3; peer review: 4 approved with reservations, 2 not approved]
+# Referee report. For: integrated fire management and closer to nature forest management at the landscape scale as a holistic approach to foster forest resilience to wildfires [version 3; peer review: 4 approved with reservations, 2 not approved]
 
 ## Abstract
 

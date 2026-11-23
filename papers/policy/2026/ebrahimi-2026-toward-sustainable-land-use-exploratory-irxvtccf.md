@@ -1,5 +1,5 @@
 ---
-title: 'Toward Sustainable Land Use: Exploratory Spatial Analysis of Conservation Reserve Program Participation in the U.S. Midwest'
+title: 'Toward sustainable land use: exploratory spatial analysis of conservation reserve program participation in the U.S. midwest'
 authors:
 - Ebrahimi, Sajad
 - Golkar, Bahareh
@@ -16,10 +16,10 @@ item_type: journalArticle
 url: https://www.mdpi.com/2071-1050/18/7/3567
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Toward Sustainable Land Use: Exploratory Spatial Analysis of Conservation Reserve Program Participation in the U.S. Midwest
+# Toward sustainable land use: exploratory spatial analysis of conservation reserve program participation in the U.S. midwest
 
 ## Abstract
 

@@ -7,7 +7,7 @@ authors:
 - Nathanson, Amy
 - Pomara, Lars Y.
 year: '2026'
-journal: Trees Forests and People
+journal: Trees, Forests and People
 doi: 10.1016/j.tfp.2026.101533
 tags:
 - fire risk
@@ -21,7 +21,7 @@ item_type: journalArticle
 url: https://openalex.org/W7222505059
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
 # Collaborative spatial planning for forest restoration and resilience in the southeastern United States’ interior highlands

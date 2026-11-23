@@ -19,7 +19,7 @@ item_type: journalArticle
 url: https://www.sciencedirect.com/science/article/pii/S0301479723025197
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
 # Multiple social and environmental factors affect wildland fire response of full or less-than-full suppression

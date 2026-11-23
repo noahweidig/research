@@ -1,5 +1,5 @@
 ---
-title: Southern Great Plains Wildfire Outbreaks
+title: Southern great plains wildfire outbreaks
 authors:
 - Lindley, T. Todd
 - Murdoch, Gregory P.
@@ -22,10 +22,10 @@ item_type: journalArticle
 url: https://ejssm.com/ojs/index.php/site/article/view/54
 source_url: 'unpaywall: https://ejssm.com/ojs/index.php/site/article/download/54/53'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Southern Great Plains Wildfire Outbreaks
+# Southern great plains wildfire outbreaks
 
 ## Abstract
 

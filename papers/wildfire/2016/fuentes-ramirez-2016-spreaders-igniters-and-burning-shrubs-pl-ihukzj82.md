@@ -20,7 +20,7 @@ item_type: journalArticle
 url: https://onlinelibrary.wiley.com/doi/abs/10.1002/eap.1371
 source_url: 'unpaywall: https://repositorio.ufro.cl/s/repositorio-ufro/item/16339'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
 # Spreaders, igniters, and burning shrubs: plant flammability explains novel fire dynamics in grass-invaded deserts

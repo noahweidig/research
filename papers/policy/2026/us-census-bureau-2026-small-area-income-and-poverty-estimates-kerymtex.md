@@ -1,5 +1,5 @@
 ---
-title: Small Area Income and Poverty Estimates (SAIPE) Program
+title: Small area income and poverty estimates (SAIPE) program
 authors:
 - Us Census Bureau
 year: '2026'
@@ -14,10 +14,10 @@ item_type: webpage
 url: https://www.census.gov/programs-surveys/saipe.html
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Small Area Income and Poverty Estimates (SAIPE) Program
+# Small area income and poverty estimates (SAIPE) program
 
 ## Abstract
 
