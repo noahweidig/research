@@ -1,5 +1,5 @@
 ---
-title: Record-breaking fire weather in North America in 2021 was initiated by the Pacific northwest heat dome
+title: Record-breaking fire weather in North America in 2021 was initiated by the pacific northwest heat dome
 authors:
 - Jain, Piyush
 - Sharma, Aseem Raj
@@ -10,6 +10,7 @@ year: '2024'
 journal: Communications Earth & Environment
 doi: 10.1038/s43247-024-01346-2
 tags:
+- data:available
 - fire regimes
 - refwright:read:unread
 - united states
@@ -20,10 +21,10 @@ item_type: journalArticle
 url: https://www.nature.com/articles/s43247-024-01346-2
 source_url: 'unpaywall: https://www.nature.com/articles/s43247-024-01346-2.pdf'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Record-breaking fire weather in North America in 2021 was initiated by the Pacific northwest heat dome
+# Record-breaking fire weather in North America in 2021 was initiated by the pacific northwest heat dome
 
 ## Abstract
 

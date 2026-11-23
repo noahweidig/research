@@ -1,5 +1,5 @@
 ---
-title: 'Land use decisions after the Conservation Reserve Program: Re-enrollment, reversion, and persistence in the southern Great Plains'
+title: 'Land use decisions after the conservation reserve program: Re-enrollment, reversion, and persistence in the southern great plains'
 authors:
 - Barnes, Jessica C.
 - Sketch, Mary
@@ -19,10 +19,10 @@ item_type: journalArticle
 url: https://onlinelibrary.wiley.com/doi/abs/10.1111/csp2.254
 source_url: 'unpaywall: http://hdl.handle.net/10919/100789'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Land use decisions after the Conservation Reserve Program: Re-enrollment, reversion, and persistence in the southern Great Plains
+# Land use decisions after the conservation reserve program: Re-enrollment, reversion, and persistence in the southern great plains
 
 ## Abstract
 

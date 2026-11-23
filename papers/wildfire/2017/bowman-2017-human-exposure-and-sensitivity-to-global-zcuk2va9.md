@@ -13,8 +13,8 @@ doi: 10.1038/s41559-016-0058
 tags:
 - climate
 - ecology
-- exposure
 - fire behavior
+- fire risk
 - natural hazards
 - refwright:read:unread
 - weather
@@ -24,7 +24,7 @@ item_type: journalArticle
 url: https://www.nature.com/articles/s41559-016-0058
 source_url: 'unpaywall: https://www.nature.com/articles/s41559-016-0058.pdf'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
 # Human exposure and sensitivity to globally extreme wildfire events

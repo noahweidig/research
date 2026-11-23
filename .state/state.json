@@ -511,6 +511,13 @@
    "status": "metadata-only",
    "zver": 33867
   },
+  "4N34T6YT": {
+   "doi": "10.1186/s42408-026-00599-w",
+   "path": "papers/wildfire/2026/buma-2026-developing-a-science-strategy-and-scienc-4n34t6yt.md",
+   "source": "unpaywall: https://link.springer.com/content/pdf/10.1186/s42408-026-00599-w.pdf",
+   "status": "fulltext",
+   "zver": 34229
+  },
   "4NSLWB2L": {
    "doi": "10.1525/bio.2010.60.4.7",
    "path": "papers/ecology/2010/drummond-2010-land-use-pressure-and-a-transition-to-fo-4nslwb2l.md",
@@ -1603,6 +1610,13 @@
    "status": "metadata-only",
    "zver": 32724
   },
+  "9HIDQHHR": {
+   "doi": "10.1093/jofore/fvac022",
+   "path": "papers/ecology/2022/riley-2022-treemap-2016-dataset-generates-conus-wid-9hidqhhr.md",
+   "source": null,
+   "status": "metadata-only",
+   "zver": 34228
+  },
   "9IGUPN5A": {
    "doi": "10.3390/su12208321",
    "path": "papers/ecology/2020/fogarty-2020-woody-plant-encroachment-and-the-sustain-9igupn5a.md",
@@ -1616,6 +1630,13 @@
    "source": null,
    "status": "metadata-only",
    "zver": 33714
+  },
+  "9LCC27N6": {
+   "doi": "10.1038/s41598-020-72624-0",
+   "path": "papers/climate/2020/tavakol-2020-temporal-and-spatial-variations-in-the-f-9lcc27n6.md",
+   "source": "unpaywall: https://www.nature.com/articles/s41598-020-72624-0.pdf",
+   "status": "fulltext",
+   "zver": 34242
   },
   "9MI3V6R8": {
    "doi": "10.1029/2018GL080959",
@@ -1693,6 +1714,13 @@
    "source": null,
    "status": "metadata-only",
    "zver": 33406
+  },
+  "9ZV9HS32": {
+   "doi": "10.1177/00218863261488837",
+   "path": "papers/unsorted/2026/kronblad-2026-beyond-the-paper-who-is-the-researcher-w-9zv9hs32.md",
+   "source": null,
+   "status": "metadata-only",
+   "zver": 33925
   },
   "A2A7T83Z": {
    "doi": "10.1071/wf25176",
@@ -3060,11 +3088,11 @@
    "zver": 32870
   },
   "GY4FQUHS": {
-   "doi": "https://doi.org/10.5066/P94UXNTS",
+   "doi": "10.5066/P94UXNTS",
    "path": "papers/unsorted/2024/usgs-2024-annual-nlcd-collection-1-science-product-gy4fquhs.md",
    "source": null,
    "status": "metadata-only",
-   "zver": 31474
+   "zver": 33262
   },
   "H23KPVSJ": {
    "doi": "10.1038/s43247-024-01654-7",
@@ -3464,6 +3492,13 @@
    "source": "unpaywall: http://hdl.handle.net/10261/401857",
    "status": "fulltext",
    "zver": 33306
+  },
+  "JAFCAT84": {
+   "doi": "10.1038/s41598-026-52407-9",
+   "path": "papers/ecology/2026/farnisa-2026-wildfire-risk-to-united-states-cultural-jafcat84.md",
+   "source": "unpaywall: https://doi.org/10.1038/s41598-026-52407-9",
+   "status": "fulltext",
+   "zver": 34201
   },
   "JCGEZFWI": {
    "doi": "10.1016/j.ecolecon.2024.108194",
@@ -3963,11 +3998,11 @@
    "zver": 33083
   },
   "LXGKR7RD": {
-   "doi": null,
+   "doi": "10.1108/IJES-07-2014-0010",
    "path": "papers/wildfire/2015/kulemeka-2015-a-review-of-wildland-fire-smartphone-app-lxgkr7rd.md",
    "source": null,
    "status": "metadata-only",
-   "zver": 31079
+   "zver": 32823
   },
   "LYZZ8VKG": {
    "doi": null,
@@ -4340,6 +4375,13 @@
    "status": "metadata-only",
    "zver": 34177
   },
+  "NJXAKEEA": {
+   "doi": "10.1111/j.2517-6161.1995.tb02031.x",
+   "path": "papers/unsorted/1995/benjamini-1995-controlling-the-false-discovery-rate-a-p-njxakeea.md",
+   "source": null,
+   "status": "metadata-only",
+   "zver": 34209
+  },
   "NNAMIG98": {
    "doi": null,
    "path": "papers/unsorted/1994/reynolds-1994-conservation-reserve-program-benefit-for-nnamig98.md",
@@ -4502,11 +4544,11 @@
    "zver": 32785
   },
   "P8VNYWBM": {
-   "doi": null,
+   "doi": "10.3389/ffgc.2020.00056",
    "path": "papers/wildfire/2020/hanberry-2020-reviewing-fire-climate-deer-and-foundati-p8vnywbm.md",
-   "source": null,
-   "status": "metadata-only",
-   "zver": 32204
+   "source": "unpaywall: https://www.frontiersin.org/articles/10.3389/ffgc.2020.00056/pdf",
+   "status": "fulltext",
+   "zver": 34225
   },
   "P9J3XDJG": {
    "doi": null,
@@ -6335,6 +6377,13 @@
    "status": "fulltext",
    "zver": 32677
   },
+  "XIVXX5DY": {
+   "doi": "10.1038/s41467-026-78904-z",
+   "path": "papers/ecology/2026/iglesias-2026-fire-risk-to-u-s-structures-nearly-tripl-xivxx5dy.md",
+   "source": "unpaywall: https://www.nature.com/articles/s41467-026-78904-z.pdf",
+   "status": "fulltext",
+   "zver": 34241
+  },
   "XIYBXNG4": {
    "doi": "10.1002/ecs2.1472",
    "path": "papers/wildfire/2016/riley-2016-mapping-forest-vegetation-for-the-wester-xiybxng4.md",
@@ -6683,7 +6732,7 @@
    "path": "papers/unsorted/2020/barnes-2020-land-use-decisions-after-the-conservatio-z75xqvup.md",
    "source": "unpaywall: http://hdl.handle.net/10919/100789",
    "status": "fulltext",
-   "zver": 31915
+   "zver": 33872
   },
   "Z76TH3MN": {
    "doi": "10.3390/fire6080300",
@@ -6732,28 +6781,28 @@
    "path": "papers/wildfire/2016/vose-2016-oak-fire-and-global-change-in-the-easter-zcgbltd6.md",
    "source": "unpaywall: https://fireecology.springeropen.com/track/pdf/10.4996/fireecology.1202160",
    "status": "fulltext",
-   "zver": 31091
+   "zver": 32707
   },
   "ZCUK2VA9": {
    "doi": "10.1038/s41559-016-0058",
    "path": "papers/wildfire/2017/bowman-2017-human-exposure-and-sensitivity-to-global-zcuk2va9.md",
    "source": "unpaywall: https://www.nature.com/articles/s41559-016-0058.pdf",
    "status": "fulltext",
-   "zver": 31430
+   "zver": 33185
   },
   "ZD7NT32X": {
    "doi": "10.1088/1748-9326/ac06f8",
    "path": "papers/policy/2021/vandever-2021-evaluating-establishment-of-conservation-zd7nt32x.md",
    "source": "unpaywall: https://iopscience.iop.org/article/10.1088/1748-9326/ac06f8/pdf",
    "status": "fulltext",
-   "zver": 32218
+   "zver": 33865
   },
   "ZFYGSINP": {
    "doi": "10.1038/s43247-024-01346-2",
    "path": "papers/wildfire/2024/jain-2024-record-breaking-fire-weather-in-north-am-zfygsinp.md",
    "source": "unpaywall: https://www.nature.com/articles/s43247-024-01346-2.pdf",
    "status": "fulltext",
-   "zver": 32114
+   "zver": 34032
   },
   "ZJNRTQW2": {
    "doi": "10.3390/fire3040073",

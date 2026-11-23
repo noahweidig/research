@@ -1,5 +1,5 @@
 ---
-title: 'Oak, Fire, and Global Change in the Eastern USA: What Might the Future Hold?'
+title: 'Oak, fire, and global change in the eastern USA: what might the future hold?'
 authors:
 - Vose, James M.
 - Elliott, Katherine J.
@@ -19,10 +19,10 @@ item_type: journalArticle
 url: https://fireecology.springeropen.com/articles/10.4996/fireecology.1202160
 source_url: 'unpaywall: https://fireecology.springeropen.com/track/pdf/10.4996/fireecology.1202160'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Oak, Fire, and Global Change in the Eastern USA: What Might the Future Hold?
+# Oak, fire, and global change in the eastern USA: what might the future hold?
 
 ## Abstract
 

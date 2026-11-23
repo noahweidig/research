@@ -1,5 +1,5 @@
 ---
-title: Evaluating establishment of conservation practices in the Conservation Reserve Program across the central and western United States
+title: Evaluating establishment of conservation practices in the conservation reserve program across the central and western United States
 authors:
 - Vandever, Mark W.
 - Carter, Sarah K
@@ -22,10 +22,10 @@ item_type: journalArticle
 url: https://doi.org/10.1088/1748-9326/ac06f8
 source_url: 'unpaywall: https://iopscience.iop.org/article/10.1088/1748-9326/ac06f8/pdf'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Evaluating establishment of conservation practices in the Conservation Reserve Program across the central and western United States
+# Evaluating establishment of conservation practices in the conservation reserve program across the central and western United States
 
 ## Abstract
 

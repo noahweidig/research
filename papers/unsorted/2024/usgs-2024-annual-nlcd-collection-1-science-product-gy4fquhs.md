@@ -1,10 +1,10 @@
 ---
-title: 'Annual NLCD Collection 1 Science Products: U.S. Geological Survey data release'
+title: 'Annual NLCD collection 1 science products: U.S. geological survey data release'
 authors:
 - USGS
 year: '2024'
 journal: null
-doi: https://doi.org/10.5066/P94UXNTS
+doi: 10.5066/P94UXNTS
 tags:
 - dataset
 - refwright:read:unread
@@ -12,11 +12,11 @@ tags:
 - united states
 zotero_key: GY4FQUHS
 item_type: dataset
-url: https://doi.org/https://doi.org/10.5066/P94UXNTS
+url: https://doi.org/10.5066/P94UXNTS
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Annual NLCD Collection 1 Science Products: U.S. Geological Survey data release
+# Annual NLCD collection 1 science products: U.S. geological survey data release
 

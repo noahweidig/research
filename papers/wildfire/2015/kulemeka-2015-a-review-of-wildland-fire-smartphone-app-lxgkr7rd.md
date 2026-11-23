@@ -1,10 +1,10 @@
 ---
-title: 'A review of wildland fire smartphone applications: a classification study from Australia, USA, Canada and South Africa'
+title: 'A review of wildland fire smartphone applications: a classification study from Australia, USA, canada and South Africa'
 authors:
 - Kulemeka, Owen
 year: '2015'
 journal: International Journal of Emergency Services
-doi: null
+doi: 10.1108/IJES-07-2014-0010
 tags:
 - refwright:read:unread
 - united states
@@ -14,10 +14,10 @@ item_type: journalArticle
 url: https://www.emerald.com/insight/content/doi/10.1108/IJES-07-2014-0010/full/html
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# A review of wildland fire smartphone applications: a classification study from Australia, USA, Canada and South Africa
+# A review of wildland fire smartphone applications: a classification study from Australia, USA, canada and South Africa
 
 ## Abstract
 
