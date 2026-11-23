@@ -1,5 +1,5 @@
 ---
-title: Dataset of United States Incident Management Situation Reports from 2007 to 2021
+title: Dataset of United States incident management situation reports from 2007 to 2021
 authors:
 - Nguyen, Dung
 - Belval, Erin J.
@@ -11,6 +11,7 @@ journal: Scientific Data
 doi: 10.1038/s41597-023-02876-8
 tags:
 - climate
+- code:available
 - dataset
 - natural hazards
 - refwright:read:unread
@@ -21,10 +22,10 @@ item_type: journalArticle
 url: https://www.nature.com/articles/s41597-023-02876-8
 source_url: 'unpaywall: https://www.nature.com/articles/s41597-023-02876-8.pdf'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Dataset of United States Incident Management Situation Reports from 2007 to 2021
+# Dataset of United States incident management situation reports from 2007 to 2021
 
 ## Abstract
 

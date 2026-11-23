@@ -1,5 +1,5 @@
 ---
-title: 'Converting CRP grasslands to cropland, grazing land, or hayland: Effects on breeding bird abundances in the northern Great Plains of the United States'
+title: 'Converting CRP grasslands to cropland, grazing land, or hayland: effects on breeding bird abundances in the northern great plains of the United States'
 authors:
 - Igl, Lawrence D.
 - Buhl, Deborah A.
@@ -17,10 +17,10 @@ item_type: journalArticle
 url: https://www.sciencedirect.com/science/article/pii/S2351989423002640
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Converting CRP grasslands to cropland, grazing land, or hayland: Effects on breeding bird abundances in the northern Great Plains of the United States
+# Converting CRP grasslands to cropland, grazing land, or hayland: effects on breeding bird abundances in the northern great plains of the United States
 
 ## Abstract
 

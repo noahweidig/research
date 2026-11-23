@@ -20,7 +20,7 @@ item_type: journalArticle
 url: https://www.frontiersin.org/journals/environmental-science/articles/10.3389/fenvs.2024.1438262/full
 source_url: 'unpaywall: https://public-pages-files-2025.frontiersin.org/journals/environmental-science/articles/10.3389/fenvs.2024.1438262/pdf'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
 # The global drivers of wildfire

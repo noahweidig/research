@@ -17,7 +17,7 @@ item_type: journalArticle
 url: https://www.sciencedirect.com/science/article/pii/S0378112713004088
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
 # Changing eastern broadleaf, southern mixed, and northern mixed forest ecosystems of the eastern United States

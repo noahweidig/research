@@ -1,5 +1,5 @@
 ---
-title: National Interagency Fire Center Preparedness Levels
+title: National interagency fire center preparedness levels
 authors:
 - Nifc
 year: '2024'
@@ -15,8 +15,8 @@ item_type: webpage
 url: https://www.nifc.gov/fire-information/pl-month/01
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# National Interagency Fire Center Preparedness Levels
+# National interagency fire center preparedness levels
 

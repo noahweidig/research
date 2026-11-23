@@ -22,7 +22,7 @@ item_type: journalArticle
 url: https://doi.org/10.1186/s13717-021-00357-7
 source_url: 'unpaywall: https://ecologicalprocesses.springeropen.com/track/pdf/10.1186/s13717-021-00357-7'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
 # Effects of fire history on animal communities: a systematic review

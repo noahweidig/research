@@ -20,7 +20,7 @@ item_type: journalArticle
 url: https://www.sciencedirect.com/science/article/pii/S0378112717302232
 source_url: 'unpaywall: https://eprints.whiterose.ac.uk/id/eprint/115952/1/Manuscript_revisedCancela_Etal_2017.pdf'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
 # Interacting effects of topography, vegetation, human activities and wildland-urban interfaces on wildfire ignition risk

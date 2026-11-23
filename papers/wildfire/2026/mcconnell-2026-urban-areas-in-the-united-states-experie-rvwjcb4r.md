@@ -11,7 +11,8 @@ doi: 10.1038/s43247-026-03336-y
 tags:
 - WUI
 - climate
-- exposure
+- data:available
+- fire risk
 - natural hazards
 - refwright:read:unread
 - united states
@@ -21,7 +22,7 @@ item_type: journalArticle
 url: https://www.nature.com/articles/s43247-026-03336-y
 source_url: 'unpaywall: https://www.nature.com/articles/s43247-026-03336-y_reference.pdf'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
 # Urban areas in the United States experience substantial wildfire impacts

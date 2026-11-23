@@ -1,5 +1,5 @@
 ---
-title: Exploring the Variability in Emissions for Broadcast and Pile Prescribed Burns Using Low-Cost Sensors
+title: Exploring the variability in emissions for broadcast and pile prescribed burns using low-cost sensors
 authors:
 - Guth, Annamarie
 - Dauner, Marissa
@@ -22,10 +22,10 @@ item_type: journalArticle
 url: https://openalex.org/W7207651163
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Exploring the Variability in Emissions for Broadcast and Pile Prescribed Burns Using Low-Cost Sensors
+# Exploring the variability in emissions for broadcast and pile prescribed burns using low-cost sensors
 
 ## Abstract
 

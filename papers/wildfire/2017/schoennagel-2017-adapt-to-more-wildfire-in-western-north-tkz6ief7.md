@@ -1,5 +1,5 @@
 ---
-title: Adapt to more wildfire in western North American forests as climate changes
+title: Adapt to more wildfire in western north American forests as climate changes
 authors:
 - Schoennagel, Tania
 - Balch, Jennifer K.
@@ -29,10 +29,10 @@ item_type: journalArticle
 url: https://www.pnas.org/doi/full/10.1073/pnas.1617464114
 source_url: 'unpaywall: https://www.ncbi.nlm.nih.gov/pmc/articles/5422781'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Adapt to more wildfire in western North American forests as climate changes
+# Adapt to more wildfire in western north American forests as climate changes
 
 ## Abstract
 

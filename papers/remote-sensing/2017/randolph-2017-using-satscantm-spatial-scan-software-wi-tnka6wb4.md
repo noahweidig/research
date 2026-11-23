@@ -1,5 +1,5 @@
 ---
-title: 'Using Satscantm Spatial-Scan Software with National Forest Inventory Data: A Case Study in South Carolina'
+title: 'Using satscantm spatial-scan software with national forest inventory data: a case study in south carolina'
 authors:
 - Randolph, KaDonna C.
 year: '2017'
@@ -16,8 +16,8 @@ item_type: journalArticle
 url: https://research.fs.usda.gov/treesearch/54914
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Using Satscantm Spatial-Scan Software with National Forest Inventory Data: A Case Study in South Carolina
+# Using satscantm spatial-scan software with national forest inventory data: a case study in south carolina
 

@@ -10,6 +10,7 @@ journal: arXiv (Cornell University)
 doi: null
 tags:
 - air quality
+- code:available
 - prescribed fire
 - public health
 - refwright:read:unread
@@ -20,7 +21,7 @@ item_type: journalArticle
 url: https://openalex.org/W7213372814
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
 # Evaluating differential air quality impacts of prescribed fire and wildfire in the United States

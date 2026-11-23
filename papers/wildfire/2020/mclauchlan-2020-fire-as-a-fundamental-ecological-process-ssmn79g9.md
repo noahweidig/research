@@ -1,5 +1,5 @@
 ---
-title: 'Fire as a fundamental ecological process: Research advances and frontiers'
+title: 'Fire as a fundamental ecological process: research advances and frontiers'
 authors:
 - McLauchlan, Kendra K.
 - Higuera, Philip E.
@@ -50,6 +50,7 @@ journal: Journal of Ecology
 doi: 10.1111/1365-2745.13403
 tags:
 - climate
+- data:available
 - fire regimes
 - fuels
 - prescribed fire
@@ -60,10 +61,10 @@ item_type: journalArticle
 url: https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2745.13403
 source_url: 'unpaywall: https://pure.uva.nl/ws/files/52423846/1365_2745.13403.pdf'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Fire as a fundamental ecological process: Research advances and frontiers
+# Fire as a fundamental ecological process: research advances and frontiers
 
 ## Abstract
 

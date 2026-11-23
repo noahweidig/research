@@ -1,5 +1,5 @@
 ---
-title: Increasing Large Wildfires in the Eastern United States
+title: Increasing large wildfires in the eastern United States
 authors: []
 year: '2024'
 journal: null
@@ -13,10 +13,10 @@ item_type: presentation
 url: https://www.youtube.com/watch?v=vdZSXsaz7c0
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Increasing Large Wildfires in the Eastern United States
+# Increasing large wildfires in the eastern United States
 
 ## Abstract
 

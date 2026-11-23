@@ -1,5 +1,5 @@
 ---
-title: Prescribed fire alters structure and composition of a mid-Atlantic oak forest up to eight years after burning
+title: Prescribed fire alters structure and composition of a mid-atlantic oak forest up to eight years after burning
 authors:
 - Dems, Cody L.
 - Taylor, Alan H.
@@ -20,10 +20,10 @@ item_type: journalArticle
 url: https://doi.org/10.1186/s42408-021-00093-5
 source_url: 'unpaywall: https://fireecology.springeropen.com/track/pdf/10.1186/s42408-021-00093-5'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Prescribed fire alters structure and composition of a mid-Atlantic oak forest up to eight years after burning
+# Prescribed fire alters structure and composition of a mid-atlantic oak forest up to eight years after burning
 
 ## Abstract
 

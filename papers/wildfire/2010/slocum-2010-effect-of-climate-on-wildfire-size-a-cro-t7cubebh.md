@@ -1,5 +1,5 @@
 ---
-title: 'Effect of Climate on Wildfire Size: A Cross-Scale Analysis'
+title: 'Effect of climate on wildfire size: a cross-scale analysis'
 authors:
 - Slocum, Matthew G.
 - Beckage, Brian
@@ -20,8 +20,8 @@ item_type: journalArticle
 url: http://link.springer.com/10.1007/s10021-010-9357-y
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Effect of Climate on Wildfire Size: A Cross-Scale Analysis
+# Effect of climate on wildfire size: a cross-scale analysis
 

@@ -1,13 +1,13 @@
 ---
-title: A Quantitative Content Analysis of Major United States-Based Religious Organizations' Framing of Mask-Wearing on X (Formerly Twitter) During COVID-19
+title: A quantitative content analysis of major united states-based religious organizations' framing of mask-wearing on X (formerly twitter) during COVID-19
 authors:
 - Farzinpour, Michael John
 year: '2026'
 journal: Scholars Crossing (Liberty University)
 doi: null
 tags:
-- exposure
 - fire behavior
+- fire risk
 - policy
 - public health
 - refwright:read:unread
@@ -18,10 +18,10 @@ item_type: journalArticle
 url: https://openalex.org/W7213567085
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# A Quantitative Content Analysis of Major United States-Based Religious Organizations' Framing of Mask-Wearing on X (Formerly Twitter) During COVID-19
+# A quantitative content analysis of major united states-based religious organizations' framing of mask-wearing on X (formerly twitter) during COVID-19
 
 ## Abstract
 

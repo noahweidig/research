@@ -1,5 +1,5 @@
 ---
-title: 'car: Companion to Applied Regression'
+title: 'car: companion to applied regression'
 authors: []
 year: '2024'
 journal: null
@@ -14,10 +14,10 @@ item_type: computerProgram
 url: https://cran.r-project.org/web/packages/car/index.html
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# car: Companion to Applied Regression
+# car: companion to applied regression
 
 ## Abstract
 

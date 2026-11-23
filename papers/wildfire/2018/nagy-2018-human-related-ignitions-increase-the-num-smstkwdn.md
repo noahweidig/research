@@ -1,5 +1,5 @@
 ---
-title: Human-Related Ignitions Increase the Number of Large Wildfires across U.S. Ecoregions
+title: Human-related ignitions increase the number of large wildfires across U.S. ecoregions
 authors:
 - Nagy, R. Chelsea
 - Fusco, Emily J.
@@ -10,6 +10,7 @@ year: '2018'
 journal: Fire
 doi: 10.3390/fire1010004
 tags:
+- data:available
 - fire regimes
 - refwright:read:unread
 - wildfire
@@ -18,10 +19,10 @@ item_type: journalArticle
 url: https://www.mdpi.com/2571-6255/1/1/4
 source_url: 'unpaywall: https://scholarworks.umass.edu/nrc_faculty_pubs/414'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Human-Related Ignitions Increase the Number of Large Wildfires across U.S. Ecoregions
+# Human-related ignitions increase the number of large wildfires across U.S. ecoregions
 
 ## Abstract
 

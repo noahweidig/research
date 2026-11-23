@@ -1,5 +1,5 @@
 ---
-title: 'Land use impacts of the Conservation Reserve Program: An analysis of rejected offers'
+title: 'Land use impacts of the conservation reserve program: an analysis of rejected offers'
 authors:
 - Rosenberg, Andrew B.
 - Pratt, Bryan
@@ -17,10 +17,10 @@ item_type: journalArticle
 url: https://onlinelibrary.wiley.com/doi/abs/10.1111/ajae.12425
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Land use impacts of the Conservation Reserve Program: An analysis of rejected offers
+# Land use impacts of the conservation reserve program: an analysis of rejected offers
 
 ## Abstract
 

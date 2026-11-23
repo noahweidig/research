@@ -1,5 +1,5 @@
 ---
-title: 'trend: Non-Parametric Trend Tests and Change-Point Detection'
+title: 'trend: non-parametric trend tests and change-point detection'
 authors: []
 year: '2023'
 journal: null
@@ -13,10 +13,10 @@ item_type: computerProgram
 url: https://cran.r-project.org/web/packages/trend/index.html
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# trend: Non-Parametric Trend Tests and Change-Point Detection
+# trend: non-parametric trend tests and change-point detection
 
 ## Abstract
 

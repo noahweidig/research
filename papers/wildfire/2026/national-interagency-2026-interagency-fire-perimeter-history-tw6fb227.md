@@ -1,5 +1,5 @@
 ---
-title: Interagency Fire Perimeter History
+title: Interagency fire perimeter history
 authors:
 - National Interagency Fire Center (Nifc)
 year: '2026'
@@ -17,8 +17,8 @@ item_type: dataset
 url: https://data-nifc.opendata.arcgis.com/datasets/nifc::interagencyfireperimeterhistory-all-years-view/about
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Interagency Fire Perimeter History
+# Interagency fire perimeter history
 

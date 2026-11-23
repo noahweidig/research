@@ -22,7 +22,7 @@ item_type: journalArticle
 url: https://www.sciencedirect.com/science/article/pii/S0378112713006671
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
 # Strong legacy of agricultural land use on soils and understory plant communities in longleaf pine woodlands

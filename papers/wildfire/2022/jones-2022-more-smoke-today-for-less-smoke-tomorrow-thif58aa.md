@@ -21,7 +21,7 @@ item_type: journalArticle
 url: https://www.publish.csiro.au/wf/WF22025
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
 # More smoke today for less smoke tomorrow? We need to better understand the public health benefits and costs of prescribed fire

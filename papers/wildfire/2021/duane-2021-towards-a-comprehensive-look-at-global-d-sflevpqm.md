@@ -10,7 +10,7 @@ doi: 10.1007/s10584-021-03066-4
 tags:
 - climate
 - ecology
-- exposure
+- fire risk
 - land cover
 - natural hazards
 - refwright:read:unread
@@ -21,7 +21,7 @@ item_type: journalArticle
 url: https://doi.org/10.1007/s10584-021-03066-4
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
 # Towards a comprehensive look at global drivers of novel extreme wildfire events

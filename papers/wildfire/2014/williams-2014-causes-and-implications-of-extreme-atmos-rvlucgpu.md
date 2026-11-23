@@ -1,5 +1,5 @@
 ---
-title: Causes and Implications of Extreme Atmospheric Moisture Demand during the Record-Breaking 2011 Wildfire Season in the Southwestern United States
+title: Causes and implications of extreme atmospheric moisture demand during the record-breaking 2011 wildfire season in the southwestern United States
 authors:
 - Williams, A. Park
 - Seager, Richard
@@ -28,10 +28,10 @@ item_type: journalArticle
 url: https://journals.ametsoc.org/view/journals/apme/53/12/jamc-d-14-0053.1.xml
 source_url: 'unpaywall: https://www.osti.gov/servlets/purl/1514957'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Causes and Implications of Extreme Atmospheric Moisture Demand during the Record-Breaking 2011 Wildfire Season in the Southwestern United States
+# Causes and implications of extreme atmospheric moisture demand during the record-breaking 2011 wildfire season in the southwestern United States
 
 ## Abstract
 

@@ -1,5 +1,5 @@
 ---
-title: Estimation of Fractional Plant Lifeform Cover for the Conterminous United States Using Landsat Imagery and Airborne LiDAR
+title: Estimation of fractional plant lifeform cover for the conterminous united states using landsat imagery and airborne LiDAR
 authors:
 - Parra, Adriana
 - Greenberg, Jonathan A.
@@ -18,10 +18,10 @@ item_type: journalArticle
 url: https://ieeexplore.ieee.org/document/9857941
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Estimation of Fractional Plant Lifeform Cover for the Conterminous United States Using Landsat Imagery and Airborne LiDAR
+# Estimation of fractional plant lifeform cover for the conterminous united states using landsat imagery and airborne LiDAR
 
 ## Abstract
 

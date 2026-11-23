@@ -7,7 +7,7 @@ authors:
 - Duchardt, Courtney J.
 - Loss, Scott R.
 year: '2025'
-journal: PLOS ONE
+journal: PLOS One
 doi: 10.1371/journal.pone.0329962
 tags:
 - biodiversity
@@ -21,7 +21,7 @@ item_type: journalArticle
 url: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0329962
 source_url: 'unpaywall: https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0329962&type=printable'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
 # Scoping review of the literature on outcomes of the conservation reserve program

@@ -1,11 +1,11 @@
 ---
-title: Spot-fire distance increases disproportionately for wildfires compared to prescribed fires as grasslands transition to Juniperus woodlands
+title: Spot-fire distance increases disproportionately for wildfires compared to prescribed fires as grasslands transition to juniperus woodlands
 authors:
 - Donovan, Victoria M.
 - Fogarty, Dillon T.
 - Twidwell, Dirac
 year: '2023'
-journal: PLOS ONE
+journal: PLOS One
 doi: 10.1371/journal.pone.0283816
 tags:
 - fuels
@@ -18,10 +18,10 @@ item_type: journalArticle
 url: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0283816
 source_url: 'unpaywall: https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0283816&type=printable'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Spot-fire distance increases disproportionately for wildfires compared to prescribed fires as grasslands transition to Juniperus woodlands
+# Spot-fire distance increases disproportionately for wildfires compared to prescribed fires as grasslands transition to juniperus woodlands
 
 ## Abstract
 

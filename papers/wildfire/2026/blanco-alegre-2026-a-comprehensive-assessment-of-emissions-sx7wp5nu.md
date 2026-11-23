@@ -1,5 +1,5 @@
 ---
-title: 'A comprehensive assessment of emissions from prescribed fires in two Mediterranean shrublands: chemical and morphological analysis'
+title: 'A comprehensive assessment of emissions from prescribed fires in two mediterranean shrublands: chemical and morphological analysis'
 authors:
 - Blanco-Alegre, Carlos
 - Calvo, Ana Isabel
@@ -11,7 +11,7 @@ authors:
 - Castedo, Fernando
 - Fraile, Roberto
 year: '2026'
-journal: Atmospheric chemistry and physics
+journal: Atmospheric Chemistry and Physics
 doi: 10.5194/acp-26-11695-2026
 tags:
 - air quality
@@ -26,10 +26,10 @@ item_type: journalArticle
 url: https://openalex.org/W7136650862
 source_url: 'unpaywall: https://acp.copernicus.org/articles/26/11695/2026/acp-26-11695-2026.pdf'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# A comprehensive assessment of emissions from prescribed fires in two Mediterranean shrublands: chemical and morphological analysis
+# A comprehensive assessment of emissions from prescribed fires in two mediterranean shrublands: chemical and morphological analysis
 
 ## Abstract
 

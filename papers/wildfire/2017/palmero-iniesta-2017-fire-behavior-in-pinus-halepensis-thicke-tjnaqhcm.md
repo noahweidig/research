@@ -1,5 +1,5 @@
 ---
-title: 'Fire behavior in Pinus halepensis thickets: Effects of thinning and woody debris decomposition in two rainfall scenarios'
+title: 'Fire behavior in pinus halepensis thickets: effects of thinning and woody debris decomposition in two rainfall scenarios'
 authors:
 - Palmero-Iniesta, Marina
 - Domènech, Rut
@@ -18,10 +18,10 @@ item_type: journalArticle
 url: https://www.sciencedirect.com/science/article/pii/S0378112717312860
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Fire behavior in Pinus halepensis thickets: Effects of thinning and woody debris decomposition in two rainfall scenarios
+# Fire behavior in pinus halepensis thickets: effects of thinning and woody debris decomposition in two rainfall scenarios
 
 ## Abstract
 

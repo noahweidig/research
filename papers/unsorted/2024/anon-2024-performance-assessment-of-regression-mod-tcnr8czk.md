@@ -1,5 +1,5 @@
 ---
-title: 'performance: Assessment of Regression Models Performance'
+title: 'performance: assessment of regression models performance'
 authors: []
 year: '2024'
 journal: null
@@ -13,10 +13,10 @@ item_type: computerProgram
 url: https://cran.r-project.org/web/packages/performance/index.html
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# performance: Assessment of Regression Models Performance
+# performance: assessment of regression models performance
 
 ## Abstract
 

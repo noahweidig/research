@@ -1,5 +1,5 @@
 ---
-title: Woody encroachment decreases diversity across North American grasslands and savannas
+title: Woody encroachment decreases diversity across north American grasslands and savannas
 authors:
 - Ratajczak, Zakary
 - Nippert, Jesse B.
@@ -19,10 +19,10 @@ item_type: journalArticle
 url: https://onlinelibrary.wiley.com/doi/abs/10.1890/11-1199.1
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Woody encroachment decreases diversity across North American grasslands and savannas
+# Woody encroachment decreases diversity across north American grasslands and savannas
 
 ## Abstract
 

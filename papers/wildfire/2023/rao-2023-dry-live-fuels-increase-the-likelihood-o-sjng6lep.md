@@ -1,5 +1,5 @@
 ---
-title: Dry Live Fuels Increase the Likelihood of Lightning-Caused Fires
+title: Dry live fuels increase the likelihood of lightning-caused fires
 authors:
 - Rao, Krishna
 - Williams, A. Park
@@ -11,6 +11,7 @@ year: '2023'
 journal: Geophysical Research Letters
 doi: 10.1029/2022GL100975
 tags:
+- data:available
 - drought
 - fuels
 - refwright:read:unread
@@ -22,10 +23,10 @@ item_type: journalArticle
 url: https://onlinelibrary.wiley.com/doi/abs/10.1029/2022GL100975
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Dry Live Fuels Increase the Likelihood of Lightning-Caused Fires
+# Dry live fuels increase the likelihood of lightning-caused fires
 
 ## Abstract
 

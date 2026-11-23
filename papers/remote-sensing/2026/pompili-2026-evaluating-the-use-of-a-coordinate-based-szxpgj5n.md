@@ -19,7 +19,7 @@ item_type: journalArticle
 url: https://doi.org/10.1007/s00477-026-03283-2
 source_url: 'unpaywall: https://link.springer.com/content/pdf/10.1007/s00477-026-03283-2.pdf'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
 # Evaluating the use of a coordinate-based tensor-product for addressing spatial autocorrelation in shallow landslide susceptibility modelling

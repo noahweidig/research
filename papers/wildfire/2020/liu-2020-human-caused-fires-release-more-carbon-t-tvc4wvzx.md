@@ -1,5 +1,5 @@
 ---
-title: Human-caused fires release more carbon than lightning-caused fires in the conterminous United States
+title: Human-caused fires release more carbon than lightning-caused fires in the conterminous united states
 authors:
 - Liu, Meng
 - Yang, Linqing
@@ -18,10 +18,10 @@ item_type: journalArticle
 url: https://dx.doi.org/10.1088/1748-9326/abcbbc
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Human-caused fires release more carbon than lightning-caused fires in the conterminous United States
+# Human-caused fires release more carbon than lightning-caused fires in the conterminous united states
 
 ## Abstract
 

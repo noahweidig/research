@@ -25,7 +25,7 @@ item_type: journalArticle
 url: https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.14288
 source_url: 'unpaywall: https://www.biorxiv.org/content/biorxiv/early/2021/11/02/2021.04.02.438282.full.pdf'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
 # Herbaceous production lost to tree encroachment in United States rangelands

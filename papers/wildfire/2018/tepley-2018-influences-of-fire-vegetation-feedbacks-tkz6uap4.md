@@ -23,7 +23,7 @@ item_type: journalArticle
 url: https://onlinelibrary.wiley.com/doi/abs/10.1111/1365-2745.12950
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
 # Influences of fire–vegetation feedbacks and post-fire recovery rates on forest landscape vulnerability to altered fire regimes
