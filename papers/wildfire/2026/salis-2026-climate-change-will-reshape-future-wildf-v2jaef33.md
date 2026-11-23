@@ -1,5 +1,5 @@
 ---
-title: Climate change will reshape future wildfire danger and hazard in Sardinia, Italy
+title: Climate change will reshape future wildfire danger and hazard in sardinia, italy
 authors:
 - Salis, Michele
 - Giudice, Liliana Del
@@ -12,7 +12,7 @@ authors:
 - Monjo, Robert
 - Ribalaygua, Jaime
 - Torres, Luís
-- Prado‐Lopez, Carlos
+- Prado-Lopez, Carlos
 - Arca, Bachisio
 year: '2026'
 journal: Natural Hazards
@@ -31,10 +31,10 @@ item_type: journalArticle
 url: https://openalex.org/W7208784285
 source_url: 'unpaywall: https://link.springer.com/content/pdf/10.1007/s11069-026-08320-5.pdf'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Climate change will reshape future wildfire danger and hazard in Sardinia, Italy
+# Climate change will reshape future wildfire danger and hazard in sardinia, italy
 
 ## Abstract
 

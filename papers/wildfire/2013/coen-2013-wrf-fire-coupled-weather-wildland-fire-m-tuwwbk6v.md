@@ -1,5 +1,5 @@
 ---
-title: 'WRF-Fire: Coupled Weather–Wildland Fire Modeling with the Weather Research and Forecasting Model'
+title: 'WRF-fire: coupled weather–wildland fire modeling with the weather research and forecasting model'
 authors:
 - Coen, Janice L.
 - Cameron, Marques
@@ -22,10 +22,10 @@ item_type: journalArticle
 url: https://journals.ametsoc.org/view/journals/apme/52/1/jamc-d-12-023.1.xml
 source_url: 'unpaywall: https://zenodo.org/record/1234579'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# WRF-Fire: Coupled Weather–Wildland Fire Modeling with the Weather Research and Forecasting Model
+# WRF-fire: coupled weather–wildland fire modeling with the weather research and forecasting model
 
 ## Abstract
 

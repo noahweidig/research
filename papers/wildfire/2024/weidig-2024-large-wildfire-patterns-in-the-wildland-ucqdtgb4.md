@@ -1,5 +1,5 @@
 ---
-title: Large Wildfire Patterns in the Wildland-Urban Interface of the Eastern U.S.
+title: Large wildfire patterns in the wildland-urban interface of the eastern U.S
 authors:
 - Weidig, Noah C.
 - Wonkka, Carissa L.
@@ -18,10 +18,10 @@ item_type: conferencePaper
 url: https://www.ialena.org/program-2024.html
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Large Wildfire Patterns in the Wildland-Urban Interface of the Eastern U.S.
+# Large wildfire patterns in the wildland-urban interface of the eastern U.S
 
 ## Abstract
 

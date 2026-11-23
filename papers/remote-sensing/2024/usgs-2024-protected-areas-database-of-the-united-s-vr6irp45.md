@@ -1,5 +1,5 @@
 ---
-title: Protected Areas Database of the United States (PAD-US) 4
+title: Protected areas database of the United States (PAD-US) 4
 authors:
 - USGS
 year: '2024'
@@ -15,10 +15,10 @@ item_type: dataset
 url: https://www.sciencebase.gov/catalog/item/65294599d34e44db0e2ed7cf
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Protected Areas Database of the United States (PAD-US) 4
+# Protected areas database of the United States (PAD-US) 4
 
 ## Abstract
 

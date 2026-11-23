@@ -22,7 +22,7 @@ item_type: journalArticle
 url: https://openalex.org/W7213455885
 source_url: 'unpaywall: https://afrjournal.org/index.php/afr/article/download/4628/1378'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
 # Developing a FARSITE wildfire simulation framework for Romania: fuel model mapping and evaluation using historical wildfires

@@ -1,5 +1,5 @@
 ---
-title: Conservation Reserve Program Monthly Summary – July 2025
+title: Conservation reserve program monthly summary – july 2025
 authors:
 - USDA FSA
 year: '2025'
@@ -17,8 +17,8 @@ item_type: report
 url: https://www.fsa.usda.gov/sites/default/files/2025-12/CRPMonthlyJuly2025WithPageNumbers.pdf
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Conservation Reserve Program Monthly Summary – July 2025
+# Conservation reserve program monthly summary – july 2025
 

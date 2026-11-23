@@ -1,5 +1,5 @@
 ---
-title: 'WILDFIRE-DRIVEN INCREASES IN AVALANCHE HAZARD: MECHANISMS, CANADIAN CASE STUDIES, AND A POST-WILDFIRE AVALANCHE RISK ASSESSMENT TOOL'
+title: 'Wildfire-driven increases in avalanche hazard: mechanisms, canadian case studies, and a post-wildfire avalanche risk assessment tool'
 authors:
 - Thumlert, Scott
 - Harvey, Jillian
@@ -23,10 +23,10 @@ item_type: journalArticle
 url: https://openalex.org/W7214018109
 source_url: 'unpaywall: https://doi.org/10.15788/1790098731'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# WILDFIRE-DRIVEN INCREASES IN AVALANCHE HAZARD: MECHANISMS, CANADIAN CASE STUDIES, AND A POST-WILDFIRE AVALANCHE RISK ASSESSMENT TOOL
+# Wildfire-driven increases in avalanche hazard: mechanisms, canadian case studies, and a post-wildfire avalanche risk assessment tool
 
 ## Abstract
 

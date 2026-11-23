@@ -1,5 +1,5 @@
 ---
-title: Fire and biodiversity in the Anthropocene
+title: Fire and biodiversity in the anthropocene
 authors:
 - Kelly, Luke T.
 - Giljohann, Katherine M.
@@ -45,10 +45,10 @@ item_type: journalArticle
 url: https://www.science.org/doi/full/10.1126/science.abb0355
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Fire and biodiversity in the Anthropocene
+# Fire and biodiversity in the anthropocene
 
 ## Abstract
 

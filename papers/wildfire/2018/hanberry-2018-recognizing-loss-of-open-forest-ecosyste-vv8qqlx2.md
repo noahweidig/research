@@ -1,5 +1,5 @@
 ---
-title: Recognizing loss of open forest ecosystems by tree densification and land use intensification in the Midwestern USA
+title: Recognizing loss of open forest ecosystems by tree densification and land use intensification in the midwestern USA
 authors:
 - Hanberry, Brice B.
 - Abrams, Marc D.
@@ -18,10 +18,10 @@ item_type: journalArticle
 url: https://doi.org/10.1007/s10113-018-1299-5
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Recognizing loss of open forest ecosystems by tree densification and land use intensification in the Midwestern USA
+# Recognizing loss of open forest ecosystems by tree densification and land use intensification in the midwestern USA
 
 ## Abstract
 

@@ -1,5 +1,5 @@
 ---
-title: Housing is positively associated with invasive exotic plant species richness in New England, USA
+title: Housing is positively associated with invasive exotic plant species richness in new england, USA
 authors:
 - Gavier-Pizarro, Gregorio I.
 - Radeloff, Volker C.
@@ -20,10 +20,10 @@ item_type: journalArticle
 url: https://onlinelibrary.wiley.com/doi/abs/10.1890/09-2168.1
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Housing is positively associated with invasive exotic plant species richness in New England, USA
+# Housing is positively associated with invasive exotic plant species richness in new england, USA
 
 ## Abstract
 

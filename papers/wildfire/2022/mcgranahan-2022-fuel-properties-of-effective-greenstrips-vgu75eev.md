@@ -1,5 +1,5 @@
 ---
-title: Fuel Properties of Effective Greenstrips in Simulated Cheatgrass Fires
+title: Fuel properties of effective greenstrips in simulated cheatgrass fires
 authors:
 - McGranahan, Devan Allen
 - Wonkka, Carissa L.
@@ -16,10 +16,10 @@ item_type: journalArticle
 url: https://doi.org/10.1007/s00267-022-01659-y
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Fuel Properties of Effective Greenstrips in Simulated Cheatgrass Fires
+# Fuel properties of effective greenstrips in simulated cheatgrass fires
 
 ## Abstract
 

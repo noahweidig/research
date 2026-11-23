@@ -1,5 +1,5 @@
 ---
-title: 'Conservation Reserve Program: Monthly Summary – January 2026'
+title: 'Conservation reserve program: monthly summary – january 2026'
 authors:
 - USDA FSA
 year: '2026'
@@ -17,8 +17,8 @@ item_type: report
 url: https://www.fsa.usda.gov/sites/default/files/2026-05/CRPMonthlyJanuary2026WithPageNumbers.pdf
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Conservation Reserve Program: Monthly Summary – January 2026
+# Conservation reserve program: monthly summary – january 2026
 

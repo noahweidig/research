@@ -21,7 +21,7 @@ item_type: journalArticle
 url: https://onlinelibrary.wiley.com/doi/abs/10.1111/jvs.12201
 source_url: 'unpaywall: https://eprints.lancs.ac.uk/id/eprint/69189/1/Accepted_manuscript.pdf'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
 # Forest disturbance and regeneration: a mosaic of discrete gap dynamics and open matrix regimes?

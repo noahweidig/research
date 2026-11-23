@@ -1,5 +1,5 @@
 ---
-title: 'Fire, climate change, and forest resilience in interior AlaskaThis article is one of a selection of papers from The Dynamics of Change in Alaska''s Boreal Forests: Resilience and Vulnerability in Response to Climate Warming.'
+title: 'Fire, climate change, and forest resilience in interior AlaskaThis article is one of a selection of papers from the dynamics of change in alaska''s boreal forests: resilience and vulnerability in response to climate warming'
 authors:
 - Johnstone, Jill F.
 - Chapin, F. Stuart
@@ -23,10 +23,10 @@ item_type: journalArticle
 url: https://cdnsciencepub.com/doi/full/10.1139/X10-061
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Fire, climate change, and forest resilience in interior AlaskaThis article is one of a selection of papers from The Dynamics of Change in Alaska's Boreal Forests: Resilience and Vulnerability in Response to Climate Warming.
+# Fire, climate change, and forest resilience in interior AlaskaThis article is one of a selection of papers from the dynamics of change in alaska's boreal forests: resilience and vulnerability in response to climate warming
 
 ## Abstract
 

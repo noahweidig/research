@@ -20,7 +20,7 @@ item_type: journalArticle
 url: https://openalex.org/W7223814676
 source_url: 'unpaywall: https://www.frontiersin.org/journals/environmental-science/articles/10.3389/fenvs.2026.1956965/pdf'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
 # Sugarcane burning: a systematic review of emissions, monitoring approaches, and environmental and health impacts

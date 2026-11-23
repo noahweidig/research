@@ -20,7 +20,7 @@ item_type: journalArticle
 url: https://dx.doi.org/10.1088/1748-9326/ab6d3a
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
 # Focus on changing fire regimes: interactions with climate, ecosystems, and society

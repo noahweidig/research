@@ -25,7 +25,7 @@ item_type: journalArticle
 url: https://www.nature.com/articles/s43016-021-00429-z
 source_url: 'unpaywall: https://www.nature.com/articles/s43016-021-00429-z.pdf'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
 # Global maps of cropland extent and change show accelerated cropland expansion in the twenty-first century

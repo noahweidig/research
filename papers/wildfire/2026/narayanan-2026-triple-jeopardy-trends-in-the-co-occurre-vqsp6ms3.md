@@ -1,17 +1,17 @@
 ---
-title: 'Triple jeopardy: trends in the co-occurrence of extreme heat, drought, and PM2.5 across the conterminous United States'
+title: 'Triple jeopardy: trends in the co-occurrence of extreme heat, drought, and PM2.5 across the conterminous united states'
 authors:
 - Narayanan, Anuska
 - Rezaali, Mostafa
 - Keellings, David
-- Lopez‐Quintero, Catalina
+- Lopez-Quintero, Catalina
 year: '2026'
-journal: Environmental Research Climate
+journal: 'Environmental Research: Climate'
 doi: 10.1088/2752-5295/aeab03
 tags:
 - climate
 - drought
-- exposure
+- fire risk
 - refwright:read:unread
 - united states
 - wildfire
@@ -20,10 +20,10 @@ item_type: journalArticle
 url: https://openalex.org/W7214034685
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Triple jeopardy: trends in the co-occurrence of extreme heat, drought, and PM2.5 across the conterminous United States
+# Triple jeopardy: trends in the co-occurrence of extreme heat, drought, and PM2.5 across the conterminous united states
 
 ## Abstract
 

@@ -1,5 +1,5 @@
 ---
-title: Rancher Preferences for Grassland Conservation Reserve Programs in the Northern U.S. Great Plains
+title: Rancher preferences for grassland conservation reserve programs in the northern U.S. great plains
 authors:
 - Kabir, Md Faizul
 - Dennis, Elliott
@@ -22,10 +22,10 @@ item_type: journalArticle
 url: https://ageconsearch.umn.edu/record/361175
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Rancher Preferences for Grassland Conservation Reserve Programs in the Northern U.S. Great Plains
+# Rancher preferences for grassland conservation reserve programs in the northern U.S. great plains
 
 ## Abstract
 

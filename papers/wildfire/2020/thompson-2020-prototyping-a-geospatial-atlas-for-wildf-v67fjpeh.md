@@ -24,7 +24,7 @@ item_type: journalArticle
 url: https://doi.org/10.3390/f11090909
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
 # Prototyping a geospatial atlas for wildfire planning and management

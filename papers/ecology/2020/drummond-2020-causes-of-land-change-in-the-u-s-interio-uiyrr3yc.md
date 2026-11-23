@@ -1,5 +1,5 @@
 ---
-title: Causes of land change in the U.S. Interior Highlands, 2001–2011
+title: Causes of land change in the U.S. interior highlands, 2001–2011
 authors:
 - Drummond, Mark A.
 - Stier, Michael P.
@@ -23,10 +23,10 @@ item_type: report
 url: https://pubs.usgs.gov/publication/ds1127
 source_url: 'unpaywall: https://pubs.usgs.gov/ds/1127/ds1127.pdf'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Causes of land change in the U.S. Interior Highlands, 2001–2011
+# Causes of land change in the U.S. interior highlands, 2001–2011
 
 ## Abstract
 

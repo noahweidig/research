@@ -1,5 +1,5 @@
 ---
-title: 'Relative humidity and agricultural activities dominate wildfire ignitions in Yunnan, Southwest China: Patterns, thresholds, and implications'
+title: 'Relative humidity and agricultural activities dominate wildfire ignitions in yunnan, southwest China: patterns, thresholds, and implications'
 authors:
 - Ying, Lingxiao
 - Cheng, Hujiao
@@ -20,10 +20,10 @@ item_type: journalArticle
 url: https://www.sciencedirect.com/science/article/pii/S0168192321002240
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Relative humidity and agricultural activities dominate wildfire ignitions in Yunnan, Southwest China: Patterns, thresholds, and implications
+# Relative humidity and agricultural activities dominate wildfire ignitions in yunnan, southwest China: patterns, thresholds, and implications
 
 ## Abstract
 

@@ -1,5 +1,5 @@
 ---
-title: Quantitative Assessment of the Relationship between Land Use/Land Cover Changes and Wildfires in Southern Europe
+title: Quantitative assessment of the relationship between land use/land cover changes and wildfires in southern Europe
 authors:
 - Parente, Joana
 - Tonini, Marj
@@ -22,10 +22,10 @@ item_type: journalArticle
 url: https://www.mdpi.com/2571-6255/6/5/198
 source_url: 'unpaywall: https://serval.unil.ch/resource/serval:BIB_CDB5CC4B87BF.P001/REF.pdf'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Quantitative Assessment of the Relationship between Land Use/Land Cover Changes and Wildfires in Southern Europe
+# Quantitative assessment of the relationship between land use/land cover changes and wildfires in southern Europe
 
 ## Abstract
 

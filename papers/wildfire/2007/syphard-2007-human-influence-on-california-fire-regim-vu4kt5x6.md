@@ -1,5 +1,5 @@
 ---
-title: HUMAN INFLUENCE ON CALIFORNIA FIRE REGIMES
+title: Human influence on california fire regimes
 authors:
 - Syphard, Alexandra D.
 - Radeloff, Volker C.
@@ -22,10 +22,10 @@ item_type: journalArticle
 url: http://doi.wiley.com/10.1890/06-1128.1
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# HUMAN INFLUENCE ON CALIFORNIA FIRE REGIMES
+# Human influence on california fire regimes
 
 ## Abstract
 

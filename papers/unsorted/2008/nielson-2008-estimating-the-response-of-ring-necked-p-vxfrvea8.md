@@ -1,5 +1,5 @@
 ---
-title: Estimating the Response of Ring-Necked Pheasants (Phasianus Colchicus) to the Conservation Reserve Program
+title: Estimating the response of ring-necked pheasants (phasianus colchicus) to the conservation reserve program
 authors:
 - Nielson, Ryan M.
 - Mcdonald, Lyman L.
@@ -25,10 +25,10 @@ item_type: journalArticle
 url: https://doi.org/10.1525/auk.2008.07002
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Estimating the Response of Ring-Necked Pheasants (Phasianus Colchicus) to the Conservation Reserve Program
+# Estimating the response of ring-necked pheasants (phasianus colchicus) to the conservation reserve program
 
 ## Abstract
 

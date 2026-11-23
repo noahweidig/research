@@ -9,7 +9,6 @@ year: '2024'
 journal: Environmental Hazards
 doi: 10.1080/17477891.2024.2304201
 tags:
-- exposure
 - fire risk
 - refwright:read:unread
 - wildfire
@@ -18,7 +17,7 @@ item_type: journalArticle
 url: https://doi.org/10.1080/17477891.2024.2304201
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
 # Wildfire across agricultural landscapes: farmer and rancher experiences and perceptions in the southern great plains

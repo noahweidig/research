@@ -1,5 +1,5 @@
 ---
-title: Climate change increases risks of wildfire and biome shifts in United States national parks in California
+title: Climate change increases risks of wildfire and biome shifts in United States national parks in california
 authors:
 - González, Patrick
 - Verkerke, Joshua
@@ -18,10 +18,10 @@ item_type: journalArticle
 url: https://openalex.org/W7171666786
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Climate change increases risks of wildfire and biome shifts in United States national parks in California
+# Climate change increases risks of wildfire and biome shifts in United States national parks in california
 
 ## Abstract
 

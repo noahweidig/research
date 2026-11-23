@@ -20,7 +20,7 @@ item_type: journalArticle
 url: https://www.sciencedirect.com/science/article/pii/S0303243412002462
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
 # Influences of forest roads and their edge effects on the spatial pattern of burn severity

@@ -1,5 +1,5 @@
 ---
-title: Shrub Invasions of North American Semiarid Grasslands
+title: Shrub invasions of north American semiarid grasslands
 authors:
 - Auken, O. W. Van
 year: '2000'
@@ -17,10 +17,10 @@ item_type: journalArticle
 url: https://www.annualreviews.org/content/journals/10.1146/annurev.ecolsys.31.1.197
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Shrub Invasions of North American Semiarid Grasslands
+# Shrub invasions of north American semiarid grasslands
 
 ## Abstract
 

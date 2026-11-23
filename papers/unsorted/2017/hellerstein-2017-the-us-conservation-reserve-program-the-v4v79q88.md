@@ -1,5 +1,5 @@
 ---
-title: 'The US Conservation Reserve Program: The evolution of an enrollment mechanism'
+title: 'The US conservation reserve program: the evolution of an enrollment mechanism'
 authors:
 - Hellerstein, Daniel
 year: '2017'
@@ -13,10 +13,10 @@ item_type: journalArticle
 url: https://www.sciencedirect.com/science/article/pii/S0264837715002264
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# The US Conservation Reserve Program: The evolution of an enrollment mechanism
+# The US conservation reserve program: the evolution of an enrollment mechanism
 
 ## Abstract
 

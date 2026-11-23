@@ -1,5 +1,5 @@
 ---
-title: 'Drought, Fire, and Vegetation Stress: Quantifying Ecosystem Responses to Extreme Events'
+title: 'Drought, fire, and vegetation stress: quantifying ecosystem responses to extreme events'
 authors:
 - Corak, Nicholas K.
 year: '2025'
@@ -19,10 +19,10 @@ item_type: thesis
 url: https://search.proquest.com/openview/e2fc6229ddebfaa2342d889aae13dc21/1?pq-origsite=gscholar&cbl=18750&diss=y
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Drought, Fire, and Vegetation Stress: Quantifying Ecosystem Responses to Extreme Events
+# Drought, fire, and vegetation stress: quantifying ecosystem responses to extreme events
 
 ## Abstract
 

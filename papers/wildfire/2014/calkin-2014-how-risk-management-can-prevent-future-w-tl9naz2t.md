@@ -10,7 +10,6 @@ journal: Proceedings of the National Academy of Sciences
 doi: 10.1073/pnas.1315088111
 tags:
 - WUI
-- exposure
 - fire risk
 - refwright:read:unread
 - suppression
@@ -21,7 +20,7 @@ item_type: journalArticle
 url: https://www.pnas.org/doi/10.1073/pnas.1315088111
 source_url: 'unpaywall: https://www.ncbi.nlm.nih.gov/pmc/articles/3896199'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
 # How risk management can prevent future wildfire disasters in the wildland-urban interface

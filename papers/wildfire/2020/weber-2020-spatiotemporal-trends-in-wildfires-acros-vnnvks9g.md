@@ -1,5 +1,5 @@
 ---
-title: Spatiotemporal Trends in Wildfires across the Western United States (1950–2019)
+title: Spatiotemporal trends in wildfires across the western United States (1950–2019)
 authors:
 - Weber, Keith T.
 - Yadav, Rituraj
@@ -18,10 +18,10 @@ item_type: journalArticle
 url: https://www.mdpi.com/2072-4292/12/18/2959
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Spatiotemporal Trends in Wildfires across the Western United States (1950–2019)
+# Spatiotemporal trends in wildfires across the western United States (1950–2019)
 
 ## Abstract
 

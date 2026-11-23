@@ -1,5 +1,5 @@
 ---
-title: Sensitivity of Grass Fires Burning in Marginal Conditions to Atmospheric Turbulence
+title: Sensitivity of grass fires burning in marginal conditions to atmospheric turbulence
 authors:
 - Jonko, Alexandra K.
 - Yedinak, Kara M.
@@ -21,10 +21,10 @@ item_type: journalArticle
 url: https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2020JD033384
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Sensitivity of Grass Fires Burning in Marginal Conditions to Atmospheric Turbulence
+# Sensitivity of grass fires burning in marginal conditions to atmospheric turbulence
 
 ## Abstract
 

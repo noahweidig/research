@@ -1,5 +1,5 @@
 ---
-title: 'Liability and Prescribed Fire: Perception and Reality'
+title: 'Liability and prescribed fire: perception and reality'
 authors:
 - Weir, John R.
 - Kreuter, Urs P.
@@ -21,10 +21,10 @@ item_type: journalArticle
 url: https://www.sciencedirect.com/science/article/pii/S1550742418301283
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Liability and Prescribed Fire: Perception and Reality
+# Liability and prescribed fire: perception and reality
 
 ## Abstract
 

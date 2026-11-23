@@ -1,10 +1,10 @@
 ---
-title: 'Wildfires in the wildland-urban interface: Key concepts and evaluation methodologies'
+title: 'Wildfires in the wildland-urban interface: key concepts and evaluation methodologies'
 authors:
 - Bento-Gonçalves, A.
 - Vieira, A.
 year: '2020'
-journal: Science of The Total Environment
+journal: Science of the Total Environment
 doi: 10.1016/j.scitotenv.2019.135592
 tags:
 - WUI
@@ -16,10 +16,10 @@ item_type: journalArticle
 url: https://www.sciencedirect.com/science/article/pii/S0048969719355871
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Wildfires in the wildland-urban interface: Key concepts and evaluation methodologies
+# Wildfires in the wildland-urban interface: key concepts and evaluation methodologies
 
 ## Abstract
 

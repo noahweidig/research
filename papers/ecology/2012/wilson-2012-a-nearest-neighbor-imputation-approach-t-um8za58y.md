@@ -18,7 +18,7 @@ item_type: journalArticle
 url: https://linkinghub.elsevier.com/retrieve/pii/S0378112712000710
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
 # A nearest-neighbor imputation approach to mapping tree species over large areas using forest inventory plots and moderate resolution raster data
