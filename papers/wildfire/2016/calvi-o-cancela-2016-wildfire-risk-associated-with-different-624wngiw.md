@@ -20,7 +20,7 @@ item_type: journalArticle
 url: https://www.sciencedirect.com/science/article/pii/S0378112716301529
 source_url: 'unpaywall: https://eprints.whiterose.ac.uk/98372/1/calvino_et_al_MSacceptedversion.pdf'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
 # Wildfire risk associated with different vegetation types within and outside wildland-urban interfaces

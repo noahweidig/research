@@ -20,7 +20,7 @@ item_type: journalArticle
 url: https://www.sciencedirect.com/science/article/pii/S0379711209001192
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
 # Quantifying the vulnerabilities of ceramic tile roofing assemblies to ignition during a firebrand attack

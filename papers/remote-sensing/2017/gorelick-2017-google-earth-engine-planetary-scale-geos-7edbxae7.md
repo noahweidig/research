@@ -1,5 +1,5 @@
 ---
-title: 'Google Earth Engine: Planetary-scale geospatial analysis for everyone'
+title: 'Google earth engine: planetary-scale geospatial analysis for everyone'
 authors:
 - Gorelick, Noel
 - Hancher, Matt
@@ -20,10 +20,10 @@ item_type: journalArticle
 url: https://linkinghub.elsevier.com/retrieve/pii/S0034425717302900
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Google Earth Engine: Planetary-scale geospatial analysis for everyone
+# Google earth engine: planetary-scale geospatial analysis for everyone
 
 ## Abstract
 

@@ -1,5 +1,5 @@
 ---
-title: TIGER/Line Shapefiles
+title: TIGER/line shapefiles
 authors:
 - U.S. Census Bureau
 year: '1992'
@@ -16,8 +16,8 @@ item_type: dataset
 url: https://www2.census.gov/geo/tiger/
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# TIGER/Line Shapefiles
+# TIGER/line shapefiles
 

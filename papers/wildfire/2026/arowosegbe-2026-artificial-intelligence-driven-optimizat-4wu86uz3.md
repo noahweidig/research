@@ -1,5 +1,5 @@
 ---
-title: Artificial Intelligence-Driven Optimization of Food Transportation Systems for Enhancing Food Security, Supply Chain Resilience, and Operational Efficiency in the United States
+title: Artificial intelligence-driven optimization of food transportation systems for enhancing food security, supply chain resilience, and operational efficiency in the United States
 authors:
 - Arowosegbe, Oluwakemi
 year: '2026'
@@ -18,10 +18,10 @@ item_type: journalArticle
 url: https://openalex.org/W7171230907
 source_url: 'unpaywall: https://doi.org/10.7753/ijcatr1412.1017'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Artificial Intelligence-Driven Optimization of Food Transportation Systems for Enhancing Food Security, Supply Chain Resilience, and Operational Efficiency in the United States
+# Artificial intelligence-driven optimization of food transportation systems for enhancing food security, supply chain resilience, and operational efficiency in the United States
 
 ## Abstract
 

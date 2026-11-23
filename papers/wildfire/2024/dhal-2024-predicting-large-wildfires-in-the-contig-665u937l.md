@@ -1,5 +1,5 @@
 ---
-title: Predicting large wildfires in the Contiguous United States using deep neural networks
+title: Predicting large wildfires in the contiguous united states using deep neural networks
 authors:
 - Dhal, Sambandh
 - Jain, Shubham
@@ -24,10 +24,10 @@ item_type: journalArticle
 url: https://www.spiedigitallibrary.org/journals/journal-of-applied-remote-sensing/volume-18/issue-2/028501/Predicting-large-wildfires-in-the-Contiguous-United-States-using-deep/10.1117/1.JRS.18.028501.full
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Predicting large wildfires in the Contiguous United States using deep neural networks
+# Predicting large wildfires in the contiguous united states using deep neural networks
 
 ## Abstract
 

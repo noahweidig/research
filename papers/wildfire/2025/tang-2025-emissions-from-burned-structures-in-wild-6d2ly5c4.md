@@ -23,6 +23,7 @@ tags:
 - WUI
 - air quality
 - climate
+- data:available
 - natural hazards
 - prescribed fire
 - public health
@@ -34,7 +35,7 @@ item_type: journalArticle
 url: https://www.nature.com/articles/s41467-025-66292-9
 source_url: 'unpaywall: https://www.nature.com/articles/s41467-025-66292-9_reference.pdf'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
 # Emissions from burned structures in wildfires as significant yet unaccounted sources of US air pollution

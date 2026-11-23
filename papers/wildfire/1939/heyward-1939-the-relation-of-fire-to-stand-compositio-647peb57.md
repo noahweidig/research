@@ -1,5 +1,5 @@
 ---
-title: The Relation of Fire to Stand Composition of Longleaf Pine Forests
+title: The relation of fire to stand composition of longleaf pine forests
 authors:
 - Heyward, Frank
 year: '1939'
@@ -16,8 +16,8 @@ item_type: journalArticle
 url: https://www.jstor.org/stable/1930747
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# The Relation of Fire to Stand Composition of Longleaf Pine Forests
+# The relation of fire to stand composition of longleaf pine forests
 

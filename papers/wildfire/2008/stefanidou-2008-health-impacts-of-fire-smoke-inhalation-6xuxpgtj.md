@@ -1,5 +1,5 @@
 ---
-title: Health Impacts of Fire Smoke Inhalation
+title: Health impacts of fire smoke inhalation
 authors:
 - Stefanidou, M.
 - Athanaselis, S.
@@ -17,10 +17,10 @@ item_type: journalArticle
 url: http://www.tandfonline.com/doi/full/10.1080/08958370801975311
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Health Impacts of Fire Smoke Inhalation
+# Health impacts of fire smoke inhalation
 
 ## Abstract
 

@@ -22,7 +22,7 @@ item_type: journalArticle
 url: https://openalex.org/W7221025286
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
 # Factors affecting wildfire suppression costs in the United States: a systematic review

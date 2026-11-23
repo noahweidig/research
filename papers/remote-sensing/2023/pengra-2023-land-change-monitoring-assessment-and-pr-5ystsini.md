@@ -1,5 +1,5 @@
 ---
-title: Land Change Monitoring, Assessment, and Projection (LCMAP) Collection 1.3 Annual Land Cover and Land Cover Change Validation Tables (1985–2021) for the Conterminous United States
+title: Land change monitoring, assessment, and projection (LCMAP) collection 1.3 annual land cover and land cover change validation tables (1985–2021) for the conterminous united states
 authors:
 - Pengra, B. W.
 - Stehman, Stephen V.
@@ -18,10 +18,10 @@ item_type: dataset
 url: https://doi.org/10.5066/P9AQYZE0
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Land Change Monitoring, Assessment, and Projection (LCMAP) Collection 1.3 Annual Land Cover and Land Cover Change Validation Tables (1985–2021) for the Conterminous United States
+# Land change monitoring, assessment, and projection (LCMAP) collection 1.3 annual land cover and land cover change validation tables (1985–2021) for the conterminous united states
 
 ## Abstract
 

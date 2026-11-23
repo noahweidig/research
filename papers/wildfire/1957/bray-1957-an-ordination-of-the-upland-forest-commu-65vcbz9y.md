@@ -1,5 +1,5 @@
 ---
-title: An Ordination of the Upland Forest Communities of Southern Wisconsin
+title: An ordination of the upland forest communities of southern wisconsin
 authors:
 - Bray, J. Roger
 - Curtis, J. T.
@@ -15,8 +15,8 @@ item_type: journalArticle
 url: https://esajournals.onlinelibrary.wiley.com/doi/10.2307/1942268
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# An Ordination of the Upland Forest Communities of Southern Wisconsin
+# An ordination of the upland forest communities of southern wisconsin
 

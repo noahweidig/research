@@ -1,5 +1,5 @@
 ---
-title: Leveraging United States Forest Inventory Analysis data to project mature and old-growth forest conditions, with three wildlife case studies showing utility
+title: Leveraging united states forest inventory analysis data to project mature and old-growth forest conditions, with three wildlife case studies showing utility
 authors:
 - Herrera, Daniel J.
 - Schalk, Christopher M.
@@ -11,6 +11,8 @@ year: '2025'
 journal: Forest Ecology and Management
 doi: 10.1016/j.foreco.2025.123085
 tags:
+- code:available
+- data:available
 - fia
 - forests
 - fuels
@@ -22,10 +24,10 @@ item_type: journalArticle
 url: https://www.sciencedirect.com/science/article/pii/S0378112725005936
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Leveraging United States Forest Inventory Analysis data to project mature and old-growth forest conditions, with three wildlife case studies showing utility
+# Leveraging united states forest inventory analysis data to project mature and old-growth forest conditions, with three wildlife case studies showing utility
 
 ## Abstract
 

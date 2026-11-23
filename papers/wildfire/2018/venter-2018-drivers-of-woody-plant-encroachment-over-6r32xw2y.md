@@ -19,7 +19,7 @@ item_type: journalArticle
 url: https://www.nature.com/articles/s41467-018-04616-8
 source_url: 'unpaywall: https://www.nature.com/articles/s41467-018-04616-8.pdf'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
 # Drivers of woody plant encroachment over Africa

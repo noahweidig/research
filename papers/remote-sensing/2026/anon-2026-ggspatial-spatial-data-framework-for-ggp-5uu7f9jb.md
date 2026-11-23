@@ -1,5 +1,5 @@
 ---
-title: 'ggspatial: Spatial Data Framework for ggplot2'
+title: 'ggspatial: spatial data framework for ggplot2'
 authors: []
 year: '2026'
 journal: null
@@ -14,10 +14,10 @@ item_type: computerProgram
 url: https://cran.r-project.org/web/packages/ggspatial/index.html
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# ggspatial: Spatial Data Framework for ggplot2
+# ggspatial: spatial data framework for ggplot2
 
 ## Abstract
 

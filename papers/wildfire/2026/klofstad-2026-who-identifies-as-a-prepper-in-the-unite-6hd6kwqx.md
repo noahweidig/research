@@ -1,5 +1,5 @@
 ---
-title: Who Identifies as a “Prepper” in the United States?
+title: Who identifies as a “prepper” in the United States?
 authors:
 - Klofstad, Casey
 - Stoler, Justin B.
@@ -10,7 +10,7 @@ year: '2026'
 journal: Social Science Quarterly
 doi: 10.1111/ssqu.70207
 tags:
-- exposure
+- fire risk
 - natural hazards
 - refwright:read:unread
 - statistics
@@ -20,10 +20,10 @@ item_type: journalArticle
 url: https://openalex.org/W7222797769
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Who Identifies as a “Prepper” in the United States?
+# Who identifies as a “prepper” in the United States?
 
 ## Abstract
 

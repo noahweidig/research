@@ -18,7 +18,7 @@ item_type: journalArticle
 url: https://openalex.org/W7214917877
 source_url: 'unpaywall: https://doi.org/10.3897/jhr.99.205327'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
 # Prescribed burning and post-fire recovery time shape microhymenopteran communities in high-nature-value grasslands

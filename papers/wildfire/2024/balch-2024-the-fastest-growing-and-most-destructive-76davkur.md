@@ -19,6 +19,7 @@ year: '2024'
 journal: Science
 doi: 10.1126/science.adk5737
 tags:
+- data:available
 - refwright:read:unread
 - suppression
 - united states
@@ -28,7 +29,7 @@ item_type: journalArticle
 url: https://www.science.org/doi/full/10.1126/science.adk5737
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
 # The fastest-growing and most destructive fires in the US (2001 to 2020)

@@ -1,5 +1,5 @@
 ---
-title: Estimates of the Regression Coefficient Based on Kendall's Tau
+title: Estimates of the regression coefficient based on kendall's tau
 authors:
 - Sen, Pranab Kumar
 year: '1968'
@@ -13,10 +13,10 @@ item_type: journalArticle
 url: https://www.tandfonline.com/doi/abs/10.1080/01621459.1968.10480934
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Estimates of the Regression Coefficient Based on Kendall's Tau
+# Estimates of the regression coefficient based on kendall's tau
 
 ## Abstract
 

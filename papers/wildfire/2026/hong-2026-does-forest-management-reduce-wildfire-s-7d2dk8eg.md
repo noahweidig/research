@@ -1,5 +1,5 @@
 ---
-title: Does forest management reduce wildfire severity? Evidence from 1050 plots in a South Korean Megafire
+title: Does forest management reduce wildfire severity? Evidence from 1050 plots in a south korean megafire
 authors:
 - Hong, Suk–Hwan
 - An, Miyeon
@@ -22,10 +22,10 @@ item_type: journalArticle
 url: https://openalex.org/W7220973462
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Does forest management reduce wildfire severity? Evidence from 1050 plots in a South Korean Megafire
+# Does forest management reduce wildfire severity? Evidence from 1050 plots in a south korean megafire
 
 ## Abstract
 

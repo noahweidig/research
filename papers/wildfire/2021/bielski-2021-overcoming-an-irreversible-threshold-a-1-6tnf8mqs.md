@@ -1,5 +1,5 @@
 ---
-title: 'Overcoming an “irreversible” threshold: A 15-year fire experiment'
+title: 'Overcoming an “irreversible” threshold: a 15-year fire experiment'
 authors:
 - Bielski, Christine H.
 - Scholtz, Rheinhardt
@@ -22,10 +22,10 @@ item_type: journalArticle
 url: https://www.sciencedirect.com/science/article/pii/S0301479721006125
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Overcoming an “irreversible” threshold: A 15-year fire experiment
+# Overcoming an “irreversible” threshold: a 15-year fire experiment
 
 ## Abstract
 

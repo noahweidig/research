@@ -1,11 +1,11 @@
 ---
-title: Patterns and Variability of Projected Bioclimatic Habitat for Pinus albicaulis in the Greater Yellowstone Area
+title: Patterns and variability of projected bioclimatic habitat for pinus albicaulis in the greater yellowstone area
 authors:
 - Chang, Tony
 - Hansen, Andrew J.
 - Piekielek, Nathan
 year: '2014'
-journal: PLoS ONE
+journal: PLOS One
 doi: 10.1371/journal.pone.0111669
 tags:
 - climate
@@ -20,10 +20,10 @@ item_type: journalArticle
 url: https://dx.plos.org/10.1371/journal.pone.0111669
 source_url: 'unpaywall: https://doi.org/10.1371/journal.pone.0111669'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Patterns and Variability of Projected Bioclimatic Habitat for Pinus albicaulis in the Greater Yellowstone Area
+# Patterns and variability of projected bioclimatic habitat for pinus albicaulis in the greater yellowstone area
 
 ## Abstract
 

@@ -1,5 +1,5 @@
 ---
-title: 'R: A Language and Environment for Statistical Computing'
+title: 'R: a language and environment for statistical computing'
 authors: []
 year: '2023'
 journal: null
@@ -13,8 +13,8 @@ item_type: computerProgram
 url: https://www.r-project.org/
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# R: A Language and Environment for Statistical Computing
+# R: a language and environment for statistical computing
 

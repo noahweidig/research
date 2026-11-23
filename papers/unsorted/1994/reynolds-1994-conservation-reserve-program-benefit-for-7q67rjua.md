@@ -1,5 +1,5 @@
 ---
-title: 'Conservation Reserve Program: Benefit for Grassland Birds in the Northern Plains'
+title: 'Conservation reserve program: benefit for grassland birds in the northern plains'
 authors:
 - Reynolds, R. E.
 - Shaffer, T.L.
@@ -16,8 +16,8 @@ item_type: journalArticle
 url: https://pubs.usgs.gov/publication/5222719
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Conservation Reserve Program: Benefit for Grassland Birds in the Northern Plains
+# Conservation reserve program: benefit for grassland birds in the northern plains
 

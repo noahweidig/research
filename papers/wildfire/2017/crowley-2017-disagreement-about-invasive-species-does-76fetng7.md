@@ -1,5 +1,5 @@
 ---
-title: 'Disagreement About Invasive Species Does Not Equate to Denialism: A Response to Russell and Blackburn'
+title: 'Disagreement about invasive species does not equate to denialism: a response to russell and blackburn'
 authors:
 - Crowley, Sarah L.
 - Hinchliffe, Steve
@@ -10,6 +10,7 @@ journal: Trends in Ecology & Evolution
 doi: 10.1016/j.tree.2017.02.004
 tags:
 - conservation
+- fuels
 - plant species
 - policy
 - refwright:read:unread
@@ -18,8 +19,8 @@ item_type: journalArticle
 url: https://www.cell.com/trends/ecology-evolution/abstract/S0169-5347(17)30040-X
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Disagreement About Invasive Species Does Not Equate to Denialism: A Response to Russell and Blackburn
+# Disagreement about invasive species does not equate to denialism: a response to russell and blackburn
 

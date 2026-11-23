@@ -18,7 +18,7 @@ item_type: journalArticle
 url: https://iforest.sisef.org/contents/?id=ifor1112-007
 source_url: 'unpaywall: https://iforest.sisef.org/pdf/?id=ifor1112-007'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
 # Goat grazing as a wildfire prevention tool: a basic review

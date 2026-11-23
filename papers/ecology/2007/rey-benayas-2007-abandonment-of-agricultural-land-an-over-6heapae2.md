@@ -1,5 +1,5 @@
 ---
-title: 'Abandonment of agricultural land: an overview of drivers and consequences.'
+title: 'Abandonment of agricultural land: an overview of drivers and consequences'
 authors:
 - Rey Benayas, J. M.
 - Martins, A.
@@ -18,10 +18,10 @@ item_type: journalArticle
 url: http://www.cabidigitallibrary.org/doi/10.1079/PAVSNNR20072057
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Abandonment of agricultural land: an overview of drivers and consequences.
+# Abandonment of agricultural land: an overview of drivers and consequences
 
 ## Abstract
 

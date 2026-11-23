@@ -1,5 +1,5 @@
 ---
-title: Geostatistical and Spatial Clustering Analysis for Wildfire Monitoring in Türkiye
+title: Geostatistical and spatial clustering analysis for wildfire monitoring in türkiye
 authors:
 - Gunes, M.
 year: '2026'
@@ -16,10 +16,10 @@ item_type: journalArticle
 url: https://openalex.org/W7214519283
 source_url: 'unpaywall: https://dergipark.org.tr/en/download/article-file/6031258'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Geostatistical and Spatial Clustering Analysis for Wildfire Monitoring in Türkiye
+# Geostatistical and spatial clustering analysis for wildfire monitoring in türkiye
 
 ## Abstract
 

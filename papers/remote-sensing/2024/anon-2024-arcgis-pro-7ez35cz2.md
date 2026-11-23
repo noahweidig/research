@@ -1,5 +1,5 @@
 ---
-title: ArcGIS Pro
+title: ArcGIS pro
 authors: []
 year: '2024'
 journal: null
@@ -13,8 +13,8 @@ item_type: computerProgram
 url: https://www.esri.com/en-us/arcgis/products/arcgis-pro
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# ArcGIS Pro
+# ArcGIS pro
 

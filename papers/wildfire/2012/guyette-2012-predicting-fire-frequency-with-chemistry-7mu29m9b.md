@@ -1,5 +1,5 @@
 ---
-title: Predicting Fire Frequency with Chemistry and Climate
+title: Predicting fire frequency with chemistry and climate
 authors:
 - Guyette, Richard P.
 - Stambaugh, Michael C.
@@ -20,10 +20,10 @@ item_type: journalArticle
 url: https://doi.org/10.1007/s10021-011-9512-0
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Predicting Fire Frequency with Chemistry and Climate
+# Predicting fire frequency with chemistry and climate
 
 ## Abstract
 

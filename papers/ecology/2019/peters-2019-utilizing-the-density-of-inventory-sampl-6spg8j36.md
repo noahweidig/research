@@ -1,5 +1,5 @@
 ---
-title: 'Utilizing the density of inventory samples to define a hybrid lattice for species distribution models: DISTRIB‐II for 135 eastern U.S. trees'
+title: 'Utilizing the density of inventory samples to define a hybrid lattice for species distribution models: DISTRIB-II for 135 eastern U.S. trees'
 authors:
 - Peters, Matthew P.
 - Iverson, Louis R.
@@ -22,10 +22,10 @@ item_type: journalArticle
 url: https://onlinelibrary.wiley.com/doi/10.1002/ece3.5445
 source_url: 'unpaywall: https://www.ncbi.nlm.nih.gov/pmc/articles/6686326'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Utilizing the density of inventory samples to define a hybrid lattice for species distribution models: DISTRIB‐II for 135 eastern U.S. trees
+# Utilizing the density of inventory samples to define a hybrid lattice for species distribution models: DISTRIB-II for 135 eastern U.S. trees
 
 ## Abstract
 

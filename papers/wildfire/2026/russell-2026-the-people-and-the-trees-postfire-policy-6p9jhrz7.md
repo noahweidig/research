@@ -1,5 +1,5 @@
 ---
-title: 'The people and the trees: postfire policy and rehabilitation in Washoe Country'
+title: 'The people and the trees: postfire policy and rehabilitation in washoe country'
 authors:
 - Russell, Gregory
 - Jones, Rhiana
@@ -18,10 +18,10 @@ item_type: journalArticle
 url: https://openalex.org/W7203720209
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# The people and the trees: postfire policy and rehabilitation in Washoe Country
+# The people and the trees: postfire policy and rehabilitation in washoe country
 
 ## Abstract
 

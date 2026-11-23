@@ -1,5 +1,5 @@
 ---
-title: Urbanization driving changes in plant species and communities – A global view
+title: Urbanization driving changes in plant species and communities – a global view
 authors:
 - Ruas, Renata de Barros
 - Costa, Laís Mara Santana
@@ -17,10 +17,10 @@ item_type: journalArticle
 url: https://www.sciencedirect.com/science/article/pii/S2351989422002451
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Urbanization driving changes in plant species and communities – A global view
+# Urbanization driving changes in plant species and communities – a global view
 
 ## Abstract
 

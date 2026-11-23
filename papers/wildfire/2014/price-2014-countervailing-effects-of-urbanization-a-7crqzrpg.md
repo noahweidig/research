@@ -1,5 +1,5 @@
 ---
-title: 'Countervailing effects of urbanization and vegetation extent on fire frequency on the Wildland Urban Interface: Disentangling fuel and ignition effects'
+title: 'Countervailing effects of urbanization and vegetation extent on fire frequency on the wildland urban interface: disentangling fuel and ignition effects'
 authors:
 - Price, Owen
 - Bradstock, Ross A.
@@ -17,10 +17,10 @@ item_type: journalArticle
 url: https://www.sciencedirect.com/science/article/pii/S0169204614001558
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Countervailing effects of urbanization and vegetation extent on fire frequency on the Wildland Urban Interface: Disentangling fuel and ignition effects
+# Countervailing effects of urbanization and vegetation extent on fire frequency on the wildland urban interface: disentangling fuel and ignition effects
 
 ## Abstract
 

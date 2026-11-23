@@ -1,5 +1,5 @@
 ---
-title: An integrated wildfire event database for improved fire science research for the continental United States, 1992–2021
+title: An integrated wildfire event database for improved fire science research for the continental united states, 1992–2021
 authors:
 - Kasischke, Eric S.
 - French, Nancy H. F.
@@ -19,10 +19,10 @@ item_type: journalArticle
 url: https://openalex.org/W7223091393
 source_url: 'unpaywall: https://essd.copernicus.org/preprints/essd-2026-660/essd-2026-660.pdf'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# An integrated wildfire event database for improved fire science research for the continental United States, 1992–2021
+# An integrated wildfire event database for improved fire science research for the continental united states, 1992–2021
 
 ## Abstract
 

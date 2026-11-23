@@ -19,7 +19,7 @@ item_type: journalArticle
 url: https://www.sciencedirect.com/science/article/pii/S0013935123005388
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
 # Characterization of global fire activity and its spatiotemporal patterns for different land cover types from 2001 to 2020

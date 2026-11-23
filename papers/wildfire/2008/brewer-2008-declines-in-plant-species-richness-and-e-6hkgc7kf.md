@@ -1,5 +1,5 @@
 ---
-title: Declines in plant species richness and endemic plant species in longleaf pine savannas invaded by Imperata cylindrica
+title: Declines in plant species richness and endemic plant species in longleaf pine savannas invaded by imperata cylindrica
 authors:
 - Brewer, Stephen
 year: '2008'
@@ -19,10 +19,10 @@ item_type: journalArticle
 url: https://doi.org/10.1007/s10530-007-9200-3
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Declines in plant species richness and endemic plant species in longleaf pine savannas invaded by Imperata cylindrica
+# Declines in plant species richness and endemic plant species in longleaf pine savannas invaded by imperata cylindrica
 
 ## Abstract
 

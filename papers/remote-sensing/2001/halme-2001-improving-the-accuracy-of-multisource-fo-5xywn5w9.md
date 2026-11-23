@@ -17,7 +17,7 @@ item_type: journalArticle
 url: https://www.sciencedirect.com/science/article/pii/S0034425701002279
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
 # Improving the accuracy of multisource forest inventory estimates to reducing plot location error — a multicriteria approach

@@ -1,5 +1,5 @@
 ---
-title: The extent of buildings in wildland vegetation of the conterminous U.S. and the potential for conservation in and near National Forest private inholdings
+title: The extent of buildings in wildland vegetation of the conterminous U.S. and the potential for conservation in and near national forest private inholdings
 authors:
 - Carlson, Amanda R.
 - Radeloff, Volker C.
@@ -12,6 +12,7 @@ journal: Landscape and Urban Planning
 doi: 10.1016/j.landurbplan.2023.104810
 tags:
 - biodiversity
+- code:available
 - conservation
 - fuels
 - refwright:read:unread
@@ -21,10 +22,10 @@ item_type: journalArticle
 url: https://www.sciencedirect.com/science/article/pii/S0169204623001299
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# The extent of buildings in wildland vegetation of the conterminous U.S. and the potential for conservation in and near National Forest private inholdings
+# The extent of buildings in wildland vegetation of the conterminous U.S. and the potential for conservation in and near national forest private inholdings
 
 ## Abstract
 

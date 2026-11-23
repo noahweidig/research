@@ -1,5 +1,5 @@
 ---
-title: Disagreement or denialism? “Invasive species denialism” and ethical disagreement in science
+title: Disagreement or denialism? “invasive species denialism” and ethical disagreement in science
 authors:
 - Frank, David M.
 year: '2021'
@@ -13,10 +13,10 @@ item_type: journalArticle
 url: https://doi.org/10.1007/s11229-019-02259-w
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Disagreement or denialism? “Invasive species denialism” and ethical disagreement in science
+# Disagreement or denialism? “invasive species denialism” and ethical disagreement in science
 
 ## Abstract
 
