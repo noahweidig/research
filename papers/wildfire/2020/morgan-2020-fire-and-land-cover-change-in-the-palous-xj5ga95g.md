@@ -1,5 +1,5 @@
 ---
-title: Fire and land cover change in the Palouse Prairie–forest ecotone, Washington and Idaho, USA
+title: Fire and land cover change in the palouse prairie–forest ecotone, washington and idaho, USA
 authors:
 - Morgan, Penelope
 - Heyerdahl, Emily K.
@@ -24,10 +24,10 @@ item_type: journalArticle
 url: https://doi.org/10.1186/s42408-019-0061-9
 source_url: 'unpaywall: https://fireecology.springeropen.com/track/pdf/10.1186/s42408-019-0061-9'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Fire and land cover change in the Palouse Prairie–forest ecotone, Washington and Idaho, USA
+# Fire and land cover change in the palouse prairie–forest ecotone, washington and idaho, USA
 
 ## Abstract
 

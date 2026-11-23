@@ -1,5 +1,5 @@
 ---
-title: The Historic Fire Return Interval and the Ecological Effects of Fire Suppression on Montane Longleaf Pine Dominated Ecosystems in Northwestern Georgia.
+title: The historic fire return interval and the ecological effects of fire suppression on montane longleaf pine dominated ecosystems in northwestern Georgia
 authors:
 - Waters, Christopher
 year: '2020'
@@ -17,8 +17,8 @@ item_type: journalArticle
 url: https://digitalcommons.kennesaw.edu/integrbiol_etd/53
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# The Historic Fire Return Interval and the Ecological Effects of Fire Suppression on Montane Longleaf Pine Dominated Ecosystems in Northwestern Georgia.
+# The historic fire return interval and the ecological effects of fire suppression on montane longleaf pine dominated ecosystems in northwestern Georgia
 

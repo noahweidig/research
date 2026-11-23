@@ -1,5 +1,5 @@
 ---
-title: Spatial and temporal pattern of wildfires in California from 2000 to 2019
+title: Spatial and temporal pattern of wildfires in california from 2000 to 2019
 authors:
 - Li, Shu
 - Banerjee, Tirtha
@@ -17,10 +17,10 @@ item_type: journalArticle
 url: https://www.nature.com/articles/s41598-021-88131-9
 source_url: 'unpaywall: https://www.nature.com/articles/s41598-021-88131-9.pdf'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Spatial and temporal pattern of wildfires in California from 2000 to 2019
+# Spatial and temporal pattern of wildfires in california from 2000 to 2019
 
 ## Abstract
 

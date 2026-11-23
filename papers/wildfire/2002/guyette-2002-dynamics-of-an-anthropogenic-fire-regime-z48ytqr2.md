@@ -1,5 +1,5 @@
 ---
-title: Dynamics of an Anthropogenic Fire Regime
+title: Dynamics of an anthropogenic fire regime
 authors:
 - Guyette, Richard P.
 - Muzika, Rose-Marie
@@ -18,8 +18,8 @@ item_type: journalArticle
 url: https://doi.org/10.1007/s10021-002-0115-7
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Dynamics of an Anthropogenic Fire Regime
+# Dynamics of an anthropogenic fire regime
 

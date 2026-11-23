@@ -1,5 +1,5 @@
 ---
-title: Measuring Initial Attack Suppression Effectiveness through Burn Probability
+title: Measuring initial attack suppression effectiveness through burn probability
 authors:
 - Reimer, Jonathan
 - Thompson, Dan K.
@@ -20,10 +20,10 @@ item_type: journalArticle
 url: https://www.mdpi.com/2571-6255/2/4/60
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Measuring Initial Attack Suppression Effectiveness through Burn Probability
+# Measuring initial attack suppression effectiveness through burn probability
 
 ## Abstract
 

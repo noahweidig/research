@@ -1,5 +1,5 @@
 ---
-title: Errors In Terrain-Based Model Predictions Caused By Altered Forest Inventory Plot Locations In The Southern Appalachian Mountains, USA
+title: Errors In terrain-based model predictions caused by altered forest inventory plot locations In the southern appalachian mountains, USA
 authors:
 - Wang, Huei-Jin
 - Prisley, Stephen P.
@@ -20,10 +20,10 @@ item_type: journalArticle
 url: https://www.mcfns.com/index.php/Journal/article/view/MCFNS.3-114
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Errors In Terrain-Based Model Predictions Caused By Altered Forest Inventory Plot Locations In The Southern Appalachian Mountains, USA
+# Errors In terrain-based model predictions caused by altered forest inventory plot locations In the southern appalachian mountains, USA
 
 ## Abstract
 

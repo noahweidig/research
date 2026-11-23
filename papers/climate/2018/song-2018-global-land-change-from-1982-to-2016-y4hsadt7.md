@@ -14,13 +14,14 @@ doi: 10.1038/s41586-018-0411-9
 tags:
 - agriculture
 - climate
+- code:available
 - refwright:read:unread
 zotero_key: Y4HSADT7
 item_type: journalArticle
 url: https://www.nature.com/articles/s41586-018-0411-9
 source_url: 'unpaywall: https://www.ncbi.nlm.nih.gov/pmc/articles/6366331'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
 # Global land change from 1982 to 2016

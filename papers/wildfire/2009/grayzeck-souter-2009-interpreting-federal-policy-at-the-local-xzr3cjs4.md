@@ -19,7 +19,7 @@ item_type: journalArticle
 url: http://www.publish.csiro.au/?paper=WF08081
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
 # Interpreting federal policy at the local level: the wildland - urban interface concept in wildfire protection planning in the eastern United States

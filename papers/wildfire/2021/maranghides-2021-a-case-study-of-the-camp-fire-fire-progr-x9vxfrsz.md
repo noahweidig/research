@@ -1,5 +1,5 @@
 ---
-title: A Case Study of the Camp Fire – Fire Progression Timeline
+title: A case study of the camp fire – fire progression timeline
 authors:
 - Maranghides, Alexander
 - Link, Eric
@@ -24,10 +24,10 @@ item_type: report
 url: https://nvlpubs.nist.gov/nistpubs/TechnicalNotes/NIST.TN.2135.pdf
 source_url: 'unpaywall: https://doi.org/10.6028/nist.tn.2135'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# A Case Study of the Camp Fire – Fire Progression Timeline
+# A case study of the camp fire – fire progression timeline
 
 ## Full text
 

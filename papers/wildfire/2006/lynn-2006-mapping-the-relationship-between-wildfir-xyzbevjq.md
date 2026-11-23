@@ -1,10 +1,10 @@
 ---
-title: Mapping the Relationship Between Wildfire and Poverty
+title: Mapping the relationship between wildfire and poverty
 authors:
 - Lynn, Kathy
 - Gerlitz, Wendy
 year: '2006'
-journal: 'In: Andrews, Patricia L.; Butler, Bret W., comps. 2006. Fuels Management-How to Measure Success: Conference Proceedings. 28-30 March 2006; Portland, OR. Proceedings RMRS-P-41. Fort Collins, CO: U.S. Department of Agriculture, Forest Service, Rocky Mountain Research Station. p. 401-415'
+journal: 'In: Andrews, Patricia L.; Butler, Bret W., Comps. 2006. Fuels Management-How to Measure Success: Conference Proceedings. 28-30 March 2006; Portland, OR. Proceedings RMRS-P-41. Fort Collins, CO: U.S. Department of Agriculture, Forest Service, Rocky Mountain Research Station. P. 401-415'
 doi: null
 tags:
 - WUI
@@ -19,10 +19,10 @@ item_type: journalArticle
 url: https://research.fs.usda.gov/treesearch/25965
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Mapping the Relationship Between Wildfire and Poverty
+# Mapping the relationship between wildfire and poverty
 
 ## Abstract
 

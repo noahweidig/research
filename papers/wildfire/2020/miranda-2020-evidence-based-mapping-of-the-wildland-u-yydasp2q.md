@@ -14,7 +14,6 @@ journal: Environmental Research Letters
 doi: 10.1088/1748-9326/ab9be5
 tags:
 - WUI
-- exposure
 - fire risk
 - refwright:read:unread
 - urbanization
@@ -24,7 +23,7 @@ item_type: journalArticle
 url: https://dx.doi.org/10.1088/1748-9326/ab9be5
 source_url: 'unpaywall: https://repositorio.uchile.cl/handle/2250/191071'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
 # Evidence-based mapping of the wildland-urban interface to better identify human communities threatened by wildfires

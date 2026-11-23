@@ -1,5 +1,5 @@
 ---
-title: Atmospheric drying is a primary driver of past and future fire weather trends across the Western United States
+title: Atmospheric drying is a primary driver of past and future fire weather trends across the western United States
 authors:
 - Buster, Grant
 - Zhang, Tianqi
@@ -7,7 +7,7 @@ authors:
 - Liu, Weichen
 - Rahimi, Stefan
 year: '2026'
-journal: npj natural hazards.
+journal: npj Natural Hazards.
 doi: 10.1038/s44304-026-00267-8
 tags:
 - climate
@@ -21,10 +21,10 @@ item_type: journalArticle
 url: https://openalex.org/W7213268679
 source_url: 'unpaywall: https://www.nature.com/articles/s44304-026-00267-8_reference.pdf'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Atmospheric drying is a primary driver of past and future fire weather trends across the Western United States
+# Atmospheric drying is a primary driver of past and future fire weather trends across the western United States
 
 ## Abstract
 

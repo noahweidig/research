@@ -1,5 +1,5 @@
 ---
-title: USDA Encourages Producers Participating in Conservation Reserve Program to Consider Forest Management Incentive
+title: USDA encourages producers participating in conservation reserve program to consider forest management incentive
 authors:
 - USDA FSA
 year: '2024'
@@ -16,8 +16,8 @@ item_type: webpage
 url: https://www.fsa.usda.gov/news-events/news/01-26-2024/usda-encourages-producers-participating-conservation-reserve-program
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# USDA Encourages Producers Participating in Conservation Reserve Program to Consider Forest Management Incentive
+# USDA encourages producers participating in conservation reserve program to consider forest management incentive
 

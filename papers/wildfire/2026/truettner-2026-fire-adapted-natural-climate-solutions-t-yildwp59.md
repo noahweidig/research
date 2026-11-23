@@ -39,7 +39,7 @@ authors:
 - Hudak, Andrew T.
 - Kittler, Brian
 year: '2026'
-journal: BioScience
+journal: Bioscience
 doi: 10.1093/biosci/biag128
 tags:
 - climate
@@ -54,7 +54,7 @@ item_type: journalArticle
 url: https://doi.org/10.1093/biosci/biag128
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
 # Fire-adapted natural climate solutions to reduce wildfire emissions in US forests

@@ -19,7 +19,7 @@ item_type: journalArticle
 url: https://onlinelibrary.wiley.com/doi/abs/10.1002/2014GL059576
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
 # Large wildfire trends in the western United States, 1984–2011

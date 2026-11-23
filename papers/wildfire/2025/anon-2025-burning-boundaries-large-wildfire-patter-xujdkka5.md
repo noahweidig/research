@@ -1,5 +1,5 @@
 ---
-title: 'Burning Boundaries: Large Wildfire Patterns and Drivers in the Eastern United States Wildland-Urban Interface'
+title: 'Burning boundaries: large wildfire patterns and drivers in the eastern United States wildland-urban interface'
 authors: []
 year: '2025'
 journal: null
@@ -14,10 +14,10 @@ item_type: presentation
 url: https://www.youtube.com/watch?v=HdklLrpJKkM
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Burning Boundaries: Large Wildfire Patterns and Drivers in the Eastern United States Wildland-Urban Interface
+# Burning boundaries: large wildfire patterns and drivers in the eastern United States wildland-urban interface
 
 ## Abstract
 

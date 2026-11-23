@@ -6,7 +6,7 @@ authors:
 - Kerby, Jay D.
 - Hamilton, Robert
 year: '2009'
-journal: 'Conservation Biology: The Journal of the Society for Conservation Biology'
+journal: 'Conservation Biology: the Journal of the Society for Conservation Biology'
 doi: 10.1111/j.1523-1739.2008.01139.x
 tags:
 - biodiversity
@@ -22,7 +22,7 @@ item_type: journalArticle
 url: https://doi.org/10.1111/j.1523-1739.2008.01139.x
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
 # Pyric herbivory: rewilding landscapes through the recoupling of fire and grazing

@@ -1,5 +1,5 @@
 ---
-title: 'CURBING THE TREND OF GLOBAL WARMING AND PROTECTING OUR HOME PLANET: CAUSES, IMPACTS, GLOBAL EFFORTS, AND REFLECTIONS'
+title: 'Curbing the trend of global warming and protecting our home planet: causes, impacts, global efforts, and reflections'
 authors:
 - Han, LinXuan
 year: '2026'
@@ -17,10 +17,10 @@ item_type: journalArticle
 url: https://openalex.org/W7204147142
 source_url: 'unpaywall: https://upubjournals.com/cit/article/download/2681/73'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# CURBING THE TREND OF GLOBAL WARMING AND PROTECTING OUR HOME PLANET: CAUSES, IMPACTS, GLOBAL EFFORTS, AND REFLECTIONS
+# Curbing the trend of global warming and protecting our home planet: causes, impacts, global efforts, and reflections
 
 ## Abstract
 

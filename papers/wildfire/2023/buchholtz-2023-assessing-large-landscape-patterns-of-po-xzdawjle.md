@@ -18,7 +18,7 @@ item_type: journalArticle
 url: https://doi.org/10.1007/s10980-022-01581-y
 source_url: 'unpaywall: https://link.springer.com/content/pdf/10.1007/s10980-022-01581-y.pdf'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
 # Assessing large landscape patterns of potential fire connectivity using circuit methods

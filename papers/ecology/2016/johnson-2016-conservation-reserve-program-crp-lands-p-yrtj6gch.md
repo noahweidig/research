@@ -1,5 +1,5 @@
 ---
-title: Conservation Reserve Program (CRP) lands provide ecosystem service benefits that exceed land rental payment costs
+title: Conservation reserve program (CRP) lands provide ecosystem service benefits that exceed land rental payment costs
 authors:
 - Johnson, Kris A.
 - Dalzell, Brent J.
@@ -24,10 +24,10 @@ item_type: journalArticle
 url: https://www.sciencedirect.com/science/article/pii/S2212041616300663
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Conservation Reserve Program (CRP) lands provide ecosystem service benefits that exceed land rental payment costs
+# Conservation reserve program (CRP) lands provide ecosystem service benefits that exceed land rental payment costs
 
 ## Abstract
 

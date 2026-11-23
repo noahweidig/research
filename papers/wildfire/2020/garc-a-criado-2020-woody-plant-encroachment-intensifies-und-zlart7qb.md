@@ -11,6 +11,7 @@ journal: Global Ecology and Biogeography
 doi: 10.1111/geb.13072
 tags:
 - climate
+- data:available
 - fuels
 - rangelands
 - refwright:read:unread
@@ -22,7 +23,7 @@ item_type: journalArticle
 url: https://onlinelibrary.wiley.com/doi/abs/10.1111/geb.13072
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
 # Woody plant encroachment intensifies under climate change across tundra and savanna biomes

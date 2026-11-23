@@ -1,5 +1,5 @@
 ---
-title: Assessing the Effect of Data Imports on the Completeness of OpenStreetMap – A United States Case Study
+title: Assessing the effect of data imports on the completeness of OpenStreetMap – a United States case study
 authors:
 - Zielstra, Dennis
 - Hochmair, Hartwig H.
@@ -16,10 +16,10 @@ item_type: journalArticle
 url: https://onlinelibrary.wiley.com/doi/abs/10.1111/tgis.12037
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Assessing the Effect of Data Imports on the Completeness of OpenStreetMap – A United States Case Study
+# Assessing the effect of data imports on the completeness of OpenStreetMap – a United States case study
 
 ## Abstract
 

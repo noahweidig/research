@@ -1,5 +1,5 @@
 ---
-title: 'The rising Great Plains fire campaign: citizens'' response to woody plant encroachment'
+title: 'The rising great plains fire campaign: citizens'' response to woody plant encroachment'
 authors:
 - Twidwell, Dirac
 - Rogers, William E.
@@ -23,10 +23,10 @@ item_type: journalArticle
 url: https://onlinelibrary.wiley.com/doi/abs/10.1890/130015
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# The rising Great Plains fire campaign: citizens' response to woody plant encroachment
+# The rising great plains fire campaign: citizens' response to woody plant encroachment
 
 ## Abstract
 

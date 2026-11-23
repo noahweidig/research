@@ -1,5 +1,5 @@
 ---
-title: Management of Conservation Reserve Program Grasslands to Meet Wildlife Habitat Objectives
+title: Management of conservation reserve program grasslands to meet wildlife habitat objectives
 authors:
 - Vandever, Mark W.
 - Allen, Arthur W.
@@ -19,8 +19,8 @@ item_type: report
 url: http://dx.doi.org/10.3133/sir20155070
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Management of Conservation Reserve Program Grasslands to Meet Wildlife Habitat Objectives
+# Management of conservation reserve program grasslands to meet wildlife habitat objectives
 

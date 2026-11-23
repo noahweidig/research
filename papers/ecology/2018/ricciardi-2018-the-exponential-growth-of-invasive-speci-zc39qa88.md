@@ -17,7 +17,7 @@ item_type: journalArticle
 url: https://doi.org/10.1007/s10530-017-1561-7
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
 # The exponential growth of invasive species denialism

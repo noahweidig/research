@@ -1,5 +1,5 @@
 ---
-title: 'From Grassroots to National Alliance: The Emerging Trajectory for Landowner Prescribed Burn Associations'
+title: 'From grassroots to national alliance: the emerging trajectory for landowner prescribed burn associations'
 authors:
 - Weir, John R.
 - Twidwell, Dirac
@@ -17,10 +17,10 @@ item_type: journalArticle
 url: https://www.sciencedirect.com/science/article/pii/S0190052816000134
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# From Grassroots to National Alliance: The Emerging Trajectory for Landowner Prescribed Burn Associations
+# From grassroots to national alliance: the emerging trajectory for landowner prescribed burn associations
 
 ## Abstract
 

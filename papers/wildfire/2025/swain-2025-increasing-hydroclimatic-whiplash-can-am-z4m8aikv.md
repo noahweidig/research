@@ -1,5 +1,5 @@
 ---
-title: Increasing Hydroclimatic Whiplash Can Amplify Wildfire Risk in a Warming Climate
+title: Increasing hydroclimatic whiplash can amplify wildfire risk in a warming climate
 authors:
 - Swain, Daniel L.
 - Abatzoglou, John T.
@@ -28,10 +28,10 @@ item_type: journalArticle
 url: https://onlinelibrary.wiley.com/doi/abs/10.1111/gcb.70075
 source_url: 'unpaywall: https://www.dora.lib4ri.ch/wsl/dload/wsl:38636/PDF2/view'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Increasing Hydroclimatic Whiplash Can Amplify Wildfire Risk in a Warming Climate
+# Increasing hydroclimatic whiplash can amplify wildfire risk in a warming climate
 
 ## Abstract
 

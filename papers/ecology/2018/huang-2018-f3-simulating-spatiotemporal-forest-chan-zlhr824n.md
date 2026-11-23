@@ -1,5 +1,5 @@
 ---
-title: 'F3: Simulating spatiotemporal forest change from field inventory, remote sensing, growth modeling, and management actions'
+title: 'F3: simulating spatiotemporal forest change from field inventory, remote sensing, growth modeling, and management actions'
 authors:
 - Huang, Shengli
 - Ramirez, Carlos
@@ -18,10 +18,10 @@ item_type: journalArticle
 url: https://www.sciencedirect.com/science/article/pii/S0378112717320716
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# F3: Simulating spatiotemporal forest change from field inventory, remote sensing, growth modeling, and management actions
+# F3: simulating spatiotemporal forest change from field inventory, remote sensing, growth modeling, and management actions
 
 ## Abstract
 

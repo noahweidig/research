@@ -1,13 +1,14 @@
 ---
-title: 'The Goldilocks principle: Finding the balance between water volume and nutrients for ovipositing Culex mosquitoes (Diptera: Culicidae)'
+title: 'The goldilocks principle: finding the balance between water volume and nutrients for ovipositing culex mosquitoes (diptera: culicidae)'
 authors:
 - Weidig, Noah C.
 - Miller, Amber L.
 - Parker, Allison T.
 year: '2022'
-journal: PLOS ONE
+journal: PLOS One
 doi: 10.1371/journal.pone.0277237
 tags:
+- data:available
 - habitats
 - rangelands
 - refwright:read:done
@@ -16,10 +17,10 @@ item_type: journalArticle
 url: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0277237
 source_url: 'unpaywall: https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0277237&type=printable'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# The Goldilocks principle: Finding the balance between water volume and nutrients for ovipositing Culex mosquitoes (Diptera: Culicidae)
+# The goldilocks principle: finding the balance between water volume and nutrients for ovipositing culex mosquitoes (diptera: culicidae)
 
 ## Abstract
 

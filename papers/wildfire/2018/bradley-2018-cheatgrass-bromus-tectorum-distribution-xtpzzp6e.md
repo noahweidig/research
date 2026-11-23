@@ -1,5 +1,5 @@
 ---
-title: Cheatgrass (Bromus tectorum) distribution in the intermountain Western United States and its relationship to fire frequency, seasonality, and ignitions
+title: Cheatgrass (bromus tectorum) distribution in the intermountain western United States and its relationship to fire frequency, seasonality, and ignitions
 authors:
 - Bradley, Bethany A.
 - Curtis, Caroline A.
@@ -21,10 +21,10 @@ item_type: journalArticle
 url: https://doi.org/10.1007/s10530-017-1641-8
 source_url: 'unpaywall: https://hdl.handle.net/20.500.14394/37659'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Cheatgrass (Bromus tectorum) distribution in the intermountain Western United States and its relationship to fire frequency, seasonality, and ignitions
+# Cheatgrass (bromus tectorum) distribution in the intermountain western United States and its relationship to fire frequency, seasonality, and ignitions
 
 ## Abstract
 

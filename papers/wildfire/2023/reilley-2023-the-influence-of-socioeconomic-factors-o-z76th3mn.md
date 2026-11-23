@@ -1,5 +1,5 @@
 ---
-title: The Influence of Socioeconomic Factors on Human Wildfire Ignitions in the Pacific Northwest, USA
+title: The influence of socioeconomic factors on human wildfire ignitions in the pacific northwest, USA
 authors:
 - Reilley, Caitlyn
 - Crandall, Mindy S.
@@ -22,10 +22,10 @@ item_type: journalArticle
 url: https://www.mdpi.com/2571-6255/6/8/300
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# The Influence of Socioeconomic Factors on Human Wildfire Ignitions in the Pacific Northwest, USA
+# The influence of socioeconomic factors on human wildfire ignitions in the pacific northwest, USA
 
 ## Abstract
 

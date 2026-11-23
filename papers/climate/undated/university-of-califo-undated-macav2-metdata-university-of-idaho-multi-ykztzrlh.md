@@ -1,5 +1,5 @@
 ---
-title: 'MACAv2-METDATA: University of Idaho, Multivariate Adaptive Constructed Analogs Applied to Global Climate Models | Earth Engine Data Catalog'
+title: 'MACAv2-METDATA: university of idaho, multivariate adaptive constructed analogs applied to global climate models | earth engine data catalog'
 authors:
 - University Of California Merced
 year: null
@@ -14,10 +14,10 @@ item_type: dataset
 url: https://developers.google.com/earth-engine/datasets/catalog/IDAHO_EPSCOR_MACAv2_METDATA
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# MACAv2-METDATA: University of Idaho, Multivariate Adaptive Constructed Analogs Applied to Global Climate Models | Earth Engine Data Catalog
+# MACAv2-METDATA: university of idaho, multivariate adaptive constructed analogs applied to global climate models | earth engine data catalog
 
 ## Abstract
 

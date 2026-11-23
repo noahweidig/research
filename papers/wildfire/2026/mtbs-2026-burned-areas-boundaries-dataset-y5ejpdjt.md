@@ -1,5 +1,5 @@
 ---
-title: Burned Areas Boundaries Dataset
+title: Burned areas boundaries dataset
 authors:
 - MTBS
 year: '2026'
@@ -16,8 +16,8 @@ item_type: dataset
 url: https://www.mtbs.gov/direct-download
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Burned Areas Boundaries Dataset
+# Burned areas boundaries dataset
 

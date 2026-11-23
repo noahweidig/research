@@ -1,5 +1,5 @@
 ---
-title: 'Defining Disadvantaged Places: Social Burdens of Wildfire Exposure in the Eastern United States, 2000–2020'
+title: 'Defining disadvantaged places: social burdens of wildfire exposure in the eastern United States, 2000–2020'
 authors:
 - Morgan, Grayson R.
 - Kemp, Erin M.
@@ -13,7 +13,7 @@ year: '2024'
 journal: Fire
 doi: 10.3390/fire7040124
 tags:
-- exposure
+- fire risk
 - refwright:read:unread
 - resilience
 - statistics
@@ -23,10 +23,10 @@ item_type: journalArticle
 url: https://www.mdpi.com/2571-6255/7/4/124
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Defining Disadvantaged Places: Social Burdens of Wildfire Exposure in the Eastern United States, 2000–2020
+# Defining disadvantaged places: social burdens of wildfire exposure in the eastern United States, 2000–2020
 
 ## Abstract
 

@@ -1,5 +1,5 @@
 ---
-title: A multi-scale analysis of vegetation and soil burn severity drivers during the 2025 wildfire season in NW Spain
+title: A multi-scale analysis of vegetation and soil burn severity drivers during the 2025 wildfire season in NW spain
 authors:
 - Novo, A.
 - Fernández, Cristina
@@ -7,6 +7,7 @@ year: '2026'
 journal: GIScience & Remote Sensing
 doi: 10.1080/15481603.2026.2724597
 tags:
+- data:available
 - fire regimes
 - ignition
 - refwright:read:unread
@@ -18,10 +19,10 @@ item_type: journalArticle
 url: https://openalex.org/W7204463420
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# A multi-scale analysis of vegetation and soil burn severity drivers during the 2025 wildfire season in NW Spain
+# A multi-scale analysis of vegetation and soil burn severity drivers during the 2025 wildfire season in NW spain
 
 ## Abstract
 

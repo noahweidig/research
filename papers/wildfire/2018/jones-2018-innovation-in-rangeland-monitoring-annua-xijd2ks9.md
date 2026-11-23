@@ -30,7 +30,7 @@ item_type: journalArticle
 url: https://onlinelibrary.wiley.com/doi/abs/10.1002/ecs2.2430
 source_url: 'unpaywall: https://digitalcommons.usu.edu/sagestep_articles/41'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
 # Innovation in rangeland monitoring: annual, 30 m, plant functional type percent cover maps for U.S. rangelands, 1984–2017

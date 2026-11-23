@@ -1,5 +1,5 @@
 ---
-title: Georgia blaze shows how climate change has led to more wildfires in the East
+title: Georgia blaze shows how climate change has led to more wildfires in the east
 authors:
 - Borenstein, Seth
 year: '2026'
@@ -16,10 +16,10 @@ item_type: newspaperArticle
 url: https://apnews.com/article/wildfire-georgia-east-west-climate-change-helene-9dff2248c09a709c0d03053378210722
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Georgia blaze shows how climate change has led to more wildfires in the East
+# Georgia blaze shows how climate change has led to more wildfires in the east
 
 ## Abstract
 

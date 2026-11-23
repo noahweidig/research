@@ -1,5 +1,5 @@
 ---
-title: Predicting spatial patterns of fire on a southern California landscape
+title: Predicting spatial patterns of fire on a southern california landscape
 authors:
 - Syphard, Alexandra D.
 - Radeloff, Volker C.
@@ -21,10 +21,10 @@ item_type: journalArticle
 url: https://www.publish.csiro.au/wf/WF07087
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Predicting spatial patterns of fire on a southern California landscape
+# Predicting spatial patterns of fire on a southern california landscape
 
 ## Abstract
 

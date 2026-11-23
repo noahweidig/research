@@ -1,5 +1,5 @@
 ---
-title: 'Building Loss in WUI Disasters: Evaluating the Core Components of the Wildland–Urban Interface Definition'
+title: 'Building loss in WUI disasters: evaluating the core components of the wildland–urban interface definition'
 authors:
 - Caggiano, Michael D.
 - Hawbaker, Todd J.
@@ -10,7 +10,6 @@ journal: Fire
 doi: 10.3390/fire3040073
 tags:
 - WUI
-- exposure
 - fire risk
 - land cover
 - refwright:read:unread
@@ -21,10 +20,10 @@ item_type: journalArticle
 url: https://www.mdpi.com/2571-6255/3/4/73
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Building Loss in WUI Disasters: Evaluating the Core Components of the Wildland–Urban Interface Definition
+# Building loss in WUI disasters: evaluating the core components of the wildland–urban interface definition
 
 ## Abstract
 

@@ -18,7 +18,7 @@ item_type: journalArticle
 url: https://doi.org/10.1007/s10530-021-02661-x
 source_url: 'unpaywall: https://link.springer.com/content/pdf/10.1007/s10530-021-02661-x.pdf'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
 # A screening system to predict wildfire risk of invasive plants

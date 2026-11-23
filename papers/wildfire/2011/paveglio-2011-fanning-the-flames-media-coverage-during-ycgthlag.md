@@ -1,5 +1,5 @@
 ---
-title: Fanning the Flames? Media Coverage during Wildfire Events and its Relation to Broader Societal Understandings of the Hazard
+title: Fanning the flames? Media coverage during wildfire events and its relation to broader societal understandings of the hazard
 authors:
 - Paveglio, Travis B.
 - Norton, Todd
@@ -18,10 +18,10 @@ item_type: journalArticle
 url: https://www.jstor.org/stable/24707685
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Fanning the Flames? Media Coverage during Wildfire Events and its Relation to Broader Societal Understandings of the Hazard
+# Fanning the flames? Media coverage during wildfire events and its relation to broader societal understandings of the hazard
 
 ## Abstract
 
