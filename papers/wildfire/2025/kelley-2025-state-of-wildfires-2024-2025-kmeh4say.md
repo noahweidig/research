@@ -1,5 +1,5 @@
 ---
-title: State of Wildfires 2024–2025
+title: State of wildfires 2024–2025
 authors:
 - Kelley, Douglas I.
 - Burton, Chantelle
@@ -67,6 +67,7 @@ journal: Earth System Science Data
 doi: 10.5194/essd-17-5377-2025
 tags:
 - climate
+- data:available
 - ecology
 - fire regimes
 - refwright:read:unread
@@ -77,10 +78,10 @@ item_type: journalArticle
 url: https://essd.copernicus.org/articles/17/5377/2025/
 source_url: 'unpaywall: https://doi.org/10.5194/essd-17-5377-2025'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# State of Wildfires 2024–2025
+# State of wildfires 2024–2025
 
 ## Abstract
 

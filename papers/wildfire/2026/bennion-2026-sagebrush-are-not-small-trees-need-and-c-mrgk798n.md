@@ -1,5 +1,5 @@
 ---
-title: 'Sagebrush Are Not Small Trees: Need and Considerations for Improved, Uniform Burn Severity Assessment in Shrub-Steppe Rangelands'
+title: 'Sagebrush are not small trees: need and considerations for improved, uniform burn severity assessment in shrub-steppe rangelands'
 authors:
 - Bennion, Leland D.
 - Duquette, Cameron A.
@@ -25,10 +25,10 @@ item_type: journalArticle
 url: https://openalex.org/W7223390064
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Sagebrush Are Not Small Trees: Need and Considerations for Improved, Uniform Burn Severity Assessment in Shrub-Steppe Rangelands
+# Sagebrush are not small trees: need and considerations for improved, uniform burn severity assessment in shrub-steppe rangelands
 
 ## Abstract
 

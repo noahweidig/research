@@ -19,7 +19,7 @@ item_type: journalArticle
 url: https://openalex.org/W7225013714
 source_url: 'unpaywall: https://www.biorxiv.org/content/biorxiv/early/2026/10/31/2026.10.30.763129.full.pdf'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
 # A mismatch in wildfire impact reduction and ecological restoration in western U.S. fuel treatments

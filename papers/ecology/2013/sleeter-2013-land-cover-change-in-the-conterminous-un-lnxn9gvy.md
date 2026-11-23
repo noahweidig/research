@@ -1,5 +1,5 @@
 ---
-title: Land-cover change in the conterminous United States from 1973 to 2000
+title: Land-cover change in the conterminous united states from 1973 to 2000
 authors:
 - Sleeter, Benjamin M.
 - Sohl, Terry L.
@@ -24,10 +24,10 @@ item_type: journalArticle
 url: https://www.sciencedirect.com/science/article/pii/S0959378013000538
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Land-cover change in the conterminous United States from 1973 to 2000
+# Land-cover change in the conterminous united states from 1973 to 2000
 
 ## Abstract
 

@@ -1,10 +1,10 @@
 ---
-title: Raccoons use habitat edges in northern Illinois
+title: Raccoons use habitat edges in northern illinois
 authors:
 - Barding, Erin E
 - Nelson, Thomas A
 year: '2008'
-journal: The American Midland Naturalist
+journal: American Midland Naturalist
 doi: 10.1674/0003-0031(2008)159[394:ruhein]2.0.co;2
 tags:
 - habitats
@@ -15,10 +15,10 @@ item_type: journalArticle
 url: https://doi.org/10.1674/0003-0031(2008)159[394:ruhein]2.0.co;2
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Raccoons use habitat edges in northern Illinois
+# Raccoons use habitat edges in northern illinois
 
 ## Abstract
 

@@ -1,5 +1,5 @@
 ---
-title: A Project for Monitoring Trends in Burn Severity
+title: A project for monitoring trends in burn severity
 authors:
 - Eidenshink, Jeff
 - Schwind, Brian
@@ -22,10 +22,10 @@ item_type: journalArticle
 url: https://fireecology.springeropen.com/articles/10.4996/fireecology.0301003
 source_url: 'unpaywall: https://fireecology.springeropen.com/counter/pdf/10.4996/fireecology.0301003'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# A Project for Monitoring Trends in Burn Severity
+# A project for monitoring trends in burn severity
 
 ## Abstract
 

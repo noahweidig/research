@@ -5,7 +5,7 @@ authors:
 - Niederman, Talia E.
 - Dreiss, Lindsay M.
 year: '2026'
-journal: The Science of The Total Environment
+journal: Science of the Total Environment
 doi: 10.1016/j.scitotenv.2026.182318
 tags:
 - biodiversity
@@ -20,7 +20,7 @@ item_type: journalArticle
 url: https://openalex.org/W7214622828
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
 # Mapping potential global change impacts on biodiversity important areas of the contiguous US

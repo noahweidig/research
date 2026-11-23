@@ -1,5 +1,5 @@
 ---
-title: Historical and future fire occurrence (1850 to 2100) simulated in CMIP5 Earth System Models
+title: Historical and future fire occurrence (1850 to 2100) simulated in CMIP5 earth system models
 authors:
 - Kloster, Silvia
 - Lasslop, Gitta
@@ -15,10 +15,10 @@ item_type: journalArticle
 url: https://www.sciencedirect.com/science/article/pii/S0921818116303770
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Historical and future fire occurrence (1850 to 2100) simulated in CMIP5 Earth System Models
+# Historical and future fire occurrence (1850 to 2100) simulated in CMIP5 earth system models
 
 ## Abstract
 

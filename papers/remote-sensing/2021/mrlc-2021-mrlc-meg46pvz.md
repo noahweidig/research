@@ -1,5 +1,5 @@
 ---
-title: MRLC
+title: Mrlc
 authors:
 - MRLC
 year: '2021'
@@ -15,8 +15,8 @@ item_type: dataset
 url: https://www.mrlc.gov/
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# MRLC
+# Mrlc
 

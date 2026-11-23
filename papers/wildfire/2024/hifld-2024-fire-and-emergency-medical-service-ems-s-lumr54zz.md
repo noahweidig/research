@@ -1,5 +1,5 @@
 ---
-title: Fire and Emergency Medical Service (EMS) Stations
+title: Fire and emergency medical service (EMS) stations
 authors:
 - Hifld
 year: '2024'
@@ -7,7 +7,7 @@ journal: null
 doi: null
 tags:
 - dataset
-- exposure
+- fire risk
 - refwright:read:unread
 - remote sensing
 - united states
@@ -17,8 +17,8 @@ item_type: dataset
 url: https://hifld-geoplatform.hub.arcgis.com/datasets/geoplatform::fire-and-emergency-medical-service-ems-stations
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Fire and Emergency Medical Service (EMS) Stations
+# Fire and emergency medical service (EMS) stations
 

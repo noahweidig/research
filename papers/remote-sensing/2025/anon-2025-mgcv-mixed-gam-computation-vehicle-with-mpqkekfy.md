@@ -1,5 +1,5 @@
 ---
-title: 'mgcv: Mixed GAM Computation Vehicle with Automatic Smoothness Estimation'
+title: 'mgcv: mixed GAM computation vehicle with automatic smoothness estimation'
 authors: []
 year: '2025'
 journal: null
@@ -13,10 +13,10 @@ item_type: computerProgram
 url: https://cran.r-project.org/web/packages/mgcv/index.html
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# mgcv: Mixed GAM Computation Vehicle with Automatic Smoothness Estimation
+# mgcv: mixed GAM computation vehicle with automatic smoothness estimation
 
 ## Abstract
 

@@ -1,5 +1,5 @@
 ---
-title: Understanding the CRP Grasslands Signup
+title: Understanding the CRP grasslands signup
 authors:
 - Pratt, Bryan
 - Nagler, Amy M.
@@ -21,8 +21,8 @@ item_type: journalArticle
 url: https://ageconsearch.umn.edu/record/343916/files/28963.pdf
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Understanding the CRP Grasslands Signup
+# Understanding the CRP grasslands signup
 

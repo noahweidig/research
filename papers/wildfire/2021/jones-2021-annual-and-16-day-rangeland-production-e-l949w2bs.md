@@ -1,5 +1,5 @@
 ---
-title: Annual and 16-Day Rangeland Production Estimates for the Western United States
+title: Annual and 16-day rangeland production estimates for the western United States
 authors:
 - Jones, Matthew O.
 - Robinson, Nathaniel P.
@@ -25,10 +25,10 @@ item_type: journalArticle
 url: https://linkinghub.elsevier.com/retrieve/pii/S1550742421000464
 source_url: 'unpaywall: https://www.biorxiv.org/content/biorxiv/early/2021/04/06/2020.11.06.343038.full.pdf'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Annual and 16-Day Rangeland Production Estimates for the Western United States
+# Annual and 16-day rangeland production estimates for the western United States
 
 ## Abstract
 

@@ -10,6 +10,7 @@ journal: Ecological Applications
 doi: 10.1002/eap.2682
 tags:
 - WUI
+- data:available
 - ecology
 - forests
 - fuels
@@ -20,7 +21,7 @@ item_type: journalArticle
 url: https://onlinelibrary.wiley.com/doi/abs/10.1002/eap.2682
 source_url: 'unpaywall: https://www.ncbi.nlm.nih.gov/pmc/articles/9787879'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
 # Restoration and fuel hazard reduction result in equivalent reductions in crown fire behavior in dry conifer forests

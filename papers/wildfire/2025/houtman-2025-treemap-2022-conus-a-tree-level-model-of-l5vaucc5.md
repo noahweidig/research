@@ -1,5 +1,5 @@
 ---
-title: 'TreeMap 2022 CONUS: A tree-level model of the forests of the conterminous United States circa 2022'
+title: 'TreeMap 2022 CONUS: a tree-level model of the forests of the conterminous united states circa 2022'
 authors:
 - Houtman, Rachel M.
 - Leatherman, Lila S. T.
@@ -24,10 +24,10 @@ item_type: dataset
 url: https://www.fs.usda.gov/rds/archive/catalog/RDS-2025-0032
 source_url: 'unpaywall: https://figshare.com/articles/dataset/TreeMap_2022_CONUS_A_tree-level_model_of_the_forests_of_the_conterminous_United_States_circa_2022/29614466'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# TreeMap 2022 CONUS: A tree-level model of the forests of the conterminous United States circa 2022
+# TreeMap 2022 CONUS: a tree-level model of the forests of the conterminous united states circa 2022
 
 ## Full text
 

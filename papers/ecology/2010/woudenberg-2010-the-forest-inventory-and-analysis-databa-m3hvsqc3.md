@@ -1,5 +1,5 @@
 ---
-title: 'The Forest Inventory and Analysis Database: Database description and users manual version 4.0 for Phase 2'
+title: 'The forest inventory and analysis database: database description and users manual version 4.0 for phase 2'
 authors:
 - Woudenberg, Sharon W.
 - Conkling, Barbara L.
@@ -21,8 +21,8 @@ item_type: report
 url: https://www.fs.usda.gov/treesearch/pubs/37446
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# The Forest Inventory and Analysis Database: Database description and users manual version 4.0 for Phase 2
+# The forest inventory and analysis database: database description and users manual version 4.0 for phase 2
 

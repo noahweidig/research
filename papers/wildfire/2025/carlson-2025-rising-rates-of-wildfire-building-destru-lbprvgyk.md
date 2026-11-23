@@ -1,5 +1,5 @@
 ---
-title: Rising rates of wildfire building destruction in the conterminous United States
+title: Rising rates of wildfire building destruction in the conterminous united states
 authors:
 - Carlson, Amanda R.
 - Hawbaker, Todd J.
@@ -17,7 +17,7 @@ doi: 10.1073/pnas.2505886122
 tags:
 - WUI
 - agriculture
-- exposure
+- fire risk
 - forests
 - refwright:read:unread
 - united states
@@ -27,10 +27,10 @@ item_type: journalArticle
 url: https://www.pnas.org/doi/full/10.1073/pnas.2505886122
 source_url: 'unpaywall: https://pmc.ncbi.nlm.nih.gov/articles/PMC12745683/'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Rising rates of wildfire building destruction in the conterminous United States
+# Rising rates of wildfire building destruction in the conterminous united states
 
 ## Abstract
 

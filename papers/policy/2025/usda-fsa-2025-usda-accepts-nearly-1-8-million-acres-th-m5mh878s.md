@@ -1,5 +1,5 @@
 ---
-title: USDA Accepts Nearly 1.8 Million Acres Through 2025 Conservation Reserve Program Enrollment | Farm Service Agency
+title: USDA accepts nearly 1.8 million acres through 2025 conservation reserve program enrollment | farm service agency
 authors:
 - USDA FSA
 year: '2025'
@@ -16,8 +16,8 @@ item_type: webpage
 url: https://www.fsa.usda.gov/news-events/news/09-17-2025/usda-accepts-nearly-18-million-acres-2025-conservation-reserve-program
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# USDA Accepts Nearly 1.8 Million Acres Through 2025 Conservation Reserve Program Enrollment | Farm Service Agency
+# USDA accepts nearly 1.8 million acres through 2025 conservation reserve program enrollment | farm service agency
 

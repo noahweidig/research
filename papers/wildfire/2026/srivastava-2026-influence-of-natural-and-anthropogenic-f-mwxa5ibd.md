@@ -1,5 +1,5 @@
 ---
-title: Influence of natural and anthropogenic forcings on western US winter fire weather and the 2025 Los Angeles wildfires
+title: Influence of natural and anthropogenic forcings on western US winter fire weather and the 2025 los angeles wildfires
 authors:
 - Srivastava, Abhishekh
 - Risser, Mark D.
@@ -20,10 +20,10 @@ item_type: journalArticle
 url: https://openalex.org/W7223134612
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Influence of natural and anthropogenic forcings on western US winter fire weather and the 2025 Los Angeles wildfires
+# Influence of natural and anthropogenic forcings on western US winter fire weather and the 2025 los angeles wildfires
 
 ## Abstract
 

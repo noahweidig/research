@@ -1,5 +1,5 @@
 ---
-title: Slippage Effects of the Conservation Reserve Program
+title: Slippage effects of the conservation reserve program
 authors:
 - Wu, JunJie
 year: '2000'
@@ -15,10 +15,10 @@ item_type: journalArticle
 url: https://onlinelibrary.wiley.com/doi/10.1111/0002-9092.00096
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Slippage Effects of the Conservation Reserve Program
+# Slippage effects of the conservation reserve program
 
 ## Abstract
 

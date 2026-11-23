@@ -1,5 +1,5 @@
 ---
-title: 'Landscape Ecology: What Is the State of the Science?'
+title: 'Landscape ecology: what is the state of the science?'
 authors:
 - Turner, Monica G.
 year: '2005'
@@ -15,10 +15,10 @@ item_type: journalArticle
 url: https://www.annualreviews.org/content/journals/10.1146/annurev.ecolsys.36.102003.152614
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Landscape Ecology: What Is the State of the Science?
+# Landscape ecology: what is the state of the science?
 
 ## Abstract
 

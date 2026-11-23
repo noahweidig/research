@@ -1,5 +1,5 @@
 ---
-title: Contemporary (1984–2020) fire history metrics for the conterminous United States and ecoregional differences by land ownership
+title: Contemporary (1984–2020) fire history metrics for the conterminous united states and ecoregional differences by land ownership
 authors:
 - Vanderhoof, Melanie K.
 - Hawbaker, Todd J.
@@ -22,10 +22,10 @@ item_type: journalArticle
 url: https://doi.org/10.1071/WF22044
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Contemporary (1984–2020) fire history metrics for the conterminous United States and ecoregional differences by land ownership
+# Contemporary (1984–2020) fire history metrics for the conterminous united states and ecoregional differences by land ownership
 
 ## Abstract
 

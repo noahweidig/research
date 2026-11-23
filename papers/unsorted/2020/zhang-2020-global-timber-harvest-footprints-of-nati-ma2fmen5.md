@@ -18,7 +18,7 @@ item_type: journalArticle
 url: https://www.sciencedirect.com/science/article/pii/S0959652619343732
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
 # Global timber harvest footprints of nations and virtual timber trade flows

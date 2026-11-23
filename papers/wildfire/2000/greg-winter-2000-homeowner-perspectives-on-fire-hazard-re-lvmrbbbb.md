@@ -1,9 +1,9 @@
 ---
-title: Homeowner Perspectives on Fire Hazard, Responsibility, and Management Strategies at the Wildland-Urban Interface
+title: Homeowner perspectives on fire hazard, responsibility, and management strategies at the wildland-urban interface
 authors:
 - Greg Winter, Jeremy S. Fried, null
 year: '2000'
-journal: Society & Natural Resources
+journal: Society and Natural Resources
 doi: 10.1080/089419200279225
 tags:
 - WUI
@@ -18,10 +18,10 @@ item_type: journalArticle
 url: https://doi.org/10.1080/089419200279225
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Homeowner Perspectives on Fire Hazard, Responsibility, and Management Strategies at the Wildland-Urban Interface
+# Homeowner perspectives on fire hazard, responsibility, and management strategies at the wildland-urban interface
 
 ## Abstract
 

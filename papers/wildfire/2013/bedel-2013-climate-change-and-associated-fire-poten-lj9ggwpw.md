@@ -17,7 +17,7 @@ item_type: journalArticle
 url: https://www.publish.csiro.au/wf/WF13018
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
 # Climate change and associated fire potential for the south-eastern United States in the 21st century

@@ -1,5 +1,5 @@
 ---
-title: 'Liability and the Use of Prescribed Fire in the Southern Plains, USA: A Survey of District Court Judges'
+title: 'Liability and the use of prescribed fire in the southern plains, USA: a survey of district court judges'
 authors:
 - Hinojosa, Alissa
 - Kreuter, Urs P.
@@ -17,10 +17,10 @@ item_type: journalArticle
 url: https://www.mdpi.com/2073-445X/9/9/318
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Liability and the Use of Prescribed Fire in the Southern Plains, USA: A Survey of District Court Judges
+# Liability and the use of prescribed fire in the southern plains, USA: a survey of district court judges
 
 ## Abstract
 

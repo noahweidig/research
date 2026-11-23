@@ -17,7 +17,7 @@ item_type: journalArticle
 url: https://onlinelibrary.wiley.com/doi/abs/10.1002/ecs2.1431
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
 # Patch-burn grazing increases habitat heterogeneity and biodiversity of small mammals in managed rangelands

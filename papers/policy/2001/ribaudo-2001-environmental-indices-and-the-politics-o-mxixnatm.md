@@ -1,5 +1,5 @@
 ---
-title: Environmental indices and the politics of the Conservation Reserve Program
+title: Environmental indices and the politics of the conservation reserve program
 authors:
 - Ribaudo, Marc O.
 - Hoag, Dana L.
@@ -18,8 +18,8 @@ item_type: journalArticle
 url: https://linkinghub.elsevier.com/retrieve/pii/S1470160X01000024
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Environmental indices and the politics of the Conservation Reserve Program
+# Environmental indices and the politics of the conservation reserve program
 

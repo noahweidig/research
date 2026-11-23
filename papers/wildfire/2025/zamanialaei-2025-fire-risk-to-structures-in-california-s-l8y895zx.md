@@ -1,5 +1,5 @@
 ---
-title: Fire risk to structures in California’s Wildland-Urban Interface
+title: Fire risk to structures in california’s wildland-urban interface
 authors:
 - Zamanialaei, Maryam
 - San Martin, Daniel
@@ -15,6 +15,8 @@ journal: Nature Communications
 doi: 10.1038/s41467-025-63386-2
 tags:
 - WUI
+- code:available
+- data:available
 - fire risk
 - natural hazards
 - refwright:read:unread
@@ -25,10 +27,10 @@ item_type: journalArticle
 url: https://www.nature.com/articles/s41467-025-63386-2
 source_url: 'unpaywall: https://www.nature.com/articles/s41467-025-63386-2.pdf'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Fire risk to structures in California’s Wildland-Urban Interface
+# Fire risk to structures in california’s wildland-urban interface
 
 ## Abstract
 

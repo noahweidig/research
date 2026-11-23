@@ -19,7 +19,7 @@ item_type: journalArticle
 url: https://cdnsciencepub.com/doi/abs/10.1139/x05-265
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
 # True versus perturbed forest inventory plot locations for modeling: a simulation study

@@ -1,5 +1,5 @@
 ---
-title: 'Fueling the fire: predicting cogongrass (Imperata cylindrica) impacts on fire behavior across environmental and seasonal gradients'
+title: 'Fueling the fire: predicting cogongrass (imperata cylindrica) impacts on fire behavior across environmental and seasonal gradients'
 authors:
 - Ivory II, Alan A.
 - Wonkka, Carissa L.
@@ -15,6 +15,7 @@ year: '2026'
 journal: Fire Ecology
 doi: 10.1186/s42408-026-00574-5
 tags:
+- code:available
 - fire regimes
 - fuels
 - invasive species
@@ -27,10 +28,10 @@ item_type: journalArticle
 url: https://doi.org/10.1186/s42408-026-00574-5
 source_url: 'unpaywall: https://link.springer.com/content/pdf/10.1186/s42408-026-00574-5.pdf'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Fueling the fire: predicting cogongrass (Imperata cylindrica) impacts on fire behavior across environmental and seasonal gradients
+# Fueling the fire: predicting cogongrass (imperata cylindrica) impacts on fire behavior across environmental and seasonal gradients
 
 ## Abstract
 

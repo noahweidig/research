@@ -18,7 +18,7 @@ item_type: journalArticle
 url: https://nhess.copernicus.org/articles/22/1181/2022/
 source_url: 'unpaywall: https://doi.org/10.5194/nhess-22-1181-2022'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
 # Environmental factors affecting wildfire-burned areas in southeastern France, 1970–2019

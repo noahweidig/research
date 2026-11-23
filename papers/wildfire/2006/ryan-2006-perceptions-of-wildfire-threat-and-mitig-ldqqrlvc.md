@@ -8,7 +8,6 @@ journal: null
 doi: null
 tags:
 - WUI
-- exposure
 - fire risk
 - refwright:read:unread
 - suppression
@@ -19,7 +18,7 @@ item_type: journalArticle
 url: https://openalex.org/W961024925
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
 # Perceptions of wildfire threat and mitigation measures by residents of fire-prone communities in the northeast: survey results and wildland fire management implications

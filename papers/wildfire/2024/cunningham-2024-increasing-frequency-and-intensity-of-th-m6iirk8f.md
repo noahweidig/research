@@ -10,9 +10,9 @@ doi: 10.1038/s41559-024-02452-2
 tags:
 - climate
 - ecology
-- exposure
 - extremes
 - fire behavior
+- fire risk
 - natural hazards
 - refwright:read:unread
 - wildfire
@@ -21,7 +21,7 @@ item_type: journalArticle
 url: https://www.nature.com/articles/s41559-024-02452-2
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
 # Increasing frequency and intensity of the most extreme wildfires on Earth

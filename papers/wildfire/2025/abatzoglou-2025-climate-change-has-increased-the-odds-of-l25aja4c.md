@@ -13,6 +13,7 @@ journal: Nature Communications
 doi: 10.1038/s41467-025-61608-1
 tags:
 - climate
+- data:available
 - ecology
 - extremes
 - forests
@@ -25,7 +26,7 @@ item_type: journalArticle
 url: https://www.nature.com/articles/s41467-025-61608-1
 source_url: 'unpaywall: https://www.nature.com/articles/s41467-025-61608-1.pdf'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
 # Climate change has increased the odds of extreme regional forest fire years globally

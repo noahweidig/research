@@ -9,7 +9,7 @@ authors:
 - Halofsky, Jessica E.
 - Rappold, Ana G.
 year: '2020'
-journal: Journal of the Air & Waste Management Association
+journal: Journal of the Air and Waste Management Association
 doi: 10.1080/10962247.2020.1749731
 tags:
 - air quality
@@ -24,7 +24,7 @@ item_type: journalArticle
 url: https://doi.org/10.1080/10962247.2020.1749731
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
 # Wildfire and prescribed burning impacts on air quality in the United States

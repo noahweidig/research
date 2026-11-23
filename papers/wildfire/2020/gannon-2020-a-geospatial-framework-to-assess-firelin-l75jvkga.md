@@ -1,5 +1,5 @@
 ---
-title: A Geospatial Framework to Assess Fireline Effectiveness for Large Wildfires in the Western USA
+title: A geospatial framework to assess fireline effectiveness for large wildfires in the western USA
 authors:
 - Gannon, Benjamin M.
 - Thompson, Matthew P.
@@ -22,10 +22,10 @@ item_type: journalArticle
 url: https://www.mdpi.com/2571-6255/3/3/43
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# A Geospatial Framework to Assess Fireline Effectiveness for Large Wildfires in the Western USA
+# A geospatial framework to assess fireline effectiveness for large wildfires in the western USA
 
 ## Abstract
 

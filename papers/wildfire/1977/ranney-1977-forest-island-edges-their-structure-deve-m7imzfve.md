@@ -1,5 +1,5 @@
 ---
-title: 'Forest Island edges: their structure, development, and importance to regional forest ecosystem dynamics'
+title: 'Forest island edges: their structure, development, and importance to regional forest ecosystem dynamics'
 authors:
 - Ranney, J. W.
 year: '1977'
@@ -16,10 +16,10 @@ item_type: report
 url: https://www.osti.gov/biblio/7278093
 source_url: 'unpaywall: https://www.osti.gov/servlets/purl/7278093'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Forest Island edges: their structure, development, and importance to regional forest ecosystem dynamics
+# Forest island edges: their structure, development, and importance to regional forest ecosystem dynamics
 
 ## Abstract
 

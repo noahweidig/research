@@ -33,7 +33,7 @@ item_type: journalArticle
 url: https://dx.doi.org/10.1088/1748-9326/ac39be
 source_url: 'unpaywall: https://centaur.reading.ac.uk/101738/8/Harrison_2021_Environ._Res._Lett._16_125008%20%281%29.pdf'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
 # Understanding and modelling wildfire regimes: an ecological perspective
