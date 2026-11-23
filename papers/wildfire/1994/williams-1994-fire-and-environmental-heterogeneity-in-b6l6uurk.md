@@ -1,5 +1,5 @@
 ---
-title: 'Fire and Environmental Heterogeneity in Southern Temperate Forest Ecosystems: Implications for Management'
+title: 'Fire and environmental heterogeneity in southern temperate forest ecosystems: implications for management'
 authors:
 - Williams, Jerry
 - Whelan, R. J.
@@ -16,10 +16,10 @@ item_type: journalArticle
 url: https://www.publish.csiro.au/bt/bt9940125
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Fire and Environmental Heterogeneity in Southern Temperate Forest Ecosystems: Implications for Management
+# Fire and environmental heterogeneity in southern temperate forest ecosystems: implications for management
 
 ## Abstract
 

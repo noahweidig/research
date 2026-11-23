@@ -1,5 +1,5 @@
 ---
-title: Densification and State Transition Across the Missouri Ozarks Landscape
+title: Densification and state transition across the missouri ozarks landscape
 authors:
 - Hanberry, Brice B.
 - Kabrick, John M.
@@ -20,10 +20,10 @@ item_type: journalArticle
 url: https://doi.org/10.1007/s10021-013-9707-7
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Densification and State Transition Across the Missouri Ozarks Landscape
+# Densification and state transition across the missouri ozarks landscape
 
 ## Abstract
 

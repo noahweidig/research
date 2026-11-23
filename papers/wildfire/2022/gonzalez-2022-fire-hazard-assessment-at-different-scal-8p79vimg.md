@@ -1,5 +1,5 @@
 ---
-title: Fire hazard assessment at different scales in the wildland-urban interface of semiarid areas of northern Patagonia
+title: Fire hazard assessment at different scales in the wildland-urban interface of semiarid areas of northern patagonia
 authors:
 - Gonzalez, Sofía
 - Aller, Soledad Arias
@@ -18,10 +18,10 @@ item_type: journalArticle
 url: https://www.frontiersin.org/articles/10.3389/ffgc.2022.855790
 source_url: 'unpaywall: https://doi.org/10.3389/ffgc.2022.855790'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Fire hazard assessment at different scales in the wildland-urban interface of semiarid areas of northern Patagonia
+# Fire hazard assessment at different scales in the wildland-urban interface of semiarid areas of northern patagonia
 
 ## Abstract
 

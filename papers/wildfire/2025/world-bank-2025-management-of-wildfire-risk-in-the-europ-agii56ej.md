@@ -1,5 +1,5 @@
 ---
-title: Management of Wildfire Risk in the European Union
+title: Management of wildfire risk in the European union
 authors:
 - World Bank
 year: '2025'
@@ -15,8 +15,8 @@ item_type: report
 url: http://hdl.handle.net/10986/43828
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Management of Wildfire Risk in the European Union
+# Management of wildfire risk in the European union
 

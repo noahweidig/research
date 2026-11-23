@@ -23,7 +23,7 @@ item_type: journalArticle
 url: https://www.nature.com/articles/s41558-021-01224-1
 source_url: 'unpaywall: https://www.researchsquare.com/article/rs-595210/latest.pdf'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
 # Observed increases in extreme fire weather driven by atmospheric humidity and temperature

@@ -17,7 +17,7 @@ item_type: report
 url: https://research.fs.usda.gov/treesearch/32533
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
 # A mathematical model for predicting fire spread in wildland fuels

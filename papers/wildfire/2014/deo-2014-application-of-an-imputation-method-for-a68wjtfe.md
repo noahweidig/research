@@ -1,5 +1,5 @@
 ---
-title: Application of an imputation method for geospatial inventory of forest structural attributes across multiple spatial scales in the Lake States, U.S.A.
+title: Application of an imputation method for geospatial inventory of forest structural attributes across multiple spatial scales in the lake states, U.S.a
 authors:
 - Deo, Ram K.
 year: '2014'
@@ -17,10 +17,10 @@ item_type: thesis
 url: https://www.proquest.com/docview/1625043446/abstract/746728D27FF34B4CPQ/1
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Application of an imputation method for geospatial inventory of forest structural attributes across multiple spatial scales in the Lake States, U.S.A.
+# Application of an imputation method for geospatial inventory of forest structural attributes across multiple spatial scales in the lake states, U.S.a
 
 ## Abstract
 

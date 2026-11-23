@@ -19,6 +19,7 @@ doi: 10.1126/science.adl5889
 tags:
 - air quality
 - climate
+- data:available
 - forests
 - human dimensions
 - refwright:read:unread
@@ -29,7 +30,7 @@ item_type: journalArticle
 url: https://www.science.org/doi/full/10.1126/science.adl5889
 source_url: 'unpaywall: https://research.vu.nl/en/publications/c86836a0-5854-4f87-aa1f-0704cb243b6e'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
 # Global rise in forest fire emissions linked to climate change in the extratropics

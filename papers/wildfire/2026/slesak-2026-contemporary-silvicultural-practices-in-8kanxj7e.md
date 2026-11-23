@@ -1,5 +1,5 @@
 ---
-title: Contemporary Silvicultural Practices in the Western Portion of the Pacific Northwest, USA
+title: Contemporary silvicultural practices in the western portion of the pacific northwest, USA
 authors:
 - Slesak, Robert A.
 - Deisenhofer, Florian U.
@@ -17,10 +17,10 @@ item_type: journalArticle
 url: https://openalex.org/W7212317498
 source_url: 'unpaywall: https://link.springer.com/content/pdf/10.1007/s44392-026-00110-y.pdf'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Contemporary Silvicultural Practices in the Western Portion of the Pacific Northwest, USA
+# Contemporary silvicultural practices in the western portion of the pacific northwest, USA
 
 ## Abstract
 

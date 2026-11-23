@@ -1,5 +1,5 @@
 ---
-title: 'data.table: Extension of ''data.frame'''
+title: 'data.table: extension of ''data.frame'''
 authors: []
 year: '2024'
 journal: null
@@ -14,10 +14,10 @@ item_type: computerProgram
 url: https://cran.r-project.org/web/packages/data.table/index.html
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# data.table: Extension of 'data.frame'
+# data.table: extension of 'data.frame'
 
 ## Abstract
 

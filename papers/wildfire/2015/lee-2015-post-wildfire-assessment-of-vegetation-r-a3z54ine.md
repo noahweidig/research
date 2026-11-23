@@ -1,5 +1,5 @@
 ---
-title: Post-wildfire assessment of vegetation regeneration in Bastrop, Texas, using Landsat imagery
+title: Post-wildfire assessment of vegetation regeneration in bastrop, texas, using landsat imagery
 authors:
 - Lee, Richard J.
 - Chow, T. Edwin
@@ -19,10 +19,10 @@ item_type: journalArticle
 url: https://doi.org/10.1080/15481603.2015.1055451
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Post-wildfire assessment of vegetation regeneration in Bastrop, Texas, using Landsat imagery
+# Post-wildfire assessment of vegetation regeneration in bastrop, texas, using landsat imagery
 
 ## Abstract
 

@@ -1,5 +1,5 @@
 ---
-title: Climate sensitivity to decadal land cover and land use change across the conterminous United States
+title: Climate sensitivity to decadal land cover and land use change across the conterminous united states
 authors:
 - Xian, George Z.
 - Loveland, Thomas R.
@@ -19,10 +19,10 @@ item_type: journalArticle
 url: https://www.sciencedirect.com/science/article/pii/S0921818120301533
 source_url: 'unpaywall: http://hdl.handle.net/10150/643329'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Climate sensitivity to decadal land cover and land use change across the conterminous United States
+# Climate sensitivity to decadal land cover and land use change across the conterminous united states
 
 ## Abstract
 

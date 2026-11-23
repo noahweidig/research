@@ -1,5 +1,5 @@
 ---
-title: The Unintended Benefits of the Conservation Reserve Program for Air Quality
+title: The unintended benefits of the conservation reserve program for air quality
 authors:
 - Becker, Douglas A.
 - Maas, Alexander
@@ -13,16 +13,17 @@ tags:
 - agriculture
 - air quality
 - conservation
+- data:available
 - refwright:read:unread
 zotero_key: 957EPII4
 item_type: journalArticle
 url: https://onlinelibrary.wiley.com/doi/abs/10.1029/2022GH000648
 source_url: 'unpaywall: https://www.ncbi.nlm.nih.gov/pmc/articles/9553094'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# The Unintended Benefits of the Conservation Reserve Program for Air Quality
+# The unintended benefits of the conservation reserve program for air quality
 
 ## Abstract
 

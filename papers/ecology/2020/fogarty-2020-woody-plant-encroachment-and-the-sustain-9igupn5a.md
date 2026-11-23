@@ -1,5 +1,5 @@
 ---
-title: Woody Plant Encroachment and the Sustainability of Priority Conservation Areas
+title: Woody plant encroachment and the sustainability of priority conservation areas
 authors:
 - Fogarty, Dillon T.
 - Roberts, Caleb P.
@@ -25,10 +25,10 @@ item_type: journalArticle
 url: https://www.mdpi.com/2071-1050/12/20/8321
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Woody Plant Encroachment and the Sustainability of Priority Conservation Areas
+# Woody plant encroachment and the sustainability of priority conservation areas
 
 ## Abstract
 

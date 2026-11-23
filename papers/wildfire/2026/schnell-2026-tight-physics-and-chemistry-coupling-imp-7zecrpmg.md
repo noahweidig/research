@@ -1,5 +1,5 @@
 ---
-title: 'Tight physics and chemistry coupling improves air quality forecasts: a case study of the 2020 North American wildfires with the Rapid Refresh model coupled to Chemistry (RAP-Chem v1.0)'
+title: 'Tight physics and chemistry coupling improves air quality forecasts: a case study of the 2020 north American wildfires with the rapid refresh model coupled to chemistry (RAP-chem v1.0)'
 authors:
 - Schnell, Jordan
 - Ahmadov, Ravan
@@ -25,6 +25,7 @@ journal: null
 doi: 10.5194/egusphere-2026-4786
 tags:
 - air quality
+- data:available
 - prescribed fire
 - refwright:read:unread
 - united states
@@ -34,10 +35,10 @@ item_type: journalArticle
 url: https://openalex.org/W7202382949
 source_url: 'unpaywall: https://egusphere.copernicus.org/preprints/2026/egusphere-2026-4786/egusphere-2026-4786.pdf'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Tight physics and chemistry coupling improves air quality forecasts: a case study of the 2020 North American wildfires with the Rapid Refresh model coupled to Chemistry (RAP-Chem v1.0)
+# Tight physics and chemistry coupling improves air quality forecasts: a case study of the 2020 north American wildfires with the rapid refresh model coupled to chemistry (RAP-chem v1.0)
 
 ## Abstract
 

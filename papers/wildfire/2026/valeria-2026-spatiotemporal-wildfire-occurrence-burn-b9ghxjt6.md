@@ -1,5 +1,5 @@
 ---
-title: 'Spatiotemporal wildfire occurrence, burn severity and early post-fire vegetation recovery in a tropical Andean landscape: Quilanga, southern Ecuador'
+title: 'Spatiotemporal wildfire occurrence, burn severity and early post-fire vegetation recovery in a tropical andean landscape: quilanga, southern Ecuador'
 authors:
 - Valeria, Vaca
 - Victoria, Rosado
@@ -11,7 +11,7 @@ authors:
 - Ricardo, Rodriguez
 - Mulas, Maurizio
 year: '2026'
-journal: Trees Forests and People
+journal: Trees, Forests and People
 doi: 10.1016/j.tfp.2026.101511
 tags:
 - fire regimes
@@ -25,10 +25,10 @@ item_type: journalArticle
 url: https://openalex.org/W7214963579
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Spatiotemporal wildfire occurrence, burn severity and early post-fire vegetation recovery in a tropical Andean landscape: Quilanga, southern Ecuador
+# Spatiotemporal wildfire occurrence, burn severity and early post-fire vegetation recovery in a tropical andean landscape: quilanga, southern Ecuador
 
 ## Abstract
 

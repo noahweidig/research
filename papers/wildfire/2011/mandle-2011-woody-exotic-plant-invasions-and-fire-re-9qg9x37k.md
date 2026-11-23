@@ -21,7 +21,7 @@ item_type: journalArticle
 url: https://doi.org/10.1007/s10530-011-0001-3
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
 # Woody exotic plant invasions and fire: reciprocal impacts and consequences for native ecosystems

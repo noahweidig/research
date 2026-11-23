@@ -1,5 +1,5 @@
 ---
-title: Wildfire and Severe Drought Effects on Conservation Reserve Program (CRP) Persistence
+title: Wildfire and severe drought effects on conservation reserve program (CRP) persistence
 authors:
 - Gharib, Mariam
 - Bergtold, Jason S.
@@ -23,10 +23,10 @@ item_type: journalArticle
 url: https://ageconsearch.umn.edu/record/404737
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Wildfire and Severe Drought Effects on Conservation Reserve Program (CRP) Persistence
+# Wildfire and severe drought effects on conservation reserve program (CRP) persistence
 
 ## Abstract
 

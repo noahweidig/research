@@ -1,12 +1,12 @@
 ---
-title: 'Measuring flammability of crops, pastures, fruit trees, and weeds: A novel tool to fight wildfires in agricultural landscapes'
+title: 'Measuring flammability of crops, pastures, fruit trees, and weeds: a novel tool to fight wildfires in agricultural landscapes'
 authors:
 - Pagadala, Tanmayi
 - Alam, Md Azharul
 - Maxwell, Thomas M. R.
 - Curran, Timothy J.
 year: '2024'
-journal: Science of The Total Environment
+journal: Science of the Total Environment
 doi: 10.1016/j.scitotenv.2023.167489
 tags:
 - WUI
@@ -20,10 +20,10 @@ item_type: journalArticle
 url: https://www.sciencedirect.com/science/article/pii/S0048969723061168
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Measuring flammability of crops, pastures, fruit trees, and weeds: A novel tool to fight wildfires in agricultural landscapes
+# Measuring flammability of crops, pastures, fruit trees, and weeds: a novel tool to fight wildfires in agricultural landscapes
 
 ## Abstract
 

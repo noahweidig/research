@@ -1,5 +1,5 @@
 ---
-title: 'The nuclear-climate nexus for net-zero pathways: Opportunities, challenges, and policy directions: A review'
+title: 'The nuclear-climate nexus for net-zero pathways: opportunities, challenges, and policy directions: a review'
 authors:
 - Khandaker, Mayeen Uddin
 year: '2026'
@@ -17,10 +17,10 @@ item_type: journalArticle
 url: https://openalex.org/W7214015050
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# The nuclear-climate nexus for net-zero pathways: Opportunities, challenges, and policy directions: A review
+# The nuclear-climate nexus for net-zero pathways: opportunities, challenges, and policy directions: a review
 
 ## Abstract
 

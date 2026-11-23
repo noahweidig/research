@@ -1,5 +1,5 @@
 ---
-title: Wildfire, Suppression, and Federal Spending, 2020–2100
+title: Wildfire, suppression, and federal spending, 2020–2100
 authors:
 - Prestemon, Jeffrey P.
 - Kay, Shannon
@@ -24,10 +24,10 @@ item_type: journalArticle
 url: https://onlinelibrary.wiley.com/doi/abs/10.1029/2025EF007985
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Wildfire, Suppression, and Federal Spending, 2020–2100
+# Wildfire, suppression, and federal spending, 2020–2100
 
 ## Abstract
 

@@ -1,11 +1,11 @@
 ---
-title: Comparing Conditions of Labor-Intensive Forestry and Fire Suppression Workers
+title: Comparing conditions of labor-intensive forestry and fire suppression workers
 authors:
 - Moseley, Cassandra
 - Sandoval, Gerardo
 - Davis, Emily Jane
 year: '2014'
-journal: Society & Natural Resources
+journal: Society and Natural Resources
 doi: 10.1080/08941920.2014.888792
 tags:
 - forests
@@ -19,10 +19,10 @@ item_type: journalArticle
 url: https://doi.org/10.1080/08941920.2014.888792
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Comparing Conditions of Labor-Intensive Forestry and Fire Suppression Workers
+# Comparing conditions of labor-intensive forestry and fire suppression workers
 
 ## Abstract
 

@@ -11,7 +11,7 @@ tags:
 - climate
 - ecology
 - human dimensions
-- refwright:read:unread
+- refwright:read:reading
 - united states
 - weather
 - wildfire
@@ -20,7 +20,7 @@ item_type: journalArticle
 url: https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2018GL080959
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
 # Global emergence of anthropogenic climate change in fire weather indices

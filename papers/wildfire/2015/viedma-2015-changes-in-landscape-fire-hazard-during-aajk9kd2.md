@@ -1,11 +1,11 @@
 ---
-title: 'Changes in landscape fire-hazard during the second half of the 20th century: Agriculture abandonment and the changing role of driving factors'
+title: 'Changes in landscape fire-hazard during the second half of the 20th century: agriculture abandonment and the changing role of driving factors'
 authors:
 - Viedma, Olga
 - Moity, Nicolás
 - Moreno, José M.
 year: '2015'
-journal: Agriculture, Ecosystems & Environment
+journal: Agriculture Ecosystems and Environment
 doi: 10.1016/j.agee.2015.04.011
 tags:
 - agriculture
@@ -19,10 +19,10 @@ item_type: journalArticle
 url: https://www.sciencedirect.com/science/article/pii/S0167880915001437
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Changes in landscape fire-hazard during the second half of the 20th century: Agriculture abandonment and the changing role of driving factors
+# Changes in landscape fire-hazard during the second half of the 20th century: agriculture abandonment and the changing role of driving factors
 
 ## Abstract
 

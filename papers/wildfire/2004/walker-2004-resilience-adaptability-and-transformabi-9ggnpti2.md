@@ -1,5 +1,5 @@
 ---
-title: Resilience, Adaptability and Transformability in Social–ecological Systems
+title: Resilience, adaptability and transformability in social–ecological systems
 authors:
 - Walker, Brian
 - Holling, C. S.
@@ -17,10 +17,10 @@ item_type: journalArticle
 url: https://www.ecologyandsociety.org/vol9/iss2/art5/#
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Resilience, Adaptability and Transformability in Social–ecological Systems
+# Resilience, adaptability and transformability in social–ecological systems
 
 ## Abstract
 

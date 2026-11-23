@@ -1,5 +1,5 @@
 ---
-title: 'A CONUS-scale study of wildfire and evapotranspiration: Spatial and temporal response and controlling factors'
+title: 'A CONUS-scale study of wildfire and evapotranspiration: spatial and temporal response and controlling factors'
 authors:
 - Collar, Natalie M.
 - Saxe, Samuel
@@ -19,10 +19,10 @@ item_type: journalArticle
 url: https://www.sciencedirect.com/science/article/pii/S0022169421012129
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# A CONUS-scale study of wildfire and evapotranspiration: Spatial and temporal response and controlling factors
+# A CONUS-scale study of wildfire and evapotranspiration: spatial and temporal response and controlling factors
 
 ## Abstract
 

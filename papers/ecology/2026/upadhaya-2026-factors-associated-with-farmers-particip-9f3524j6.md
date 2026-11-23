@@ -1,5 +1,5 @@
 ---
-title: Factors Associated with Farmers’ Participation in the U.S. Conservation Reserve Program (CRP)
+title: Factors associated with farmers’ participation in the U.S. conservation reserve program (CRP)
 authors:
 - Upadhaya, Suraj
 - Pandeya, Shreesha
@@ -17,10 +17,10 @@ item_type: journalArticle
 url: https://doi.org/10.1007/s00267-026-02600-3
 source_url: 'unpaywall: https://link.springer.com/content/pdf/10.1007/s00267-026-02600-3.pdf'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Factors Associated with Farmers’ Participation in the U.S. Conservation Reserve Program (CRP)
+# Factors associated with farmers’ participation in the U.S. conservation reserve program (CRP)
 
 ## Abstract
 

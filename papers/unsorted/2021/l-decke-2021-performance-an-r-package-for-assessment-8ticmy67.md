@@ -1,5 +1,5 @@
 ---
-title: 'performance: An R Package for Assessment, Comparison and Testing of Statistical Models'
+title: 'performance: an R package for assessment, comparison and testing of statistical models'
 authors:
 - Lüdecke, Daniel
 - Ben-Shachar, Mattan S.
@@ -10,6 +10,7 @@ year: '2021'
 journal: Journal of Open Source Software
 doi: 10.21105/joss.03139
 tags:
+- code:available
 - refwright:read:unread
 - software
 - statistics
@@ -18,10 +19,10 @@ item_type: journalArticle
 url: https://joss.theoj.org/papers/10.21105/joss.03139
 source_url: 'unpaywall: https://joss.theoj.org/papers/10.21105/joss.03139.pdf'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# performance: An R Package for Assessment, Comparison and Testing of Statistical Models
+# performance: an R package for assessment, comparison and testing of statistical models
 
 ## Abstract
 

@@ -1,11 +1,11 @@
 ---
-title: 'Health Management Planning for Landscape Fire Smoke Events: A Literature Review and Suggested Human‐Centred Framework for Resource Development'
+title: 'Health management planning for landscape fire smoke events: a literature review and suggested human-centred framework for resource development'
 authors:
 - Gjedrem, Anna Marie
 - Johnston, Fay H.
 - Campbell, Sharon L.
 year: '2026'
-journal: Public Health Challenges
+journal: Public HEALTH Challenges
 doi: 10.1002/puh2.70428
 tags:
 - air quality
@@ -19,10 +19,10 @@ item_type: journalArticle
 url: https://openalex.org/W7221158626
 source_url: 'unpaywall: https://pmc.ncbi.nlm.nih.gov/articles/PMC13652956/'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Health Management Planning for Landscape Fire Smoke Events: A Literature Review and Suggested Human‐Centred Framework for Resource Development
+# Health management planning for landscape fire smoke events: a literature review and suggested human-centred framework for resource development
 
 ## Abstract
 

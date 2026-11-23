@@ -1,5 +1,5 @@
 ---
-title: Large-scale modelled impacts of the 2025 Canadian wildfires
+title: Large-scale modelled impacts of the 2025 canadian wildfires
 authors:
 - Roșu, Iulian-Alin
 - Mourgela, Rafaila-Nikola
@@ -9,6 +9,7 @@ journal: Journal of Pyrogeography
 doi: 10.1016/j.pyro.2026.100021
 tags:
 - climate
+- data:available
 - refwright:read:unread
 - united states
 - wildfire
@@ -17,10 +18,10 @@ item_type: journalArticle
 url: https://openalex.org/W7171680423
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Large-scale modelled impacts of the 2025 Canadian wildfires
+# Large-scale modelled impacts of the 2025 canadian wildfires
 
 ## Abstract
 

@@ -1,5 +1,5 @@
 ---
-title: The Geographic Determinants of Housing Supply
+title: The geographic determinants of housing supply
 authors:
 - Saiz, Albert
 year: '2010'
@@ -16,10 +16,10 @@ item_type: journalArticle
 url: https://doi.org/10.1162/qjec.2010.125.3.1253
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# The Geographic Determinants of Housing Supply
+# The geographic determinants of housing supply
 
 ## Abstract
 

@@ -24,7 +24,7 @@ item_type: journalArticle
 url: https://openalex.org/W7125372033
 source_url: 'unpaywall: https://www.biorxiv.org/content/biorxiv/early/2026/01/21/2026.01.21.700861.full.pdf'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
 # Prescribed burns drive lasting changes in soil nitrogen cycling and microbial function

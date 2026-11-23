@@ -1,5 +1,5 @@
 ---
-title: Woody encroachment and forest degradation in sub-Saharan Africa's woodlands and savannas 1982–2006
+title: Woody encroachment and forest degradation in sub-saharan africa's woodlands and savannas 1982–2006
 authors:
 - Mitchard, Edward T. A.
 - Flintrop, Clara M.
@@ -18,10 +18,10 @@ item_type: journalArticle
 url: https://royalsocietypublishing.org/doi/full/10.1098/rstb.2012.0406
 source_url: 'unpaywall: https://www.ncbi.nlm.nih.gov/pmc/articles/3720033'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Woody encroachment and forest degradation in sub-Saharan Africa's woodlands and savannas 1982–2006
+# Woody encroachment and forest degradation in sub-saharan africa's woodlands and savannas 1982–2006
 
 ## Abstract
 

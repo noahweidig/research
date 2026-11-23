@@ -1,5 +1,5 @@
 ---
-title: Environmental Conditions, Ignition Type, and Air Quality Impacts of Wildfires in the Southeastern and Western United States
+title: Environmental conditions, ignition type, and air quality impacts of wildfires in the southeastern and western United States
 authors:
 - Brey, Steven J.
 - Barnes, Elizabeth A.
@@ -22,10 +22,10 @@ item_type: journalArticle
 url: https://onlinelibrary.wiley.com/doi/abs/10.1029/2018EF000972
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Environmental Conditions, Ignition Type, and Air Quality Impacts of Wildfires in the Southeastern and Western United States
+# Environmental conditions, ignition type, and air quality impacts of wildfires in the southeastern and western United States
 
 ## Abstract
 

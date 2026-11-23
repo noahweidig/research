@@ -8,7 +8,7 @@ authors:
 - Silva, Carlos A.
 - Rodrigues, Marcos
 year: '2019'
-journal: Science of The Total Environment
+journal: Science of the Total Environment
 doi: 10.1016/j.scitotenv.2019.133603
 tags:
 - drought
@@ -21,7 +21,7 @@ item_type: journalArticle
 url: https://www.sciencedirect.com/science/article/pii/S0048969719335284
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
 # How does drought impact burned area in Mediterranean vegetation communities?

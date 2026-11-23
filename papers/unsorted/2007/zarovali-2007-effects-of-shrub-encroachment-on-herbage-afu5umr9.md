@@ -1,5 +1,5 @@
 ---
-title: Effects of shrub encroachment on herbage production and nutritive value in semi-arid Mediterranean grasslands
+title: Effects of shrub encroachment on herbage production and nutritive value in semi-arid mediterranean grasslands
 authors:
 - Zarovali, M. P.
 - Yiakoulaki, M. D.
@@ -16,10 +16,10 @@ item_type: journalArticle
 url: https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1365-2494.2007.00590.x
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Effects of shrub encroachment on herbage production and nutritive value in semi-arid Mediterranean grasslands
+# Effects of shrub encroachment on herbage production and nutritive value in semi-arid mediterranean grasslands
 
 ## Abstract
 

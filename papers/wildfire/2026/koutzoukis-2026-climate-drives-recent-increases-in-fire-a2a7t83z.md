@@ -1,5 +1,5 @@
 ---
-title: Climate drives recent increases in fire activity in aspen ( Populus tremuloides Michx.) forests of the western US
+title: Climate drives recent increases in fire activity in aspen ( populus tremuloides michx.) forests of the western US
 authors:
 - Koutzoukis, Sofia
 - Assal, Timothy J.
@@ -22,10 +22,10 @@ item_type: journalArticle
 url: https://openalex.org/W7221433018
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Climate drives recent increases in fire activity in aspen ( Populus tremuloides Michx.) forests of the western US
+# Climate drives recent increases in fire activity in aspen ( populus tremuloides michx.) forests of the western US
 
 ## Abstract
 

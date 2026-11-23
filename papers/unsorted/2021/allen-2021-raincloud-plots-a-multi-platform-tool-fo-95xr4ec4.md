@@ -8,9 +8,11 @@ authors:
 - van Langen, Jordy
 - Kievit, Rogier A.
 year: '2021'
-journal: Wellcome Open Research
+journal: Wellcome OPEN Research
 doi: 10.12688/wellcomeopenres.15191.2
 tags:
+- code:available
+- data:available
 - finance
 - refwright:read:unread
 - statistics
@@ -20,7 +22,7 @@ item_type: journalArticle
 url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6480976/
 source_url: 'unpaywall: https://wellcomeopenresearch.org/articles/4-63/v2/pdf'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
 # Raincloud plots: a multi-platform tool for robust data visualization
