@@ -1,10 +1,10 @@
 ---
-title: The Demise of Fire and “Mesophication” of Forests in the Eastern United States
+title: The demise of fire and “mesophication” of forests in the eastern United States
 authors:
 - Nowacki, Gregory J.
 - Abrams, Marc D.
 year: '2008'
-journal: BioScience
+journal: Bioscience
 doi: 10.1641/B580207
 tags:
 - fire regimes
@@ -19,10 +19,10 @@ item_type: journalArticle
 url: https://doi.org/10.1641/B580207
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# The Demise of Fire and “Mesophication” of Forests in the Eastern United States
+# The demise of fire and “mesophication” of forests in the eastern United States
 
 ## Abstract
 

@@ -122,7 +122,7 @@ item_type: journalArticle
 url: https://doi.org/10.1186/s42408-023-00237-9
 source_url: 'unpaywall: https://fireecology.springeropen.com/counter/pdf/10.1186/s42408-023-00237-9'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
 # Assessing changes in global fire regimes

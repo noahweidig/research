@@ -1,5 +1,5 @@
 ---
-title: Regional participation trends for community wildfire preparedness program Firewise USA
+title: Regional participation trends for community wildfire preparedness program firewise USA
 authors:
 - Kampfschulte, Andrew R
 - Miller, Rebecca K
@@ -8,6 +8,7 @@ journal: 'Environmental Research: Climate'
 doi: 10.1088/2752-5295/ace4e9
 tags:
 - WUI
+- code:available
 - human dimensions
 - refwright:read:unread
 - united states
@@ -17,10 +18,10 @@ item_type: journalArticle
 url: https://doi.org/10.1088/2752-5295/ace4e9
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Regional participation trends for community wildfire preparedness program Firewise USA
+# Regional participation trends for community wildfire preparedness program firewise USA
 
 ## Abstract
 

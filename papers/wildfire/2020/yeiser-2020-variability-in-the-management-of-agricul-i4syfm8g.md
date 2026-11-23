@@ -19,7 +19,7 @@ item_type: journalArticle
 url: https://www.sciencedirect.com/science/article/pii/S1470160X20302405
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
 # Variability in the management of agricultural fields spared for conservation

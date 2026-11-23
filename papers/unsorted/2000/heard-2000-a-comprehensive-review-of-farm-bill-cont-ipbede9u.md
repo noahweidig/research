@@ -1,5 +1,5 @@
 ---
-title: A comprehensive review of Farm Bill contributions to wildlife conservation, 1985-2000
+title: A comprehensive review of farm bill contributions to wildlife conservation, 1985-2000
 authors:
 - Heard, P.L.
 - Allen, Arthur W.
@@ -27,8 +27,8 @@ item_type: report
 url: https://pubs.usgs.gov/publication/2002051
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# A comprehensive review of Farm Bill contributions to wildlife conservation, 1985-2000
+# A comprehensive review of farm bill contributions to wildlife conservation, 1985-2000
 

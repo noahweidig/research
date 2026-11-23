@@ -1,5 +1,5 @@
 ---
-title: 'CAL FIRE and Intersectional Inequality: Gender, LGBTQIA2S+ and the Governance of Incarcerated Labor'
+title: 'CAL FIRE and intersectional inequality: gender, LGBTQIA2S+ and the governance of incarcerated labor'
 authors:
 - Pacheco, Thomas Anthony
 year: '2026'
@@ -16,10 +16,10 @@ item_type: journalArticle
 url: https://openalex.org/W7214191960
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# CAL FIRE and Intersectional Inequality: Gender, LGBTQIA2S+ and the Governance of Incarcerated Labor
+# CAL FIRE and intersectional inequality: gender, LGBTQIA2S+ and the governance of incarcerated labor
 
 ## Abstract
 

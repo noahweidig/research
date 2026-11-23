@@ -1,5 +1,5 @@
 ---
-title: 'Global Pyrogeography: the Current and Future Distribution of Wildfire'
+title: 'Global pyrogeography: the current and future distribution of wildfire'
 authors:
 - Krawchuk, Meg A.
 - Moritz, Max A.
@@ -7,7 +7,7 @@ authors:
 - Dorn, Jeff Van
 - Hayhoe, Katharine
 year: '2009'
-journal: PLOS ONE
+journal: PLOS One
 doi: 10.1371/journal.pone.0005102
 tags:
 - climate
@@ -21,10 +21,10 @@ item_type: journalArticle
 url: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0005102
 source_url: 'unpaywall: https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0005102&type=printable'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Global Pyrogeography: the Current and Future Distribution of Wildfire
+# Global pyrogeography: the current and future distribution of wildfire
 
 ## Abstract
 

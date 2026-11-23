@@ -1,5 +1,5 @@
 ---
-title: 'Forecasting Lives Lost to Climate Change: A Precautionary Empirical Framework for Climate-Related Mortality'
+title: 'Forecasting lives lost to climate change: a precautionary empirical framework for climate-related mortality'
 authors:
 - Howard, Nigel
 - Newman, Peter
@@ -20,10 +20,10 @@ item_type: preprint
 url: https://openalex.org/W7213530259
 source_url: 'unpaywall: https://doi.org/10.31223/x5nn5r'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Forecasting Lives Lost to Climate Change: A Precautionary Empirical Framework for Climate-Related Mortality
+# Forecasting lives lost to climate change: a precautionary empirical framework for climate-related mortality
 
 ## Abstract
 

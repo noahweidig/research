@@ -1,5 +1,5 @@
 ---
-title: Conterminous United States land cover change patterns 2001–2016 from the 2016 National Land Cover Database
+title: Conterminous united states land cover change patterns 2001–2016 from the 2016 national land cover database
 authors:
 - Homer, Collin
 - Dewitz, Jon
@@ -26,10 +26,10 @@ item_type: journalArticle
 url: https://www.sciencedirect.com/science/article/pii/S0924271620300587
 source_url: 'unpaywall: https://www.ncbi.nlm.nih.gov/pmc/articles/9214659'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Conterminous United States land cover change patterns 2001–2016 from the 2016 National Land Cover Database
+# Conterminous united states land cover change patterns 2001–2016 from the 2016 national land cover database
 
 ## Abstract
 

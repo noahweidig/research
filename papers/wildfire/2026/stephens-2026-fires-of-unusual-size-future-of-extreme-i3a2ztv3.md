@@ -1,5 +1,5 @@
 ---
-title: 'Fires of Unusual Size: Future of Extreme and Emerging Wildfire in a Warming United States (2020–2060)'
+title: 'Fires of unusual size: future of extreme and emerging wildfire in a warming united states (2020–2060)'
 authors:
 - Stephens, Jilmarie
 - Joseph, Maxwell B.
@@ -16,8 +16,9 @@ journal: Fire
 doi: 10.3390/fire9050208
 tags:
 - climate
+- data:available
 - fire regimes
-- refwright:read:unread
+- refwright:read:reading
 - remote sensing
 - united states
 - weather
@@ -27,10 +28,10 @@ item_type: journalArticle
 url: https://www.mdpi.com/2571-6255/9/5/208
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Fires of Unusual Size: Future of Extreme and Emerging Wildfire in a Warming United States (2020–2060)
+# Fires of unusual size: future of extreme and emerging wildfire in a warming united states (2020–2060)
 
 ## Abstract
 

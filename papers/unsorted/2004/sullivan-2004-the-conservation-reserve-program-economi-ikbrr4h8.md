@@ -1,5 +1,5 @@
 ---
-title: 'The Conservation Reserve Program: Economic Implications for Rural America'
+title: 'The conservation reserve program: economic implications for rural america'
 authors:
 - Sullivan, Patrick
 - Hellerstein, Daniel
@@ -24,10 +24,10 @@ item_type: journalArticle
 url: https://ageconsearch.umn.edu/record/33987
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# The Conservation Reserve Program: Economic Implications for Rural America
+# The conservation reserve program: economic implications for rural america
 
 ## Abstract
 

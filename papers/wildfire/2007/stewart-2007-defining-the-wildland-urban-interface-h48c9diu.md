@@ -1,5 +1,5 @@
 ---
-title: Defining the Wildland–Urban Interface
+title: Defining the wildland–urban interface
 authors:
 - Stewart, Susan I.
 - Radeloff, Volker C.
@@ -19,10 +19,10 @@ item_type: journalArticle
 url: https://doi.org/10.1093/jof/105.4.201
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Defining the Wildland–Urban Interface
+# Defining the wildland–urban interface
 
 ## Abstract
 

@@ -1,5 +1,5 @@
 ---
-title: 'The Conservation Reserve Program: A Literature Review'
+title: 'The conservation reserve program: a literature review'
 authors:
 - Wachenheim, Cheryl J.
 - Lesch, William C.
@@ -17,10 +17,10 @@ item_type: journalArticle
 url: https://ageconsearch.umn.edu/record/164829
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# The Conservation Reserve Program: A Literature Review
+# The conservation reserve program: a literature review
 
 ## Abstract
 

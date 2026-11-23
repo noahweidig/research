@@ -1,5 +1,5 @@
 ---
-title: Wildfire synchronicity across European regions is favored by specific weather regimes
+title: Wildfire synchronicity across european regions is favored by specific weather regimes
 authors:
 - Li, Xinhang
 - Wood, Raul R.
@@ -11,6 +11,7 @@ journal: Communications Earth & Environment
 doi: 10.1038/s43247-026-03956-4
 tags:
 - climate
+- data:available
 - refwright:read:unread
 - weather
 - wildfire
@@ -19,10 +20,10 @@ item_type: journalArticle
 url: https://openalex.org/W7213461287
 source_url: 'unpaywall: https://www.nature.com/articles/s43247-026-03956-4.pdf'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Wildfire synchronicity across European regions is favored by specific weather regimes
+# Wildfire synchronicity across european regions is favored by specific weather regimes
 
 ## Abstract
 

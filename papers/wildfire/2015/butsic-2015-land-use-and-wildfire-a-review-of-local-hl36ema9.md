@@ -1,5 +1,5 @@
 ---
-title: 'Land Use and Wildfire: A Review of Local Interactions and Teleconnections'
+title: 'Land use and wildfire: a review of local interactions and teleconnections'
 authors:
 - Butsic, Van
 - Kelly, Maggi
@@ -20,10 +20,10 @@ item_type: journalArticle
 url: https://www.mdpi.com/2073-445X/4/1/140
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Land Use and Wildfire: A Review of Local Interactions and Teleconnections
+# Land use and wildfire: a review of local interactions and teleconnections
 
 ## Abstract
 

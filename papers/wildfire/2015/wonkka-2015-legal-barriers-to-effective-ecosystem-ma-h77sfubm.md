@@ -17,7 +17,7 @@ item_type: journalArticle
 url: https://onlinelibrary.wiley.com/doi/abs/10.1890/14-1791.1
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
 # Legal barriers to effective ecosystem management: exploring linkages between liability, regulations, and prescribed fire

@@ -1,5 +1,5 @@
 ---
-title: 'Tree planting: A double-edged sword to fight climate change in an era of megafires'
+title: 'Tree planting: a double-edged sword to fight climate change in an era of megafires'
 authors:
 - Hermoso, Virgilio
 - Regos, Adrián
@@ -22,10 +22,10 @@ item_type: journalArticle
 url: https://onlinelibrary.wiley.com/doi/abs/10.1111/gcb.15625
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Tree planting: A double-edged sword to fight climate change in an era of megafires
+# Tree planting: a double-edged sword to fight climate change in an era of megafires
 
 ## Abstract
 

@@ -1,5 +1,5 @@
 ---
-title: A growing importance of large fires in conterminous United States during 1984–2012
+title: A growing importance of large fires in conterminous united states during 1984–2012
 authors:
 - Yang, Jia
 - Tian, Hanqin
@@ -24,10 +24,10 @@ item_type: journalArticle
 url: https://onlinelibrary.wiley.com/doi/abs/10.1002/2015JG002965
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# A growing importance of large fires in conterminous United States during 1984–2012
+# A growing importance of large fires in conterminous united states during 1984–2012
 
 ## Abstract
 

@@ -1,5 +1,5 @@
 ---
-title: Extreme Fire Spread Events Burn More Severely and Homogenize Postfire Landscapes in the Southwestern United States
+title: Extreme fire spread events burn more severely and homogenize postfire landscapes in the southwestern United States
 authors:
 - McFarland, Jessika R.
 - Coop, Jonathan D.
@@ -11,6 +11,7 @@ year: '2025'
 journal: Global Change Biology
 doi: 10.1111/gcb.70106
 tags:
+- data:available
 - fire regimes
 - forests
 - refwright:read:unread
@@ -20,10 +21,10 @@ item_type: journalArticle
 url: https://onlinelibrary.wiley.com/doi/abs/10.1111/gcb.70106
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Extreme Fire Spread Events Burn More Severely and Homogenize Postfire Landscapes in the Southwestern United States
+# Extreme fire spread events burn more severely and homogenize postfire landscapes in the southwestern United States
 
 ## Abstract
 

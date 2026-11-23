@@ -1,5 +1,5 @@
 ---
-title: South America is becoming warmer, drier, and more flammable
+title: South america is becoming warmer, drier, and more flammable
 authors:
 - Feron, Sarah
 - Cordero, Raúl R.
@@ -28,10 +28,10 @@ item_type: journalArticle
 url: https://www.nature.com/articles/s43247-024-01654-7
 source_url: 'unpaywall: https://www.nature.com/articles/s43247-024-01654-7.pdf'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# South America is becoming warmer, drier, and more flammable
+# South america is becoming warmer, drier, and more flammable
 
 ## Abstract
 

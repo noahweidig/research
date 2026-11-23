@@ -1,5 +1,5 @@
 ---
-title: Wildfire, Smoke Exposure, Human Health, and Environmental Justice Need to be Integrated into Forest Restoration and Management
+title: Wildfire, smoke exposure, human health, and environmental justice need to be integrated into forest restoration and management
 authors:
 - D’Evelyn, Savannah M.
 - Jung, Jihoon
@@ -34,7 +34,7 @@ journal: Current Environmental Health Reports
 doi: 10.1007/s40572-022-00355-7
 tags:
 - air quality
-- exposure
+- fire risk
 - prescribed fire
 - public health
 - refwright:read:unread
@@ -44,10 +44,10 @@ item_type: journalArticle
 url: https://doi.org/10.1007/s40572-022-00355-7
 source_url: 'unpaywall: https://link.springer.com/content/pdf/10.1007/s40572-022-00355-7.pdf'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Wildfire, Smoke Exposure, Human Health, and Environmental Justice Need to be Integrated into Forest Restoration and Management
+# Wildfire, smoke exposure, human health, and environmental justice need to be integrated into forest restoration and management
 
 ## Abstract
 

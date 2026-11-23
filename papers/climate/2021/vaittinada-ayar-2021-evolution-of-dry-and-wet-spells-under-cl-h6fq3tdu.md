@@ -1,5 +1,5 @@
 ---
-title: Evolution of Dry and Wet Spells Under Climate Change Over North-Eastern North America
+title: Evolution of dry and wet spells under climate change over north-eastern North America
 authors:
 - Vaittinada Ayar, Pradeebane
 - Mailhot, Alain
@@ -16,10 +16,10 @@ item_type: journalArticle
 url: https://onlinelibrary.wiley.com/doi/abs/10.1029/2020JD033740
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Evolution of Dry and Wet Spells Under Climate Change Over North-Eastern North America
+# Evolution of dry and wet spells under climate change over north-eastern North America
 
 ## Abstract
 

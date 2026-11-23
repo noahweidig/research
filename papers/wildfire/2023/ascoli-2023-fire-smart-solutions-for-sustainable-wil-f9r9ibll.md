@@ -1,5 +1,5 @@
 ---
-title: 'Fire-smart solutions for sustainable wildfire risk prevention: Bottom-up initiatives meet top-down policies under EU green deal'
+title: 'Fire-smart solutions for sustainable wildfire risk prevention: bottom-up initiatives meet top-down policies under EU green deal'
 authors:
 - Ascoli, Davide
 - Plana, Eduard
@@ -33,10 +33,10 @@ item_type: journalArticle
 url: https://www.sciencedirect.com/science/article/pii/S2212420923001954
 source_url: 'unpaywall: https://air.unimi.it/bitstream/2434/1027634/2/Ascoli%20et%20al.%202023%20%28Fire%20smart%20solutions%29.pdf'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Fire-smart solutions for sustainable wildfire risk prevention: Bottom-up initiatives meet top-down policies under EU green deal
+# Fire-smart solutions for sustainable wildfire risk prevention: bottom-up initiatives meet top-down policies under EU green deal
 
 ## Abstract
 

@@ -1,5 +1,5 @@
 ---
-title: Residential Structure Survivability to Large Wildfires in the United States
+title: Residential structure survivability to large wildfires in the United States
 authors:
 - Kumar, Mukesh
 - Abatzoglou, John T.
@@ -10,7 +10,7 @@ journal: Earth's Future
 doi: 10.1029/2026EF008372
 tags:
 - WUI
-- exposure
+- fire risk
 - fuels
 - refwright:read:unread
 - united states
@@ -22,10 +22,10 @@ item_type: journalArticle
 url: https://onlinelibrary.wiley.com/doi/abs/10.1029/2026EF008372
 source_url: 'unpaywall: https://arxiv.org/pdf/2512.19514'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Residential Structure Survivability to Large Wildfires in the United States
+# Residential structure survivability to large wildfires in the United States
 
 ## Abstract
 

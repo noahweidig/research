@@ -1,5 +1,5 @@
 ---
-title: A Review of the Main Driving Factors of Forest Fire Ignition Over Europe
+title: A review of the main driving factors of forest fire ignition over Europe
 authors:
 - Ganteaume, Anne
 - Camia, Andrea
@@ -24,10 +24,10 @@ item_type: journalArticle
 url: https://doi.org/10.1007/s00267-012-9961-z
 source_url: 'unpaywall: https://hal.science/hal-00860797'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# A Review of the Main Driving Factors of Forest Fire Ignition Over Europe
+# A review of the main driving factors of forest fire ignition over Europe
 
 ## Abstract
 

@@ -1,5 +1,5 @@
 ---
-title: Disentangling the role of prefire vegetation vs. burning conditions on fire severity in a large forest fire in SE Spain
+title: Disentangling the role of prefire vegetation vs. burning conditions on fire severity in a large forest fire in SE spain
 authors:
 - Viedma, Olga
 - Chico, F.
@@ -21,10 +21,10 @@ item_type: journalArticle
 url: https://www.sciencedirect.com/science/article/pii/S0034425720302613
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Disentangling the role of prefire vegetation vs. burning conditions on fire severity in a large forest fire in SE Spain
+# Disentangling the role of prefire vegetation vs. burning conditions on fire severity in a large forest fire in SE spain
 
 ## Abstract
 

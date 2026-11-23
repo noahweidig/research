@@ -1,5 +1,5 @@
 ---
-title: Multiple-Scale Relationships between Vegetation, the Wildland–Urban Interface, and Structure Loss to Wildfire in California
+title: Multiple-scale relationships between vegetation, the wildland–urban interface, and structure loss to wildfire in california
 authors:
 - Syphard, Alexandra D.
 - Rustigian-Romsos, Heather
@@ -21,10 +21,10 @@ item_type: journalArticle
 url: https://www.mdpi.com/2571-6255/4/1/12
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Multiple-Scale Relationships between Vegetation, the Wildland–Urban Interface, and Structure Loss to Wildfire in California
+# Multiple-scale relationships between vegetation, the wildland–urban interface, and structure loss to wildfire in california
 
 ## Abstract
 

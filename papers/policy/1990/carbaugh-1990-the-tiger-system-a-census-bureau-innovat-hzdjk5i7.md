@@ -1,5 +1,5 @@
 ---
-title: 'The TIGER system: A census bureau innovation serving data analysts'
+title: 'The TIGER system: a census bureau innovation serving data analysts'
 authors:
 - Carbaugh, Larry W.
 - Marx, Robert W.
@@ -18,10 +18,10 @@ item_type: journalArticle
 url: https://www.sciencedirect.com/science/article/pii/0740624X9090026K
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# The TIGER system: A census bureau innovation serving data analysts
+# The TIGER system: a census bureau innovation serving data analysts
 
 ## Abstract
 

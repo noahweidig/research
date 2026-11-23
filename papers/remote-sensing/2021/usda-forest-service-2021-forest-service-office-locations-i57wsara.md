@@ -1,5 +1,5 @@
 ---
-title: Forest Service Office Locations
+title: Forest service office locations
 authors:
 - Usda Forest Service
 year: '2021'
@@ -15,8 +15,8 @@ item_type: dataset
 url: https://doi.org/https://apps.fs.usda.gov/arcx/rest/services/EDW/EDW_FSOfficeLocations_01/MapServer/0
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Forest Service Office Locations
+# Forest service office locations
 

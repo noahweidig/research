@@ -1,5 +1,5 @@
 ---
-title: States Strip Local Governments of Authority to Govern Causing Some Rural Communities to Suffer
+title: States strip local governments of authority to govern causing some rural communities to suffer
 authors:
 - Centner, Terence J.
 year: '2026'
@@ -16,10 +16,10 @@ item_type: journalArticle
 url: https://openalex.org/W7202013692
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# States Strip Local Governments of Authority to Govern Causing Some Rural Communities to Suffer
+# States strip local governments of authority to govern causing some rural communities to suffer
 
 ## Abstract
 

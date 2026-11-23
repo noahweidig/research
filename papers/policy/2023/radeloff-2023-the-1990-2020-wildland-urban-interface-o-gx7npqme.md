@@ -1,5 +1,5 @@
 ---
-title: The 1990-2020 wildland-urban interface of the conterminous United States - geospatial data (4th Edition)
+title: The 1990-2020 wildland-urban interface of the conterminous united states - geospatial data (4th edition)
 authors:
 - Radeloff, Volker C.
 - Helmers, David P.
@@ -21,10 +21,10 @@ item_type: dataset
 url: https://www.fs.usda.gov/rds/archive/catalog/RDS-2015-0012-4
 source_url: 'unpaywall: https://figshare.com/articles/dataset/The_2010_wildland-urban_interface_of_the_conterminous_United_States_-_geospatial_data_1st_edition/27006235'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# The 1990-2020 wildland-urban interface of the conterminous United States - geospatial data (4th Edition)
+# The 1990-2020 wildland-urban interface of the conterminous united states - geospatial data (4th edition)
 
 ## Full text
 

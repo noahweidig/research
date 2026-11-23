@@ -1,5 +1,5 @@
 ---
-title: Housing arrangement and vegetation factors associated with single-family home survival in the 2018 Camp Fire, California
+title: Housing arrangement and vegetation factors associated with single-family home survival in the 2018 camp fire, california
 authors:
 - Knapp, Eric E.
 - Valachovic, Yana S.
@@ -10,7 +10,7 @@ journal: Fire Ecology
 doi: 10.1186/s42408-021-00117-0
 tags:
 - WUI
-- exposure
+- fire risk
 - fuels
 - refwright:read:unread
 - wildfire
@@ -19,10 +19,10 @@ item_type: journalArticle
 url: https://doi.org/10.1186/s42408-021-00117-0
 source_url: 'unpaywall: https://fireecology.springeropen.com/track/pdf/10.1186/s42408-021-00117-0'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Housing arrangement and vegetation factors associated with single-family home survival in the 2018 Camp Fire, California
+# Housing arrangement and vegetation factors associated with single-family home survival in the 2018 camp fire, california
 
 ## Abstract
 

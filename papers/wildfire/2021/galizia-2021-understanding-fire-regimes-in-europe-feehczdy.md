@@ -20,7 +20,7 @@ item_type: journalArticle
 url: https://www.publish.csiro.au/wf/WF21081
 source_url: 'unpaywall: http://zaguan.unizar.es/record/151994'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
 # Understanding fire regimes in Europe

@@ -1,5 +1,5 @@
 ---
-title: Improving Landsat predictions of rangeland fractional cover with multitask learning and uncertainty
+title: Improving landsat predictions of rangeland fractional cover with multitask learning and uncertainty
 authors:
 - Allred, Brady W.
 - Bestelmeyer, Brandon T.
@@ -36,10 +36,10 @@ item_type: journalArticle
 url: https://onlinelibrary.wiley.com/doi/abs/10.1111/2041-210X.13564
 source_url: 'unpaywall: https://www.biorxiv.org/content/biorxiv/early/2020/08/04/2020.06.10.142489.full.pdf'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Improving Landsat predictions of rangeland fractional cover with multitask learning and uncertainty
+# Improving landsat predictions of rangeland fractional cover with multitask learning and uncertainty
 
 ## Abstract
 

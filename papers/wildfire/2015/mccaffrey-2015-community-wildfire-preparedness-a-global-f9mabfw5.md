@@ -1,5 +1,5 @@
 ---
-title: 'Community wildfire preparedness: A global state-of-the-knowledge summary of social science research'
+title: 'Community wildfire preparedness: a global state-of-the-knowledge summary of social science research'
 authors:
 - McCaffrey, Sarah
 year: '2015'
@@ -15,10 +15,10 @@ item_type: journalArticle
 url: https://doi.org/10.1007/s40725-015-0015-7
 source_url: 'unpaywall: https://link.springer.com/content/pdf/10.1007%2Fs40725-015-0015-7.pdf'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Community wildfire preparedness: A global state-of-the-knowledge summary of social science research
+# Community wildfire preparedness: a global state-of-the-knowledge summary of social science research
 
 ## Full text
 

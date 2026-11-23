@@ -1,5 +1,5 @@
 ---
-title: Individual Tree Diameter, Height, and Volume Functions for Longleaf Pine
+title: Individual tree diameter, height, and volume functions for longleaf pine
 authors:
 - Gonzalez-Benecke, Carlos A.
 - Gezan, Salvador A.
@@ -21,8 +21,8 @@ item_type: journalArticle
 url: http://dx.doi.org/10.5849/forsci.12-074
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Individual Tree Diameter, Height, and Volume Functions for Longleaf Pine
+# Individual tree diameter, height, and volume functions for longleaf pine
 

@@ -1,5 +1,5 @@
 ---
-title: Evidence for scale‐dependent topographic controls on wildfire spread
+title: Evidence for scale-dependent topographic controls on wildfire spread
 authors:
 - Povak, Nicholas A.
 - Hessburg, Paul F.
@@ -20,10 +20,10 @@ item_type: journalArticle
 url: https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecs2.2443
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Evidence for scale‐dependent topographic controls on wildfire spread
+# Evidence for scale-dependent topographic controls on wildfire spread
 
 ## Abstract
 

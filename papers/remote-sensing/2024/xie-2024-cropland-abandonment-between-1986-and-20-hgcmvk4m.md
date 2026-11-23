@@ -21,7 +21,7 @@ item_type: journalArticle
 url: https://dx.doi.org/10.1088/1748-9326/ad2d12
 source_url: 'unpaywall: https://www.osti.gov/servlets/purl/2370521'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
 # Cropland abandonment between 1986 and 2018 across the United States: spatiotemporal patterns and current land uses

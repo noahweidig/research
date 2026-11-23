@@ -1,10 +1,10 @@
 ---
-title: Climate change triggered synchronous woody plants recruitment in the last two centuries in the treeline ecotone of the Northern Hemisphere
+title: Climate change triggered synchronous woody plants recruitment in the last two centuries in the treeline ecotone of the northern hemisphere
 authors:
 - Cannone, N.
 - Malfasi, F.
 year: '2024'
-journal: Science of The Total Environment
+journal: Science of the Total Environment
 doi: 10.1016/j.scitotenv.2024.170953
 tags:
 - climate
@@ -19,10 +19,10 @@ item_type: journalArticle
 url: https://www.sciencedirect.com/science/article/pii/S0048969724010921
 source_url: 'unpaywall: https://irinsubria.uninsubria.it/bitstream/11383/2170991/2/1-s2.0-S0048969724010921-main.pdf'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Climate change triggered synchronous woody plants recruitment in the last two centuries in the treeline ecotone of the Northern Hemisphere
+# Climate change triggered synchronous woody plants recruitment in the last two centuries in the treeline ecotone of the northern hemisphere
 
 ## Abstract
 

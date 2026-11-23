@@ -1,5 +1,5 @@
 ---
-title: WUI Definitions
+title: WUI definitions
 authors:
 - Nist
 year: '2023'
@@ -17,10 +17,10 @@ item_type: webpage
 url: https://www.nist.gov/el/fire-research-division-73300/wildland-urban-interface-fire-73305/hazard-mitigation-methodology-9
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# WUI Definitions
+# WUI definitions
 
 ## Abstract
 
