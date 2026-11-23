@@ -1,5 +1,5 @@
 ---
-title: 'Guidance on Design and Construction of the Built Environment Against Wildland Urban Interface Fire Hazard: A Review'
+title: 'Guidance on design and construction of the built environment against wildland urban interface fire hazard: a review'
 authors:
 - Intini, Paolo
 - Ronchi, Enrico
@@ -20,10 +20,10 @@ item_type: journalArticle
 url: http://link.springer.com/10.1007/s10694-019-00902-z
 source_url: 'unpaywall: https://link.springer.com/content/pdf/10.1007/s10694-019-00902-z.pdf'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Guidance on Design and Construction of the Built Environment Against Wildland Urban Interface Fire Hazard: A Review
+# Guidance on design and construction of the built environment against wildland urban interface fire hazard: a review
 
 ## Abstract
 

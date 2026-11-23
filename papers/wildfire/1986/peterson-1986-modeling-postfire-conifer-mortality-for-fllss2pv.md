@@ -4,7 +4,7 @@ authors:
 - Peterson, David L.
 - Ryan, Kevin C
 year: '1986'
-journal: Environmental management
+journal: Environmental Management
 doi: 10.1007/bf01867732
 tags:
 - fire regimes
@@ -17,7 +17,7 @@ item_type: journalArticle
 url: https://doi.org/10.1007/bf01867732
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
 # Modeling postfire conifer mortality for long-range planning

@@ -1,5 +1,5 @@
 ---
-title: 'Ozone bioindicators and forest health: a guide to the evaluation, analysis, and interpretation of the ozone injury data in the Forest Inventory and Analysis Program'
+title: 'Ozone bioindicators and forest health: a guide to the evaluation, analysis, and interpretation of the ozone injury data in the forest inventory and analysis program'
 authors:
 - Smith, Gretchen C.
 - Coulston, John W.
@@ -20,10 +20,10 @@ item_type: report
 url: https://www.fs.usda.gov/research/treesearch/19036
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Ozone bioindicators and forest health: a guide to the evaluation, analysis, and interpretation of the ozone injury data in the Forest Inventory and Analysis Program
+# Ozone bioindicators and forest health: a guide to the evaluation, analysis, and interpretation of the ozone injury data in the forest inventory and analysis program
 
 ## Abstract
 

@@ -1,5 +1,5 @@
 ---
-title: Classifying Large Wildfires in the United States by Land Cover
+title: Classifying large wildfires in the United States by land cover
 authors:
 - Hanberry, Brice B.
 year: '2020'
@@ -17,10 +17,10 @@ item_type: journalArticle
 url: https://www.mdpi.com/2072-4292/12/18/2966
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Classifying Large Wildfires in the United States by Land Cover
+# Classifying large wildfires in the United States by land cover
 
 ## Abstract
 

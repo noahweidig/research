@@ -19,7 +19,7 @@ item_type: journalArticle
 url: https://www.sciencedirect.com/science/article/pii/S0169204625001951
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
 # The spatiotemporal patterns and dynamics of grassland established in the US conservation reserve program (CRP)

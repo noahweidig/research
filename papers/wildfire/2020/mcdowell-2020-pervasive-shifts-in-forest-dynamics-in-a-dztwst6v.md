@@ -29,6 +29,7 @@ journal: Science
 doi: 10.1126/science.aaz9463
 tags:
 - conservation
+- data:available
 - disturbance
 - forests
 - fuels
@@ -41,7 +42,7 @@ item_type: journalArticle
 url: https://www.science.org/doi/10.1126/science.aaz9463
 source_url: 'unpaywall: https://www.dora.lib4ri.ch/wsl/dload/wsl:23827/PDF2/view'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
 # Pervasive shifts in forest dynamics in a changing world

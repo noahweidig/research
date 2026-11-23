@@ -1,5 +1,5 @@
 ---
-title: 'Pathways to conservation persistence: Psychosocial drivers of durable grasslands following the Conservation Reserve Program'
+title: 'Pathways to conservation persistence: psychosocial drivers of durable grasslands following the conservation reserve program'
 authors:
 - Barnes, Jessica C.
 - Dayer, Ashley A.
@@ -19,10 +19,10 @@ item_type: journalArticle
 url: https://doi.org/10.2489/jswc.2023.00215
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Pathways to conservation persistence: Psychosocial drivers of durable grasslands following the Conservation Reserve Program
+# Pathways to conservation persistence: psychosocial drivers of durable grasslands following the conservation reserve program
 
 ## Abstract
 

@@ -25,7 +25,7 @@ item_type: journalArticle
 url: https://doi.org/10.1007/s10980-024-01985-y
 source_url: 'unpaywall: https://link.springer.com/content/pdf/10.1007/s10980-024-01985-y.pdf'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
 # Forest plant invasions in the eastern United States: evidence of invasion debt in the wildland-urban interface

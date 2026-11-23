@@ -1,5 +1,5 @@
 ---
-title: Virtually Fenced Goats for Grazing Fire Prone Juniper in Coastal Norway Wildland–Urban Interface
+title: Virtually fenced goats for grazing fire prone juniper in coastal norway wildland–urban interface
 authors:
 - Log, Torgrim
 - Gjedrem, Anna Marie
@@ -19,10 +19,10 @@ item_type: journalArticle
 url: https://www.mdpi.com/2571-6255/5/6/188
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Virtually Fenced Goats for Grazing Fire Prone Juniper in Coastal Norway Wildland–Urban Interface
+# Virtually fenced goats for grazing fire prone juniper in coastal norway wildland–urban interface
 
 ## Abstract
 

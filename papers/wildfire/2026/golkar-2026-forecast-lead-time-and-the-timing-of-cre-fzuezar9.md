@@ -8,6 +8,7 @@ year: '2026'
 journal: arXiv (Cornell University)
 doi: 10.48550/arxiv.2610.20918
 tags:
+- data:available
 - natural hazards
 - refwright:read:unread
 - united states
@@ -18,7 +19,7 @@ item_type: journalArticle
 url: https://openalex.org/W7222514020
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
 # Forecast lead time and the timing of crew deployment for weather-driven power outages using AI weather models

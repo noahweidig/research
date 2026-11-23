@@ -1,5 +1,5 @@
 ---
-title: Increasing Large Wildfire in the Eastern United States
+title: Increasing large wildfire in the eastern United States
 authors:
 - Donovan, Victoria M.
 - Crandall, Raelene M.
@@ -19,10 +19,10 @@ item_type: journalArticle
 url: https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023GL107051
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Increasing Large Wildfire in the Eastern United States
+# Increasing large wildfire in the eastern United States
 
 ## Abstract
 

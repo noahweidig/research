@@ -1,5 +1,5 @@
 ---
-title: A national survey of Conservation Reserve Program (CRP) participants on environmental effects, wildlife issues, and vegetation management on program lands
+title: A national survey of conservation reserve program (CRP) participants on environmental effects, wildlife issues, and vegetation management on program lands
 authors:
 - Allen, Arthur W.
 - Vandever, Mark W.
@@ -19,10 +19,10 @@ item_type: report
 url: https://pubs.usgs.gov/publication/53863
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# A national survey of Conservation Reserve Program (CRP) participants on environmental effects, wildlife issues, and vegetation management on program lands
+# A national survey of conservation reserve program (CRP) participants on environmental effects, wildlife issues, and vegetation management on program lands
 
 ## Abstract
 

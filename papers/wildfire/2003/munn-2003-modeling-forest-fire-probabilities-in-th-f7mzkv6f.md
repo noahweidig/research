@@ -1,5 +1,5 @@
 ---
-title: Modeling Forest Fire Probabilities in the South Central United States Using FIA Data
+title: Modeling forest fire probabilities in the south central united states using FIA data
 authors:
 - Munn, Ian A.
 - Zhai, Yushun
@@ -18,10 +18,10 @@ item_type: journalArticle
 url: https://academic.oup.com/sjaf/article/27/1/11/4782329
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Modeling Forest Fire Probabilities in the South Central United States Using FIA Data
+# Modeling forest fire probabilities in the south central united states using FIA data
 
 ## Abstract
 

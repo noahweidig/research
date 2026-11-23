@@ -17,7 +17,7 @@ item_type: thesis
 url: https://patron.uflib.ufl.edu/UFE0062783/00001/pdf
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
 # Patterns and drivers of large wildfires within and surrounding the wildland-urban interface of the eastern United States

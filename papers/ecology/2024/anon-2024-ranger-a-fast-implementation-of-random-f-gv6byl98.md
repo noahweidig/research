@@ -1,5 +1,5 @@
 ---
-title: 'ranger: A Fast Implementation of Random Forests'
+title: 'ranger: a fast implementation of random forests'
 authors: []
 year: '2024'
 journal: null
@@ -13,10 +13,10 @@ item_type: computerProgram
 url: https://cran.r-project.org/web/packages/ranger/index.html
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# ranger: A Fast Implementation of Random Forests
+# ranger: a fast implementation of random forests
 
 ## Abstract
 

@@ -7,7 +7,7 @@ authors:
 - Whittingham, Mark J
 - Dawson, Wayne
 year: '2021'
-journal: Ecology letters
+journal: Ecology Letters
 doi: 10.1111/ele.13687
 tags:
 - plant species
@@ -19,7 +19,7 @@ item_type: journalArticle
 url: https://doi.org/10.1111/ele.13687
 source_url: 'unpaywall: https://eprints.gla.ac.uk/364921/'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
 # Impacts of invasive plants on animal behaviour

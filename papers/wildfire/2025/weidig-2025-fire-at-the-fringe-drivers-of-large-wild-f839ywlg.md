@@ -1,5 +1,5 @@
 ---
-title: 'Fire at the fringe: Drivers of large wildfires in and near the wildland-urban interface of the eastern United States'
+title: 'Fire at the fringe: drivers of large wildfires in and near the wildland-urban interface of the eastern United States'
 authors:
 - Weidig, Noah C.
 - Wonkka, Carissa L.
@@ -19,10 +19,10 @@ item_type: conferencePaper
 url: https://events.rdmobile.com/Lists/Details/2996882
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Fire at the fringe: Drivers of large wildfires in and near the wildland-urban interface of the eastern United States
+# Fire at the fringe: drivers of large wildfires in and near the wildland-urban interface of the eastern United States
 
 ## Abstract
 

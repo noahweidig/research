@@ -1,5 +1,5 @@
 ---
-title: 'Wildfire Risk Assessment for Strategic Forest Management in the Southern United States: A Bayesian Network Modeling Approach'
+title: 'Wildfire risk assessment for strategic forest management in the southern United States: a bayesian network modeling approach'
 authors:
 - Nepal, Sandhya
 - Pomara, Lars Y.
@@ -20,10 +20,10 @@ item_type: journalArticle
 url: https://www.mdpi.com/2073-445X/12/12/2172
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Wildfire Risk Assessment for Strategic Forest Management in the Southern United States: A Bayesian Network Modeling Approach
+# Wildfire risk assessment for strategic forest management in the southern United States: a bayesian network modeling approach
 
 ## Abstract
 

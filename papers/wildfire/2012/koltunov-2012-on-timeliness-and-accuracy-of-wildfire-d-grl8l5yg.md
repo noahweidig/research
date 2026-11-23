@@ -1,5 +1,5 @@
 ---
-title: On timeliness and accuracy of wildfire detection by the GOES WF-ABBA algorithm over California during the 2006 fire season
+title: On timeliness and accuracy of wildfire detection by the GOES WF-ABBA algorithm over california during the 2006 fire season
 authors:
 - Koltunov, Alexander
 - Ustin, Susan L.
@@ -20,10 +20,10 @@ item_type: journalArticle
 url: https://www.sciencedirect.com/science/article/pii/S0034425712003549
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# On timeliness and accuracy of wildfire detection by the GOES WF-ABBA algorithm over California during the 2006 fire season
+# On timeliness and accuracy of wildfire detection by the GOES WF-ABBA algorithm over california during the 2006 fire season
 
 ## Abstract
 

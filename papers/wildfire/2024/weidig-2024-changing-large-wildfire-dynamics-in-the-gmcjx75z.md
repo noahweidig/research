@@ -19,7 +19,7 @@ item_type: journalArticle
 url: https://www.publish.csiro.au/WF/WF24110
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
 # Changing large wildfire dynamics in the wildland–urban interface of the eastern United States

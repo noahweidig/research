@@ -1,5 +1,5 @@
 ---
-title: 'In the wake of California wildfires: Promoting psychological resilience for individuals and communities.'
+title: 'In the wake of california wildfires: promoting psychological resilience for individuals and communities'
 authors:
 - Harrison, Sayward E.
 - Sheldon, Tamara Lynn
@@ -12,7 +12,7 @@ doi: 10.1037/pri0000347
 tags:
 - air quality
 - climate
-- exposure
+- fire risk
 - prescribed fire
 - public health
 - refwright:read:unread
@@ -24,10 +24,10 @@ item_type: journalArticle
 url: https://openalex.org/W7223207884
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# In the wake of California wildfires: Promoting psychological resilience for individuals and communities.
+# In the wake of california wildfires: promoting psychological resilience for individuals and communities
 
 ## Abstract
 

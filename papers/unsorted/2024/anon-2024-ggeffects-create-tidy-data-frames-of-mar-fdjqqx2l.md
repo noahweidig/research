@@ -1,5 +1,5 @@
 ---
-title: 'ggeffects: Create Tidy Data Frames of Marginal Effects for ''ggplot'' from Model Outputs'
+title: 'ggeffects: create tidy data frames of marginal effects for ''ggplot'' from model outputs'
 authors: []
 year: '2024'
 journal: null
@@ -13,10 +13,10 @@ item_type: computerProgram
 url: https://cran.r-project.org/web/packages/ggeffects/index.html
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# ggeffects: Create Tidy Data Frames of Marginal Effects for 'ggplot' from Model Outputs
+# ggeffects: create tidy data frames of marginal effects for 'ggplot' from model outputs
 
 ## Abstract
 

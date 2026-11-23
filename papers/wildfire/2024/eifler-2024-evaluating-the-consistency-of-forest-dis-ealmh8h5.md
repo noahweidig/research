@@ -9,6 +9,7 @@ journal: null
 doi: 10.5194/egusphere-2024-3534
 tags:
 - climate
+- code:available
 - disturbance
 - forests
 - fuels
@@ -20,7 +21,7 @@ item_type: journalArticle
 url: https://egusphere.copernicus.org/preprints/2024/egusphere-2024-3534/
 source_url: 'unpaywall: https://bg.copernicus.org/articles/23/1291/2026/bg-23-1291-2026.pdf'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
 # Evaluating the consistency of forest disturbance datasets in continental USA

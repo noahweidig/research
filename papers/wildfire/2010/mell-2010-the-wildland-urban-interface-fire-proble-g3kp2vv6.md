@@ -19,7 +19,7 @@ item_type: journalArticle
 url: http://www.publish.csiro.au/?paper=WF07131
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
 # The wildland - urban interface fire problem - current approaches and research needs

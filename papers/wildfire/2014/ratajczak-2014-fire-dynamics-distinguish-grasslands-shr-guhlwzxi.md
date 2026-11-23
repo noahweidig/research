@@ -1,5 +1,5 @@
 ---
-title: Fire dynamics distinguish grasslands, shrublands and woodlands as alternative attractors in the Central Great Plains of North America
+title: Fire dynamics distinguish grasslands, shrublands and woodlands as alternative attractors in the central great plains of North America
 authors:
 - Ratajczak, Zak
 - Nippert, Jesse B.
@@ -19,10 +19,10 @@ item_type: journalArticle
 url: https://onlinelibrary.wiley.com/doi/abs/10.1111/1365-2745.12311
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Fire dynamics distinguish grasslands, shrublands and woodlands as alternative attractors in the Central Great Plains of North America
+# Fire dynamics distinguish grasslands, shrublands and woodlands as alternative attractors in the central great plains of North America
 
 ## Abstract
 

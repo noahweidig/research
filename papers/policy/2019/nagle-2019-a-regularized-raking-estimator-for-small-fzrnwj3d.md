@@ -1,5 +1,5 @@
 ---
-title: A Regularized Raking Estimator for Small-Area Mapping from Forest Inventory Surveys
+title: A regularized raking estimator for small-area mapping from forest inventory surveys
 authors:
 - Nagle, Nicholas N.
 - Schroeder, Todd A.
@@ -18,10 +18,10 @@ item_type: journalArticle
 url: https://www.mdpi.com/1999-4907/10/11/1045
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# A Regularized Raking Estimator for Small-Area Mapping from Forest Inventory Surveys
+# A regularized raking estimator for small-area mapping from forest inventory surveys
 
 ## Abstract
 

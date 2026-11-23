@@ -16,7 +16,7 @@ item_type: journalArticle
 url: https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1466-8238.2012.00769.x
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
 # Fuel shapes the fire–climate relationship: evidence from Mediterranean ecosystems

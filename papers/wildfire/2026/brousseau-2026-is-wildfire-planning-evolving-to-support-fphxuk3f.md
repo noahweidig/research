@@ -1,5 +1,5 @@
 ---
-title: Is Wildfire Planning Evolving to Support Communities? Taking Stock of 20 years of Community Wildfire Protection Plans in the state of Colorado, United States
+title: Is wildfire planning evolving to support communities? Taking stock of 20 years of community wildfire protection plans in the state of colorado, united states
 authors:
 - Brousseau, Jennifer
 - Courtney, Karissa
@@ -30,10 +30,10 @@ item_type: journalArticle
 url: https://openalex.org/W7202099560
 source_url: 'unpaywall: https://link.springer.com/content/pdf/10.1007/s42532-026-00260-5.pdf'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Is Wildfire Planning Evolving to Support Communities? Taking Stock of 20 years of Community Wildfire Protection Plans in the state of Colorado, United States
+# Is wildfire planning evolving to support communities? Taking stock of 20 years of community wildfire protection plans in the state of colorado, united states
 
 ## Abstract
 

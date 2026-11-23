@@ -1,5 +1,5 @@
 ---
-title: Spatiotemporal prediction of wildfire size extremes with Bayesian finite sample maxima
+title: Spatiotemporal prediction of wildfire size extremes with bayesian finite sample maxima
 authors:
 - Joseph, Maxwell B.
 - Rossi, Matthew W.
@@ -25,10 +25,10 @@ item_type: journalArticle
 url: https://onlinelibrary.wiley.com/doi/abs/10.1002/eap.1898
 source_url: 'unpaywall: https://www.biorxiv.org/content/biorxiv/early/2019/02/16/384115.full.pdf'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Spatiotemporal prediction of wildfire size extremes with Bayesian finite sample maxima
+# Spatiotemporal prediction of wildfire size extremes with bayesian finite sample maxima
 
 ## Abstract
 

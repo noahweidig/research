@@ -15,7 +15,7 @@ item_type: presentation
 url: https://vimeo.com/1125882277
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
 # Changing large wildfire regime dynamics in the eastern United States

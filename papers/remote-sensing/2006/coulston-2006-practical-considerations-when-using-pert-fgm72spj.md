@@ -1,12 +1,12 @@
 ---
-title: 'Practical Considerations When Using Perturbed Forest Inventory Plot Locations To Develop Spatial Models: A Case Study'
+title: 'Practical considerations when using perturbed forest inventory plot locations to develop spatial models: a case study'
 authors:
 - Coulston, John W.
 - Reams, Gregory A.
 - McRoberts, Ronald E.
 - Smith, William D.
 year: '2006'
-journal: 'In: Proceedings of the sixth annual forest inventory and analysis symposium; 2004 September 21-24; Denver, CO. Gen. Tech. Rep. WO-70. Washington, DC: U.S. Department of Agriculture Forest Service. 126p.'
+journal: 'In: Proceedings of the Sixth Annual Forest Inventory and Analysis Symposium; 2004 September 21-24; Denver, CO. Gen. Tech. Rep. WO-70. Washington, DC: U.S. Department of Agriculture Forest Service. 126p.'
 doi: null
 tags:
 - agriculture
@@ -19,10 +19,10 @@ item_type: journalArticle
 url: https://research.fs.usda.gov/treesearch/14248
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Practical Considerations When Using Perturbed Forest Inventory Plot Locations To Develop Spatial Models: A Case Study
+# Practical considerations when using perturbed forest inventory plot locations to develop spatial models: a case study
 
 ## Abstract
 

@@ -1,5 +1,5 @@
 ---
-title: 'Frontiers in socio-environmental research: Components, connections, scale, and context'
+title: 'Frontiers in socio-environmental research: components, connections, scale, and context'
 authors:
 - Pulver, S.
 - Ulibarri, N.
@@ -23,10 +23,10 @@ item_type: journalArticle
 url: https://escholarship.org/uc/item/34b3h4h0
 source_url: 'unpaywall: https://www.ecologyandsociety.org/vol23/iss3/art23/ES-2018-10280.pdf'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Frontiers in socio-environmental research: Components, connections, scale, and context
+# Frontiers in socio-environmental research: components, connections, scale, and context
 
 ## Abstract
 

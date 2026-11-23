@@ -1,5 +1,5 @@
 ---
-title: 'tuneRanger: Tune Random Forest of the ''ranger'' Package'
+title: 'tuneRanger: tune random forest of the ''ranger'' package'
 authors: []
 year: '2024'
 journal: null
@@ -13,10 +13,10 @@ item_type: computerProgram
 url: https://cran.r-project.org/web/packages/tuneRanger/index.html
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# tuneRanger: Tune Random Forest of the 'ranger' Package
+# tuneRanger: tune random forest of the 'ranger' package
 
 ## Abstract
 

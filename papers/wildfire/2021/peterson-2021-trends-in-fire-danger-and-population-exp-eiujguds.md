@@ -1,5 +1,5 @@
 ---
-title: Trends in Fire Danger and Population Exposure along the Wildland–Urban Interface
+title: Trends in fire danger and population exposure along the wildland–urban interface
 authors:
 - Peterson, Geoffrey Colin L.
 - Prince, Steven E.
@@ -9,7 +9,7 @@ journal: Environmental Science & Technology
 doi: 10.1021/acs.est.1c03835
 tags:
 - WUI
-- exposure
+- fire risk
 - refwright:read:unread
 - smoke
 - united states
@@ -20,10 +20,10 @@ item_type: journalArticle
 url: https://doi.org/10.1021/acs.est.1c03835
 source_url: 'unpaywall: https://www.ncbi.nlm.nih.gov/pmc/articles/12230743'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Trends in Fire Danger and Population Exposure along the Wildland–Urban Interface
+# Trends in fire danger and population exposure along the wildland–urban interface
 
 ## Abstract
 

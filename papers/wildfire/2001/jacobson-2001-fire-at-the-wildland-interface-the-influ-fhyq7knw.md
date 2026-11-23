@@ -1,5 +1,5 @@
 ---
-title: 'Fire at the Wildland Interface: The Influence of Experience and Mass Media on Public Knowledge, Attitudes, and Behavioral Intentions'
+title: 'Fire at the wildland interface: the influence of experience and mass media on public knowledge, attitudes, and behavioral intentions'
 authors:
 - Jacobson, Susan K.
 - Monroe, Martha C.
@@ -18,10 +18,10 @@ item_type: journalArticle
 url: https://www.jstor.org/stable/3784420
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Fire at the Wildland Interface: The Influence of Experience and Mass Media on Public Knowledge, Attitudes, and Behavioral Intentions
+# Fire at the wildland interface: the influence of experience and mass media on public knowledge, attitudes, and behavioral intentions
 
 ## Abstract
 

@@ -1,5 +1,5 @@
 ---
-title: Land-atmosphere feedback amplifies circulation-dominant fire weather risk over eastern Siberia
+title: Land-atmosphere feedback amplifies circulation-dominant fire weather risk over eastern siberia
 authors:
 - Bai, Dongping
 - Yu, Haipeng
@@ -14,6 +14,7 @@ journal: Communications Earth & Environment
 doi: 10.1038/s43247-026-04150-2
 tags:
 - climate
+- data:available
 - refwright:read:unread
 - united states
 - weather
@@ -23,10 +24,10 @@ item_type: journalArticle
 url: https://openalex.org/W7221356347
 source_url: 'unpaywall: https://www.nature.com/articles/s43247-026-04150-2_reference.pdf'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Land-atmosphere feedback amplifies circulation-dominant fire weather risk over eastern Siberia
+# Land-atmosphere feedback amplifies circulation-dominant fire weather risk over eastern siberia
 
 ## Abstract
 

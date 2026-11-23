@@ -1,5 +1,5 @@
 ---
-title: The Impact of the Conservation Reserve Program on Nearby Property Values
+title: The impact of the conservation reserve program on nearby property values
 authors:
 - Wibbenmeyer, Matthew
 - Liao, Yanjun (Penny)
@@ -19,10 +19,10 @@ item_type: report
 url: https://ideas.repec.org//p/rff/dpaper/dp-26-02.html
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# The Impact of the Conservation Reserve Program on Nearby Property Values
+# The impact of the conservation reserve program on nearby property values
 
 ## Abstract
 

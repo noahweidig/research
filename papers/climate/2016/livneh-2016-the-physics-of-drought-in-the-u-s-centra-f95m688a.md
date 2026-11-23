@@ -1,5 +1,5 @@
 ---
-title: The Physics of Drought in the U.S. Central Great Plains
+title: The physics of drought in the U.S. central great plains
 authors:
 - Livneh, Ben
 - Hoerling, Martin P.
@@ -17,10 +17,10 @@ item_type: journalArticle
 url: https://journals.ametsoc.org/view/journals/clim/29/18/jcli-d-15-0697.1.xml
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# The Physics of Drought in the U.S. Central Great Plains
+# The physics of drought in the U.S. central great plains
 
 ## Abstract
 

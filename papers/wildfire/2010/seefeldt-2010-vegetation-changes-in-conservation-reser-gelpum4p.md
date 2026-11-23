@@ -1,12 +1,12 @@
 ---
-title: Vegetation changes in Conservation Reserve Program lands in interior Alaska
+title: Vegetation changes in conservation reserve program lands in interior alaska
 authors:
 - Seefeldt, Steven S.
 - Conn, Jeffery S.
 - Zhang, Mingchu
 - Kaspari, Phil N.
 year: '2010'
-journal: Agriculture, Ecosystems & Environment
+journal: Agriculture Ecosystems and Environment
 doi: 10.1016/j.agee.2009.09.001
 tags:
 - CRP
@@ -19,10 +19,10 @@ item_type: journalArticle
 url: https://www.sciencedirect.com/science/article/pii/S0167880909002643
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Vegetation changes in Conservation Reserve Program lands in interior Alaska
+# Vegetation changes in conservation reserve program lands in interior alaska
 
 ## Abstract
 

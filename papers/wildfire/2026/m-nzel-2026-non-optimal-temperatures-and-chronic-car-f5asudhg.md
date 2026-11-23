@@ -13,8 +13,8 @@ year: '2026'
 journal: Seminars in Immunopathology
 doi: 10.1007/s00281-026-01085-w
 tags:
-- exposure
 - fire regimes
+- fire risk
 - mortality
 - public health
 - refwright:read:unread
@@ -25,7 +25,7 @@ item_type: journalArticle
 url: https://openalex.org/W7214166749
 source_url: 'unpaywall: https://link.springer.com/content/pdf/10.1007/s00281-026-01085-w.pdf'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
 # Non optimal temperatures and chronic cardiovascular diseases

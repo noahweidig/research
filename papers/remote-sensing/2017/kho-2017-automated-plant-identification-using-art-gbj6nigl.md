@@ -7,7 +7,7 @@ authors:
 - Mosleh, Mogeeb
 - Dhillon, Sarinder Kaur
 year: '2017'
-journal: Frontiers in Life Science
+journal: Frontiers in LIFE Science
 doi: 10.1080/21553769.2017.1412361
 tags:
 - refwright:read:unread
@@ -19,7 +19,7 @@ item_type: journalArticle
 url: https://doi.org/10.1080/21553769.2017.1412361
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
 # Automated plant identification using artificial neural network and support vector machine
