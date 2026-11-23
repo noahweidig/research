@@ -1,5 +1,5 @@
 ---
-title: Characterizing Risks for Wildfires and Prescribed Fires in the Great Plains
+title: Characterizing risks for wildfires and prescribed fires in the great plains
 authors:
 - Liu, Zifei
 - Okafor, Izuchukwu Oscar
@@ -17,10 +17,10 @@ item_type: journalArticle
 url: https://www.mdpi.com/2571-6255/8/6/235
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Characterizing Risks for Wildfires and Prescribed Fires in the Great Plains
+# Characterizing risks for wildfires and prescribed fires in the great plains
 
 ## Abstract
 

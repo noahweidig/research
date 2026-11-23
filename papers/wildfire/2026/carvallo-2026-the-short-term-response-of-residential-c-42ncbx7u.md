@@ -23,7 +23,7 @@ item_type: journalArticle
 url: https://openalex.org/W7220982251
 source_url: 'unpaywall: https://www.researchsquare.com/article/rs-6733308/latest.pdf'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
 # The short-term response of residential customers to long-duration power interruptions

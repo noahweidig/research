@@ -1,5 +1,5 @@
 ---
-title: 'Establishing Relationships between Drought Indices and Wildfire Danger Outputs: A Test Case for the California-Nevada Drought Early Warning System'
+title: 'Establishing relationships between drought indices and wildfire danger outputs: a test case for the california-nevada drought early warning system'
 authors:
 - McEvoy, Daniel J.
 - Hobbins, Mike
@@ -21,10 +21,10 @@ item_type: journalArticle
 url: https://www.mdpi.com/2225-1154/7/4/52
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Establishing Relationships between Drought Indices and Wildfire Danger Outputs: A Test Case for the California-Nevada Drought Early Warning System
+# Establishing relationships between drought indices and wildfire danger outputs: a test case for the california-nevada drought early warning system
 
 ## Abstract
 

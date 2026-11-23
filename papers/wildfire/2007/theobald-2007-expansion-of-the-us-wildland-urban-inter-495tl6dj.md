@@ -17,7 +17,7 @@ item_type: journalArticle
 url: https://linkinghub.elsevier.com/retrieve/pii/S0169204607001491
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
 # Expansion of the US wildland–urban interface

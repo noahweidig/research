@@ -1,5 +1,5 @@
 ---
-title: 'adespatial: Multivariate Multiscale Spatial Analysis'
+title: 'adespatial: multivariate multiscale spatial analysis'
 authors: []
 year: '2026'
 journal: null
@@ -15,10 +15,10 @@ item_type: computerProgram
 url: https://cran.r-project.org/web/packages/adespatial/index.html
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# adespatial: Multivariate Multiscale Spatial Analysis
+# adespatial: multivariate multiscale spatial analysis
 
 ## Abstract
 

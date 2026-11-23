@@ -5,7 +5,7 @@ authors:
 - DeGloria, Stephen D.
 - Elliot, Robert
 year: '1999'
-journal: intermountain Journal of sciences
+journal: Intermountain Journal of Sciences
 doi: null
 tags:
 - ecology
@@ -17,7 +17,7 @@ item_type: journalArticle
 url: http://download.osgeo.org/qgis/doc/reference-docs/Terrain_Ruggedness_Index.pdf
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
 # Index that quantifies topographic heterogeneity

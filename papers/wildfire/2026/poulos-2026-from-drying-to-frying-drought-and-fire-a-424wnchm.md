@@ -1,5 +1,5 @@
 ---
-title: 'From drying to frying: drought and fire as interacting drivers of vegetation change in piñon-juniper-oak forests of the Chisos Mountains, Big Bend National Park, USA'
+title: 'From drying to frying: drought and fire as interacting drivers of vegetation change in piñon-juniper-oak forests of the chisos mountains, big bend national park, USA'
 authors:
 - Poulos, Helen M.
 - Barton, Andrew M.
@@ -19,10 +19,10 @@ item_type: journalArticle
 url: https://openalex.org/W7213459719
 source_url: 'unpaywall: https://link.springer.com/content/pdf/10.1186/s42408-026-00582-5.pdf'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# From drying to frying: drought and fire as interacting drivers of vegetation change in piñon-juniper-oak forests of the Chisos Mountains, Big Bend National Park, USA
+# From drying to frying: drought and fire as interacting drivers of vegetation change in piñon-juniper-oak forests of the chisos mountains, big bend national park, USA
 
 ## Abstract
 

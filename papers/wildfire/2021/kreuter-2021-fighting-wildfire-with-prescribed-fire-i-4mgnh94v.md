@@ -1,5 +1,5 @@
 ---
-title: 'Fighting wildfire with prescribed fire in the Southern Great Plains, USA: Liability, regulatory and social factors'
+title: 'Fighting wildfire with prescribed fire in the southern great plains, USA: liability, regulatory and social factors'
 authors:
 - Kreuter, Urs P.
 - Treadwell, Morgan L.
@@ -19,8 +19,8 @@ item_type: journalArticle
 url: https://uknowledge.uky.edu/igc/24/1/28/
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Fighting wildfire with prescribed fire in the Southern Great Plains, USA: Liability, regulatory and social factors
+# Fighting wildfire with prescribed fire in the southern great plains, USA: liability, regulatory and social factors
 

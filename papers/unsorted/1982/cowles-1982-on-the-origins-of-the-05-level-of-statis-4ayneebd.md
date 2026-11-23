@@ -15,7 +15,7 @@ item_type: journalArticle
 url: https://doi.org/10.1037/0003-066X.37.5.553
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
 # On the origins of the .05 level of statistical significance

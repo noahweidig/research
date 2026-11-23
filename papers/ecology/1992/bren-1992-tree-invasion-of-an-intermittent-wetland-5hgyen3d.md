@@ -1,5 +1,5 @@
 ---
-title: Tree invasion of an intermittent wetland in relation to changes in the flooding frequency of the River Murray, Australia
+title: Tree invasion of an intermittent wetland in relation to changes in the flooding frequency of the river murray, australia
 authors:
 - Bren, L. J.
 year: '1992'
@@ -14,10 +14,10 @@ item_type: journalArticle
 url: https://doi.org/10.1111/j.1442-9993.1992.tb00822.x
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Tree invasion of an intermittent wetland in relation to changes in the flooding frequency of the River Murray, Australia
+# Tree invasion of an intermittent wetland in relation to changes in the flooding frequency of the river murray, australia
 
 ## Abstract
 

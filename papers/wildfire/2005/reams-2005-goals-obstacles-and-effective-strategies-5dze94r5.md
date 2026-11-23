@@ -1,5 +1,5 @@
 ---
-title: Goals, obstacles and effective strategies of wildfire mitigation programs in the Wildland–Urban Interface
+title: Goals, obstacles and effective strategies of wildfire mitigation programs in the wildland–urban interface
 authors:
 - Reams, Margaret A.
 - Haines, Terry K.
@@ -19,8 +19,8 @@ item_type: journalArticle
 url: https://www.sciencedirect.com/science/article/pii/S138993410500047X
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Goals, obstacles and effective strategies of wildfire mitigation programs in the Wildland–Urban Interface
+# Goals, obstacles and effective strategies of wildfire mitigation programs in the wildland–urban interface
 

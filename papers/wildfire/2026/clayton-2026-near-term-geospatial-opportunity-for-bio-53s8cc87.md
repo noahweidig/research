@@ -19,7 +19,7 @@ item_type: journalArticle
 url: https://openalex.org/W7204231162
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
 # Near-term, geospatial opportunity for biomass carbon storage to address the wildfire and climate crises

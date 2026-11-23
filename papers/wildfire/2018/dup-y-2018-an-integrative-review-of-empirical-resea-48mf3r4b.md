@@ -1,5 +1,5 @@
 ---
-title: An Integrative Review of Empirical Research on Perceptions and Behaviors Related to Prescribed Burning and Wildfire in the United States
+title: An integrative review of empirical research on perceptions and behaviors related to prescribed burning and wildfire in the United States
 authors:
 - Dupéy, Lauren Nicole
 - Smith, Jordan W.
@@ -18,8 +18,8 @@ item_type: journalArticle
 url: http://link.springer.com/10.1007/s00267-018-1031-8
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# An Integrative Review of Empirical Research on Perceptions and Behaviors Related to Prescribed Burning and Wildfire in the United States
+# An integrative review of empirical research on perceptions and behaviors related to prescribed burning and wildfire in the United States
 

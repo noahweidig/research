@@ -1,5 +1,5 @@
 ---
-title: 'FireGen: Quantifying Wildfire Risk by Simulation'
+title: 'FireGen: quantifying wildfire risk by simulation'
 authors:
 - Hineman, Allyson
 - Kleiber, William
@@ -21,10 +21,10 @@ item_type: journalArticle
 url: https://openalex.org/W7220986561
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# FireGen: Quantifying Wildfire Risk by Simulation
+# FireGen: quantifying wildfire risk by simulation
 
 ## Abstract
 

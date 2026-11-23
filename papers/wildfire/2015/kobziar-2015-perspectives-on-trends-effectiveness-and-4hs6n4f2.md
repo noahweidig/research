@@ -1,5 +1,5 @@
 ---
-title: Perspectives on Trends, Effectiveness, and Impediments to Prescribed Burning in the Southern U.S.
+title: Perspectives on trends, effectiveness, and impediments to prescribed burning in the southern U.S
 authors:
 - Kobziar, Leda N.
 - Godwin, Daniel
@@ -20,10 +20,10 @@ item_type: journalArticle
 url: https://www.mdpi.com/1999-4907/6/3/561
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Perspectives on Trends, Effectiveness, and Impediments to Prescribed Burning in the Southern U.S.
+# Perspectives on trends, effectiveness, and impediments to prescribed burning in the southern U.S
 
 ## Abstract
 

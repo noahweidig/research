@@ -26,7 +26,7 @@ item_type: journalArticle
 url: https://www.pnas.org/doi/full/10.1073/pnas.1718850115
 source_url: 'unpaywall: https://www.ncbi.nlm.nih.gov/pmc/articles/5879688'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
 # Rapid growth of the US wildland-urban interface raises wildfire risk

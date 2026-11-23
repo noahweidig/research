@@ -1,5 +1,5 @@
 ---
-title: Analysis of the Cost and Cost Components of Conducting Prescribed Fires in the Great Plains
+title: Analysis of the cost and cost components of conducting prescribed fires in the great plains
 authors:
 - Watts, Maddie
 - Russell, Aaron
@@ -18,10 +18,10 @@ item_type: journalArticle
 url: https://www.sciencedirect.com/science/article/pii/S1550742423001240
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Analysis of the Cost and Cost Components of Conducting Prescribed Fires in the Great Plains
+# Analysis of the cost and cost components of conducting prescribed fires in the great plains
 
 ## Abstract
 

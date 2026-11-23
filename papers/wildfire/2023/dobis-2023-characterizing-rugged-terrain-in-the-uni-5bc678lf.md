@@ -21,7 +21,7 @@ item_type: report
 url: https://handle.nal.usda.gov/10113/8134137
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
 # Characterizing rugged terrain in the United States

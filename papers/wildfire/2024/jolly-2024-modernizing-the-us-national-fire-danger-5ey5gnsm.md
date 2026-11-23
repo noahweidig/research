@@ -1,5 +1,5 @@
 ---
-title: 'Modernizing the US National Fire Danger Rating System (version 4): Simplified fuel models and improved live and dead fuel moisture calculations'
+title: 'Modernizing the US national fire danger rating system (version 4): simplified fuel models and improved live and dead fuel moisture calculations'
 authors:
 - Jolly, W. Matt
 - Freeborn, Patrick H.
@@ -7,9 +7,10 @@ authors:
 - Wallace, Jon
 - Brittain, Stuart
 year: '2024'
-journal: Environmental Modelling & Software
+journal: Environmental Modelling and Software
 doi: 10.1016/j.envsoft.2024.106181
 tags:
+- code:available
 - fuels
 - refwright:read:unread
 - wildfire
@@ -18,10 +19,10 @@ item_type: journalArticle
 url: https://linkinghub.elsevier.com/retrieve/pii/S1364815224002421
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Modernizing the US National Fire Danger Rating System (version 4): Simplified fuel models and improved live and dead fuel moisture calculations
+# Modernizing the US national fire danger rating system (version 4): simplified fuel models and improved live and dead fuel moisture calculations
 
 ## Abstract
 

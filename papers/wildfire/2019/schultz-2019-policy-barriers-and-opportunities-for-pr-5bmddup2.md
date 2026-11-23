@@ -17,7 +17,7 @@ item_type: journalArticle
 url: https://www.publish.csiro.au/wf/WF19040
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
 # Policy barriers and opportunities for prescribed fire application in the western United States

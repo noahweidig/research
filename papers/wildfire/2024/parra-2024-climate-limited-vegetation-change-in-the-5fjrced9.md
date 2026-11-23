@@ -1,5 +1,5 @@
 ---
-title: Climate-limited vegetation change in the conterminous United States of America
+title: Climate-limited vegetation change in the conterminous united states of america
 authors:
 - Parra, Adriana
 - Greenberg, Jonathan A.
@@ -8,6 +8,7 @@ journal: Global Change Biology
 doi: 10.1111/gcb.17204
 tags:
 - climate
+- data:available
 - fuels
 - land cover
 - refwright:read:unread
@@ -17,10 +18,10 @@ item_type: journalArticle
 url: https://onlinelibrary.wiley.com/doi/10.1111/gcb.17204
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Climate-limited vegetation change in the conterminous United States of America
+# Climate-limited vegetation change in the conterminous united states of america
 
 ## Abstract
 

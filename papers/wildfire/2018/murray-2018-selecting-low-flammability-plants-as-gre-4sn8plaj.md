@@ -1,5 +1,5 @@
 ---
-title: Selecting Low-Flammability Plants as Green Firebreaks within Sustainable Urban Garden Design
+title: Selecting low-flammability plants as green firebreaks within sustainable urban garden design
 authors:
 - Murray, Brad R.
 - Martin, Leigh J.
@@ -22,10 +22,10 @@ item_type: journalArticle
 url: https://www.mdpi.com/2571-6255/1/1/15
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Selecting Low-Flammability Plants as Green Firebreaks within Sustainable Urban Garden Design
+# Selecting low-flammability plants as green firebreaks within sustainable urban garden design
 
 ## Abstract
 

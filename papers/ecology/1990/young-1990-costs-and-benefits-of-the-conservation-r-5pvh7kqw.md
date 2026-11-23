@@ -1,5 +1,5 @@
 ---
-title: Costs and benefits of the Conservation Reserve Program
+title: Costs and benefits of the conservation reserve program
 authors:
 - Young, C. Edwin
 - Osborn, C. Tim
@@ -17,10 +17,10 @@ item_type: journalArticle
 url: https://www.tandfonline.com/doi/full/10.1080/00224561.1990.12456499
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Costs and benefits of the Conservation Reserve Program
+# Costs and benefits of the conservation reserve program
 
 ## Abstract
 

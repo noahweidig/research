@@ -1,5 +1,5 @@
 ---
-title: 'Containment lines, PODs and suppression success: A case study of the 2021 Schneider Springs Fire'
+title: 'Containment lines, PODs and suppression success: a case study of the 2021 schneider springs fire'
 authors:
 - Young, Jesse D.
 - O’Connor, Christopher D.
@@ -23,10 +23,10 @@ item_type: journalArticle
 url: https://research.fs.usda.gov/treesearch/80978
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Containment lines, PODs and suppression success: A case study of the 2021 Schneider Springs Fire
+# Containment lines, PODs and suppression success: a case study of the 2021 schneider springs fire
 
 ## Abstract
 

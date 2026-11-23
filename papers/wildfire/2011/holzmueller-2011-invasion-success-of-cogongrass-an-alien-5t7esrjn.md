@@ -17,7 +17,7 @@ item_type: journalArticle
 url: https://doi.org/10.1007/s10530-010-9837-1
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
 # Invasion success of cogongrass, an alien C4 perennial grass, in the southeastern United States: exploration of the ecological basis

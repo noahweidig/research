@@ -22,7 +22,7 @@ item_type: journalArticle
 url: https://www.publish.csiro.au/wf/WF10042
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
 # Reducing fuels in the wildland–urban interface: community perceptions of agency fuels treatments

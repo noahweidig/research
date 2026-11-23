@@ -1,5 +1,5 @@
 ---
-title: Linking burn severity to pre-fire forest structure and weather on the Dixie fire offers potential to map prospective burn severity
+title: Linking burn severity to pre-fire forest structure and weather on the dixie fire offers potential to map prospective burn severity
 authors:
 - Estabrook, Thomas
 - Fried, Jeremy S.
@@ -22,10 +22,10 @@ item_type: journalArticle
 url: https://cdnsciencepub.com/doi/10.1139/cjfr-2024-0305
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Linking burn severity to pre-fire forest structure and weather on the Dixie fire offers potential to map prospective burn severity
+# Linking burn severity to pre-fire forest structure and weather on the dixie fire offers potential to map prospective burn severity
 
 ## Abstract
 

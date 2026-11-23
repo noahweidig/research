@@ -21,7 +21,7 @@ item_type: journalArticle
 url: https://openalex.org/W7172445730
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
 # Monitoring post-fire ecohydrological recovery through integrated remote sensing and ecological modeling

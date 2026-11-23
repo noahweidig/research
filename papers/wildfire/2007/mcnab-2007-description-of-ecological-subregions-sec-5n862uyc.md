@@ -1,5 +1,5 @@
 ---
-title: 'Description of ecological subregions: sections of the conterminous United States'
+title: 'Description of ecological subregions: sections of the conterminous united states'
 authors:
 - McNab, W.H.
 - Cleland, David T.
@@ -24,10 +24,10 @@ item_type: report
 url: https://www.fs.usda.gov/treesearch/pubs/48669
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Description of ecological subregions: sections of the conterminous United States
+# Description of ecological subregions: sections of the conterminous united states
 
 ## Abstract
 

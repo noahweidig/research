@@ -1,5 +1,5 @@
 ---
-title: Comparing Geography and Severity of Managed Wildfires in California and the Southwest USA before and after the Implementation of the 2009 Policy Guidance
+title: Comparing geography and severity of managed wildfires in california and the southwest USA before and after the implementation of the 2009 policy guidance
 authors:
 - Iniguez, Jose M.
 - Evans, Alexander M.
@@ -26,10 +26,10 @@ item_type: journalArticle
 url: https://www.mdpi.com/1999-4907/13/5/793
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Comparing Geography and Severity of Managed Wildfires in California and the Southwest USA before and after the Implementation of the 2009 Policy Guidance
+# Comparing geography and severity of managed wildfires in california and the southwest USA before and after the implementation of the 2009 policy guidance
 
 ## Abstract
 

@@ -1,5 +1,5 @@
 ---
-title: 'emmeans: Estimated Marginal Means, aka Least-Squares Means'
+title: 'emmeans: estimated marginal means, aka least-squares means'
 authors: []
 year: '2024'
 journal: null
@@ -13,10 +13,10 @@ item_type: computerProgram
 url: https://cran.r-project.org/web/packages/emmeans/index.html
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# emmeans: Estimated Marginal Means, aka Least-Squares Means
+# emmeans: estimated marginal means, aka least-squares means
 
 ## Abstract
 

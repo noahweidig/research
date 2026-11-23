@@ -18,7 +18,7 @@ item_type: journalArticle
 url: https://www.sciencedirect.com/science/article/pii/S0301479724001403
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
 # Variability in weather and site properties affect fuel and fire behavior following fuel treatments in semiarid sagebrush-steppe

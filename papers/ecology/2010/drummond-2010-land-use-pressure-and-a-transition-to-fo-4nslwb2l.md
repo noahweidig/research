@@ -1,10 +1,10 @@
 ---
-title: Land-use Pressure and a Transition to Forest-cover Loss in the Eastern United States
+title: Land-use pressure and a transition to forest-cover loss in the eastern United States
 authors:
 - Drummond, Mark A.
 - Loveland, Thomas R.
 year: '2010'
-journal: BioScience
+journal: Bioscience
 doi: 10.1525/bio.2010.60.4.7
 tags:
 - agriculture
@@ -16,10 +16,10 @@ item_type: journalArticle
 url: https://doi.org/10.1525/bio.2010.60.4.7
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Land-use Pressure and a Transition to Forest-cover Loss in the Eastern United States
+# Land-use pressure and a transition to forest-cover loss in the eastern United States
 
 ## Abstract
 

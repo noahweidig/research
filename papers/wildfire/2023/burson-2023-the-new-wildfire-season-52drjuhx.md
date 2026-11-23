@@ -1,5 +1,5 @@
 ---
-title: THE NEW WILDFIRE SEASON
+title: The new wildfire season
 authors:
 - Burson, Deann
 - Donovan, Victoria M.
@@ -23,8 +23,8 @@ item_type: journalArticle
 url: https://agrilife.org/westtexasrangelands/files/2023/08/the-new-wildfire-season.pdf
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# THE NEW WILDFIRE SEASON
+# The new wildfire season
 

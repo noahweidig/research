@@ -1,5 +1,5 @@
 ---
-title: Drivers and ecological impacts of a wildfire outbreak in the southern Appalachian Mountains after decades of fire exclusion
+title: Drivers and ecological impacts of a wildfire outbreak in the southern appalachian mountains after decades of fire exclusion
 authors:
 - Reilly, Matthew J.
 - Norman, Steven P.
@@ -20,10 +20,10 @@ item_type: journalArticle
 url: https://linkinghub.elsevier.com/retrieve/pii/S0378112722004947
 source_url: 'unpaywall: https://www.osti.gov/servlets/purl/2425646'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Drivers and ecological impacts of a wildfire outbreak in the southern Appalachian Mountains after decades of fire exclusion
+# Drivers and ecological impacts of a wildfire outbreak in the southern appalachian mountains after decades of fire exclusion
 
 ## Full text
 

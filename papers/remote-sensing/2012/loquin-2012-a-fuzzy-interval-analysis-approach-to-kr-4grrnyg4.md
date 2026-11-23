@@ -16,7 +16,7 @@ item_type: journalArticle
 url: https://doi.org/10.1007/s00500-011-0768-2
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
 # A fuzzy interval analysis approach to kriging with ill-known variogram and data

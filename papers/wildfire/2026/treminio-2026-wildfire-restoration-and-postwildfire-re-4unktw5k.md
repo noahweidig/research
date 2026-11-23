@@ -1,5 +1,5 @@
 ---
-title: Wildfire, Restoration, and Postwildfire Rehabilitation Effects on Wind Erosion in the Great Basin
+title: Wildfire, restoration, and postwildfire rehabilitation effects on wind erosion in the great basin
 authors:
 - Treminio, Ronald S.
 - Webb, Nicholas P.
@@ -10,7 +10,7 @@ authors:
 - Dubois, David
 - Faist, Akasha M.
 - Kachergis, Emily
-- Houdeshell, Carrie‐Ann
+- Houdeshell, Carrie-Ann
 year: '2026'
 journal: Rangeland Ecology & Management
 doi: 10.1016/j.rama.2026.09.004
@@ -25,10 +25,10 @@ item_type: journalArticle
 url: https://openalex.org/W7223270386
 source_url: 'unpaywall: https://www.biorxiv.org/content/biorxiv/early/2026/01/20/2026.01.16.699976.full.pdf'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Wildfire, Restoration, and Postwildfire Rehabilitation Effects on Wind Erosion in the Great Basin
+# Wildfire, restoration, and postwildfire rehabilitation effects on wind erosion in the great basin
 
 ## Abstract
 

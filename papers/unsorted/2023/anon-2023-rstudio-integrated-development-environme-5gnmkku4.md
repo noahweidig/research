@@ -1,5 +1,5 @@
 ---
-title: 'RStudio: Integrated Development Environment for R'
+title: 'RStudio: integrated development environment for R'
 authors: []
 year: '2023'
 journal: null
@@ -13,8 +13,8 @@ item_type: computerProgram
 url: http://www.rstudio.com/
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# RStudio: Integrated Development Environment for R
+# RStudio: integrated development environment for R
 

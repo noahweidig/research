@@ -1,5 +1,5 @@
 ---
-title: USGS National Structures Dataset
+title: USGS national structures dataset
 authors:
 - USGS
 year: '2025'
@@ -16,8 +16,8 @@ item_type: dataset
 url: https://www.sciencebase.gov/catalog/item/4f70b240e4b058caae3f8e1b
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# USGS National Structures Dataset
+# USGS national structures dataset
 
