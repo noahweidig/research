@@ -1,5 +1,5 @@
 ---
-title: A brief guide to model selection, multimodel inference and model averaging in behavioural ecology using Akaike’s information criterion
+title: A brief guide to model selection, multimodel inference and model averaging in behavioural ecology using akaike’s information criterion
 authors:
 - Symonds, Matthew R. E.
 - Moussalli, Adnan
@@ -14,10 +14,10 @@ item_type: journalArticle
 url: http://link.springer.com/10.1007/s00265-010-1037-6
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# A brief guide to model selection, multimodel inference and model averaging in behavioural ecology using Akaike’s information criterion
+# A brief guide to model selection, multimodel inference and model averaging in behavioural ecology using akaike’s information criterion
 
 ## Abstract
 

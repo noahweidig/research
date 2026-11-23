@@ -1,5 +1,5 @@
 ---
-title: 'Rekindling fire: The resurgence and challenges of prescribed fire culture in Texas'
+title: 'Rekindling fire: the resurgence and challenges of prescribed fire culture in texas'
 authors:
 - Brooke, David
 - Taylor, Charles A. “Butch”
@@ -19,10 +19,10 @@ item_type: journalArticle
 url: https://openalex.org/W7172433713
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Rekindling fire: The resurgence and challenges of prescribed fire culture in Texas
+# Rekindling fire: the resurgence and challenges of prescribed fire culture in texas
 
 ## Abstract
 

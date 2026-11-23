@@ -20,7 +20,7 @@ item_type: journalArticle
 url: https://www.ingentaconnect.com/content/10.1505/146554822835224801
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
 # Estimating wildfire suppression costs: a systematic review

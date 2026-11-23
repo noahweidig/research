@@ -1,5 +1,5 @@
 ---
-title: 'Game Theory in Disaster Management: Enhancing Collaborative Prescribed Fire Strategies for Public and Private Stakeholders'
+title: 'Game theory in disaster management: enhancing collaborative prescribed fire strategies for public and private stakeholders'
 authors:
 - Choi, Jia
 - Zhuang, Jun
@@ -7,7 +7,6 @@ year: '2026'
 journal: IISE Annual Conference &amp; Expo 2025
 doi: 10.21872/annual2025_5926
 tags:
-- exposure
 - fire risk
 - prescribed fire
 - refwright:read:unread
@@ -17,10 +16,10 @@ item_type: journalArticle
 url: https://openalex.org/W7214962213
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Game Theory in Disaster Management: Enhancing Collaborative Prescribed Fire Strategies for Public and Private Stakeholders
+# Game theory in disaster management: enhancing collaborative prescribed fire strategies for public and private stakeholders
 
 ## Abstract
 

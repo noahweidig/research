@@ -1,5 +1,5 @@
 ---
-title: 'Vegetation type shapes wildfire emissions in northern Algeria: Implications for Mediterranean forest management'
+title: 'Vegetation type shapes wildfire emissions in northern Algeria: implications for Mediterranean forest management'
 authors:
 - Moghli, Aymen
 - Kouachi, Mostefa E.
@@ -19,10 +19,10 @@ item_type: journalArticle
 url: https://openalex.org/W7172125292
 source_url: 'unpaywall: https://www.ecoeet.com/pdf-225431-143043?filename=Vegetation-type-shapes-wi.pdf'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Vegetation type shapes wildfire emissions in northern Algeria: Implications for Mediterranean forest management
+# Vegetation type shapes wildfire emissions in northern Algeria: implications for Mediterranean forest management
 
 ## Abstract
 

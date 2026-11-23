@@ -7,7 +7,7 @@ journal: null
 doi: null
 tags:
 - WUI
-- exposure
+- fire risk
 - refwright:read:unread
 - united states
 - wildfire
@@ -16,7 +16,7 @@ item_type: webpage
 url: https://headwaterseconomics.org/natural-hazards/structures-destroyed-by-wildfire/
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
 # Wildfires destroy thousands of structures each year

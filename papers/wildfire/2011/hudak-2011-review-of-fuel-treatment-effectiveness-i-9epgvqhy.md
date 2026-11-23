@@ -1,5 +1,5 @@
 ---
-title: Review of Fuel Treatment Effectiveness in Forests and Rangelands
+title: Review of fuel treatment effectiveness in forests and rangelands
 authors:
 - Hudak, Andrew T.
 - Rickert, Ian
@@ -23,10 +23,10 @@ item_type: journalArticle
 url: https://www.academia.edu/download/46990126/rmrs_gtr252.pdf
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Review of Fuel Treatment Effectiveness in Forests and Rangelands
+# Review of fuel treatment effectiveness in forests and rangelands
 
 ## Abstract
 

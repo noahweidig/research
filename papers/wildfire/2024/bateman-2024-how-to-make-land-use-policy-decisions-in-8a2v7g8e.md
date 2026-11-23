@@ -1,5 +1,5 @@
 ---
-title: 'How to make land use policy decisions: Integrating science and economics to deliver connected climate, biodiversity, and food objectives'
+title: 'How to make land use policy decisions: integrating science and economics to deliver connected climate, biodiversity, and food objectives'
 authors:
 - Bateman, Ian J.
 - Binner, Amy
@@ -56,10 +56,10 @@ item_type: journalArticle
 url: https://www.pnas.org/doi/full/10.1073/pnas.2407961121
 source_url: 'unpaywall: https://www.research.ed.ac.uk/en/publications/f1aae8c3-4ac8-4ef7-9cd4-3997ef31eb83'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# How to make land use policy decisions: Integrating science and economics to deliver connected climate, biodiversity, and food objectives
+# How to make land use policy decisions: integrating science and economics to deliver connected climate, biodiversity, and food objectives
 
 ## Abstract
 

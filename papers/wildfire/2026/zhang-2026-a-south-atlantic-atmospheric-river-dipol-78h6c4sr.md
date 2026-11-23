@@ -1,5 +1,5 @@
 ---
-title: A South Atlantic atmospheric river dipole as a key precursor of Amazon wildfires
+title: A south atlantic atmospheric river dipole as a key precursor of Amazon wildfires
 authors:
 - Zhang, Shiyue
 - Dong, Wenhao
@@ -9,6 +9,7 @@ journal: Nature Communications
 doi: 10.1038/s41467-026-78572-z
 tags:
 - climate
+- data:available
 - refwright:read:unread
 - wildfire
 zotero_key: 78H6C4SR
@@ -16,10 +17,10 @@ item_type: journalArticle
 url: https://openalex.org/W7221796816
 source_url: 'unpaywall: https://www.nature.com/articles/s41467-026-78572-z_reference.pdf'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# A South Atlantic atmospheric river dipole as a key precursor of Amazon wildfires
+# A south atlantic atmospheric river dipole as a key precursor of Amazon wildfires
 
 ## Abstract
 

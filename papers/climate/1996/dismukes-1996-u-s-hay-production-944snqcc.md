@@ -1,5 +1,5 @@
 ---
-title: U.S. Hay Production
+title: U.S. hay production
 authors:
 - Dismukes, Robert
 - Zepp, Glenn
@@ -7,20 +7,21 @@ year: '1996'
 journal: null
 doi: 10.22004/ag.econ.278805
 tags:
+- CRP
 - agriculture
 - drought
 - finance
-- refwright:read:unread
+- refwright:read:reading
 - united states
 zotero_key: 944SNQCC
 item_type: report
 url: https://ageconsearch.umn.edu/record/278805
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# U.S. Hay Production
+# U.S. hay production
 
 ## Abstract
 

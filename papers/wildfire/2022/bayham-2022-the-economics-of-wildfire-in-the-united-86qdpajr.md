@@ -1,5 +1,5 @@
 ---
-title: The Economics of Wildfire in the United States
+title: The economics of wildfire in the United States
 authors:
 - Bayham, Jude
 - Yoder, Jonathan K.
@@ -20,10 +20,10 @@ item_type: journalArticle
 url: https://www.annualreviews.org/doi/10.1146/annurev-resource-111920-014804
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# The Economics of Wildfire in the United States
+# The economics of wildfire in the United States
 
 ## Abstract
 

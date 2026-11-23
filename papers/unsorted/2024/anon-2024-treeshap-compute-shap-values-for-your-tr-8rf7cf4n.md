@@ -1,5 +1,5 @@
 ---
-title: 'treeshap: Compute SHAP Values for Your Tree-Based Models Using the ''TreeSHAP'' Algorithm'
+title: 'treeshap: compute SHAP values for your tree-based models using the ''TreeSHAP'' algorithm'
 authors: []
 year: '2024'
 journal: null
@@ -14,10 +14,10 @@ item_type: computerProgram
 url: https://cran.r-project.org/web/packages/treeshap/index.html
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# treeshap: Compute SHAP Values for Your Tree-Based Models Using the 'TreeSHAP' Algorithm
+# treeshap: compute SHAP values for your tree-based models using the 'TreeSHAP' algorithm
 
 ## Abstract
 

@@ -15,7 +15,7 @@ doi: 10.1002/eap.1376
 tags:
 - WUI
 - ecology
-- exposure
+- fire risk
 - refwright:read:unread
 - statistics
 - wildfire
@@ -24,7 +24,7 @@ item_type: journalArticle
 url: https://esajournals.onlinelibrary.wiley.com/doi/10.1002/eap.1376
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
 # Factors related to building loss due to wildfires in the conterminous united states

@@ -1,5 +1,5 @@
 ---
-title: 'Burning from the ground up: the structure and impact of Prescribed Burn Associations in the United States'
+title: 'Burning from the ground up: the structure and impact of prescribed burn associations in the United States'
 authors:
 - Deak, Alison
 - Fawcett, Jennifer E.
@@ -21,10 +21,10 @@ item_type: journalArticle
 url: https://doi.org/10.1071/WF24178
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Burning from the ground up: the structure and impact of Prescribed Burn Associations in the United States
+# Burning from the ground up: the structure and impact of prescribed burn associations in the United States
 
 ## Abstract
 

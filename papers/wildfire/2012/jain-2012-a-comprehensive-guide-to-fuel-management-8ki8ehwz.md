@@ -1,5 +1,5 @@
 ---
-title: A Comprehensive Guide to Fuel Management Practices for Dry Mixed Conifer Forests in the Northwestern United States
+title: A comprehensive guide to fuel management practices for dry mixed conifer forests in the northwestern United States
 authors:
 - Jain, Theresa B.
 - Battaglia, Mike A.
@@ -22,10 +22,10 @@ item_type: journalArticle
 url: https://digitalcommons.unl.edu/jfspsynthesis/13
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# A Comprehensive Guide to Fuel Management Practices for Dry Mixed Conifer Forests in the Northwestern United States
+# A comprehensive guide to fuel management practices for dry mixed conifer forests in the northwestern United States
 
 ## Abstract
 

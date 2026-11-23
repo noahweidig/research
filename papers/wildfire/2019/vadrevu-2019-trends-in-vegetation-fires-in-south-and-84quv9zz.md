@@ -1,5 +1,5 @@
 ---
-title: Trends in Vegetation fires in South and Southeast Asian Countries
+title: Trends in vegetation fires in south and southeast Asian countries
 authors:
 - Vadrevu, Krishna Prasad
 - Lasko, Kristofer
@@ -23,10 +23,10 @@ item_type: journalArticle
 url: https://www.nature.com/articles/s41598-019-43940-x
 source_url: 'unpaywall: https://www.nature.com/articles/s41598-019-43940-x.pdf'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Trends in Vegetation fires in South and Southeast Asian Countries
+# Trends in vegetation fires in south and southeast Asian countries
 
 ## Abstract
 

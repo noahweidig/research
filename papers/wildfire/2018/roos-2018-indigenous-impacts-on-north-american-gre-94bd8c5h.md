@@ -1,5 +1,5 @@
 ---
-title: Indigenous impacts on North American Great Plains fire regimes of the past millennium
+title: Indigenous impacts on north American great plains fire regimes of the past millennium
 authors:
 - Roos, Christopher I.
 - Zedeño, María Nieves
@@ -19,10 +19,10 @@ item_type: journalArticle
 url: https://www.pnas.org/doi/full/10.1073/pnas.1805259115
 source_url: 'unpaywall: https://www.ncbi.nlm.nih.gov/pmc/articles/6094123'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Indigenous impacts on North American Great Plains fire regimes of the past millennium
+# Indigenous impacts on north American great plains fire regimes of the past millennium
 
 ## Abstract
 

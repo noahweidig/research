@@ -1,5 +1,5 @@
 ---
-title: A fire deficit persists across diverse North American forests despite recent increases in area burned
+title: A fire deficit persists across diverse north American forests despite recent increases in area burned
 authors:
 - Parks, Sean A.
 - Guiterman, Christopher H.
@@ -36,10 +36,10 @@ item_type: journalArticle
 url: https://www.nature.com/articles/s41467-025-56333-8
 source_url: 'unpaywall: https://www.nature.com/articles/s41467-025-56333-8.pdf'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# A fire deficit persists across diverse North American forests despite recent increases in area burned
+# A fire deficit persists across diverse north American forests despite recent increases in area burned
 
 ## Abstract
 

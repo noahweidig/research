@@ -15,6 +15,7 @@ journal: Geoscientific Model Development
 doi: 10.5194/gmd-19-8627-2026
 tags:
 - climate
+- data:available
 - fire regimes
 - refwright:read:unread
 - statistics
@@ -25,7 +26,7 @@ item_type: journalArticle
 url: https://gmd.copernicus.org/articles/19/8627/2026/
 source_url: 'unpaywall: https://gmd.copernicus.org/articles/19/8627/2026/gmd-19-8627-2026.pdf'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
 # Multi-season evaluation of temperature and wind in the marine boundary layer along the United States northeast coast in the high-resolution rapid refresh model

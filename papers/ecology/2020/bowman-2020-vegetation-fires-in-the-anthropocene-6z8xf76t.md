@@ -1,5 +1,5 @@
 ---
-title: Vegetation fires in the Anthropocene
+title: Vegetation fires in the anthropocene
 authors:
 - Bowman, David M. J. S.
 - Kolden, Crystal A.
@@ -8,7 +8,7 @@ authors:
 - van der Werf, Guido R.
 - Flannigan, Mike D.
 year: '2020'
-journal: Nature Reviews Earth & Environment
+journal: Nature Reviews Earth and Environment
 doi: 10.1038/s43017-020-0085-3
 tags:
 - climate
@@ -20,10 +20,10 @@ item_type: journalArticle
 url: https://www.nature.com/articles/s43017-020-0085-3
 source_url: 'unpaywall: https://research.vu.nl/en/publications/ef2e9785-0178-4f01-8863-c2020369323a'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Vegetation fires in the Anthropocene
+# Vegetation fires in the anthropocene
 
 ## Abstract
 

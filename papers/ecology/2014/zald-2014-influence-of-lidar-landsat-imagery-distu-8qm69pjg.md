@@ -1,5 +1,5 @@
 ---
-title: Influence of lidar, Landsat imagery, disturbance history, plot location accuracy, and plot size on accuracy of imputation maps of forest composition and structure
+title: Influence of lidar, landsat imagery, disturbance history, plot location accuracy, and plot size on accuracy of imputation maps of forest composition and structure
 authors:
 - Zald, Harold S. J.
 - Ohmann, Janet L.
@@ -21,10 +21,10 @@ item_type: journalArticle
 url: https://www.sciencedirect.com/science/article/pii/S0034425713004537
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Influence of lidar, Landsat imagery, disturbance history, plot location accuracy, and plot size on accuracy of imputation maps of forest composition and structure
+# Influence of lidar, landsat imagery, disturbance history, plot location accuracy, and plot size on accuracy of imputation maps of forest composition and structure
 
 ## Abstract
 

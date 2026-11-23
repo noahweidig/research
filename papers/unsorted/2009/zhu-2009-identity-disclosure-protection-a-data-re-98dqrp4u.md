@@ -1,5 +1,5 @@
 ---
-title: 'Identity disclosure protection: A data reconstruction approach for privacy-preserving data mining'
+title: 'Identity disclosure protection: a data reconstruction approach for privacy-preserving data mining'
 authors:
 - Zhu, Dan
 - Li, Xiao-Bai
@@ -15,10 +15,10 @@ item_type: journalArticle
 url: https://www.sciencedirect.com/science/article/pii/S0167923609001559
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Identity disclosure protection: A data reconstruction approach for privacy-preserving data mining
+# Identity disclosure protection: a data reconstruction approach for privacy-preserving data mining
 
 ## Abstract
 

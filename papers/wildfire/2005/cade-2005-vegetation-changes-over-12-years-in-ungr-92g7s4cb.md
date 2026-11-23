@@ -1,5 +1,5 @@
 ---
-title: Vegetation changes over 12 years in ungrazed and grazed Conservation Reserve Program Grasslands in the central and southern plains
+title: Vegetation changes over 12 years in ungrazed and grazed conservation reserve program grasslands in the central and southern plains
 authors:
 - Cade, Brian S.
 - Vandever, Mark W.
@@ -22,10 +22,10 @@ item_type: journalArticle
 url: https://pubs.usgs.gov/publication/70180880
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Vegetation changes over 12 years in ungrazed and grazed Conservation Reserve Program Grasslands in the central and southern plains
+# Vegetation changes over 12 years in ungrazed and grazed conservation reserve program grasslands in the central and southern plains
 
 ## Abstract
 

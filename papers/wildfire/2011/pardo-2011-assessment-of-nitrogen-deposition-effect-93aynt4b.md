@@ -1,11 +1,11 @@
 ---
-title: Assessment of Nitrogen deposition effects and empirical critical loads of Nitrogen for ecoregions of the United States
+title: Assessment of nitrogen deposition effects and empirical critical loads of nitrogen for ecoregions of the United States
 authors:
 - Pardo, Linda
 - Robin-Abbott, Molly
 - C. T., eds Driscoll
 year: '2011'
-journal: 'Gen. Tech. Rep. NRS-80. Newtown Square, PA: U.S. Department of Agriculture, Forest Service, Northern Research Station. 291 p.'
+journal: 'Gen. Tech. Rep. NRS-80. Newtown Square, PA: U.S. Department of Agriculture, Forest Service, Northern Research Station. 291 P.'
 doi: 10.2737/NRS-GTR-80
 tags:
 - climate
@@ -19,10 +19,10 @@ item_type: journalArticle
 url: https://research.fs.usda.gov/treesearch/38109
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Assessment of Nitrogen deposition effects and empirical critical loads of Nitrogen for ecoregions of the United States
+# Assessment of nitrogen deposition effects and empirical critical loads of nitrogen for ecoregions of the United States
 
 ## Abstract
 

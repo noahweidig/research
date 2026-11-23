@@ -22,7 +22,7 @@ item_type: journalArticle
 url: https://www.science.org/doi/10.1126/sciadv.1603055
 source_url: 'unpaywall: https://www.ncbi.nlm.nih.gov/pmc/articles/5435420'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
 # Divergence of species responses to climate change

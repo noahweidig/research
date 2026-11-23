@@ -1,5 +1,5 @@
 ---
-title: 'Managing Fire and Biodiversity in the Wildland-Urban Interface: A Role for Green Firebreaks'
+title: 'Managing fire and biodiversity in the wildland-urban interface: a role for green firebreaks'
 authors:
 - Curran, Timothy J.
 - Perry, George LW.
@@ -19,10 +19,10 @@ item_type: journalArticle
 url: https://www.mdpi.com/2571-6255/1/1/3
 source_url: 'unpaywall: https://hdl.handle.net/10182/9430'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Managing Fire and Biodiversity in the Wildland-Urban Interface: A Role for Green Firebreaks
+# Managing fire and biodiversity in the wildland-urban interface: a role for green firebreaks
 
 ## Abstract
 

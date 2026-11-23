@@ -20,7 +20,7 @@ item_type: journalArticle
 url: https://openalex.org/W7172698966
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
 # Spatially interpolated non-smoke and smoke PM2.5 concentrations for the US from 2006-2024

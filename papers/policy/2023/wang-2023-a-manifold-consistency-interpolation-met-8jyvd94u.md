@@ -1,5 +1,5 @@
 ---
-title: A Manifold Consistency Interpolation Method of Poisoning Attacks Against Semi-Supervised Model
+title: A manifold consistency interpolation method of poisoning attacks against semi-supervised model
 authors:
 - Wang, Xinlei
 - Wang, Xiaojuan
@@ -19,10 +19,10 @@ item_type: journalArticle
 url: https://ieeexplore.ieee.org/abstract/document/10105919
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# A Manifold Consistency Interpolation Method of Poisoning Attacks Against Semi-Supervised Model
+# A manifold consistency interpolation method of poisoning attacks against semi-supervised model
 
 ## Abstract
 

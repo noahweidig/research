@@ -1,15 +1,15 @@
 ---
-title: 'The Mental Health Impacts of Wildfire Exposure: A Scoping Review of the Quantitative Evidence'
+title: 'The mental health impacts of wildfire exposure: a scoping review of the quantitative evidence'
 authors:
 - Teigen, Katharine
 - Coomes, David
-- Nori‐Sarma, Amruta
+- Nori-Sarma, Amruta
 - Casey, Joan A.
 year: '2026'
 journal: Current Environmental Health Reports
 doi: 10.1007/s40572-026-00547-5
 tags:
-- exposure
+- fire risk
 - public health
 - refwright:read:unread
 - resilience
@@ -20,10 +20,10 @@ item_type: journalArticle
 url: https://openalex.org/W7203639507
 source_url: 'unpaywall: https://link.springer.com/content/pdf/10.1007/s40572-026-00547-5.pdf'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# The Mental Health Impacts of Wildfire Exposure: A Scoping Review of the Quantitative Evidence
+# The mental health impacts of wildfire exposure: a scoping review of the quantitative evidence
 
 ## Abstract
 

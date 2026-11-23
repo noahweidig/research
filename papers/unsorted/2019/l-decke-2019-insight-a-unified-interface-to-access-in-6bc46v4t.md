@@ -1,5 +1,5 @@
 ---
-title: 'insight: A Unified Interface to Access Information from Model Objects in R'
+title: 'insight: a unified interface to access information from model objects in R'
 authors:
 - Lüdecke, Daniel
 - Waggoner, Philip
@@ -8,6 +8,7 @@ year: '2019'
 journal: Journal of Open Source Software
 doi: 10.21105/joss.01412
 tags:
+- code:available
 - refwright:read:unread
 - software
 - statistics
@@ -17,10 +18,10 @@ item_type: journalArticle
 url: http://joss.theoj.org/papers/10.21105/joss.01412
 source_url: 'unpaywall: https://joss.theoj.org/papers/10.21105/joss.01412.pdf'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# insight: A Unified Interface to Access Information from Model Objects in R
+# insight: a unified interface to access information from model objects in R
 
 ## Abstract
 

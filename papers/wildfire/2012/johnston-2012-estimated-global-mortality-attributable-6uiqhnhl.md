@@ -1,5 +1,5 @@
 ---
-title: Estimated Global Mortality Attributable to Smoke from Landscape Fires
+title: Estimated global mortality attributable to smoke from landscape fires
 authors:
 - Johnston, Fay H.
 - Henderson, Sarah B.
@@ -28,10 +28,10 @@ item_type: journalArticle
 url: https://ehp.niehs.nih.gov/doi/full/10.1289/ehp.1104422
 source_url: 'unpaywall: https://www.ncbi.nlm.nih.gov/pmc/articles/3346787'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Estimated Global Mortality Attributable to Smoke from Landscape Fires
+# Estimated global mortality attributable to smoke from landscape fires
 
 ## Abstract
 

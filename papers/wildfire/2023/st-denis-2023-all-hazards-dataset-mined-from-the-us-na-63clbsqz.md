@@ -1,5 +1,5 @@
 ---
-title: All-hazards dataset mined from the US National Incident Management System 1999-2020
+title: All-hazards dataset mined from the US national incident management system 1999-2020
 authors:
 - St. Denis, Lise Ann
 - Short, Karen C.
@@ -22,10 +22,10 @@ item_type: journalArticle
 url: https://www.nature.com/articles/s41597-023-01955-0
 source_url: 'unpaywall: https://www.nature.com/articles/s41597-023-01955-0.pdf'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# All-hazards dataset mined from the US National Incident Management System 1999-2020
+# All-hazards dataset mined from the US national incident management system 1999-2020
 
 ## Abstract
 
