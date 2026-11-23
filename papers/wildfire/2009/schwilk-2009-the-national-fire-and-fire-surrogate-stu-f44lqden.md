@@ -1,5 +1,5 @@
 ---
-title: 'The national Fire and Fire Surrogate study: effects of fuel reduction methods on forest vegetation structure and fuels'
+title: 'The national fire and fire surrogate study: effects of fuel reduction methods on forest vegetation structure and fuels'
 authors:
 - Schwilk, Dylan W.
 - Keeley, Jon E.
@@ -31,10 +31,10 @@ item_type: journalArticle
 url: https://onlinelibrary.wiley.com/doi/abs/10.1890/07-1747.1
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# The national Fire and Fire Surrogate study: effects of fuel reduction methods on forest vegetation structure and fuels
+# The national fire and fire surrogate study: effects of fuel reduction methods on forest vegetation structure and fuels
 
 ## Abstract
 

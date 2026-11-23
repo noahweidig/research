@@ -1,5 +1,5 @@
 ---
-title: Environmental and Social Factors Influencing Wildfires in the Upper Midwest, United States
+title: Environmental and social factors influencing wildfires in the upper midwest, united states
 authors:
 - Cardille, Jeffrey A.
 - Ventura, Stephen J.
@@ -20,10 +20,10 @@ item_type: journalArticle
 url: https://onlinelibrary.wiley.com/doi/abs/10.1890/1051-0761%282001%29011%5B0111%3AEASFIW%5D2.0.CO%3B2
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Environmental and Social Factors Influencing Wildfires in the Upper Midwest, United States
+# Environmental and social factors influencing wildfires in the upper midwest, united states
 
 ## Abstract
 

@@ -1,5 +1,5 @@
 ---
-title: Exploring origins, invasion history and genetic diversity of Imperata cylindrica (L.) P. Beauv. (Cogongrass) in the United States using genotyping by sequencing
+title: Exploring origins, invasion history and genetic diversity of imperata cylindrica (L.) P. Beauv. (cogongrass) in the United States using genotyping by sequencing
 authors:
 - Burrell, A. Millie
 - Pepper, Alan E.
@@ -13,6 +13,8 @@ year: '2015'
 journal: Molecular Ecology
 doi: 10.1111/mec.13167
 tags:
+- data:available
+- fuels
 - plant species
 - rangelands
 - refwright:read:unread
@@ -22,10 +24,10 @@ item_type: journalArticle
 url: https://onlinelibrary.wiley.com/doi/abs/10.1111/mec.13167
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Exploring origins, invasion history and genetic diversity of Imperata cylindrica (L.) P. Beauv. (Cogongrass) in the United States using genotyping by sequencing
+# Exploring origins, invasion history and genetic diversity of imperata cylindrica (L.) P. Beauv. (cogongrass) in the United States using genotyping by sequencing
 
 ## Abstract
 

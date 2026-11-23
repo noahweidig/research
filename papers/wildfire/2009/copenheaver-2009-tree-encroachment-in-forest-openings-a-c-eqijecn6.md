@@ -1,5 +1,5 @@
 ---
-title: 'Tree Encroachment in Forest Openings: a Case Study From Buffalo Mountain, Virginia'
+title: 'Tree encroachment in forest openings: a case study from buffalo mountain, virginia'
 authors:
 - Copenheaver, Carolyn
 - Fuhrman, Nicholas
@@ -21,10 +21,10 @@ item_type: journalArticle
 url: https://doi.org/10.2179/0008-7475(2004)069<0297:TEIFOA>2.0.CO;2
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Tree Encroachment in Forest Openings: a Case Study From Buffalo Mountain, Virginia
+# Tree encroachment in forest openings: a case study from buffalo mountain, virginia
 
 ## Abstract
 

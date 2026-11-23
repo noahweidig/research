@@ -1,5 +1,5 @@
 ---
-title: Imputing Forest Structure Attributes from Stand Inventory and Remotely Sensed Data in Western Oregon, USA
+title: Imputing forest structure attributes from stand inventory and remotely sensed data in western oregon, USA
 authors:
 - Hudak, Andrew T.
 - Haren, A. Tod
@@ -19,8 +19,8 @@ item_type: journalArticle
 url: https://academic.oup.com/forestscience/article/60/2/253-269/4584026
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Imputing Forest Structure Attributes from Stand Inventory and Remotely Sensed Data in Western Oregon, USA
+# Imputing forest structure attributes from stand inventory and remotely sensed data in western oregon, USA
 

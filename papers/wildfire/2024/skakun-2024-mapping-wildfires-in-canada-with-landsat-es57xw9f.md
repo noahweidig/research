@@ -1,5 +1,5 @@
 ---
-title: Mapping wildfires in Canada with Landsat MSS to extend the National Burned Area Composite (NBAC) time series back to 1972
+title: Mapping wildfires in Canada with landsat MSS to extend the national burned area composite (NBAC) time series back to 1972
 authors:
 - Skakun, Rob
 - Castilla, Guillermo
@@ -20,10 +20,10 @@ item_type: journalArticle
 url: https://connectsci.au/wf/article/33/12/WF24138/84701/Mapping-wildfires-in-Canada-with-Landsat-MSS-to
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Mapping wildfires in Canada with Landsat MSS to extend the National Burned Area Composite (NBAC) time series back to 1972
+# Mapping wildfires in Canada with landsat MSS to extend the national burned area composite (NBAC) time series back to 1972
 
 ## Abstract
 

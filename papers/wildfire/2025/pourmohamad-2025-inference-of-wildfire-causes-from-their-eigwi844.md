@@ -1,5 +1,5 @@
 ---
-title: Inference of Wildfire Causes From Their Physical, Biological, Social and Management Attributes
+title: Inference of wildfire causes from their physical, biological, social and management attributes
 authors:
 - Pourmohamad, Yavar
 - Abatzoglou, John T.
@@ -15,6 +15,7 @@ journal: Earth's Future
 doi: 10.1029/2024EF005187
 tags:
 - climate
+- data:available
 - fire risk
 - forests
 - ignition
@@ -28,10 +29,10 @@ item_type: journalArticle
 url: https://onlinelibrary.wiley.com/doi/abs/10.1029/2024EF005187
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Inference of Wildfire Causes From Their Physical, Biological, Social and Management Attributes
+# Inference of wildfire causes from their physical, biological, social and management attributes
 
 ## Abstract
 

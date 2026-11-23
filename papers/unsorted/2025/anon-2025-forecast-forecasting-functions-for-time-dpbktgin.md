@@ -1,5 +1,5 @@
 ---
-title: 'forecast: Forecasting Functions for Time Series and Linear Models'
+title: 'forecast: forecasting functions for time series and linear models'
 authors: []
 year: '2025'
 journal: null
@@ -14,10 +14,10 @@ item_type: computerProgram
 url: https://cran.r-project.org/web/packages/forecast/index.html
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# forecast: Forecasting Functions for Time Series and Linear Models
+# forecast: forecasting functions for time series and linear models
 
 ## Abstract
 

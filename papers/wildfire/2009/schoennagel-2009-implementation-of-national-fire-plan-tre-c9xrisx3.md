@@ -1,5 +1,5 @@
 ---
-title: Implementation of National Fire Plan treatments near the wildland–urban interface in the western United States
+title: Implementation of national fire plan treatments near the wildland–urban interface in the western United States
 authors:
 - Schoennagel, Tania
 - Nelson, Cara R.
@@ -21,10 +21,10 @@ item_type: journalArticle
 url: https://www.pnas.org/doi/10.1073/pnas.0900991106
 source_url: 'unpaywall: https://www.ncbi.nlm.nih.gov/pmc/articles/2705595'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Implementation of National Fire Plan treatments near the wildland–urban interface in the western United States
+# Implementation of national fire plan treatments near the wildland–urban interface in the western United States
 
 ## Abstract
 

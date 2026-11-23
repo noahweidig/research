@@ -1,5 +1,5 @@
 ---
-title: High wildfire damage in interface communities in California
+title: High wildfire damage in interface communities in california
 authors:
 - Kramer, Heather Anu
 - Mockrin, Miranda H.
@@ -21,10 +21,10 @@ item_type: journalArticle
 url: http://www.publish.csiro.au/?paper=WF18108
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# High wildfire damage in interface communities in California
+# High wildfire damage in interface communities in california
 
 ## Abstract
 

@@ -1,5 +1,5 @@
 ---
-title: 'The Netherlands flooded by flames: a rapid-response analysis of the Apr/May 2026 simultaneous wildfire events'
+title: 'The Netherlands flooded by flames: a rapid-response analysis of the apr/may 2026 simultaneous wildfire events'
 authors:
 - Stoof, Cathelijne R.
 - Verhoeven, Brian
@@ -17,8 +17,9 @@ journal: null
 doi: 10.5194/egusphere-2026-3303
 tags:
 - WUI
-- exposure
+- code:available
 - finance
+- fire risk
 - natural hazards
 - refwright:read:unread
 - smoke
@@ -30,10 +31,10 @@ item_type: journalArticle
 url: https://openalex.org/W7208726690
 source_url: 'unpaywall: https://egusphere.copernicus.org/preprints/2026/egusphere-2026-3303/egusphere-2026-3303.pdf'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# The Netherlands flooded by flames: a rapid-response analysis of the Apr/May 2026 simultaneous wildfire events
+# The Netherlands flooded by flames: a rapid-response analysis of the apr/may 2026 simultaneous wildfire events
 
 ## Abstract
 

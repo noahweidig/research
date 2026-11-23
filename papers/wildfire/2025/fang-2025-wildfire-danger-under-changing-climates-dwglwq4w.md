@@ -1,5 +1,5 @@
 ---
-title: Wildfire danger under changing climates in the southern Great Plains throughout the 21st century
+title: Wildfire danger under changing climates in the southern great plains throughout the 21st century
 authors:
 - Fang, Shanmin
 - Yang, Jia
@@ -19,10 +19,10 @@ item_type: journalArticle
 url: https://www.sciencedirect.com/science/article/pii/S1470160X24014511
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Wildfire danger under changing climates in the southern Great Plains throughout the 21st century
+# Wildfire danger under changing climates in the southern great plains throughout the 21st century
 
 ## Abstract
 

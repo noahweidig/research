@@ -19,7 +19,7 @@ item_type: journalArticle
 url: https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecs2.4306
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
 # Examining the existing definitions of wildland-urban interface for california

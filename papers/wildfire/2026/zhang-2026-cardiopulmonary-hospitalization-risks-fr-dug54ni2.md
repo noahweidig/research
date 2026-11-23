@@ -15,6 +15,7 @@ journal: Nature Communications
 doi: 10.1038/s41467-026-76974-7
 tags:
 - air quality
+- code:available
 - refwright:read:unread
 - smoke
 - united states
@@ -24,7 +25,7 @@ item_type: journalArticle
 url: https://openalex.org/W7213468400
 source_url: 'unpaywall: https://www.nature.com/articles/s41467-026-76974-7.pdf'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
 # Cardiopulmonary hospitalization risks from wildfire-specific and non-wildfire PM2.5 in 20 US states

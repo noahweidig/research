@@ -1,5 +1,5 @@
 ---
-title: Validating Remotely Sensed Biomass with Forest Inventory Data in the Western US
+title: Validating remotely sensed biomass with forest inventory data in the western US
 authors:
 - Cao, Xiuyu
 year: '2025'
@@ -18,10 +18,10 @@ item_type: thesis
 url: http://deepblue.lib.umich.edu/handle/2027.42/196880
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Validating Remotely Sensed Biomass with Forest Inventory Data in the Western US
+# Validating remotely sensed biomass with forest inventory data in the western US
 
 ## Abstract
 

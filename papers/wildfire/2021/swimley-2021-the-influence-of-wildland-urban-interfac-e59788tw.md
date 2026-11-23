@@ -1,5 +1,5 @@
 ---
-title: The Influence of Wildland Urban Interface Areas on Resource Assignments to Large Wildland Fires
+title: The influence of wildland urban interface areas on resource assignments to large wildland fires
 authors:
 - Swimley, Kurt
 year: '2021'
@@ -15,8 +15,8 @@ item_type: thesis
 url: https://scholarworks.umt.edu/etd/11802
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# The Influence of Wildland Urban Interface Areas on Resource Assignments to Large Wildland Fires
+# The influence of wildland urban interface areas on resource assignments to large wildland fires
 

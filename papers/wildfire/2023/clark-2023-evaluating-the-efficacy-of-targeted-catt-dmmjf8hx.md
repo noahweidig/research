@@ -1,5 +1,5 @@
 ---
-title: Evaluating the Efficacy of Targeted Cattle Grazing for Fuel Break Creation and Maintenance
+title: Evaluating the efficacy of targeted cattle grazing for fuel break creation and maintenance
 authors:
 - Clark, Patrick E.
 - Porter, Benjamin A.
@@ -20,10 +20,10 @@ item_type: journalArticle
 url: https://www.sciencedirect.com/science/article/pii/S1550742423000246
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Evaluating the Efficacy of Targeted Cattle Grazing for Fuel Break Creation and Maintenance
+# Evaluating the efficacy of targeted cattle grazing for fuel break creation and maintenance
 
 ## Abstract
 

@@ -1,11 +1,11 @@
 ---
-title: 'Biology and Control of Cogongrass (Imperata cylindrica) in Southern Forests: FR342/FR411, 3/2018'
+title: 'Biology and control of cogongrass (imperata cylindrica) in southern forests: FR342/FR411, 3/2018'
 authors:
 - Minogue, Patrick Joseph
 - Brodbeck, Brent V.
 - Miller, James H.
 year: '2018'
-journal: EDIS
+journal: Edis
 doi: 10.32473/edis-fr411-2018
 tags:
 - agriculture
@@ -20,10 +20,10 @@ item_type: journalArticle
 url: https://journals.flvc.org/edis/article/view/104449
 source_url: 'unpaywall: https://journals.flvc.org/edis/article/download/104449/118670'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Biology and Control of Cogongrass (Imperata cylindrica) in Southern Forests: FR342/FR411, 3/2018
+# Biology and control of cogongrass (imperata cylindrica) in southern forests: FR342/FR411, 3/2018
 
 ## Abstract
 

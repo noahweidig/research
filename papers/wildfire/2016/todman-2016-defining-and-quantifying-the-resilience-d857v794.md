@@ -25,7 +25,7 @@ item_type: journalArticle
 url: https://www.nature.com/articles/srep28426
 source_url: 'unpaywall: https://www.nature.com/articles/srep28426.pdf'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
 # Defining and quantifying the resilience of responses to disturbance: a conceptual and modelling approach from soil science

@@ -26,7 +26,7 @@ item_type: journalArticle
 url: https://doi.org/10.1007/s10342-010-0470-4
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
 # Characterization of wildfires in Portugal

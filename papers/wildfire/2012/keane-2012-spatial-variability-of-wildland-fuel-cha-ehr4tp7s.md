@@ -1,5 +1,5 @@
 ---
-title: Spatial variability of wildland fuel characteristics in northern Rocky Mountain ecosystems
+title: Spatial variability of wildland fuel characteristics in northern rocky mountain ecosystems
 authors:
 - Keane, Robert E.
 - Gray, Kathy
@@ -15,10 +15,10 @@ item_type: report
 url: https://www.fs.usda.gov/treesearch/pubs/42170
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Spatial variability of wildland fuel characteristics in northern Rocky Mountain ecosystems
+# Spatial variability of wildland fuel characteristics in northern rocky mountain ecosystems
 
 ## Abstract
 

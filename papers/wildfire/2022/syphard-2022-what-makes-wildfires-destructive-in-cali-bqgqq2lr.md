@@ -1,5 +1,5 @@
 ---
-title: What Makes Wildfires Destructive in California?
+title: What makes wildfires destructive in california?
 authors:
 - Syphard, Alexandra D.
 - Keeley, Jon E.
@@ -11,8 +11,8 @@ journal: Fire
 doi: 10.3390/fire5050133
 tags:
 - WUI
-- exposure
 - fire behavior
+- fire risk
 - refwright:read:unread
 - weather
 - wildfire
@@ -21,10 +21,10 @@ item_type: journalArticle
 url: https://www.mdpi.com/2571-6255/5/5/133
 source_url: 'unpaywall: https://commons.clarku.edu/faculty_geography/620'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# What Makes Wildfires Destructive in California?
+# What makes wildfires destructive in california?
 
 ## Abstract
 

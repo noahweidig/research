@@ -1,5 +1,5 @@
 ---
-title: 'Assessing the cost of fuel reduction treatments: A critical review'
+title: 'Assessing the cost of fuel reduction treatments: a critical review'
 authors:
 - Rummer, Bob
 year: '2008'
@@ -16,10 +16,10 @@ item_type: journalArticle
 url: https://www.sciencedirect.com/science/article/pii/S1389934108000051
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Assessing the cost of fuel reduction treatments: A critical review
+# Assessing the cost of fuel reduction treatments: a critical review
 
 ## Abstract
 

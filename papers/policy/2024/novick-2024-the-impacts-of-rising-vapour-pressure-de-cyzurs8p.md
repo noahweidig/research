@@ -5,7 +5,7 @@ authors:
 - Ficklin, Darren L.
 - Grossiord, Charlotte
 - Konings, Alexandra G.
-- Martínez‐Vilalta, Jordi
+- Martínez-Vilalta, Jordi
 - Sadok, Walid
 - Trugman, Anna T.
 - Williams, A. Park
@@ -19,7 +19,7 @@ authors:
 - Moore, David J. P.
 - McDowell, Nate G.
 year: '2024'
-journal: Plant, Cell & Environment
+journal: Plant, Cell and Environment
 doi: 10.1111/pce.14846
 tags:
 - climate
@@ -33,7 +33,7 @@ item_type: journalArticle
 url: https://onlinelibrary.wiley.com/doi/10.1111/pce.14846
 source_url: 'unpaywall: https://www.dora.lib4ri.ch/wsl/dload/wsl:36172/PDF/view'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
 # The impacts of rising vapour pressure deficit in natural and managed ecosystems

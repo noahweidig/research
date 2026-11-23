@@ -12,7 +12,9 @@ year: '2026'
 journal: Nature Communications
 doi: 10.1038/s41467-026-78347-6
 tags:
+- code:available
 - conservation
+- data:available
 - ecology
 - forests
 - land cover
@@ -22,7 +24,7 @@ item_type: journalArticle
 url: https://www.nature.com/articles/s41467-026-78347-6
 source_url: 'unpaywall: https://www.nature.com/articles/s41467-026-78347-6_reference.pdf'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
 # Episodic changes in global forest edges in the 21st century

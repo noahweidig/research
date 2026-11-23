@@ -1,5 +1,5 @@
 ---
-title: Exploring Post-CRP Decision-Making in the Southern Great Plains
+title: Exploring post-CRP decision-making in the southern great plains
 authors:
 - Barnes, Jessica C.
 - Dayer, Ashley A.
@@ -14,10 +14,10 @@ item_type: journalArticle
 url: http://hdl.handle.net/10919/106779
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Exploring Post-CRP Decision-Making in the Southern Great Plains
+# Exploring post-CRP decision-making in the southern great plains
 
 ## Abstract
 

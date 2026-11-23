@@ -1,5 +1,5 @@
 ---
-title: Effects of Indaziflam Control of Annual Grasses on Biodiversity, Biocrusts, Perennial Vegetation, and Fire Probability
+title: Effects of indaziflam control of annual grasses on biodiversity, biocrusts, perennial vegetation, and fire probability
 authors:
 - Davies, Kirk W.
 - O'Connor, Rory C.
@@ -20,10 +20,10 @@ item_type: journalArticle
 url: https://openalex.org/W7202364220
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Effects of Indaziflam Control of Annual Grasses on Biodiversity, Biocrusts, Perennial Vegetation, and Fire Probability
+# Effects of indaziflam control of annual grasses on biodiversity, biocrusts, perennial vegetation, and fire probability
 
 ## Abstract
 

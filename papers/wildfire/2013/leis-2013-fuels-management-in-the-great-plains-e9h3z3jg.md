@@ -1,5 +1,5 @@
 ---
-title: Fuels management in the Great Plains
+title: Fuels management in the great plains
 authors:
 - Leis, Sherry A.
 year: '2013'
@@ -15,8 +15,8 @@ item_type: journalArticle
 url: https://gpfirescience.org/wp-content/uploads/2013/11/2013-28-Fuels-mgmt-1.pdf
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Fuels management in the Great Plains
+# Fuels management in the great plains
 

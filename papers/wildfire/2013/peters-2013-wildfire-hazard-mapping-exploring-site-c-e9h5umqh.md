@@ -19,7 +19,7 @@ item_type: journalArticle
 url: https://www.publish.csiro.au/wf/WF12177
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
 # Wildfire hazard mapping: exploring site conditions in eastern US wildland–urban interfaces

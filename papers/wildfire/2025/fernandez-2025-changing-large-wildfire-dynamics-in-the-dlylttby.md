@@ -1,5 +1,5 @@
 ---
-title: 'Changing Large Wildfire Dynamics in the Wildland–Urban Interface of the Eastern United States: Research Brief'
+title: 'Changing large wildfire dynamics in the wildland–urban interface of the eastern United States: research brief'
 authors:
 - Fernandez, Christian
 - Weidig, Noah C.
@@ -16,10 +16,10 @@ item_type: magazineArticle
 url: https://mailchi.mp/southernfireexchange/fire-lines-volume-14-issue-9436916
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Changing Large Wildfire Dynamics in the Wildland–Urban Interface of the Eastern United States: Research Brief
+# Changing large wildfire dynamics in the wildland–urban interface of the eastern United States: research brief
 
 ## Abstract
 

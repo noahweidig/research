@@ -1,5 +1,5 @@
 ---
-title: 'The Bayesian information criterion: background, derivation, and applications'
+title: 'The bayesian information criterion: background, derivation, and applications'
 authors:
 - Neath, Andrew A.
 - Cavanaugh, Joseph E.
@@ -14,10 +14,10 @@ item_type: journalArticle
 url: https://onlinelibrary.wiley.com/doi/abs/10.1002/wics.199
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# The Bayesian information criterion: background, derivation, and applications
+# The bayesian information criterion: background, derivation, and applications
 
 ## Abstract
 

@@ -1,10 +1,10 @@
 ---
-title: Unifying Wildfire Models from Ecology and Statistical Physics
+title: Unifying wildfire models from ecology and statistical physics
 authors:
 - Zinck, Richard D.
 - Grimm, Volker
 year: '2009'
-journal: The American Naturalist
+journal: American Naturalist
 doi: 10.1086/605959
 tags:
 - ecology
@@ -16,10 +16,10 @@ item_type: journalArticle
 url: https://www.journals.uchicago.edu/doi/10.1086/605959
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Unifying Wildfire Models from Ecology and Statistical Physics
+# Unifying wildfire models from ecology and statistical physics
 
 ## Abstract
 

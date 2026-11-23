@@ -1,5 +1,5 @@
 ---
-title: 'A brooms race: Seed ecology may explain differences in spread of two invasive legumes'
+title: 'A brooms race: seed ecology may explain differences in spread of two invasive legumes'
 authors:
 - Ariza, Aldana M.
 - Sanhueza, Cristina
@@ -19,10 +19,10 @@ item_type: journalArticle
 url: https://openalex.org/W7203542638
 source_url: 'unpaywall: https://ojs.ecologiaaustral.com.ar/index.php/Ecologia_Austral/article/download/2691/1665'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# A brooms race: Seed ecology may explain differences in spread of two invasive legumes
+# A brooms race: seed ecology may explain differences in spread of two invasive legumes
 
 ## Abstract
 

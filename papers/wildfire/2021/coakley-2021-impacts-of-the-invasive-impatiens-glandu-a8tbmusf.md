@@ -1,5 +1,5 @@
 ---
-title: 'Impacts of the Invasive Impatiens glandulifera: Lessons Learned from One of Europe’s Top Invasive Species'
+title: 'Impacts of the invasive impatiens glandulifera: lessons learned from one of Europe’s top invasive species'
 authors:
 - Coakley, Stephanie
 - Petti, Carloalberto
@@ -18,10 +18,10 @@ item_type: journalArticle
 url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8301180/
 source_url: 'unpaywall: https://www.ncbi.nlm.nih.gov/pmc/articles/8301180'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Impacts of the Invasive Impatiens glandulifera: Lessons Learned from One of Europe’s Top Invasive Species
+# Impacts of the invasive impatiens glandulifera: lessons learned from one of Europe’s top invasive species
 
 ## Abstract
 

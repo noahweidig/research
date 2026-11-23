@@ -1,5 +1,5 @@
 ---
-title: 'Economic Growth, Globalization, Renewable Energy, and Trade Openness as Drivers of Carbon Emissions in the United States: Evidence Under Non-Normal Errors'
+title: 'Economic growth, globalization, renewable energy, and trade openness as drivers of carbon emissions in the United States: evidence under non-normal errors'
 authors:
 - Konat, Gökhan
 - Koncak, Ahmet
@@ -22,10 +22,10 @@ item_type: journalArticle
 url: https://openalex.org/W7169831032
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Economic Growth, Globalization, Renewable Energy, and Trade Openness as Drivers of Carbon Emissions in the United States: Evidence Under Non-Normal Errors
+# Economic growth, globalization, renewable energy, and trade openness as drivers of carbon emissions in the United States: evidence under non-normal errors
 
 ## Abstract
 

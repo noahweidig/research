@@ -1,5 +1,5 @@
 ---
-title: 'Changing climate extremes in the Northeast United States: observations and projections from CMIP5'
+title: 'Changing climate extremes in the northeast United States: observations and projections from CMIP5'
 authors:
 - Thibeault, Jeanne M.
 - Seth, Anji
@@ -17,10 +17,10 @@ item_type: journalArticle
 url: https://link.springer.com/article/10.1007/s10584-014-1257-2
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Changing climate extremes in the Northeast United States: observations and projections from CMIP5
+# Changing climate extremes in the northeast United States: observations and projections from CMIP5
 
 ## Abstract
 

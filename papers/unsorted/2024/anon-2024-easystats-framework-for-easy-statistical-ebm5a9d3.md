@@ -1,5 +1,5 @@
 ---
-title: 'easystats: Framework for Easy Statistical Modeling, Visualization, and Reporting'
+title: 'easystats: framework for easy statistical modeling, visualization, and reporting'
 authors: []
 year: '2024'
 journal: null
@@ -13,10 +13,10 @@ item_type: computerProgram
 url: https://cran.r-project.org/web/packages/easystats/index.html
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# easystats: Framework for Easy Statistical Modeling, Visualization, and Reporting
+# easystats: framework for easy statistical modeling, visualization, and reporting
 
 ## Abstract
 

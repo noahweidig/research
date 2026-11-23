@@ -20,7 +20,7 @@ item_type: journalArticle
 url: https://onlinelibrary.wiley.com/doi/abs/10.1111/1365-2664.12105
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
 # Grazing dampens the positive effects of shrub encroachment on ecosystem functions in a semi-arid woodland
