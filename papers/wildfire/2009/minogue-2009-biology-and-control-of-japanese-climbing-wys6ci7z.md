@@ -1,12 +1,12 @@
 ---
-title: 'Biology and Control of Japanese Climbing Fern (Lygodium japonicum): FOR 218/FR280, 5/2009'
+title: 'Biology and control of japanese climbing fern (lygodium japonicum): FOR 218/FR280, 5/2009'
 authors:
 - Minogue, Patrick Joseph
 - Jones, Stella
 - Bohn, Kimberly K
 - Williams, Rick L
 year: '2009'
-journal: EDIS
+journal: Edis
 doi: 10.32473/edis-fr280-2009
 tags:
 - fuels
@@ -19,10 +19,10 @@ item_type: journalArticle
 url: https://doi.org/10.32473/edis-fr280-2009
 source_url: 'unpaywall: https://journals.flvc.org/edis/article/download/117976/115956'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Biology and Control of Japanese Climbing Fern (Lygodium japonicum): FOR 218/FR280, 5/2009
+# Biology and control of japanese climbing fern (lygodium japonicum): FOR 218/FR280, 5/2009
 
 ## Abstract
 
@@ -215,5 +215,3 @@ Biology and Control of Japanese Climbing Fern (Lygodium japonicum)
 4Garlon® 3A contains 3 lb active ingredient per gallon as an amine salt of triclopyr. 
 
 5Garlon® 4 contains 4 lb acid equivalent triclopyr ester per gallon as the active ingredient. 
-
-

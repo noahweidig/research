@@ -1,5 +1,5 @@
 ---
-title: Management of Eutrophication for Lakes Subject to Potentially Irreversible Change
+title: Management of eutrophication for lakes subject to potentially irreversible change
 authors:
 - Carpenter, Steve R.
 - Ludwig, D.
@@ -16,10 +16,10 @@ item_type: journalArticle
 url: https://onlinelibrary.wiley.com/doi/abs/10.1890/1051-0761%281999%29009%5B0751%3AMOEFLS%5D2.0.CO%3B2
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Management of Eutrophication for Lakes Subject to Potentially Irreversible Change
+# Management of eutrophication for lakes subject to potentially irreversible change
 
 ## Abstract
 

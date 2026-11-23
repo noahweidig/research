@@ -12,6 +12,7 @@ year: '2013'
 journal: Wildlife Society Bulletin
 doi: 10.1002/wsb.266
 tags:
+- CRP
 - agriculture
 - conservation
 - refwright:read:unread
@@ -21,7 +22,7 @@ item_type: journalArticle
 url: https://onlinelibrary.wiley.com/doi/abs/10.1002/wsb.266
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
 # Opportunities and challenges to implementing bird conservation on private lands

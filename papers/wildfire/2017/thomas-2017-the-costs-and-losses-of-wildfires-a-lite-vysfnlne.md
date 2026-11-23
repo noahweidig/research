@@ -21,7 +21,7 @@ item_type: report
 url: https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1215.pdf
 source_url: 'unpaywall: https://doi.org/10.6028/nist.sp.1215'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
 # The costs and losses of wildfires: a literature survey

@@ -1,5 +1,5 @@
 ---
-title: Estimating and Circumventing the Effects of Perturbing and Swapping Inventory Plot Locations
+title: Estimating and circumventing the effects of perturbing and swapping inventory plot locations
 authors:
 - McRoberts, Ronald E.
 - Holden, Geoffrey R.
@@ -25,10 +25,10 @@ item_type: journalArticle
 url: https://doi.org/10.1093/jof/103.6.275
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Estimating and Circumventing the Effects of Perturbing and Swapping Inventory Plot Locations
+# Estimating and circumventing the effects of perturbing and swapping inventory plot locations
 
 ## Abstract
 

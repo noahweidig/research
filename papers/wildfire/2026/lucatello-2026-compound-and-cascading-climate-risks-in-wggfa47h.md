@@ -1,5 +1,5 @@
 ---
-title: Compound and cascading climate risks in urban infrastructure governance and resilience across North America
+title: Compound and cascading climate risks in urban infrastructure governance and resilience across north america
 authors:
 - Lucatello, Simone
 - Henríquez, Blas L. Pérez
@@ -18,10 +18,10 @@ item_type: journalArticle
 url: https://openalex.org/W7221608115
 source_url: 'unpaywall: https://link.springer.com/content/pdf/10.1007/s44327-026-00374-1.pdf'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Compound and cascading climate risks in urban infrastructure governance and resilience across North America
+# Compound and cascading climate risks in urban infrastructure governance and resilience across north america
 
 ## Abstract
 

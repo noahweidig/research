@@ -20,7 +20,7 @@ item_type: journalArticle
 url: https://doi.org/10.1186/s40663-015-0033-8
 source_url: 'unpaywall: https://forestecosyst.springeropen.com/counter/pdf/10.1186/s40663-015-0033-8'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
 # Negative consequences of positive feedbacks in US wildfire management

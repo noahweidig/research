@@ -1,5 +1,5 @@
 ---
-title: 'GeoLCES: Geospatial support for evaluating wildland firefighter lookouts, communications, escape routes, and safety zones'
+title: 'GeoLCES: geospatial support for evaluating wildland firefighter lookouts, communications, escape routes, and safety zones'
 authors:
 - Campbell, Michael J.
 - Mistick, Katherine A.
@@ -18,10 +18,10 @@ item_type: journalArticle
 url: https://www.sciencedirect.com/science/article/pii/S2212420925005382
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# GeoLCES: Geospatial support for evaluating wildland firefighter lookouts, communications, escape routes, and safety zones
+# GeoLCES: geospatial support for evaluating wildland firefighter lookouts, communications, escape routes, and safety zones
 
 ## Abstract
 

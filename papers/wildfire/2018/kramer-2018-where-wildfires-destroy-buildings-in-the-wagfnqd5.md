@@ -11,8 +11,8 @@ journal: International Journal of Wildland Fire
 doi: 10.1071/WF17135
 tags:
 - WUI
-- exposure
 - fire regimes
+- fire risk
 - fuels
 - refwright:read:unread
 - remote sensing
@@ -23,7 +23,7 @@ item_type: journalArticle
 url: https://www.publish.csiro.au/wf/WF17135
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
 # Where wildfires destroy buildings in the US relative to the wildland–urban interface and national fire outreach programs

@@ -1,5 +1,5 @@
 ---
-title: Forest Harvest Can Increase Subsequent Forest Fire Severity
+title: Forest harvest can increase subsequent forest fire severity
 authors:
 - Stone, Carter
 - Hudak, Andrew T.
@@ -17,8 +17,8 @@ item_type: journalArticle
 url: https://digitalcommons.unl.edu/usdafsfacpub/199
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Forest Harvest Can Increase Subsequent Forest Fire Severity
+# Forest harvest can increase subsequent forest fire severity
 

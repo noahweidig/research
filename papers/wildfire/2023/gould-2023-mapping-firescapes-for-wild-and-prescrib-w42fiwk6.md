@@ -1,5 +1,5 @@
 ---
-title: 'Mapping Firescapes for Wild and Prescribed Fire Management: A Landscape Classification Approach'
+title: 'Mapping firescapes for wild and prescribed fire management: a landscape classification approach'
 authors:
 - Gould, Nicholas P.
 - Pomara, Lars Y.
@@ -23,10 +23,10 @@ item_type: journalArticle
 url: https://www.mdpi.com/2073-445X/12/12/2180
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Mapping Firescapes for Wild and Prescribed Fire Management: A Landscape Classification Approach
+# Mapping firescapes for wild and prescribed fire management: a landscape classification approach
 
 ## Abstract
 

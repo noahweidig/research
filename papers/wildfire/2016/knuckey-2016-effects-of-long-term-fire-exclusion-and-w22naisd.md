@@ -1,5 +1,5 @@
 ---
-title: 'Effects of long-term fire exclusion and frequent fire on plant community composition: A case study from semi-arid shrublands'
+title: 'Effects of long-term fire exclusion and frequent fire on plant community composition: a case study from semi-arid shrublands'
 authors:
 - Knuckey, Chris G.
 - Van Etten, Eddie J.B.
@@ -18,10 +18,10 @@ item_type: journalArticle
 url: https://onlinelibrary.wiley.com/doi/abs/10.1111/aec.12388
 source_url: 'unpaywall: https://ro.ecu.edu.au/ecuworkspost2013/2336'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Effects of long-term fire exclusion and frequent fire on plant community composition: A case study from semi-arid shrublands
+# Effects of long-term fire exclusion and frequent fire on plant community composition: a case study from semi-arid shrublands
 
 ## Abstract
 

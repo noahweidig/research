@@ -1,5 +1,5 @@
 ---
-title: Predictive Modeling Techniques for Forecasting Emergency Department Overcrowding and Resource Needs in United States Public Hospitals
+title: Predictive modeling techniques for forecasting emergency department overcrowding and resource needs in United States public hospitals
 authors:
 - Gidisu, Sesi Mensah
 - Boadu, Millicent Naa Oye
@@ -8,7 +8,7 @@ year: '2026'
 journal: International Journal of Innovative Science and Research Technology (IJISRT)
 doi: 10.38124/ijisrt/26sep1244
 tags:
-- exposure
+- fire risk
 - public health
 - refwright:read:unread
 - statistics
@@ -19,10 +19,10 @@ item_type: journalArticle
 url: https://openalex.org/W7220415093
 source_url: 'unpaywall: https://www.ijisrt.com/assets/upload/files/IJISRT26SEP1244.pdf'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Predictive Modeling Techniques for Forecasting Emergency Department Overcrowding and Resource Needs in United States Public Hospitals
+# Predictive modeling techniques for forecasting emergency department overcrowding and resource needs in United States public hospitals
 
 ## Abstract
 

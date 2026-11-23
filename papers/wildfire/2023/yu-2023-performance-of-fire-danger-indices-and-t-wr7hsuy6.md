@@ -1,5 +1,5 @@
 ---
-title: Performance of Fire Danger Indices and Their Utility in Predicting Future Wildfire Danger Over the Conterminous United States
+title: Performance of fire danger indices and their utility in predicting future wildfire danger over the conterminous united states
 authors:
 - Yu, Guo
 - Feng, Yan
@@ -16,10 +16,10 @@ item_type: journalArticle
 url: https://onlinelibrary.wiley.com/doi/abs/10.1029/2023EF003823
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Performance of Fire Danger Indices and Their Utility in Predicting Future Wildfire Danger Over the Conterminous United States
+# Performance of fire danger indices and their utility in predicting future wildfire danger over the conterminous united states
 
 ## Abstract
 

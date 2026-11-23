@@ -1,5 +1,5 @@
 ---
-title: 'The ignition index based on flammability of vegetation improves planning in the wildland-urban interface: A case study in Southern Spain'
+title: 'The ignition index based on flammability of vegetation improves planning in the wildland-urban interface: a case study in southern Spain'
 authors:
 - Molina, Juan Ramón
 - Martín, Teodoro
@@ -18,8 +18,8 @@ item_type: journalArticle
 url: https://www.sciencedirect.com/science/article/pii/S016920461630233X
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# The ignition index based on flammability of vegetation improves planning in the wildland-urban interface: A case study in Southern Spain
+# The ignition index based on flammability of vegetation improves planning in the wildland-urban interface: a case study in southern Spain
 

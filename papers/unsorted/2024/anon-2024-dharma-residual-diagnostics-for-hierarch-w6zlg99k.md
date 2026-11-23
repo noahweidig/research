@@ -1,5 +1,5 @@
 ---
-title: 'DHARMa: Residual Diagnostics for Hierarchical (Multi-Level / Mixed) Regression Models'
+title: 'DHARMa: residual diagnostics for hierarchical (multi-level / mixed) regression models'
 authors: []
 year: '2024'
 journal: null
@@ -13,10 +13,10 @@ item_type: computerProgram
 url: https://cran.r-project.org/web/packages/DHARMa/index.html
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# DHARMa: Residual Diagnostics for Hierarchical (Multi-Level / Mixed) Regression Models
+# DHARMa: residual diagnostics for hierarchical (multi-level / mixed) regression models
 
 ## Abstract
 

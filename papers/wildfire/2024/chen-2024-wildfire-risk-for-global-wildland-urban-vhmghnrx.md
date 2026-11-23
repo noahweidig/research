@@ -15,7 +15,6 @@ journal: Nature Sustainability
 doi: 10.1038/s41893-024-01291-0
 tags:
 - WUI
-- exposure
 - fire risk
 - refwright:read:unread
 - wildfire
@@ -24,7 +23,7 @@ item_type: journalArticle
 url: https://www.nature.com/articles/s41893-024-01291-0
 source_url: 'unpaywall: https://www.researchsquare.com/article/rs-2147308/latest.pdf'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
 # Wildfire risk for global wildland–urban interface areas

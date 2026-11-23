@@ -1,5 +1,5 @@
 ---
-title: Assessing Fire Risk in the Wildland-Urban Interface
+title: Assessing fire risk in the wildland-urban interface
 authors:
 - Haight, Robert G.
 - Cleland, David T.
@@ -20,10 +20,10 @@ item_type: journalArticle
 url: https://doi.org/10.1093/jof/102.7.41
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Assessing Fire Risk in the Wildland-Urban Interface
+# Assessing fire risk in the wildland-urban interface
 
 ## Abstract
 

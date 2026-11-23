@@ -1,5 +1,5 @@
 ---
-title: Comparing Remote Sensing and Field-Based Approaches to Estimate Ladder Fuels and Predict Wildfire Burn Severity
+title: Comparing remote sensing and field-based approaches to estimate ladder fuels and predict wildfire burn severity
 authors:
 - Forbes, Brieanne
 - Reilly, Sean
@@ -27,10 +27,10 @@ item_type: journalArticle
 url: https://www.frontiersin.org/journals/forests-and-global-change/articles/10.3389/ffgc.2022.818713/full
 source_url: 'unpaywall: https://www.frontiersin.org/articles/10.3389/ffgc.2022.818713/pdf'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Comparing Remote Sensing and Field-Based Approaches to Estimate Ladder Fuels and Predict Wildfire Burn Severity
+# Comparing remote sensing and field-based approaches to estimate ladder fuels and predict wildfire burn severity
 
 ## Abstract
 

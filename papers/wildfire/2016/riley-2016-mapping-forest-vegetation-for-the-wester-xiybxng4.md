@@ -17,7 +17,7 @@ item_type: journalArticle
 url: https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecs2.1472
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
 # Mapping forest vegetation for the western United States using modified random forests imputation of FIA forest plots

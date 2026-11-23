@@ -1,5 +1,5 @@
 ---
-title: 'yaImpute: An R Package for k NN Imputation'
+title: 'yaImpute: an R package for k NN imputation'
 authors:
 - Crookston, Nicholas L.
 - Finley, Andrew O.
@@ -17,10 +17,10 @@ item_type: journalArticle
 url: http://www.jstatsoft.org/v23/i10/
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# yaImpute: An R Package for k NN Imputation
+# yaImpute: an R package for k NN imputation
 
 ## Abstract
 

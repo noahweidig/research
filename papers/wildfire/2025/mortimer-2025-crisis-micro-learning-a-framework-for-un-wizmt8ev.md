@@ -1,5 +1,5 @@
 ---
-title: 'Crisis micro‐learning: A framework for understanding the micro‐flow of policy learning and Australia''s COVID‐19 response'
+title: 'Crisis micro-learning: a framework for understanding the micro-flow of policy learning and Australia''s COVID-19 response'
 authors:
 - Mortimer, Neil
 - Bromfield, Nicholas
@@ -7,7 +7,7 @@ year: '2025'
 journal: Australian Journal of Public Administration
 doi: 10.1111/1467-8500.70025
 tags:
-- exposure
+- fire risk
 - policy
 - public health
 - refwright:read:unread
@@ -19,10 +19,10 @@ item_type: journalArticle
 url: https://onlinelibrary.wiley.com/doi/10.1111/1467-8500.70025
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Crisis micro‐learning: A framework for understanding the micro‐flow of policy learning and Australia's COVID‐19 response
+# Crisis micro-learning: a framework for understanding the micro-flow of policy learning and Australia's COVID-19 response
 
 ## Abstract
 

@@ -1,5 +1,5 @@
 ---
-title: 'Kendall: Kendall Rank Correlation and Mann-Kendall Trend Test'
+title: 'Kendall: kendall rank correlation and mann-kendall trend test'
 authors: []
 year: '2025'
 journal: null
@@ -13,10 +13,10 @@ item_type: computerProgram
 url: https://cran.r-project.org/web/packages/Kendall/index.html
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Kendall: Kendall Rank Correlation and Mann-Kendall Trend Test
+# Kendall: kendall rank correlation and mann-kendall trend test
 
 ## Abstract
 

@@ -1,5 +1,5 @@
 ---
-title: Spatial Patterns and Intensity of Land Abandonment Drive Wildfire Hazard and Likelihood in Mediterranean Agropastoral Areas
+title: Spatial patterns and intensity of land abandonment drive wildfire hazard and likelihood in Mediterranean agropastoral areas
 authors:
 - Salis, Michele
 - Del Giudice, Liliana
@@ -33,10 +33,10 @@ item_type: journalArticle
 url: https://www.mdpi.com/2073-445X/11/11/1942
 source_url: 'unpaywall: https://hdl.handle.net/11388/305088'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Spatial Patterns and Intensity of Land Abandonment Drive Wildfire Hazard and Likelihood in Mediterranean Agropastoral Areas
+# Spatial patterns and intensity of land abandonment drive wildfire hazard and likelihood in Mediterranean agropastoral areas
 
 ## Abstract
 

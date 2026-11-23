@@ -19,7 +19,7 @@ item_type: journalArticle
 url: http://journals.sagepub.com/doi/10.1177/0309133307079365
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
 # Environmental drivers of large, infrequent wildfires: the emerging conceptual model

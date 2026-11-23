@@ -1,5 +1,5 @@
 ---
-title: 'Fire in the Northeast: Learning from the Past, Planning for the Future'
+title: 'Fire in the northeast: learning from the past, planning for the future'
 authors:
 - Poulos, Helen M.
 year: '2015'
@@ -17,10 +17,10 @@ item_type: journalArticle
 url: https://doi.org/10.1080/10549811.2014.973608
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Fire in the Northeast: Learning from the Past, Planning for the Future
+# Fire in the northeast: learning from the past, planning for the future
 
 ## Abstract
 

@@ -25,7 +25,7 @@ item_type: journalArticle
 url: https://iopscience.iop.org/article/10.1088/2752-664X/ae5300
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
 # Baseline maps of U.S. mature and old-growth forests for conservation and management

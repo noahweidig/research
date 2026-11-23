@@ -12,7 +12,6 @@ journal: Science of the Total Environment
 doi: 10.1016/j.scitotenv.2021.147057
 tags:
 - WUI
-- exposure
 - extremes
 - fire risk
 - refwright:read:unread
@@ -22,7 +21,7 @@ item_type: journalArticle
 url: https://linkinghub.elsevier.com/retrieve/pii/S0048969721021276
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
 # Predicting paradise: modeling future wildfire disasters in the western US

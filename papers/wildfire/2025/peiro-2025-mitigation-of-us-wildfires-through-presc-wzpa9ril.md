@@ -13,6 +13,7 @@ journal: In Review
 doi: 10.21203/rs.3.rs-6726538/v1
 tags:
 - air quality
+- data:available
 - fire regimes
 - prescribed fire
 - refwright:read:unread
@@ -24,7 +25,7 @@ item_type: preprint
 url: https://www.researchsquare.com/article/rs-6726538/v1
 source_url: 'unpaywall: https://www.researchsquare.com/article/rs-6726538/latest.pdf'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
 # Mitigation of US wildfires through prescribed burning revealed by four decades of satellite data

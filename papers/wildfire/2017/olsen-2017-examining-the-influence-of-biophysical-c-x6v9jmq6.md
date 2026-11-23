@@ -20,7 +20,7 @@ item_type: journalArticle
 url: https://www.jstor.org/stable/26270062
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
 # Examining the influence of biophysical conditions on wildland–urban interface homeowners’ wildfire risk mitigation activities in fire-prone landscapes

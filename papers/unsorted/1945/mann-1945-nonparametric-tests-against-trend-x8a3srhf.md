@@ -1,5 +1,5 @@
 ---
-title: Nonparametric Tests Against Trend
+title: Nonparametric tests against trend
 authors:
 - Mann, Henry B.
 year: '1945'
@@ -13,8 +13,8 @@ item_type: journalArticle
 url: https://www.jstor.org/stable/1907187
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Nonparametric Tests Against Trend
+# Nonparametric tests against trend
 

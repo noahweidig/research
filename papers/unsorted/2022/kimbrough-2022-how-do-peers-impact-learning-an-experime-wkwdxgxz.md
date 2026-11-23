@@ -1,5 +1,5 @@
 ---
-title: How Do Peers Impact Learning? An Experimental Investigation of Peer-to-Peer Teaching and Ability Tracking
+title: How do peers impact learning? An experimental investigation of peer-to-peer teaching and ability tracking
 authors:
 - Kimbrough, Erik O.
 - McGee, Andrew D.
@@ -14,10 +14,10 @@ item_type: journalArticle
 url: https://jhr.uwpress.org/content/57/1/304
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# How Do Peers Impact Learning? An Experimental Investigation of Peer-to-Peer Teaching and Ability Tracking
+# How do peers impact learning? An experimental investigation of peer-to-peer teaching and ability tracking
 
 ## Abstract
 

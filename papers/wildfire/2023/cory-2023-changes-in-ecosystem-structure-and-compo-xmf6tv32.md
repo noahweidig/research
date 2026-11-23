@@ -1,5 +1,5 @@
 ---
-title: Changes in Ecosystem Structure and Composition Influence Groundwater Chemistry in Herbaceous Wetlands
+title: Changes in ecosystem structure and composition influence groundwater chemistry in herbaceous wetlands
 authors:
 - Cory, Barbara
 - Smith, Ashlynn
@@ -23,10 +23,10 @@ item_type: journalArticle
 url: https://doi.org/10.1007/s10021-023-00853-1
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Changes in Ecosystem Structure and Composition Influence Groundwater Chemistry in Herbaceous Wetlands
+# Changes in ecosystem structure and composition influence groundwater chemistry in herbaceous wetlands
 
 ## Abstract
 

@@ -1,5 +1,5 @@
 ---
-title: 'terra: Spatial Data Analysis'
+title: 'terra: spatial data analysis'
 authors: []
 year: '2024'
 journal: null
@@ -14,10 +14,10 @@ item_type: computerProgram
 url: https://cran.r-project.org/web/packages/terra/index.html
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# terra: Spatial Data Analysis
+# terra: spatial data analysis
 
 ## Abstract
 

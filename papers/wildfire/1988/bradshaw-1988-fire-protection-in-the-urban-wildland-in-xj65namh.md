@@ -1,5 +1,5 @@
 ---
-title: 'Fire protection in the urban/wildland interface: Who plays what role?'
+title: 'Fire protection in the urban/wildland interface: who plays what role?'
 authors:
 - Bradshaw, William G.
 year: '1988'
@@ -16,8 +16,8 @@ item_type: journalArticle
 url: https://doi.org/10.1007/BF01038177
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Fire protection in the urban/wildland interface: Who plays what role?
+# Fire protection in the urban/wildland interface: who plays what role?
 

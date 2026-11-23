@@ -1,5 +1,5 @@
 ---
-title: 'Encountering Prescribed Fire: Characterizing the Intersection of Prescribed Fire and Wildfire in the CONUS'
+title: 'Encountering prescribed fire: characterizing the intersection of prescribed fire and wildfire in the CONUS'
 authors:
 - Beidler, James L.
 - Baker, Kirk R.
@@ -21,10 +21,10 @@ item_type: journalArticle
 url: https://pubs.acs.org/doi/10.1021/acsestair.4c00228
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Encountering Prescribed Fire: Characterizing the Intersection of Prescribed Fire and Wildfire in the CONUS
+# Encountering prescribed fire: characterizing the intersection of prescribed fire and wildfire in the CONUS
 
 ## Abstract
 

@@ -1,5 +1,5 @@
 ---
-title: Evaluating fireline effectiveness across large wildfire events in north-central Washington State
+title: Evaluating fireline effectiveness across large wildfire events in north-central washington state
 authors:
 - Lemons, Rebecca E.
 - Prichard, Susan J.
@@ -19,10 +19,10 @@ item_type: journalArticle
 url: https://fireecology.springeropen.com/articles/10.1186/s42408-023-00167-6
 source_url: 'unpaywall: https://fireecology.springeropen.com/counter/pdf/10.1186/s42408-023-00167-6'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Evaluating fireline effectiveness across large wildfire events in north-central Washington State
+# Evaluating fireline effectiveness across large wildfire events in north-central washington state
 
 ## Abstract
 

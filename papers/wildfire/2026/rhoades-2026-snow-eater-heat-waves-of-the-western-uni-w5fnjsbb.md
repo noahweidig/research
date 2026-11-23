@@ -38,7 +38,7 @@ item_type: journalArticle
 url: https://openalex.org/W4414139433
 source_url: 'unpaywall: https://www.researchsquare.com/article/rs-7576317/latest.pdf'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
 # Snow-eater heat waves of the western United States

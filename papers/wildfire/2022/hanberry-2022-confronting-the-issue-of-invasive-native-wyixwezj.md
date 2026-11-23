@@ -1,5 +1,5 @@
 ---
-title: Confronting the Issue of Invasive Native Tree Species Due to Land Use Change in the Eastern United States
+title: Confronting the issue of invasive native tree species due to land use change in the eastern United States
 authors:
 - Hanberry, Brice B.
 year: '2022'
@@ -19,10 +19,10 @@ item_type: journalArticle
 url: https://www.mdpi.com/2073-445X/11/2/161
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Confronting the Issue of Invasive Native Tree Species Due to Land Use Change in the Eastern United States
+# Confronting the issue of invasive native tree species due to land use change in the eastern United States
 
 ## Abstract
 

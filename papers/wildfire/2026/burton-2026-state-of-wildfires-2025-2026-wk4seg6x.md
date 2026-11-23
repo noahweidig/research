@@ -1,5 +1,5 @@
 ---
-title: State of Wildfires 2025–2026
+title: State of wildfires 2025–2026
 authors:
 - Burton, Chantelle
 - Giuseppe, Francesca Di
@@ -35,7 +35,7 @@ authors:
 - Hartley, Andrew James
 - Keeping, Theodore R.
 - Kolden, Crystal A.
-- Kouassi, Jean‐Luc
+- Kouassi, Jean-Luc
 - Kukavskaya, Elena A.
 - Lampe, Seppe
 - Liu, Zhongwei
@@ -54,7 +54,7 @@ authors:
 - Spuler, Fiona R.
 - Steinmann, Carmen B.
 - Tanpipat, Veerachai
-- Torres‐Vázquez, Miguel Ángel
+- Torres-Vázquez, Miguel Ángel
 - Turco, Marco
 - Werf, Guido R. van der
 - Wees, Dave van
@@ -66,6 +66,7 @@ journal: Earth System Science Data
 doi: 10.5194/essd-2026-587
 tags:
 - climate
+- data:available
 - fire regimes
 - ignition
 - refwright:read:unread
@@ -76,10 +77,10 @@ item_type: journalArticle
 url: https://openalex.org/W7172316608
 source_url: 'unpaywall: https://essd.copernicus.org/preprints/essd-2026-587/essd-2026-587.pdf'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# State of Wildfires 2025–2026
+# State of wildfires 2025–2026
 
 ## Abstract
 

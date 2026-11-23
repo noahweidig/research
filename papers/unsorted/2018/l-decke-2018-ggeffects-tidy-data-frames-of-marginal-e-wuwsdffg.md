@@ -1,5 +1,5 @@
 ---
-title: 'ggeffects: Tidy Data Frames of Marginal Effects from Regression Models'
+title: 'ggeffects: tidy data frames of marginal effects from regression models'
 authors:
 - Lüdecke, Daniel
 year: '2018'
@@ -14,10 +14,10 @@ item_type: journalArticle
 url: http://joss.theoj.org/papers/10.21105/joss.00772
 source_url: 'unpaywall: https://joss.theoj.org/papers/10.21105/joss.00772.pdf'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# ggeffects: Tidy Data Frames of Marginal Effects from Regression Models
+# ggeffects: tidy data frames of marginal effects from regression models
 
 ## Abstract
 
