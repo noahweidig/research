@@ -1,5 +1,5 @@
 ---
-title: 'Landscape – wildfire interactions in southern Europe: Implications for landscape management'
+title: 'Landscape – wildfire interactions in southern Europe: implications for landscape management'
 authors:
 - Moreira, Francisco
 - Viedma, Olga
@@ -28,10 +28,10 @@ item_type: journalArticle
 url: https://www.sciencedirect.com/science/article/pii/S0301479711002258
 source_url: 'unpaywall: https://hal.science/hal-00653523v1/document'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Landscape – wildfire interactions in southern Europe: Implications for landscape management
+# Landscape – wildfire interactions in southern Europe: implications for landscape management
 
 ## Abstract
 

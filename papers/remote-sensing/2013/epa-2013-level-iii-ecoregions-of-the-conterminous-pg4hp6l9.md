@@ -1,5 +1,5 @@
 ---
-title: Level III Ecoregions of the Conterminous United States
+title: Level III ecoregions of the conterminous united states
 authors:
 - Epa
 year: '2013'
@@ -16,10 +16,10 @@ item_type: dataset
 url: https://www.epa.gov/eco-research/level-iii-and-iv-ecoregions-continental-united-states
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Level III Ecoregions of the Conterminous United States
+# Level III ecoregions of the conterminous united states
 
 ## Abstract
 

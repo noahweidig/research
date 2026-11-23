@@ -1,5 +1,5 @@
 ---
-title: Forest Roads and Operational Wildfire Response Planning
+title: Forest roads and operational wildfire response planning
 authors:
 - Thompson, Matthew P.
 - Gannon, Benjamin M.
@@ -20,10 +20,10 @@ item_type: journalArticle
 url: https://www.mdpi.com/1999-4907/12/2/110
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Forest Roads and Operational Wildfire Response Planning
+# Forest roads and operational wildfire response planning
 
 ## Abstract
 

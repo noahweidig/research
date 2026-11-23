@@ -1,5 +1,5 @@
 ---
-title: Large Recreation Declines Persist after Severe Wildfire but Not after Low-Severity or Prescribed Fire
+title: Large recreation declines persist after severe wildfire but not after low-severity or prescribed fire
 authors:
 - Manley, Kyle
 - Wood, Spencer
@@ -19,6 +19,7 @@ year: '2026'
 journal: null
 doi: 10.22541/essoar.15002752/v2
 tags:
+- code:available
 - fire regimes
 - prescribed fire
 - refwright:read:unread
@@ -29,10 +30,10 @@ item_type: journalArticle
 url: https://openalex.org/W7221662149
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Large Recreation Declines Persist after Severe Wildfire but Not after Low-Severity or Prescribed Fire
+# Large recreation declines persist after severe wildfire but not after low-severity or prescribed fire
 
 ## Abstract
 

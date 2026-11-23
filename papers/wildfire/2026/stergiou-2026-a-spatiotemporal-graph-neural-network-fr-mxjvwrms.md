@@ -1,11 +1,11 @@
 ---
-title: A Spatiotemporal Graph Neural Network Framework for Retrospective Bias Correction of CMAQ Air Quality Simulations over the Continental United States
+title: A spatiotemporal graph neural network framework for retrospective bias correction of CMAQ air quality simulations over the continental united states
 authors:
 - Stergiou, Ioannis
 - Traka, Nektaria
 - Melas, Dimitrios
 - Tagaris, Efthimios
-- Sotiropoulou, Rafaella‐Eleni P.
+- Sotiropoulou, Rafaella-Eleni P.
 year: '2026'
 journal: Atmospheric Pollution Research
 doi: 10.1016/j.apr.2026.103191
@@ -20,10 +20,10 @@ item_type: journalArticle
 url: https://openalex.org/W7204909574
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# A Spatiotemporal Graph Neural Network Framework for Retrospective Bias Correction of CMAQ Air Quality Simulations over the Continental United States
+# A spatiotemporal graph neural network framework for retrospective bias correction of CMAQ air quality simulations over the continental united states
 
 ## Abstract
 

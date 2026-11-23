@@ -1,5 +1,5 @@
 ---
-title: 'Wildfire Emissions From European Boreal Fuels: Effects of Fuel Type and Moisture Content'
+title: 'Wildfire emissions from European boreal fuels: effects of fuel type and moisture content'
 authors:
 - Svensson, Robert
 - Arinaitwe, Evalyne
@@ -14,6 +14,7 @@ journal: Fire and Materials
 doi: 10.1002/fam.70091
 tags:
 - air quality
+- data:available
 - fire regimes
 - forests
 - fuels
@@ -25,10 +26,10 @@ item_type: journalArticle
 url: https://openalex.org/W7202203988
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Wildfire Emissions From European Boreal Fuels: Effects of Fuel Type and Moisture Content
+# Wildfire emissions from European boreal fuels: effects of fuel type and moisture content
 
 ## Abstract
 

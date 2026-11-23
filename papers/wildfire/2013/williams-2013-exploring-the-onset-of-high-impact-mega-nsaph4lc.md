@@ -15,7 +15,7 @@ item_type: journalArticle
 url: https://linkinghub.elsevier.com/retrieve/pii/S0378112712003593
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
 # Exploring the onset of high-impact mega-fires through a forest land management prism

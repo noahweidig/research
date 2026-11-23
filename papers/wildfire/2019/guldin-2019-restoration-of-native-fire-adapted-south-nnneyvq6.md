@@ -1,5 +1,5 @@
 ---
-title: 'Restoration of Native Fire-Adapted Southern Pine-Dominated Forest Ecosystems: Diversifying the Tools in the Silvicultural Toolbox'
+title: 'Restoration of native fire-adapted southern pine-dominated forest ecosystems: diversifying the tools in the silvicultural toolbox'
 authors:
 - Guldin, James M.
 year: '2019'
@@ -15,10 +15,10 @@ item_type: journalArticle
 url: https://doi.org/10.1093/forsci/fxz005
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Restoration of Native Fire-Adapted Southern Pine-Dominated Forest Ecosystems: Diversifying the Tools in the Silvicultural Toolbox
+# Restoration of native fire-adapted southern pine-dominated forest ecosystems: diversifying the tools in the silvicultural toolbox
 
 ## Abstract
 

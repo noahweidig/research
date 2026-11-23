@@ -1,5 +1,5 @@
 ---
-title: Estimating canopy fuel characteristics for predicting crown fire potential in common forest types of the Atlantic Coastal Plain, USA
+title: Estimating canopy fuel characteristics for predicting crown fire potential in common forest types of the atlantic coastal plain, USA
 authors:
 - Andreu, Anne G.
 - Blake, John I.
@@ -20,10 +20,10 @@ item_type: journalArticle
 url: https://www.publish.csiro.au/wf/WF18025
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Estimating canopy fuel characteristics for predicting crown fire potential in common forest types of the Atlantic Coastal Plain, USA
+# Estimating canopy fuel characteristics for predicting crown fire potential in common forest types of the atlantic coastal plain, USA
 
 ## Abstract
 

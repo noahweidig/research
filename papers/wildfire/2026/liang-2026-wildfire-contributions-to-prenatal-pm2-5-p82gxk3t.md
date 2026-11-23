@@ -1,5 +1,5 @@
 ---
-title: Wildfire contributions to prenatal PM2.5 exposure in the contiguous United States, 2003–2019
+title: Wildfire contributions to prenatal PM2.5 exposure in the contiguous united states, 2003–2019
 authors:
 - Liang, Menglu
 - Sapkota, Amir
@@ -8,12 +8,12 @@ authors:
 - Sieck, Nicole E.
 - Boudreaux, Michel
 year: '2026'
-journal: Frontiers in Environmental Health
+journal: Frontiers in Environmental HEALTH
 doi: 10.3389/fenvh.2026.1838836
 tags:
 - WUI
 - air quality
-- exposure
+- fire risk
 - prescribed fire
 - public health
 - refwright:read:unread
@@ -25,10 +25,10 @@ item_type: journalArticle
 url: https://openalex.org/W7196925579
 source_url: 'unpaywall: https://www.frontiersin.org/journals/environmental-health/articles/10.3389/fenvh.2026.1838836/pdf'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Wildfire contributions to prenatal PM2.5 exposure in the contiguous United States, 2003–2019
+# Wildfire contributions to prenatal PM2.5 exposure in the contiguous united states, 2003–2019
 
 ## Abstract
 

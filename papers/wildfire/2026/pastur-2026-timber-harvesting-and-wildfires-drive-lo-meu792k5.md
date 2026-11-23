@@ -1,5 +1,5 @@
 ---
-title: 'Timber harvesting and wildfires drive long-term modification in forest structure of Nothofagus pumilio: resilience characterization based on disturbance legacies'
+title: 'Timber harvesting and wildfires drive long-term modification in forest structure of nothofagus pumilio: resilience characterization based on disturbance legacies'
 authors:
 - Pastur, Guillermo Martínez
 - Chaves, Jimena E.
@@ -22,10 +22,10 @@ item_type: journalArticle
 url: https://openalex.org/W7138835726
 source_url: 'unpaywall: https://link.springer.com/content/pdf/10.1186/s13717-026-00744-y.pdf'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Timber harvesting and wildfires drive long-term modification in forest structure of Nothofagus pumilio: resilience characterization based on disturbance legacies
+# Timber harvesting and wildfires drive long-term modification in forest structure of nothofagus pumilio: resilience characterization based on disturbance legacies
 
 ## Abstract
 

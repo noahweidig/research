@@ -21,7 +21,7 @@ item_type: journalArticle
 url: https://openalex.org/W7223457834
 source_url: 'unpaywall: https://www.nature.com/articles/s41612-026-01544-z.pdf'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
 # Exceptionally high temperatures in Armenia in 2023: orographic effects, snowpack response and synoptic drivers

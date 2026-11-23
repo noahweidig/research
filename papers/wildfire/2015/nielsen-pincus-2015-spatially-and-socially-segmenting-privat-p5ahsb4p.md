@@ -1,5 +1,5 @@
 ---
-title: 'Spatially and socially segmenting private landowner motivations, properties, and management: A typology for the wildland urban interface'
+title: 'Spatially and socially segmenting private landowner motivations, properties, and management: a typology for the wildland urban interface'
 authors:
 - Nielsen-Pincus, Max
 - Ribe, Robert G.
@@ -22,8 +22,8 @@ item_type: journalArticle
 url: https://www.sciencedirect.com/science/article/pii/S0169204614002886
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Spatially and socially segmenting private landowner motivations, properties, and management: A typology for the wildland urban interface
+# Spatially and socially segmenting private landowner motivations, properties, and management: a typology for the wildland urban interface
 

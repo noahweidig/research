@@ -8,7 +8,7 @@ authors:
 - Moreno-Roso, Sol de Jesús
 - Santín, Cristina
 year: '2026'
-journal: CATENA
+journal: Catena
 doi: 10.1016/j.catena.2026.110423
 tags:
 - forests
@@ -21,7 +21,7 @@ item_type: journalArticle
 url: https://openalex.org/W7169842993
 source_url: 'unpaywall: https://cronfa.swan.ac.uk/Record/cronfa72447/Download/72447__37361__e1cb92891f854221ba3773a1d18eea7f.pdf'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
 # Prescribed fire effects on soil organic matter in a eucalypt forest previously affected by severe wildfire

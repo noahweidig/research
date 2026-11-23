@@ -1,5 +1,5 @@
 ---
-title: Grassland fragmentation and its influence on woody plant cover in the southern Great Plains, USA
+title: Grassland fragmentation and its influence on woody plant cover in the southern great plains, USA
 authors:
 - Scholtz, Rheinhardt
 - Polo, John A.
@@ -21,10 +21,10 @@ item_type: journalArticle
 url: https://doi.org/10.1007/s10980-018-0702-4
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Grassland fragmentation and its influence on woody plant cover in the southern Great Plains, USA
+# Grassland fragmentation and its influence on woody plant cover in the southern great plains, USA
 
 ## Abstract
 

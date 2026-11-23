@@ -1,5 +1,5 @@
 ---
-title: Effect of woody-plant encroachment on livestock production in North and South America
+title: Effect of woody-plant encroachment on livestock production in north and South America
 authors:
 - Anadón, José D.
 - Sala, Osvaldo E.
@@ -21,10 +21,10 @@ item_type: journalArticle
 url: https://www.pnas.org/doi/abs/10.1073/pnas.1320585111
 source_url: 'unpaywall: https://www.ncbi.nlm.nih.gov/pmc/articles/4156688'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Effect of woody-plant encroachment on livestock production in North and South America
+# Effect of woody-plant encroachment on livestock production in north and South America
 
 ## Abstract
 

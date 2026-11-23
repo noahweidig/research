@@ -1,5 +1,5 @@
 ---
-title: Optimization of Fire Station Locations to Increase the Efficiency of Firefighting in Natural Ecosystems
+title: Optimization of fire station locations to increase the efficiency of firefighting in natural ecosystems
 authors:
 - Renkas, Artur
 - Popovych, Vasyl
@@ -18,10 +18,10 @@ item_type: journalArticle
 url: https://erem.ktu.lt/index.php/erem/article/view/25581
 source_url: 'unpaywall: https://erem.ktu.lt/index.php/erem/article/download/25581/15314'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Optimization of Fire Station Locations to Increase the Efficiency of Firefighting in Natural Ecosystems
+# Optimization of fire station locations to increase the efficiency of firefighting in natural ecosystems
 
 ## Abstract
 

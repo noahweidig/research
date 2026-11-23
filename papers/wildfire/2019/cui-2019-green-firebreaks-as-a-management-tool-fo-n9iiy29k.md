@@ -1,5 +1,5 @@
 ---
-title: 'Green firebreaks as a management tool for wildfires: Lessons from China'
+title: 'Green firebreaks as a management tool for wildfires: lessons from China'
 authors:
 - Cui, Xinglei
 - Alam, Md Azharul
@@ -21,8 +21,8 @@ item_type: journalArticle
 url: https://www.sciencedirect.com/science/article/pii/S0301479718314658
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Green firebreaks as a management tool for wildfires: Lessons from China
+# Green firebreaks as a management tool for wildfires: lessons from China
 

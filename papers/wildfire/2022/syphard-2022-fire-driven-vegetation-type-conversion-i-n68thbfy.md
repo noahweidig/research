@@ -1,9 +1,9 @@
 ---
-title: Fire‐driven vegetation type conversion in Southern California
+title: Fire-driven vegetation type conversion in southern california
 authors:
 - Syphard, Alexandra D.
 - Brennan, Teresa J.
-- Rustigian‐Romsos, Heather
+- Rustigian-Romsos, Heather
 - Keeley, Jon E.
 year: '2022'
 journal: Ecological Applications
@@ -18,10 +18,10 @@ item_type: journalArticle
 url: https://esajournals.onlinelibrary.wiley.com/doi/10.1002/eap.2626
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Fire‐driven vegetation type conversion in Southern California
+# Fire-driven vegetation type conversion in southern california
 
 ## Abstract
 

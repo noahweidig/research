@@ -25,7 +25,7 @@ item_type: journalArticle
 url: https://doi.org/10.1007/s41207-023-00385-z
 source_url: 'unpaywall: https://link.springer.com/content/pdf/10.1007/s41207-023-00385-z.pdf'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
 # Building wildland–urban interface zone resilience through performance-based wildfire engineering. A holistic theoretical framework

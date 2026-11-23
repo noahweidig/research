@@ -10,6 +10,7 @@ year: '2022'
 journal: Ecosphere
 doi: 10.1002/ecs2.4061
 tags:
+- data:available
 - forests
 - fuels
 - management
@@ -22,7 +23,7 @@ item_type: journalArticle
 url: https://onlinelibrary.wiley.com/doi/abs/10.1002/ecs2.4061
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
 # Targeted grazing and mechanical thinning enhance forest stand resilience under a narrow range of wildfire scenarios

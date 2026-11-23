@@ -1,5 +1,5 @@
 ---
-title: Rainfall, land use and woody vegetation cover change in semi-arid Australian savanna
+title: Rainfall, land use and woody vegetation cover change in semi-arid australian savanna
 authors:
 - Fensham, Roderick J.
 - Fairfax, R. J.
@@ -22,10 +22,10 @@ item_type: journalArticle
 url: https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1365-2745.2005.00998.x
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Rainfall, land use and woody vegetation cover change in semi-arid Australian savanna
+# Rainfall, land use and woody vegetation cover change in semi-arid australian savanna
 
 ## Abstract
 

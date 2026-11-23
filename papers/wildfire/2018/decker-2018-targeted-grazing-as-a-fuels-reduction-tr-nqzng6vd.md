@@ -1,5 +1,5 @@
 ---
-title: 'Targeted-Grazing as a Fuels Reduction Treatment: Evaluation of Vegetation Dynamics and Utilization Levels'
+title: 'Targeted-grazing as a fuels reduction treatment: evaluation of vegetation dynamics and utilization levels'
 authors:
 - Decker, Travis
 year: '2018'
@@ -15,8 +15,8 @@ item_type: thesis
 url: https://digitalcommons.usu.edu/etd/7015/
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Targeted-Grazing as a Fuels Reduction Treatment: Evaluation of Vegetation Dynamics and Utilization Levels
+# Targeted-grazing as a fuels reduction treatment: evaluation of vegetation dynamics and utilization levels
 

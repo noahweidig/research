@@ -1,5 +1,5 @@
 ---
-title: 'Making sense of wildfire prevention in the southwestern United States: Workforce perspectives on organizational challenges in federal land management agencies'
+title: 'Making sense of wildfire prevention in the southwestern United States: workforce perspectives on organizational challenges in federal land management agencies'
 authors:
 - Edgeley, Catrin M.
 - Kohler, Gabriel
@@ -20,10 +20,10 @@ item_type: journalArticle
 url: https://openalex.org/W7214956668
 source_url: 'unpaywall: https://link.springer.com/content/pdf/10.1007/s42532-026-00272-1.pdf'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Making sense of wildfire prevention in the southwestern United States: Workforce perspectives on organizational challenges in federal land management agencies
+# Making sense of wildfire prevention in the southwestern United States: workforce perspectives on organizational challenges in federal land management agencies
 
 ## Abstract
 

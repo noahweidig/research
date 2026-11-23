@@ -1,5 +1,5 @@
 ---
-title: 'Spatially clustered global wildfire trends and their climate, fuel and human drivers (2001–2025): A spatio-temporal trend-cluster attribution approach'
+title: 'Spatially clustered global wildfire trends and their climate, fuel and human drivers (2001–2025): a spatio-temporal trend-cluster attribution approach'
 authors:
 - Song, Yongze
 - Awange, Joseph
@@ -7,7 +7,7 @@ authors:
 - Xu, Dong
 - Wu, Chao
 year: '2026'
-journal: Geography and sustainability
+journal: Geography and Sustainability
 doi: 10.1016/j.geosus.2026.100530
 tags:
 - climate
@@ -23,10 +23,10 @@ item_type: journalArticle
 url: https://openalex.org/W7197041196
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Spatially clustered global wildfire trends and their climate, fuel and human drivers (2001–2025): A spatio-temporal trend-cluster attribution approach
+# Spatially clustered global wildfire trends and their climate, fuel and human drivers (2001–2025): a spatio-temporal trend-cluster attribution approach
 
 ## Abstract
 

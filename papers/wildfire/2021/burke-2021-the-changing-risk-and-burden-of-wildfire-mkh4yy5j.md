@@ -13,6 +13,7 @@ doi: 10.1073/pnas.2011048118
 tags:
 - WUI
 - air quality
+- code:available
 - fuels
 - prescribed fire
 - public health
@@ -24,7 +25,7 @@ item_type: journalArticle
 url: https://www.pnas.org/doi/full/10.1073/pnas.2011048118
 source_url: 'unpaywall: https://www.ncbi.nlm.nih.gov/pmc/articles/7812759'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
 # The changing risk and burden of wildfire in the United States

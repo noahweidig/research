@@ -1,5 +1,5 @@
 ---
-title: 'Regional carbon dynamics in the southeastern U.S. coastal plain: Balancing land cover type, timber harvesting, fire, and environmental variation'
+title: 'Regional carbon dynamics in the southeastern U.S. coastal plain: balancing land cover type, timber harvesting, fire, and environmental variation'
 authors:
 - Binford, M. W.
 - Gholz, H. L.
@@ -20,10 +20,10 @@ item_type: journalArticle
 url: https://onlinelibrary.wiley.com/doi/abs/10.1029/2005JD006820
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Regional carbon dynamics in the southeastern U.S. coastal plain: Balancing land cover type, timber harvesting, fire, and environmental variation
+# Regional carbon dynamics in the southeastern U.S. coastal plain: balancing land cover type, timber harvesting, fire, and environmental variation
 
 ## Abstract
 

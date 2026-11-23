@@ -1,5 +1,5 @@
 ---
-title: 'tidyverse: Easily Install and Load the ''Tidyverse'''
+title: 'tidyverse: easily install and load the ''tidyverse'''
 authors: []
 year: '2023'
 journal: null
@@ -13,10 +13,10 @@ item_type: computerProgram
 url: https://cran.r-project.org/web/packages/tidyverse/index.html
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# tidyverse: Easily Install and Load the 'Tidyverse'
+# tidyverse: easily install and load the 'tidyverse'
 
 ## Abstract
 

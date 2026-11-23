@@ -1,10 +1,10 @@
 ---
-title: Generalized Linear Models
+title: Generalized linear models
 authors:
 - Nelder, J. A.
 - Wedderburn, R. W. M.
 year: '1972'
-journal: Journal of the Royal Statistical Society. Series A (General)
+journal: Journal of the Royal Statistical Society. Series a (General)
 doi: 10.2307/2344614
 tags:
 - refwright:read:unread
@@ -14,10 +14,10 @@ item_type: journalArticle
 url: https://www.jstor.org/stable/2344614
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Generalized Linear Models
+# Generalized linear models
 
 ## Abstract
 

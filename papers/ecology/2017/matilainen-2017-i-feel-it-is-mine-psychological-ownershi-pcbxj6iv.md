@@ -1,5 +1,5 @@
 ---
-title: “I feel it is mine!” – Psychological ownership in relation to natural resources
+title: “I feel it is mine!” – psychological ownership in relation to natural resources
 authors:
 - Matilainen, A.
 - Pohja-Mykrä, M.
@@ -19,8 +19,8 @@ item_type: journalArticle
 url: https://www.sciencedirect.com/science/article/pii/S0272494417300257
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# “I feel it is mine!” – Psychological ownership in relation to natural resources
+# “I feel it is mine!” – psychological ownership in relation to natural resources
 

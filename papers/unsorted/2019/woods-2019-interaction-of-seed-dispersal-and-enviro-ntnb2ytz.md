@@ -20,7 +20,7 @@ item_type: journalArticle
 url: https://doi.org/10.1002/ecs2.2818
 source_url: 'unpaywall: https://scholarscompass.vcu.edu/biol_pubs/55'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
 # Interaction of seed dispersal and environmental filtering affects woody encroachment patterns in coastal grassland

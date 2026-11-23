@@ -1,5 +1,5 @@
 ---
-title: Wildfire Risk Reduction With a Twist in the Burns Lake Community Forest
+title: Wildfire risk reduction with a twist in the burns lake community forest
 authors:
 - Foster, Michaella
 - Leverkus, Sonja E. R.
@@ -19,10 +19,10 @@ item_type: journalArticle
 url: https://openalex.org/W7202114533
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Wildfire Risk Reduction With a Twist in the Burns Lake Community Forest
+# Wildfire risk reduction with a twist in the burns lake community forest
 
 ## Abstract
 

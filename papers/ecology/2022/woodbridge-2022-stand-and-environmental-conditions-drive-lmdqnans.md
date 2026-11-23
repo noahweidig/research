@@ -18,7 +18,7 @@ item_type: journalArticle
 url: https://www.frontiersin.org/articles/10.3389/ffgc.2022.991934
 source_url: 'unpaywall: https://doi.org/10.3389/ffgc.2022.991934'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
 # Stand and environmental conditions drive functional shifts associated with mesophication in eastern US forests

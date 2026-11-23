@@ -1,5 +1,5 @@
 ---
-title: 'boot: Bootstrap Functions (Originally by Angelo Canty for S)'
+title: 'boot: bootstrap functions (originally by angelo canty for S)'
 authors: []
 year: '1999'
 journal: null
@@ -13,10 +13,10 @@ item_type: computerProgram
 url: https://CRAN.R-project.org/package=boot
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# boot: Bootstrap Functions (Originally by Angelo Canty for S)
+# boot: bootstrap functions (originally by angelo canty for S)
 
 ## Abstract
 

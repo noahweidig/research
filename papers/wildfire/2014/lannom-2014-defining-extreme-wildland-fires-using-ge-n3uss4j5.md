@@ -26,7 +26,7 @@ item_type: journalArticle
 url: https://www.publish.csiro.au/wf/WF13065
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
 # Defining extreme wildland fires using geospatial and ancillary metrics

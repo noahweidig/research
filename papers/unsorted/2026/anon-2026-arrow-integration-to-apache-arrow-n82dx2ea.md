@@ -1,5 +1,5 @@
 ---
-title: 'arrow: Integration to ''Apache'' ''Arrow'''
+title: 'arrow: integration to ''apache'' ''arrow'''
 authors: []
 year: '2026'
 journal: null
@@ -13,10 +13,10 @@ item_type: computerProgram
 url: https://cran.r-project.org/web/packages/arrow/index.html
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# arrow: Integration to 'Apache' 'Arrow'
+# arrow: integration to 'apache' 'arrow'
 
 ## Abstract
 

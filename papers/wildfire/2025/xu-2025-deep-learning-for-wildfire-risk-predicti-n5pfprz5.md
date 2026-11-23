@@ -1,5 +1,5 @@
 ---
-title: 'Deep learning for wildfire risk prediction: Integrating remote sensing and environmental data'
+title: 'Deep learning for wildfire risk prediction: integrating remote sensing and environmental data'
 authors:
 - Xu, Zhengsen
 - Li, Jonathan
@@ -26,10 +26,10 @@ item_type: journalArticle
 url: https://www.sciencedirect.com/science/article/pii/S0924271625002217
 source_url: 'unpaywall: https://arxiv.org/pdf/2405.01607'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Deep learning for wildfire risk prediction: Integrating remote sensing and environmental data
+# Deep learning for wildfire risk prediction: integrating remote sensing and environmental data
 
 ## Abstract
 

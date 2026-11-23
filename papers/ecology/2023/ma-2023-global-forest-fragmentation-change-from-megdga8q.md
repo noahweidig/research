@@ -18,7 +18,7 @@ item_type: journalArticle
 url: https://www.nature.com/articles/s41467-023-39221-x
 source_url: 'unpaywall: https://www.nature.com/articles/s41467-023-39221-x.pdf'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
 # Global forest fragmentation change from 2000 to 2020
