@@ -1,5 +1,5 @@
 ---
-title: 'Reducing Wildfire Risk in the Wildland-Urban Interface: Policy, Trends, and Solutions'
+title: 'Reducing wildfire risk in the wildland-urban interface: policy, trends, and solutions'
 authors:
 - Barrett, Kimiko
 year: '2019'
@@ -15,8 +15,8 @@ item_type: journalArticle
 url: https://heinonline.org/HOL/P?h=hein.journals/idlr55&i=18
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Reducing Wildfire Risk in the Wildland-Urban Interface: Policy, Trends, and Solutions
+# Reducing wildfire risk in the wildland-urban interface: policy, trends, and solutions
 

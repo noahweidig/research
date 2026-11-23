@@ -1,5 +1,5 @@
 ---
-title: 'MuMIn: Multi-Model Inference'
+title: 'MuMIn: multi-model inference'
 authors: []
 year: '2024'
 journal: null
@@ -13,10 +13,10 @@ item_type: computerProgram
 url: https://cran.r-project.org/web/packages/MuMIn/index.html
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# MuMIn: Multi-Model Inference
+# MuMIn: multi-model inference
 
 ## Abstract
 

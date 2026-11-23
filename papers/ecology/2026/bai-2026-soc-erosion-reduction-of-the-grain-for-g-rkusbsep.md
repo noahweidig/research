@@ -1,5 +1,5 @@
 ---
-title: SOC erosion reduction of the “Grain for green” program on the Loess Plateau, China
+title: SOC erosion reduction of the “grain for green” program on the loess plateau, china
 authors:
 - Bai, Ruihua
 - Zhao, Xining
@@ -23,10 +23,10 @@ item_type: journalArticle
 url: https://www.sciencedirect.com/science/article/pii/S0167198725004179
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# SOC erosion reduction of the “Grain for green” program on the Loess Plateau, China
+# SOC erosion reduction of the “grain for green” program on the loess plateau, china
 
 ## Abstract
 

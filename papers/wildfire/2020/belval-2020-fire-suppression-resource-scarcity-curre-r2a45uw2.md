@@ -1,5 +1,5 @@
 ---
-title: 'Fire Suppression Resource Scarcity: Current Metrics and Future Performance Indicators'
+title: 'Fire suppression resource scarcity: current metrics and future performance indicators'
 authors:
 - Belval, Erin J.
 - Stonesifer, Crystal S.
@@ -19,10 +19,10 @@ item_type: journalArticle
 url: https://www.mdpi.com/1999-4907/11/2/217
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Fire Suppression Resource Scarcity: Current Metrics and Future Performance Indicators
+# Fire suppression resource scarcity: current metrics and future performance indicators
 
 ## Abstract
 

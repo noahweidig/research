@@ -1,15 +1,15 @@
 ---
-title: 'Global Health Impacts of Wildfire Disasters From 2000 to 2023: A Comprehensive Analysis of Mortality and Injuries'
+title: 'Global health impacts of wildfire disasters from 2000 to 2023: a comprehensive analysis of mortality and injuries'
 authors:
 - Mani, Zakaria A.
 - Khorram-Manesh, Amir
 - Goniewicz, Krzysztof
 year: '2024'
-journal: Disaster Medicine and Public Health Preparedness
+journal: Disaster Medicine and Public HEALTH Preparedness
 doi: 10.1017/dmp.2024.150
 tags:
 - climate
-- exposure
+- fire risk
 - mortality
 - public health
 - refwright:read:unread
@@ -20,10 +20,10 @@ item_type: journalArticle
 url: https://www.cambridge.org/core/product/identifier/S1935789324001502/type/journal_article
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Global Health Impacts of Wildfire Disasters From 2000 to 2023: A Comprehensive Analysis of Mortality and Injuries
+# Global health impacts of wildfire disasters from 2000 to 2023: a comprehensive analysis of mortality and injuries
 
 ## Abstract
 

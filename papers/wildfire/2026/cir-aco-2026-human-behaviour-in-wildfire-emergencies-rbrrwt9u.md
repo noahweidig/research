@@ -1,5 +1,5 @@
 ---
-title: 'Human behaviour in wildfire emergencies: insights from evacuation decision-making and timing across Canada, Australia, and the United States'
+title: 'Human behaviour in wildfire emergencies: insights from evacuation decision-making and timing across canada, australia, and the United States'
 authors:
 - Ciríaco, Thayanne Gabryelle Medeiros
 - Babaei, Mohammad Hossein
@@ -12,7 +12,6 @@ year: '2026'
 journal: Safety Science
 doi: 10.1016/j.ssci.2026.107459
 tags:
-- exposure
 - fire risk
 - refwright:read:unread
 - suppression
@@ -23,10 +22,10 @@ item_type: journalArticle
 url: https://openalex.org/W7214037256
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Human behaviour in wildfire emergencies: insights from evacuation decision-making and timing across Canada, Australia, and the United States
+# Human behaviour in wildfire emergencies: insights from evacuation decision-making and timing across canada, australia, and the United States
 
 ## Abstract
 

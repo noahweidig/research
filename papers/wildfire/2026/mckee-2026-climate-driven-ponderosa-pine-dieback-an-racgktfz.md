@@ -6,7 +6,7 @@ authors:
 - Hawkins, Ashley E.
 - McTavish, Christine
 - Newcomb, Maria S.
-- Kim, Mee‐Sook
+- Kim, Mee-Sook
 - Klopfenstein, Ned B.
 - Davis, Thomas Seth
 - Stewart, Jane E.
@@ -26,7 +26,7 @@ item_type: journalArticle
 url: https://openalex.org/W7223223279
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
 # Climate-driven ponderosa pine dieback and regionally variable pathogen pressure across the western United States

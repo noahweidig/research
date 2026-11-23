@@ -1,5 +1,5 @@
 ---
-title: Rare and highly destructive wildfires drive human migration in the U.S.
+title: Rare and highly destructive wildfires drive human migration in the U.S
 authors:
 - McConnell, Kathryn
 - Fussell, Elizabeth
@@ -15,7 +15,8 @@ doi: 10.1038/s41467-024-50630-4
 tags:
 - WUI
 - climate
-- exposure
+- data:available
+- fire risk
 - human dimensions
 - natural hazards
 - refwright:read:unread
@@ -26,10 +27,10 @@ item_type: journalArticle
 url: https://www.nature.com/articles/s41467-024-50630-4
 source_url: 'unpaywall: https://www.nature.com/articles/s41467-024-50630-4.pdf'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Rare and highly destructive wildfires drive human migration in the U.S.
+# Rare and highly destructive wildfires drive human migration in the U.S
 
 ## Abstract
 

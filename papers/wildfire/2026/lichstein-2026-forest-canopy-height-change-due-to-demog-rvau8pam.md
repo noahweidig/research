@@ -19,7 +19,7 @@ item_type: journalArticle
 url: https://openalex.org/W7216041479
 source_url: 'unpaywall: https://www.biorxiv.org/content/biorxiv/early/2026/10/02/2026.09.30.755816.full.pdf'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
 # Forest canopy height change due to demographic and allometric shifts

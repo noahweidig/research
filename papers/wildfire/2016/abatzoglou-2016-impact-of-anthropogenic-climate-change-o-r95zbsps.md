@@ -10,7 +10,7 @@ tags:
 - climate
 - extremes
 - human dimensions
-- refwright:read:unread
+- refwright:read:reading
 - united states
 - weather
 - wildfire
@@ -19,7 +19,7 @@ item_type: journalArticle
 url: https://pnas.org/doi/full/10.1073/pnas.1607171113
 source_url: 'unpaywall: https://www.ncbi.nlm.nih.gov/pmc/articles/5081637'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
 # Impact of anthropogenic climate change on wildfire across western US forests

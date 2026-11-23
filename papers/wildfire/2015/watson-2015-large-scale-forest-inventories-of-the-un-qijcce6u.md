@@ -22,7 +22,7 @@ item_type: journalArticle
 url: https://forestecosyst.springeropen.com/articles/10.1186/s40663-015-0045-4
 source_url: 'unpaywall: https://forestecosyst.springeropen.com/counter/pdf/10.1186/s40663-015-0045-4'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
 # Large-scale forest inventories of the United States and China reveal positive effects of biodiversity on productivity

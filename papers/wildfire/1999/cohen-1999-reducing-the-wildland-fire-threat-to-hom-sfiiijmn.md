@@ -1,13 +1,12 @@
 ---
-title: 'Reducing the wildland fire threat to homes: Where and how much?'
+title: 'Reducing the wildland fire threat to homes: where and how much?'
 authors:
 - Cohen, Jack D.
 year: '1999'
-journal: 'In: Gonzales-Caban, Armando; Omi, Philip N., technical coordinators. Proceedings of the Symposium on Fire Economics, Planning, and Policy: Bottom Lines; 1999 April 5-9. San Diego, CA. Gen. Tech. Rep. PSW-GTR-173. Albany, CA: U.S. Department of Agriculture, Forest Service, Pacific Southwest Research Station. p. 189-195'
+journal: 'In: Gonzales-Caban, Armando; Omi, Philip N., Technical Coordinators. Proceedings of the Symposium on Fire Economics, Planning, and Policy: Bottom Lines; 1999 April 5-9. San Diego, CA. Gen. Tech. Rep. PSW-GTR-173. Albany, CA: U.S. Department of Agriculture, Forest Service, Pacific Southwest Research Station. P. 189-195'
 doi: null
 tags:
 - WUI
-- exposure
 - fire risk
 - refwright:read:unread
 - urbanization
@@ -17,10 +16,10 @@ item_type: journalArticle
 url: https://research.fs.usda.gov/treesearch/5603
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Reducing the wildland fire threat to homes: Where and how much?
+# Reducing the wildland fire threat to homes: where and how much?
 
 ## Abstract
 

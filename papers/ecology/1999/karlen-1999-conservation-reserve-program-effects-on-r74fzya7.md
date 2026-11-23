@@ -1,5 +1,5 @@
 ---
-title: Conservation Reserve Program effects on soil quality indicators
+title: Conservation reserve program effects on soil quality indicators
 authors:
 - Karlen, D. L.
 - Rosek, M. J.
@@ -23,10 +23,10 @@ item_type: journalArticle
 url: https://www.tandfonline.com/doi/full/10.1080/00224561.1999.12457260
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Conservation Reserve Program effects on soil quality indicators
+# Conservation reserve program effects on soil quality indicators
 
 ## Abstract
 

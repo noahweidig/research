@@ -1,5 +1,5 @@
 ---
-title: '“Turn the faucet”: right-wing hydrosocial imaginaries of irrigation water in the Western United States'
+title: '“Turn the faucet”: right-wing hydrosocial imaginaries of irrigation water in the western United States'
 authors:
 - Ross, Alexander Reid
 - Bui, Thien-Kim
@@ -17,10 +17,10 @@ item_type: journalArticle
 url: https://openalex.org/W7203771426
 source_url: 'unpaywall: https://www.frontiersin.org/journals/sustainable-food-systems/articles/10.3389/fsufs.2026.1869993/pdf'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# “Turn the faucet”: right-wing hydrosocial imaginaries of irrigation water in the Western United States
+# “Turn the faucet”: right-wing hydrosocial imaginaries of irrigation water in the western United States
 
 ## Abstract
 

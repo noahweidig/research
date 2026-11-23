@@ -1,5 +1,5 @@
 ---
-title: BLM Public Land Survey System (PLSS)
+title: BLM public land survey system (PLSS)
 authors:
 - USGS
 year: '2017'
@@ -16,8 +16,8 @@ item_type: dataset
 url: https://hub.arcgis.com/maps/USGS::blm-public-land-survey-system-plss/
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# BLM Public Land Survey System (PLSS)
+# BLM public land survey system (PLSS)
 

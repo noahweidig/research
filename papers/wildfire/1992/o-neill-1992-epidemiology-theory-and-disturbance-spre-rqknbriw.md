@@ -18,7 +18,7 @@ item_type: journalArticle
 url: https://doi.org/10.1007/BF02573954
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
 # Epidemiology theory and disturbance spread on landscapes

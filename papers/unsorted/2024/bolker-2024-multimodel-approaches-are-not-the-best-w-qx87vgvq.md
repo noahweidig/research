@@ -1,5 +1,5 @@
 ---
-title: Multimodel Approaches Are Not the Best Way to Understand Multifactorial Systems
+title: Multimodel approaches are not the best way to understand multifactorial systems
 authors:
 - Bolker, Benjamin M.
 year: '2024'
@@ -13,10 +13,10 @@ item_type: journalArticle
 url: https://www.mdpi.com/1099-4300/26/6/506
 source_url: 'unpaywall: https://ecoevorxiv.org/repository/object/5722/download/11178/'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Multimodel Approaches Are Not the Best Way to Understand Multifactorial Systems
+# Multimodel approaches are not the best way to understand multifactorial systems
 
 ## Abstract
 

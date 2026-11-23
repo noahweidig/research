@@ -1,5 +1,5 @@
 ---
-title: 'xgboost: Extreme Gradient Boosting'
+title: 'xgboost: extreme gradient boosting'
 authors: []
 year: '2025'
 journal: null
@@ -14,10 +14,10 @@ item_type: computerProgram
 url: https://cran.r-project.org/web/packages/xgboost/index.html
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# xgboost: Extreme Gradient Boosting
+# xgboost: extreme gradient boosting
 
 ## Abstract
 

@@ -1,5 +1,5 @@
 ---
-title: Recent deforestation drove the spike in Amazonian fires
+title: Recent deforestation drove the spike in amazonian fires
 authors:
 - Cardil, Adrián
 - de-Miguel, Sergio
@@ -38,10 +38,10 @@ item_type: journalArticle
 url: https://doi.org/10.1088/1748-9326/abcac7
 source_url: 'unpaywall: https://hal.science/hal-05177023v1/file/Cardil_2020_Environ._Res._Lett._15_121003.pdf'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Recent deforestation drove the spike in Amazonian fires
+# Recent deforestation drove the spike in amazonian fires
 
 ## Abstract
 

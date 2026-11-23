@@ -22,7 +22,7 @@ item_type: journalArticle
 url: https://openalex.org/W7220395910
 source_url: 'unpaywall: https://egusphere.copernicus.org/preprints/2026/egusphere-2026-4967/egusphere-2026-4967.pdf'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
 # Heather management modifies climate sensitivity of surface peat moisture in UK upland peatlands

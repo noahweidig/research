@@ -23,7 +23,7 @@ item_type: journalArticle
 url: https://link.springer.com/article/10.1186/s42408-023-00191-6
 source_url: 'unpaywall: https://fireecology.springeropen.com/counter/pdf/10.1186/s42408-023-00191-6'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
 # Estimating WUI exposure probability to a nearby wildfire

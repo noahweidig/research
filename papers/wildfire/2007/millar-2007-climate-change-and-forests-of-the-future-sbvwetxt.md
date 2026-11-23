@@ -1,5 +1,5 @@
 ---
-title: 'Climate Change and Forests of the Future: Managing in the Face of Uncertainty'
+title: 'Climate change and forests of the future: managing in the face of uncertainty'
 authors:
 - Millar, Constance I.
 - Stephenson, Nathan L.
@@ -21,10 +21,10 @@ item_type: journalArticle
 url: https://onlinelibrary.wiley.com/doi/abs/10.1890/06-1715.1
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Climate Change and Forests of the Future: Managing in the Face of Uncertainty
+# Climate change and forests of the future: managing in the face of uncertainty
 
 ## Abstract
 

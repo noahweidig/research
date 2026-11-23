@@ -1,5 +1,5 @@
 ---
-title: 'Dry forests and wildland fires of the inland Northwest USA: Contrasting the landscape ecology of the pre-settlement and modern eras'
+title: 'Dry forests and wildland fires of the inland northwest USA: contrasting the landscape ecology of the pre-settlement and modern eras'
 authors:
 - Hessburg, Paul F.
 - Agee, James K.
@@ -17,10 +17,10 @@ item_type: journalArticle
 url: https://www.sciencedirect.com/science/article/pii/S0378112705000587
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Dry forests and wildland fires of the inland Northwest USA: Contrasting the landscape ecology of the pre-settlement and modern eras
+# Dry forests and wildland fires of the inland northwest USA: contrasting the landscape ecology of the pre-settlement and modern eras
 
 ## Abstract
 

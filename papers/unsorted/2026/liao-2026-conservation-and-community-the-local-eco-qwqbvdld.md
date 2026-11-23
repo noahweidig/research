@@ -1,5 +1,5 @@
 ---
-title: 'Conservation and Community: The Local Economic Impacts of the Conservation Reserve Program'
+title: 'Conservation and community: the local economic impacts of the conservation reserve program'
 authors:
 - Liao, Yanjun (Penny)
 - Wibbenmeyer, Matthew
@@ -21,10 +21,10 @@ item_type: report
 url: https://EconPapers.repec.org/RePEc:rff:report:rp-26-02
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Conservation and Community: The Local Economic Impacts of the Conservation Reserve Program
+# Conservation and community: the local economic impacts of the conservation reserve program
 
 ## Abstract
 

@@ -1,5 +1,5 @@
 ---
-title: Spatial Variation in Effectiveness and Costs of Sagebrush Restoration Treatments Across the Western United States
+title: Spatial variation in effectiveness and costs of sagebrush restoration treatments across the western United States
 authors:
 - Monroe, Adrian P.
 - Meldrum, James R.
@@ -29,10 +29,10 @@ item_type: journalArticle
 url: https://openalex.org/W7202384312
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Spatial Variation in Effectiveness and Costs of Sagebrush Restoration Treatments Across the Western United States
+# Spatial variation in effectiveness and costs of sagebrush restoration treatments across the western United States
 
 ## Abstract
 

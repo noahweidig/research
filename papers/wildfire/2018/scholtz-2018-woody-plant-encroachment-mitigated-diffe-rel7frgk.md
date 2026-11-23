@@ -1,5 +1,5 @@
 ---
-title: Woody Plant Encroachment Mitigated Differentially by Fire and Herbicide
+title: Woody plant encroachment mitigated differentially by fire and herbicide
 authors:
 - Scholtz, Rheinhardt
 - Polo, John A.
@@ -20,10 +20,10 @@ item_type: journalArticle
 url: https://www.sciencedirect.com/science/article/pii/S1550742417301082
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Woody Plant Encroachment Mitigated Differentially by Fire and Herbicide
+# Woody plant encroachment mitigated differentially by fire and herbicide
 
 ## Abstract
 

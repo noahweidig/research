@@ -21,7 +21,7 @@ item_type: journalArticle
 url: https://link.springer.com/10.1007/s10530-020-02308-3
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
 # Effects of terrestrial transport corridors and associated landscape context on invasion by forest plants

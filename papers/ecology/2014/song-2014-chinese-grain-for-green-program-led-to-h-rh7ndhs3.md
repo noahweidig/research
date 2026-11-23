@@ -1,5 +1,5 @@
 ---
-title: 'Chinese Grain for Green Program led to highly increased soil organic carbon levels: A meta-analysis'
+title: 'Chinese grain for green program led to highly increased soil organic carbon levels: a meta-analysis'
 authors:
 - Song, Xinzhang
 - Peng, Changhui
@@ -21,10 +21,10 @@ item_type: journalArticle
 url: https://www.nature.com/articles/srep04460
 source_url: 'unpaywall: https://www.nature.com/articles/srep04460.pdf'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Chinese Grain for Green Program led to highly increased soil organic carbon levels: A meta-analysis
+# Chinese grain for green program led to highly increased soil organic carbon levels: a meta-analysis
 
 ## Abstract
 

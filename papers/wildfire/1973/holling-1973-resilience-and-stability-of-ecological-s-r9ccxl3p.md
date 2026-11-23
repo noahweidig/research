@@ -1,5 +1,5 @@
 ---
-title: Resilience and Stability of Ecological Systems
+title: Resilience and stability of ecological systems
 authors:
 - Holling, C. S.
 year: '1973'
@@ -15,10 +15,10 @@ item_type: journalArticle
 url: https://doi.org/10.1146/annurev.es.04.110173.000245
 source_url: 'unpaywall: http://pure.iiasa.ac.at/id/eprint/26/1/RP-73-003.pdf'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Resilience and Stability of Ecological Systems
+# Resilience and stability of ecological systems
 
 ## Abstract
 

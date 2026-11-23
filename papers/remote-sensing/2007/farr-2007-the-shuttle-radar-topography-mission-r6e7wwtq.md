@@ -1,5 +1,5 @@
 ---
-title: The Shuttle Radar Topography Mission
+title: The shuttle radar topography mission
 authors:
 - Farr, Tom G.
 - Rosen, Paul A.
@@ -32,10 +32,10 @@ item_type: journalArticle
 url: https://onlinelibrary.wiley.com/doi/abs/10.1029/2005RG000183
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# The Shuttle Radar Topography Mission
+# The shuttle radar topography mission
 
 ## Abstract
 

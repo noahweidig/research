@@ -1,5 +1,5 @@
 ---
-title: Drought-related wildfire accounts for one-third of the forest wildfires in subtropical China
+title: Drought-related wildfire accounts for one-third of the forest wildfires in subtropical china
 authors:
 - Yin, Jianpeng
 - He, Binbin
@@ -20,10 +20,10 @@ item_type: journalArticle
 url: https://www.sciencedirect.com/science/article/pii/S016819232400008X
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Drought-related wildfire accounts for one-third of the forest wildfires in subtropical China
+# Drought-related wildfire accounts for one-third of the forest wildfires in subtropical china
 
 ## Abstract
 

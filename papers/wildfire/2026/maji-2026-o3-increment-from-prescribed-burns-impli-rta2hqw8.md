@@ -1,5 +1,5 @@
 ---
-title: 'O3 Increment from Prescribed Burns: Implications for Air Quality and Public Health in the Southeastern United States'
+title: 'O3 increment from prescribed burns: implications for air quality and public health in the southeastern United States'
 authors:
 - Maji, Kamal Jyoti
 - Li, Zongrun
@@ -16,8 +16,8 @@ journal: Environment & Health
 doi: 10.1021/envhealth.6c00221
 tags:
 - air quality
-- exposure
 - fire regimes
+- fire risk
 - prescribed fire
 - public health
 - refwright:read:unread
@@ -28,10 +28,10 @@ item_type: journalArticle
 url: https://openalex.org/W7224496346
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# O3 Increment from Prescribed Burns: Implications for Air Quality and Public Health in the Southeastern United States
+# O3 increment from prescribed burns: implications for air quality and public health in the southeastern United States
 
 ## Abstract
 

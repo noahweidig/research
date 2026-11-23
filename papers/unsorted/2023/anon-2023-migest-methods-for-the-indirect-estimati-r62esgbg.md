@@ -1,5 +1,5 @@
 ---
-title: 'migest: Methods for the Indirect Estimation of Bilateral Migration'
+title: 'migest: methods for the indirect estimation of bilateral migration'
 authors: []
 year: '2023'
 journal: null
@@ -15,10 +15,10 @@ item_type: computerProgram
 url: https://cran.r-project.org/web/packages/migest/index.html
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# migest: Methods for the Indirect Estimation of Bilateral Migration
+# migest: methods for the indirect estimation of bilateral migration
 
 ## Abstract
 

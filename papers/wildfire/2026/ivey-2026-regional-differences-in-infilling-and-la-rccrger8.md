@@ -1,5 +1,5 @@
 ---
-title: Regional differences in infilling and land-use conversion characterize woody cover increases across the Eastern United States
+title: Regional differences in infilling and land-use conversion characterize woody cover increases across the eastern United States
 authors:
 - Ivey, Michaella A.
 - Weidig, Noah C.
@@ -20,10 +20,10 @@ item_type: journalArticle
 url: https://www.sciencedirect.com/science/article/pii/S0378112725009545
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Regional differences in infilling and land-use conversion characterize woody cover increases across the Eastern United States
+# Regional differences in infilling and land-use conversion characterize woody cover increases across the eastern United States
 
 ## Abstract
 

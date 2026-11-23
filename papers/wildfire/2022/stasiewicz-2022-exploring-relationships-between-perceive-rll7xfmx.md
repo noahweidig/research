@@ -17,7 +17,7 @@ item_type: journalArticle
 url: https://www.sciencedirect.com/science/article/pii/S0301479722007496
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
 # Exploring relationships between perceived suppression capabilities and resident performance of wildfire mitigations

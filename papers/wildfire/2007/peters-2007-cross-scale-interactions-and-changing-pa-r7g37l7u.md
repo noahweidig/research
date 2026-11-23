@@ -1,5 +1,5 @@
 ---
-title: 'Cross–Scale Interactions and Changing Pattern–Process Relationships: Consequences for System Dynamics'
+title: 'Cross–scale interactions and changing pattern–process relationships: consequences for system dynamics'
 authors:
 - Peters, Debra P. C.
 - Bestelmeyer, Brandon T.
@@ -19,10 +19,10 @@ item_type: journalArticle
 url: https://doi.org/10.1007/s10021-007-9055-6
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Cross–Scale Interactions and Changing Pattern–Process Relationships: Consequences for System Dynamics
+# Cross–scale interactions and changing pattern–process relationships: consequences for system dynamics
 
 ## Abstract
 

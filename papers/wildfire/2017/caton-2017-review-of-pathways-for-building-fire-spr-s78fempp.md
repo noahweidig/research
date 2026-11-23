@@ -1,5 +1,5 @@
 ---
-title: 'Review of Pathways for Building Fire Spread in the Wildland Urban Interface Part I: Exposure Conditions'
+title: 'Review of pathways for building fire spread in the wildland urban interface part I: exposure conditions'
 authors:
 - Caton, Sara E.
 - Hakes, Raquel S. P.
@@ -21,10 +21,10 @@ item_type: journalArticle
 url: https://doi.org/10.1007/s10694-016-0589-z
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
-# Review of Pathways for Building Fire Spread in the Wildland Urban Interface Part I: Exposure Conditions
+# Review of pathways for building fire spread in the wildland urban interface part I: exposure conditions
 
 ## Abstract
 

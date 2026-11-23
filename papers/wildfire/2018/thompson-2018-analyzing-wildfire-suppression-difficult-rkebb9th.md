@@ -20,7 +20,7 @@ item_type: journalArticle
 url: https://doi.org/10.5772/intechopen.76937
 source_url: 'unpaywall: https://www.intechopen.com/citation-pdf-url/61048'
 fulltext_status: fulltext
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
 # Analyzing wildfire suppression difficulty in relation to protection demand

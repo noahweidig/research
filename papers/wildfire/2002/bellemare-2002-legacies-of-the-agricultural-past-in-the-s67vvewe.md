@@ -18,7 +18,7 @@ item_type: journalArticle
 url: https://onlinelibrary.wiley.com/doi/abs/10.1046/j.1365-2699.2002.00762.x
 source_url: null
 fulltext_status: metadata-only
-synced: '2026-11-16'
+synced: '2026-11-23'
 ---
 
 # Legacies of the agricultural past in the forested present: an assessment of historical land-use effects on rich mesic forests
